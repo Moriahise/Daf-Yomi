@@ -39,6 +39,97 @@
       },
       "target_shabbat": "2026-10-19",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-32",
+      "title": {
+        "en": "Between Redemption and Sale",
+        "he": "בין פדיון למכירה"
+      },
+      "parashah": {
+        "en": "Bekhorot 32",
+        "he": "בכורות דף 32"
+      },
+      "target_shabbat": "2026-10-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-33",
+      "title": {
+        "en": "Bekhorot 33 — Following the Sugya Across Both Sides",
+        "he": "בכורות ל״ג — בעקבות הסוגיה בשני עמודי הדף"
+      },
+      "parashah": {
+        "en": "Bekhorot 33",
+        "he": "בכורות דף 33"
+      },
+      "target_shabbat": "2026-10-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-34",
+      "title": {
+        "en": "Intent and the Limits of a Penalty",
+        "he": "כוונה וגבולות הקנס"
+      },
+      "parashah": {
+        "en": "Bekhorot 34",
+        "he": "בכורות דף 34"
+      },
+      "target_shabbat": "2026-10-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-35",
+      "title": {
+        "en": "Bekhorot 35 — Following the Sugya Across Both Amudim",
+        "he": "בכורות ל״ה — בעקבות הסוגיה בשני העמודים"
+      },
+      "parashah": {
+        "en": "Bekhorot 35",
+        "he": "בכורות דף 35"
+      },
+      "target_shabbat": "2026-10-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-36",
+      "title": {
+        "en": "Trust, Testimony, and the Authority to Decide",
+        "he": "נאמנות, עדות וסמכות ההכרעה"
+      },
+      "parashah": {
+        "en": "Bekhorot 36",
+        "he": "בכורות דף 36"
+      },
+      "target_shabbat": "2026-10-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-37",
+      "title": {
+        "en": "Bekhorot 37 — Following the Sugya Across Both Amudim",
+        "he": "בכורות ל״ז — בעקבות הסוגיה בשני עמודי הדף"
+      },
+      "parashah": {
+        "en": "Bekhorot 37",
+        "he": "בכורות דף 37"
+      },
+      "target_shabbat": "2026-10-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-38",
+      "title": {
+        "en": "Bekhorot 38 — Following the Sugya Across Both Amudim",
+        "he": "בכורות ל״ח — בעקבות הסוגיה בשני עמודי הדף"
+      },
+      "parashah": {
+        "en": "Bekhorot 38",
+        "he": "בכורות דף 38"
+      },
+      "target_shabbat": "2026-10-26",
+      "category": "talmud"
     }
   ]
 }
