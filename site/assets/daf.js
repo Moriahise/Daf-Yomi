@@ -5,6 +5,9 @@
   const normalize=t=>(t||'').normalize('NFKD').replace(/[\u0591-\u05c7]/g,'').toLowerCase();
   function filterStudies(){const tokens=normalize(document.querySelector('#search').value).split(/\s+/).filter(Boolean),focus=document.querySelector('#category').value,tractate=document.querySelector('#study-tractate').value,cycle=document.querySelector('#study-cycle').value;let count=0;document.querySelectorAll('.edition-card').forEach(card=>{card.hidden=!((focus==='all'||card.dataset.category===focus)&&(tractate==='all'||card.dataset.tractate===tractate)&&(cycle==='all'||card.dataset.cycle===cycle)&&tokens.every(t=>normalize(card.dataset.search).includes(t)));if(!card.hidden)count++;});document.querySelector('#no-results').hidden=count!==0;document.querySelector('#search-status').textContent=document.documentElement.dataset.mode==='he'?count+' שיעורים':count+' studies';}
   ['#search','#category','#study-tractate','#study-cycle'].forEach(selector=>document.querySelector(selector).addEventListener(selector==='#search'?'input':'change',filterStudies));document.querySelectorAll('[data-mode-set]').forEach(b=>b.addEventListener('click',filterStudies));
+  const filters=new URL(location.href).searchParams;
+  [['#study-tractate','tractate'],['#study-cycle','cycle']].forEach(([selector,key])=>{const select=document.querySelector(selector),value=filters.get(key);if(value&&Array.from(select.options).some(option=>option.value===value))select.value=value;});
+  filterStudies();
   let calendar,catalogue,profiles,activeDate,lastToday;
   const utcDay=value=>Math.floor(Date.parse(value+'T00:00:00Z')/86400000);
   const iso=number=>new Date(number*86400000).toISOString().slice(0,10);

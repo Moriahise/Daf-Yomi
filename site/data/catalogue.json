@@ -130,6 +130,825 @@
       },
       "target_shabbat": "2026-10-26",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-2",
+      "title": {
+        "en": "Berakhot 2 — When does the night begin?",
+        "he": "מאימתי מתחיל הלילה?"
+      },
+      "parashah": {
+        "en": "Berakhot 2",
+        "he": "ברכות דף 2"
+      },
+      "target_shabbat": "2027-06-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-3",
+      "title": {
+        "en": "Berakhot 3 — Watches of the night and a voice in the ruins",
+        "he": "משמרות הלילה וקול בחורבה"
+      },
+      "parashah": {
+        "en": "Berakhot 3",
+        "he": "ברכות דף 3"
+      },
+      "target_shabbat": "2027-06-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-4",
+      "title": {
+        "en": "Berakhot 4 — Midnight, humility and the joining of redemption to prayer",
+        "he": "חצות, ענווה וסמיכת גאולה לתפילה"
+      },
+      "parashah": {
+        "en": "Berakhot 4",
+        "he": "ברכות דף 4"
+      },
+      "target_shabbat": "2027-06-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-5",
+      "title": {
+        "en": "Berakhot 5 — Shema at bedtime and the meaning of suffering",
+        "he": "קריאת שמע על המיטה ומשמעות היסורין"
+      },
+      "parashah": {
+        "en": "Berakhot 5",
+        "he": "ברכות דף 5"
+      },
+      "target_shabbat": "2027-06-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-6",
+      "title": {
+        "en": "Berakhot 6 — The synagogue, the Shekhina and God’s tefillin",
+        "he": "בית הכנסת, השכינה ותפילין של הקב\"ה"
+      },
+      "parashah": {
+        "en": "Berakhot 6",
+        "he": "ברכות דף 6"
+      },
+      "target_shabbat": "2027-06-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-7",
+      "title": {
+        "en": "Berakhot 7 — God’s prayer, God’s anger and the ways of Providence",
+        "he": "תפילתו של הקב\"ה, זעמו ודרכי ההשגחה"
+      },
+      "parashah": {
+        "en": "Berakhot 7",
+        "he": "ברכות דף 7"
+      },
+      "target_shabbat": "2027-06-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-8",
+      "title": {
+        "en": "Berakhot 8 — Praying with the community and the four cubits of halakha",
+        "he": "תפילה עם הציבור וארבע אמות של הלכה"
+      },
+      "parashah": {
+        "en": "Berakhot 8",
+        "he": "ברכות דף 8"
+      },
+      "target_shabbat": "2027-06-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-9",
+      "title": {
+        "en": "Berakhot 9 — Until dawn, the hour of haste and the morning Shema",
+        "he": "עד עלות השחר, שעת חפזון וקריאת שמע של שחרית"
+      },
+      "parashah": {
+        "en": "Berakhot 9",
+        "he": "ברכות דף 9"
+      },
+      "target_shabbat": "2027-06-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-10",
+      "title": {
+        "en": "Berakhot 10 — Beruria, Hezekiah and the power of mercy",
+        "he": "ברוריה, חזקיהו וכוחם של הרחמים"
+      },
+      "parashah": {
+        "en": "Berakhot 10",
+        "he": "ברכות דף 10"
+      },
+      "target_shabbat": "2027-06-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-11",
+      "title": {
+        "en": "Berakhot 11 — Reclining, standing and the blessings of Shema and Torah",
+        "he": "הטיה, עמידה וברכות קריאת שמע והתורה"
+      },
+      "parashah": {
+        "en": "Berakhot 11",
+        "he": "ברכות דף 11"
+      },
+      "target_shabbat": "2027-06-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-12",
+      "title": {
+        "en": "Berakhot 12 — The seal of a blessing, bowing and the King of judgment",
+        "he": "חתימת הברכה, הכריעה והמלך המשפט"
+      },
+      "parashah": {
+        "en": "Berakhot 12",
+        "he": "ברכות דף 12"
+      },
+      "target_shabbat": "2027-06-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-13",
+      "title": {
+        "en": "Berakhot 13 — Intention, language and accepting the yoke of Heaven",
+        "he": "כוונה, לשון וקבלת עול מלכות שמים"
+      },
+      "parashah": {
+        "en": "Berakhot 13",
+        "he": "ברכות דף 13"
+      },
+      "target_shabbat": "2027-06-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-14",
+      "title": {
+        "en": "Berakhot 14 — Interruptions, prayer first and “emet” after Shema",
+        "he": "הפסקות, תפילה תחילה ו\"אמת\" אחרי קריאת שמע"
+      },
+      "parashah": {
+        "en": "Berakhot 14",
+        "he": "ברכות דף 14"
+      },
+      "target_shabbat": "2027-06-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-15",
+      "title": {
+        "en": "Berakhot 15 — Complete acceptance, audibility and precise letters",
+        "he": "קבלה שלמה, השמעה לאוזן ודקדוק באותיות"
+      },
+      "parashah": {
+        "en": "Berakhot 15",
+        "he": "ברכות דף 15"
+      },
+      "target_shabbat": "2027-06-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-16",
+      "title": {
+        "en": "Berakhot 16 — Errors in Shema, workers, the groom and the prayers of the Amoraim",
+        "he": "טעות בקריאת שמע, פועלים, חתן ותפילות האמוראים"
+      },
+      "parashah": {
+        "en": "Berakhot 16",
+        "he": "ברכות דף 16"
+      },
+      "target_shabbat": "2027-06-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-17",
+      "title": {
+        "en": "Berakhot 17 — Prayers after the Amidah and the sayings of the Sages",
+        "he": "תפילות לאחר העמידה ומרגליות החכמים"
+      },
+      "parashah": {
+        "en": "Berakhot 17",
+        "he": "ברכות דף 17"
+      },
+      "target_shabbat": "2027-06-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-18",
+      "title": {
+        "en": "Berakhot 18 — The mourner, the guardian and what the dead know",
+        "he": "האונן, השומר ומה יודעים המתים"
+      },
+      "parashah": {
+        "en": "Berakhot 18",
+        "he": "ברכות דף 18"
+      },
+      "target_shabbat": "2027-06-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-19",
+      "title": {
+        "en": "Berakhot 19 — Honor of the dead, honor of the scholar and human dignity",
+        "he": "כבוד המת, כבוד תלמיד חכם וכבוד הבריות"
+      },
+      "parashah": {
+        "en": "Berakhot 19",
+        "he": "ברכות דף 19"
+      },
+      "target_shabbat": "2027-06-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-20",
+      "title": {
+        "en": "Berakhot 20 — Self-sacrifice, women’s obligations and thought versus speech",
+        "he": "מסירות נפש, חיובי נשים והרהור לעומת דיבור"
+      },
+      "parashah": {
+        "en": "Berakhot 20",
+        "he": "ברכות דף 20"
+      },
+      "target_shabbat": "2027-06-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-21",
+      "title": {
+        "en": "Berakhot 21 — Torah-level blessings, doubts and Kedusha",
+        "he": "ברכות מדאורייתא, ספקות וקדושה"
+      },
+      "parashah": {
+        "en": "Berakhot 21",
+        "he": "ברכות דף 21"
+      },
+      "target_shabbat": "2027-06-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-22",
+      "title": {
+        "en": "Berakhot 22 — Words of Torah do not become impure",
+        "he": "אין דברי תורה מקבלין טומאה"
+      },
+      "parashah": {
+        "en": "Berakhot 22",
+        "he": "ברכות דף 22"
+      },
+      "target_shabbat": "2027-06-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-23",
+      "title": {
+        "en": "Berakhot 23 — Readiness for prayer and the sanctity of tefillin",
+        "he": "הכנה לתפילה וקדושת התפילין"
+      },
+      "parashah": {
+        "en": "Berakhot 23",
+        "he": "ברכות דף 23"
+      },
+      "target_shabbat": "2027-06-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-24",
+      "title": {
+        "en": "Berakhot 24 — Modesty, the voice of prayer and filthy alleys",
+        "he": "צניעות, קול התפילה ומבואות מטונפות"
+      },
+      "parashah": {
+        "en": "Berakhot 24",
+        "he": "ברכות דף 24"
+      },
+      "target_shabbat": "2027-06-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-25",
+      "title": {
+        "en": "Berakhot 25 — A holy camp: distance from filth and from immodesty",
+        "he": "\"והיה מחניך קדוש\": הרחקה מצואה ומערווה"
+      },
+      "parashah": {
+        "en": "Berakhot 25",
+        "he": "ברכות דף 25"
+      },
+      "target_shabbat": "2027-07-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-26",
+      "title": {
+        "en": "Berakhot 26 — The times of prayer: the patriarchs and the daily offerings",
+        "he": "זמני התפילה: האבות והתמידין"
+      },
+      "parashah": {
+        "en": "Berakhot 26",
+        "he": "ברכות דף 26"
+      },
+      "target_shabbat": "2027-07-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-27",
+      "title": {
+        "en": "Berakhot 27 — Early Shabbat, the evening prayer and the crisis of Yavne",
+        "he": "שבת מוקדמת, תפילת ערבית והמשבר ביבנה"
+      },
+      "parashah": {
+        "en": "Berakhot 27",
+        "he": "ברכות דף 27"
+      },
+      "target_shabbat": "2027-07-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-28",
+      "title": {
+        "en": "Berakhot 28 — “That day” in Yavne and the eighteen blessings",
+        "he": "\"בו ביום\" ביבנה ושמונה עשרה הברכות"
+      },
+      "parashah": {
+        "en": "Berakhot 28",
+        "he": "ברכות דף 28"
+      },
+      "target_shabbat": "2027-07-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-29",
+      "title": {
+        "en": "Berakhot 29 — When the words falter",
+        "he": "ברכות כ״ט — כשהמילים נעצרות"
+      },
+      "parashah": {
+        "en": "Berakhot 29",
+        "he": "ברכות דף 29"
+      },
+      "target_shabbat": "2027-07-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-30",
+      "title": {
+        "en": "Berakhot 30 — One direction, many circumstances",
+        "he": "ברכות ל׳ — כיוון אחד, נסיבות רבות"
+      },
+      "parashah": {
+        "en": "Berakhot 30",
+        "he": "ברכות דף 30"
+      },
+      "target_shabbat": "2027-07-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-31",
+      "title": {
+        "en": "Berakhot 31 — Hannah’s voice and the listening heart",
+        "he": "ברכות ל״א — קולה של חנה והלב המקשיב"
+      },
+      "parashah": {
+        "en": "Berakhot 31",
+        "he": "ברכות דף 31"
+      },
+      "target_shabbat": "2027-07-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-32",
+      "title": {
+        "en": "Berakhot 32 — To plead, to persist, to wait",
+        "he": "ברכות ל״ב — לבקש, להתמיד ולהמתין"
+      },
+      "parashah": {
+        "en": "Berakhot 32",
+        "he": "ברכות דף 32"
+      },
+      "target_shabbat": "2027-07-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-33",
+      "title": {
+        "en": "Berakhot 33 — Discernment and the limits of praise",
+        "he": "ברכות ל״ג — דעת וגבולות השבח"
+      },
+      "parashah": {
+        "en": "Berakhot 33",
+        "he": "ברכות דף 33"
+      },
+      "target_shabbat": "2027-07-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-34",
+      "title": {
+        "en": "Berakhot 34 — The prayer leader, the bow and the fluent prayer",
+        "he": "שליח הציבור, הכריעה והתפילה השגורה"
+      },
+      "parashah": {
+        "en": "Berakhot 34",
+        "he": "ברכות דף 34"
+      },
+      "target_shabbat": "2027-07-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-35",
+      "title": {
+        "en": "Berakhot 35 — The earth is the Lord’s: why one blesses before eating",
+        "he": "לה׳ הארץ ומלואה: מדוע מברכים לפני האכילה"
+      },
+      "parashah": {
+        "en": "Berakhot 35",
+        "he": "ברכות דף 35"
+      },
+      "target_shabbat": "2027-07-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-36",
+      "title": {
+        "en": "Berakhot 36 — Changed form, intended use and the guard of the fruit",
+        "he": "שינוי צורה, כוונת הנטיעה ושומר לפרי"
+      },
+      "parashah": {
+        "en": "Berakhot 36",
+        "he": "ברכות דף 36"
+      },
+      "target_shabbat": "2027-07-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-37",
+      "title": {
+        "en": "Berakhot 37 — Rice, dates and the crumbs of bread",
+        "he": "אורז, כותבות ופירורי לחם"
+      },
+      "parashah": {
+        "en": "Berakhot 37",
+        "he": "ברכות דף 37"
+      },
+      "target_shabbat": "2027-07-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-38",
+      "title": {
+        "en": "Berakhot 38 — Hamotzi, cooked vegetables and a reliable transmission",
+        "he": "המוציא, שלקות ומסירה נאמנה"
+      },
+      "parashah": {
+        "en": "Berakhot 38",
+        "he": "ברכות דף 38"
+      },
+      "target_shabbat": "2027-07-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-39",
+      "title": {
+        "en": "Berakhot 39 — Beloved, nourishing or whole",
+        "he": "חביב, זיין או שלם"
+      },
+      "parashah": {
+        "en": "Berakhot 39",
+        "he": "ברכות דף 39"
+      },
+      "target_shabbat": "2027-07-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-40",
+      "title": {
+        "en": "Berakhot 40 — Salt on the table and the formula of the Sages",
+        "he": "מלח על השולחן ומטבע שטבעו חכמים"
+      },
+      "parashah": {
+        "en": "Berakhot 40",
+        "he": "ברכות דף 40"
+      },
+      "target_shabbat": "2027-07-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-41",
+      "title": {
+        "en": "Berakhot 41 — The order of the verse and the order of the blessing",
+        "he": "סדר הפסוק וסדר הברכה"
+      },
+      "parashah": {
+        "en": "Berakhot 41",
+        "he": "ברכות דף 41"
+      },
+      "target_shabbat": "2027-07-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-42",
+      "title": {
+        "en": "Berakhot 42 — When a meal begins, when it ends, and who blesses for whom",
+        "he": "מתי מתחילה סעודה, מתי היא נגמרת ומי מברך בעד מי"
+      },
+      "parashah": {
+        "en": "Berakhot 42",
+        "he": "ברכות דף 42"
+      },
+      "target_shabbat": "2027-07-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-43",
+      "title": {
+        "en": "Berakhot 43 — Fragrance, honor and the conduct of a scholar",
+        "he": "ריח, כבוד והליכותיו של תלמיד חכם"
+      },
+      "parashah": {
+        "en": "Berakhot 43",
+        "he": "ברכות דף 43"
+      },
+      "target_shabbat": "2027-07-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-44",
+      "title": {
+        "en": "Berakhot 44 — The fruits of Gennesaret and the blessing of three in one",
+        "he": "פירות גינוסר וברכה אחת מעין שלוש"
+      },
+      "parashah": {
+        "en": "Berakhot 44",
+        "he": "ברכות דף 44"
+      },
+      "target_shabbat": "2027-07-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-45",
+      "title": {
+        "en": "Berakhot 45 — Three who ate together",
+        "he": "שלושה שאכלו כאחת"
+      },
+      "parashah": {
+        "en": "Berakhot 45",
+        "he": "ברכות דף 45"
+      },
+      "target_shabbat": "2027-07-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-46",
+      "title": {
+        "en": "Berakhot 46 — Host, guest and the order of the table",
+        "he": "בעל הבית, אורח וסדר השולחן"
+      },
+      "parashah": {
+        "en": "Berakhot 46",
+        "he": "ברכות דף 46"
+      },
+      "target_shabbat": "2027-07-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-47",
+      "title": {
+        "en": "Berakhot 47 — Who is counted, and who is an am ha-aretz",
+        "he": "מי נמנה, ומיהו עם הארץ"
+      },
+      "parashah": {
+        "en": "Berakhot 47",
+        "he": "ברכות דף 47"
+      },
+      "target_shabbat": "2027-07-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-48",
+      "title": {
+        "en": "Berakhot 48 — A child who knows to Whom we bless",
+        "he": "קטן היודע למי מברכין"
+      },
+      "parashah": {
+        "en": "Berakhot 48",
+        "he": "ברכות דף 48"
+      },
+      "target_shabbat": "2027-07-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-49",
+      "title": {
+        "en": "Berakhot 49 — Covenant, Torah and kingship in Birkat HaMazon",
+        "he": "ברית, תורה ומלכות בברכת המזון"
+      },
+      "parashah": {
+        "en": "Berakhot 49",
+        "he": "ברכות דף 49"
+      },
+      "target_shabbat": "2027-07-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-50",
+      "title": {
+        "en": "Berakhot 50 — “Let us bless” and the dignity of bread",
+        "he": "\"נברך\" וכבוד הפת"
+      },
+      "parashah": {
+        "en": "Berakhot 50",
+        "he": "ברכות דף 50"
+      },
+      "target_shabbat": "2027-07-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-51",
+      "title": {
+        "en": "Berakhot 51 — The cup of blessing",
+        "he": "כוס של ברכה"
+      },
+      "parashah": {
+        "en": "Berakhot 51",
+        "he": "ברכות דף 51"
+      },
+      "target_shabbat": "2027-07-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-52",
+      "title": {
+        "en": "Berakhot 52 — Purity at the table and the order of havdalah",
+        "he": "טהרה על השולחן וסדר ההבדלה"
+      },
+      "parashah": {
+        "en": "Berakhot 52",
+        "he": "ברכות דף 52"
+      },
+      "target_shabbat": "2027-07-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-53",
+      "title": {
+        "en": "Berakhot 53 — A light that rested and a dove of gold",
+        "he": "אור ששבת ויונה של זהב"
+      },
+      "parashah": {
+        "en": "Berakhot 53",
+        "he": "ברכות דף 53"
+      },
+      "target_shabbat": "2027-07-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-54",
+      "title": {
+        "en": "Berakhot 54 — Blessings of seeing and the places of miracles",
+        "he": "ברכות הראייה ומקומות הניסים"
+      },
+      "parashah": {
+        "en": "Berakhot 54",
+        "he": "ברכות דף 54"
+      },
+      "target_shabbat": "2027-07-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-55",
+      "title": {
+        "en": "Berakhot 55 — Long prayer, Bezalel’s wisdom and the nature of dreams",
+        "he": "תפילה ארוכה, חכמת בצלאל וטבעם של חלומות"
+      },
+      "parashah": {
+        "en": "Berakhot 55",
+        "he": "ברכות דף 55"
+      },
+      "target_shabbat": "2027-07-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-56",
+      "title": {
+        "en": "Berakhot 56 — Bar Hedya, the paid interpreter of dreams",
+        "he": "בר הדיא, פותר החלומות בשכר"
+      },
+      "parashah": {
+        "en": "Berakhot 56",
+        "he": "ברכות דף 56"
+      },
+      "target_shabbat": "2027-08-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-57",
+      "title": {
+        "en": "Berakhot 57 — Signs in dreams and the ruins of Babylon",
+        "he": "סימנים בחלומות וחורבות בבל"
+      },
+      "parashah": {
+        "en": "Berakhot 57",
+        "he": "ברכות דף 57"
+      },
+      "target_shabbat": "2027-08-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-58",
+      "title": {
+        "en": "Berakhot 58 — The Knower of secrets and the paths of the sky",
+        "he": "חכם הרזים ושבילי הרקיע"
+      },
+      "parashah": {
+        "en": "Berakhot 58",
+        "he": "ברכות דף 58"
+      },
+      "target_shabbat": "2027-08-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-59",
+      "title": {
+        "en": "Berakhot 59 — Earthquakes, thunder and the rainbow",
+        "he": "זוועות, רעמים וקשת"
+      },
+      "parashah": {
+        "en": "Berakhot 59",
+        "he": "ברכות דף 59"
+      },
+      "target_shabbat": "2027-08-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-60",
+      "title": {
+        "en": "Berakhot 60 — From the city gate to the morning blessings",
+        "he": "משער העיר ועד ברכות השחר"
+      },
+      "parashah": {
+        "en": "Berakhot 60",
+        "he": "ברכות דף 60"
+      },
+      "target_shabbat": "2027-08-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-61",
+      "title": {
+        "en": "Berakhot 61 — Two inclinations and the death of Rabbi Akiva",
+        "he": "שני יצרים ומיתתו של רבי עקיבא"
+      },
+      "parashah": {
+        "en": "Berakhot 61",
+        "he": "ברכות דף 61"
+      },
+      "target_shabbat": "2027-08-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-62",
+      "title": {
+        "en": "Berakhot 62 — “It is Torah, and I must learn”",
+        "he": "\"תורה היא וללמוד אני צריך\""
+      },
+      "parashah": {
+        "en": "Berakhot 62",
+        "he": "ברכות דף 62"
+      },
+      "target_shabbat": "2027-08-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-63",
+      "title": {
+        "en": "Berakhot 63 — “From Zion shall go forth Torah”",
+        "he": "\"כי מציון תצא תורה\""
+      },
+      "parashah": {
+        "en": "Berakhot 63",
+        "he": "ברכות דף 63"
+      },
+      "target_shabbat": "2027-08-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-berakhot-64",
+      "title": {
+        "en": "Berakhot 64 — Scholars increase peace in the world",
+        "he": "תלמידי חכמים מרבים שלום בעולם"
+      },
+      "parashah": {
+        "en": "Berakhot 64",
+        "he": "ברכות דף 64"
+      },
+      "target_shabbat": "2027-08-09",
+      "category": "talmud"
     }
   ]
 }
