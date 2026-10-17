@@ -63,6 +63,24 @@ def build(source,output,now=None):
     edits.append((node.start,node.end,markup))
     for start,end,markup in sorted(edits,reverse=True):home=home[:start]+markup+home[end:]
     (output/'index.html').write_text(home)
+    # The tractate overview must advance even while no new study guide is published.
+    index_path=output/'tractates/index.html';index=index_path.read_text();index_doc=Document(index);index_edits=[]
+    entries={t['id']:t for t in calendar.cycle_tractates(row['cycle'])}
+    cards=[n for n in index_doc.nodes if n.has('tractate-card')]
+    for card in cards:
+        entry=entries[card.attrs['data-tractate']]
+        for child in index_doc.nodes:
+            if not card.opening_end<=child.start<card.closing_start:continue
+            if child.has('eyebrow'):index_edits.append((child.opening_end,child.closing_start,entry['start']+' — '+entry['end']))
+            if child.tag=='a':
+                opening=index[child.start:child.opening_end]
+                index_edits.append((child.start,child.opening_end,opening.replace(escape(child.attrs['href'],quote=True),'../?date='+entry['start']+'#calendar')))
+    main=next(n for n in index_doc.nodes if n.has('tractates-main'))
+    intro=next(n for n in index_doc.nodes if n.tag=='p' and main.opening_end<=n.start<cards[0].start)
+    start=calendar.cycle_start(row['cycle']).isoformat();end=(calendar.cycle_start(row['cycle']+1)-timedelta(days=1)).isoformat()
+    index_edits.append((intro.opening_end,intro.closing_start,bi('Cycle '+str(row['cycle'])+' · '+start+' to '+end,'מחזור '+str(row['cycle']))))
+    for start,end,markup in sorted(index_edits,reverse=True):index=index[:start]+markup+index[end:]
+    index_path.write_text(index)
     validate(output)
     return {'date':today.isoformat(),'daf':row['label']['en'],'cycle':row['cycle'],'portraits':len(profiles),'public_files':sum(p.is_file() for p in output.rglob('*'))}
 

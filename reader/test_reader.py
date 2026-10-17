@@ -12,6 +12,13 @@ class ReaderTests(unittest.TestCase):
             self.assertEqual(result['daf'],'Bekhorot 30');text=(output/'index.html').read_text();nodes=Document(text).nodes
             source=next(n for n in nodes if n.attrs.get('data-daf-source')=='0');self.assertIn('Bekhorot_30a',source.attrs['href'])
             self.assertIn('Bekhorot 30',text);self.assertEqual(sum(n.attrs.get('id')=='daf-date' for n in nodes),1)
+    def test_tractate_overview_advances_at_the_next_cycle_without_api_calls(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output=Path(tmp)/'site';build(ROOT/'site',output,datetime(2027,6,8,8,tzinfo=ZoneInfo('Asia/Jerusalem')))
+            text=(output/'tractates/index.html').read_text();doc=Document(text)
+            first=next(n for n in doc.nodes if n.attrs.get('data-tractate')=='berakhot')
+            self.assertIn('2027-06-08',text[first.start:first.end]);self.assertIn('Cycle 15',text)
+
     def test_reading_guides_and_both_languages_remain_available(self):
         with tempfile.TemporaryDirectory() as tmp:
             output=Path(tmp)/'site';build(ROOT/'site',output);self.assertEqual((ROOT/'site/sources/index.html').read_bytes(),(output/'sources/index.html').read_bytes())
