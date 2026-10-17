@@ -24,7 +24,7 @@
     const row=calculate(value);activeDate=value;const target=document.querySelector('#daf-date-result');target.replaceChildren();
     const h=document.createElement('h3');h.append(pair(row.label));target.append(h);const p=document.createElement('p');p.append(pair({en:value+' · Cycle '+row.cycle,he:value+' · מחזור '+row.cycle}));target.append(p);
     row.links.forEach((url,i)=>target.append(link(url,{en:'Amud '+['a','b'][i]+' ↗',he:'עמוד '+['א׳','ב׳'][i]+' ↗'})));
-    const study=catalogue.editions.find(e=>e.id===row.id);if(study){const a=document.createElement('a');a.href='./shiur/'+study.id+'/';a.append(pair({en:'Read study →',he:'לשיעור ←'}));target.append(a);}
+    const study=catalogue.editions.find(e=>e.id===row.id);if(study){const a=document.createElement('a');a.className='button primary';a.href='./shiur/'+study.id+'/';a.append(pair({en:'Read study →',he:'לשיעור ←'}));target.append(a);}
     const url=new URL(location.href);url.searchParams.set('date',value);history.replaceState(null,'',url);
   }
   function updateToday(){
@@ -33,7 +33,7 @@
     document.querySelectorAll('[data-daf-source]').forEach((a,i)=>{a.href=row.links[i]||row.links[0];});
     const study=catalogue.editions.find(e=>e.id===row.id),a=document.querySelector('#today-lesson');a.hidden=!study;if(study){a.href='./shiur/'+study.id+'/';a.replaceChildren(pair({en:'Read today’s study →',he:'לשיעור של היום ←'}));}
     if(profiles){const profile=profiles.profiles[((row.cycle-14)*2711+row.offset)%profiles.profiles.length];if(profile){const figure=document.querySelector('.daily-feature [data-rabbi-portrait]');figure.dataset.rabbiPortrait=profile.id;figure.querySelector('img').src='./assets/portraits/'+profile.id+'.webp';figure.querySelector('img').alt=profile.name;figure.querySelector('.portrait-name').textContent=profile.name;}}
-    const listing=document.querySelector('#daily-calendar');listing.replaceChildren();for(let i=0;i<7;i++){const day=calculate(iso(utcDay(today)+i)),entry=document.createElement('div');entry.className='calendar-row';const date=document.createElement('span');date.textContent=day.date;const strong=document.createElement('strong');strong.append(pair(day.label));entry.append(date,strong,link(day.links[0],{en:'Read ↗',he:'לקריאה ↗'}));listing.append(entry);}
+    const listing=document.querySelector('#daily-calendar');listing.replaceChildren();for(let i=0;i<7;i++){const day=calculate(iso(utcDay(today)+i)),entry=document.createElement('div');entry.className='calendar-row';const date=document.createElement('span');date.textContent=day.date;const strong=document.createElement('strong');strong.append(pair(day.label));const study=catalogue.editions.find(e=>e.id===day.id);let read;if(study){read=document.createElement('a');read.href='./shiur/'+study.id+'/';read.append(pair({en:'Read study →',he:'לשיעור ←'}));}else{read=link(day.links[0],{en:'Original text ↗',he:'למקור ↗'});}entry.append(date,strong,read);listing.append(entry);}
   }
   async function start(){
     try{[calendar,catalogue,profiles]=await Promise.all(['data/daf-calendar.json','data/catalogue.json','assets/rabbis.json'].map(async url=>{const r=await fetch(url);if(!r.ok)throw Error('Calendar loading failed');return r.json();}));

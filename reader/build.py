@@ -59,7 +59,7 @@ def build(source,output,now=None):
     # A server-rendered current study link is never borrowed from a previous date.
     node=next(n for n in doc.nodes if n.attrs.get('id')=='today-lesson')
     study=next((e for e in json.loads((output/'data/catalogue.json').read_text())['editions'] if e['id']==row['id']),None)
-    markup='<a class="text-link" id="today-lesson"'+(' href="./shiur/'+study['id']+'/">'+bi('Read today’s study →','לשיעור של היום ←') if study else ' hidden>')+'</a>'
+    markup='<a class="button primary" id="today-lesson"'+(' href="./shiur/'+study['id']+'/">'+bi('Read today’s study →','לשיעור של היום ←') if study else ' hidden>')+'</a>'
     edits.append((node.start,node.end,markup))
     for start,end,markup in sorted(edits,reverse=True):home=home[:start]+markup+home[end:]
     (output/'index.html').write_text(home)

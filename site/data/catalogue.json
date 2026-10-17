@@ -1,4 +1,44 @@
 {
   "schema": 1,
-  "editions": []
+  "editions": [
+    {
+      "id": "cycle-14-bekhorot-29",
+      "title": {
+        "en": "Trust beyond the verdict",
+        "he": "אמון שמעבר להכרעה"
+      },
+      "parashah": {
+        "en": "Bekhorot 29",
+        "he": "בכורות דף 29"
+      },
+      "target_shabbat": "2026-10-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-30",
+      "title": {
+        "en": "The boundaries of suspicion",
+        "he": "גבולות החשד"
+      },
+      "parashah": {
+        "en": "Bekhorot 30",
+        "he": "בכורות דף 30"
+      },
+      "target_shabbat": "2026-10-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-31",
+      "title": {
+        "en": "Trust can return; a teaching needs its name",
+        "he": "אמון יכול לשוב; שמועה זקוקה לשם"
+      },
+      "parashah": {
+        "en": "Bekhorot 31",
+        "he": "בכורות דף 31"
+      },
+      "target_shabbat": "2026-10-19",
+      "category": "talmud"
+    }
+  ]
 }
