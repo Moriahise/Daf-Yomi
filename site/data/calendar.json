@@ -1,0 +1,3427 @@
+{
+  "schema": 1,
+  "calculated_at": "2026-10-17T17:26:46.097918+03:00",
+  "timezone": "Asia/Jerusalem",
+  "days": [
+    {
+      "date": "2026-10-17",
+      "cycle": 14,
+      "day_in_cycle": 2478,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 29,
+      "label": {
+        "en": "Bekhorot 29",
+        "he": "בכורות דף 29"
+      },
+      "references": [
+        "Bekhorot 29a",
+        "Bekhorot 29b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_29a",
+        "https://www.sefaria.org/Bekhorot_29b"
+      ],
+      "id": "cycle-14-bekhorot-29",
+      "target_shabbat": "2026-10-17",
+      "hebrew_date": "ו׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 29",
+        "he": "בכורות דף 29"
+      },
+      "diaspora": {
+        "en": "Bekhorot 29",
+        "he": "בכורות דף 29"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-18",
+      "cycle": 14,
+      "day_in_cycle": 2479,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 30,
+      "label": {
+        "en": "Bekhorot 30",
+        "he": "בכורות דף 30"
+      },
+      "references": [
+        "Bekhorot 30a",
+        "Bekhorot 30b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_30a",
+        "https://www.sefaria.org/Bekhorot_30b"
+      ],
+      "id": "cycle-14-bekhorot-30",
+      "target_shabbat": "2026-10-18",
+      "hebrew_date": "ז׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 30",
+        "he": "בכורות דף 30"
+      },
+      "diaspora": {
+        "en": "Bekhorot 30",
+        "he": "בכורות דף 30"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-19",
+      "cycle": 14,
+      "day_in_cycle": 2480,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 31,
+      "label": {
+        "en": "Bekhorot 31",
+        "he": "בכורות דף 31"
+      },
+      "references": [
+        "Bekhorot 31a",
+        "Bekhorot 31b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_31a",
+        "https://www.sefaria.org/Bekhorot_31b"
+      ],
+      "id": "cycle-14-bekhorot-31",
+      "target_shabbat": "2026-10-19",
+      "hebrew_date": "ח׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 31",
+        "he": "בכורות דף 31"
+      },
+      "diaspora": {
+        "en": "Bekhorot 31",
+        "he": "בכורות דף 31"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-20",
+      "cycle": 14,
+      "day_in_cycle": 2481,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 32,
+      "label": {
+        "en": "Bekhorot 32",
+        "he": "בכורות דף 32"
+      },
+      "references": [
+        "Bekhorot 32a",
+        "Bekhorot 32b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_32a",
+        "https://www.sefaria.org/Bekhorot_32b"
+      ],
+      "id": "cycle-14-bekhorot-32",
+      "target_shabbat": "2026-10-20",
+      "hebrew_date": "ט׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 32",
+        "he": "בכורות דף 32"
+      },
+      "diaspora": {
+        "en": "Bekhorot 32",
+        "he": "בכורות דף 32"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-21",
+      "cycle": 14,
+      "day_in_cycle": 2482,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 33,
+      "label": {
+        "en": "Bekhorot 33",
+        "he": "בכורות דף 33"
+      },
+      "references": [
+        "Bekhorot 33a",
+        "Bekhorot 33b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_33a",
+        "https://www.sefaria.org/Bekhorot_33b"
+      ],
+      "id": "cycle-14-bekhorot-33",
+      "target_shabbat": "2026-10-21",
+      "hebrew_date": "י׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 33",
+        "he": "בכורות דף 33"
+      },
+      "diaspora": {
+        "en": "Bekhorot 33",
+        "he": "בכורות דף 33"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-22",
+      "cycle": 14,
+      "day_in_cycle": 2483,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 34,
+      "label": {
+        "en": "Bekhorot 34",
+        "he": "בכורות דף 34"
+      },
+      "references": [
+        "Bekhorot 34a",
+        "Bekhorot 34b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_34a",
+        "https://www.sefaria.org/Bekhorot_34b"
+      ],
+      "id": "cycle-14-bekhorot-34",
+      "target_shabbat": "2026-10-22",
+      "hebrew_date": "י״א חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 34",
+        "he": "בכורות דף 34"
+      },
+      "diaspora": {
+        "en": "Bekhorot 34",
+        "he": "בכורות דף 34"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-23",
+      "cycle": 14,
+      "day_in_cycle": 2484,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 35,
+      "label": {
+        "en": "Bekhorot 35",
+        "he": "בכורות דף 35"
+      },
+      "references": [
+        "Bekhorot 35a",
+        "Bekhorot 35b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_35a",
+        "https://www.sefaria.org/Bekhorot_35b"
+      ],
+      "id": "cycle-14-bekhorot-35",
+      "target_shabbat": "2026-10-23",
+      "hebrew_date": "י״ב חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 35",
+        "he": "בכורות דף 35"
+      },
+      "diaspora": {
+        "en": "Bekhorot 35",
+        "he": "בכורות דף 35"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-24",
+      "cycle": 14,
+      "day_in_cycle": 2485,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 36,
+      "label": {
+        "en": "Bekhorot 36",
+        "he": "בכורות דף 36"
+      },
+      "references": [
+        "Bekhorot 36a",
+        "Bekhorot 36b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_36a",
+        "https://www.sefaria.org/Bekhorot_36b"
+      ],
+      "id": "cycle-14-bekhorot-36",
+      "target_shabbat": "2026-10-24",
+      "hebrew_date": "י״ג חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 36",
+        "he": "בכורות דף 36"
+      },
+      "diaspora": {
+        "en": "Bekhorot 36",
+        "he": "בכורות דף 36"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-25",
+      "cycle": 14,
+      "day_in_cycle": 2486,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 37,
+      "label": {
+        "en": "Bekhorot 37",
+        "he": "בכורות דף 37"
+      },
+      "references": [
+        "Bekhorot 37a",
+        "Bekhorot 37b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_37a",
+        "https://www.sefaria.org/Bekhorot_37b"
+      ],
+      "id": "cycle-14-bekhorot-37",
+      "target_shabbat": "2026-10-25",
+      "hebrew_date": "י״ד חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 37",
+        "he": "בכורות דף 37"
+      },
+      "diaspora": {
+        "en": "Bekhorot 37",
+        "he": "בכורות דף 37"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-26",
+      "cycle": 14,
+      "day_in_cycle": 2487,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 38,
+      "label": {
+        "en": "Bekhorot 38",
+        "he": "בכורות דף 38"
+      },
+      "references": [
+        "Bekhorot 38a",
+        "Bekhorot 38b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_38a",
+        "https://www.sefaria.org/Bekhorot_38b"
+      ],
+      "id": "cycle-14-bekhorot-38",
+      "target_shabbat": "2026-10-26",
+      "hebrew_date": "ט״ו חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 38",
+        "he": "בכורות דף 38"
+      },
+      "diaspora": {
+        "en": "Bekhorot 38",
+        "he": "בכורות דף 38"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-27",
+      "cycle": 14,
+      "day_in_cycle": 2488,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 39,
+      "label": {
+        "en": "Bekhorot 39",
+        "he": "בכורות דף 39"
+      },
+      "references": [
+        "Bekhorot 39a",
+        "Bekhorot 39b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_39a",
+        "https://www.sefaria.org/Bekhorot_39b"
+      ],
+      "id": "cycle-14-bekhorot-39",
+      "target_shabbat": "2026-10-27",
+      "hebrew_date": "ט״ז חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 39",
+        "he": "בכורות דף 39"
+      },
+      "diaspora": {
+        "en": "Bekhorot 39",
+        "he": "בכורות דף 39"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-28",
+      "cycle": 14,
+      "day_in_cycle": 2489,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 40,
+      "label": {
+        "en": "Bekhorot 40",
+        "he": "בכורות דף 40"
+      },
+      "references": [
+        "Bekhorot 40a",
+        "Bekhorot 40b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_40a",
+        "https://www.sefaria.org/Bekhorot_40b"
+      ],
+      "id": "cycle-14-bekhorot-40",
+      "target_shabbat": "2026-10-28",
+      "hebrew_date": "י״ז חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 40",
+        "he": "בכורות דף 40"
+      },
+      "diaspora": {
+        "en": "Bekhorot 40",
+        "he": "בכורות דף 40"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-29",
+      "cycle": 14,
+      "day_in_cycle": 2490,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 41,
+      "label": {
+        "en": "Bekhorot 41",
+        "he": "בכורות דף 41"
+      },
+      "references": [
+        "Bekhorot 41a",
+        "Bekhorot 41b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_41a",
+        "https://www.sefaria.org/Bekhorot_41b"
+      ],
+      "id": "cycle-14-bekhorot-41",
+      "target_shabbat": "2026-10-29",
+      "hebrew_date": "י״ח חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 41",
+        "he": "בכורות דף 41"
+      },
+      "diaspora": {
+        "en": "Bekhorot 41",
+        "he": "בכורות דף 41"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-30",
+      "cycle": 14,
+      "day_in_cycle": 2491,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 42,
+      "label": {
+        "en": "Bekhorot 42",
+        "he": "בכורות דף 42"
+      },
+      "references": [
+        "Bekhorot 42a",
+        "Bekhorot 42b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_42a",
+        "https://www.sefaria.org/Bekhorot_42b"
+      ],
+      "id": "cycle-14-bekhorot-42",
+      "target_shabbat": "2026-10-30",
+      "hebrew_date": "י״ט חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 42",
+        "he": "בכורות דף 42"
+      },
+      "diaspora": {
+        "en": "Bekhorot 42",
+        "he": "בכורות דף 42"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-10-31",
+      "cycle": 14,
+      "day_in_cycle": 2492,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 43,
+      "label": {
+        "en": "Bekhorot 43",
+        "he": "בכורות דף 43"
+      },
+      "references": [
+        "Bekhorot 43a",
+        "Bekhorot 43b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_43a",
+        "https://www.sefaria.org/Bekhorot_43b"
+      ],
+      "id": "cycle-14-bekhorot-43",
+      "target_shabbat": "2026-10-31",
+      "hebrew_date": "כ׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 43",
+        "he": "בכורות דף 43"
+      },
+      "diaspora": {
+        "en": "Bekhorot 43",
+        "he": "בכורות דף 43"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-01",
+      "cycle": 14,
+      "day_in_cycle": 2493,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 44,
+      "label": {
+        "en": "Bekhorot 44",
+        "he": "בכורות דף 44"
+      },
+      "references": [
+        "Bekhorot 44a",
+        "Bekhorot 44b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_44a",
+        "https://www.sefaria.org/Bekhorot_44b"
+      ],
+      "id": "cycle-14-bekhorot-44",
+      "target_shabbat": "2026-11-01",
+      "hebrew_date": "כ״א חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 44",
+        "he": "בכורות דף 44"
+      },
+      "diaspora": {
+        "en": "Bekhorot 44",
+        "he": "בכורות דף 44"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-02",
+      "cycle": 14,
+      "day_in_cycle": 2494,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 45,
+      "label": {
+        "en": "Bekhorot 45",
+        "he": "בכורות דף 45"
+      },
+      "references": [
+        "Bekhorot 45a",
+        "Bekhorot 45b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_45a",
+        "https://www.sefaria.org/Bekhorot_45b"
+      ],
+      "id": "cycle-14-bekhorot-45",
+      "target_shabbat": "2026-11-02",
+      "hebrew_date": "כ״ב חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 45",
+        "he": "בכורות דף 45"
+      },
+      "diaspora": {
+        "en": "Bekhorot 45",
+        "he": "בכורות דף 45"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-03",
+      "cycle": 14,
+      "day_in_cycle": 2495,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 46,
+      "label": {
+        "en": "Bekhorot 46",
+        "he": "בכורות דף 46"
+      },
+      "references": [
+        "Bekhorot 46a",
+        "Bekhorot 46b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_46a",
+        "https://www.sefaria.org/Bekhorot_46b"
+      ],
+      "id": "cycle-14-bekhorot-46",
+      "target_shabbat": "2026-11-03",
+      "hebrew_date": "כ״ג חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 46",
+        "he": "בכורות דף 46"
+      },
+      "diaspora": {
+        "en": "Bekhorot 46",
+        "he": "בכורות דף 46"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-04",
+      "cycle": 14,
+      "day_in_cycle": 2496,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 47,
+      "label": {
+        "en": "Bekhorot 47",
+        "he": "בכורות דף 47"
+      },
+      "references": [
+        "Bekhorot 47a",
+        "Bekhorot 47b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_47a",
+        "https://www.sefaria.org/Bekhorot_47b"
+      ],
+      "id": "cycle-14-bekhorot-47",
+      "target_shabbat": "2026-11-04",
+      "hebrew_date": "כ״ד חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 47",
+        "he": "בכורות דף 47"
+      },
+      "diaspora": {
+        "en": "Bekhorot 47",
+        "he": "בכורות דף 47"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-05",
+      "cycle": 14,
+      "day_in_cycle": 2497,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 48,
+      "label": {
+        "en": "Bekhorot 48",
+        "he": "בכורות דף 48"
+      },
+      "references": [
+        "Bekhorot 48a",
+        "Bekhorot 48b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_48a",
+        "https://www.sefaria.org/Bekhorot_48b"
+      ],
+      "id": "cycle-14-bekhorot-48",
+      "target_shabbat": "2026-11-05",
+      "hebrew_date": "כ״ה חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 48",
+        "he": "בכורות דף 48"
+      },
+      "diaspora": {
+        "en": "Bekhorot 48",
+        "he": "בכורות דף 48"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-06",
+      "cycle": 14,
+      "day_in_cycle": 2498,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 49,
+      "label": {
+        "en": "Bekhorot 49",
+        "he": "בכורות דף 49"
+      },
+      "references": [
+        "Bekhorot 49a",
+        "Bekhorot 49b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_49a",
+        "https://www.sefaria.org/Bekhorot_49b"
+      ],
+      "id": "cycle-14-bekhorot-49",
+      "target_shabbat": "2026-11-06",
+      "hebrew_date": "כ״ו חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 49",
+        "he": "בכורות דף 49"
+      },
+      "diaspora": {
+        "en": "Bekhorot 49",
+        "he": "בכורות דף 49"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-07",
+      "cycle": 14,
+      "day_in_cycle": 2499,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 50,
+      "label": {
+        "en": "Bekhorot 50",
+        "he": "בכורות דף 50"
+      },
+      "references": [
+        "Bekhorot 50a",
+        "Bekhorot 50b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_50a",
+        "https://www.sefaria.org/Bekhorot_50b"
+      ],
+      "id": "cycle-14-bekhorot-50",
+      "target_shabbat": "2026-11-07",
+      "hebrew_date": "כ״ז חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 50",
+        "he": "בכורות דף 50"
+      },
+      "diaspora": {
+        "en": "Bekhorot 50",
+        "he": "בכורות דף 50"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-08",
+      "cycle": 14,
+      "day_in_cycle": 2500,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 51,
+      "label": {
+        "en": "Bekhorot 51",
+        "he": "בכורות דף 51"
+      },
+      "references": [
+        "Bekhorot 51a",
+        "Bekhorot 51b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_51a",
+        "https://www.sefaria.org/Bekhorot_51b"
+      ],
+      "id": "cycle-14-bekhorot-51",
+      "target_shabbat": "2026-11-08",
+      "hebrew_date": "כ״ח חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 51",
+        "he": "בכורות דף 51"
+      },
+      "diaspora": {
+        "en": "Bekhorot 51",
+        "he": "בכורות דף 51"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-09",
+      "cycle": 14,
+      "day_in_cycle": 2501,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 52,
+      "label": {
+        "en": "Bekhorot 52",
+        "he": "בכורות דף 52"
+      },
+      "references": [
+        "Bekhorot 52a",
+        "Bekhorot 52b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_52a",
+        "https://www.sefaria.org/Bekhorot_52b"
+      ],
+      "id": "cycle-14-bekhorot-52",
+      "target_shabbat": "2026-11-09",
+      "hebrew_date": "כ״ט חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 52",
+        "he": "בכורות דף 52"
+      },
+      "diaspora": {
+        "en": "Bekhorot 52",
+        "he": "בכורות דף 52"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-10",
+      "cycle": 14,
+      "day_in_cycle": 2502,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 53,
+      "label": {
+        "en": "Bekhorot 53",
+        "he": "בכורות דף 53"
+      },
+      "references": [
+        "Bekhorot 53a",
+        "Bekhorot 53b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_53a",
+        "https://www.sefaria.org/Bekhorot_53b"
+      ],
+      "id": "cycle-14-bekhorot-53",
+      "target_shabbat": "2026-11-10",
+      "hebrew_date": "ל׳ חשון תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 53",
+        "he": "בכורות דף 53"
+      },
+      "diaspora": {
+        "en": "Bekhorot 53",
+        "he": "בכורות דף 53"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-11",
+      "cycle": 14,
+      "day_in_cycle": 2503,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 54,
+      "label": {
+        "en": "Bekhorot 54",
+        "he": "בכורות דף 54"
+      },
+      "references": [
+        "Bekhorot 54a",
+        "Bekhorot 54b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_54a",
+        "https://www.sefaria.org/Bekhorot_54b"
+      ],
+      "id": "cycle-14-bekhorot-54",
+      "target_shabbat": "2026-11-11",
+      "hebrew_date": "א׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 54",
+        "he": "בכורות דף 54"
+      },
+      "diaspora": {
+        "en": "Bekhorot 54",
+        "he": "בכורות דף 54"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-12",
+      "cycle": 14,
+      "day_in_cycle": 2504,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 55,
+      "label": {
+        "en": "Bekhorot 55",
+        "he": "בכורות דף 55"
+      },
+      "references": [
+        "Bekhorot 55a",
+        "Bekhorot 55b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_55a",
+        "https://www.sefaria.org/Bekhorot_55b"
+      ],
+      "id": "cycle-14-bekhorot-55",
+      "target_shabbat": "2026-11-12",
+      "hebrew_date": "ב׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 55",
+        "he": "בכורות דף 55"
+      },
+      "diaspora": {
+        "en": "Bekhorot 55",
+        "he": "בכורות דף 55"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-13",
+      "cycle": 14,
+      "day_in_cycle": 2505,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 56,
+      "label": {
+        "en": "Bekhorot 56",
+        "he": "בכורות דף 56"
+      },
+      "references": [
+        "Bekhorot 56a",
+        "Bekhorot 56b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_56a",
+        "https://www.sefaria.org/Bekhorot_56b"
+      ],
+      "id": "cycle-14-bekhorot-56",
+      "target_shabbat": "2026-11-13",
+      "hebrew_date": "ג׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 56",
+        "he": "בכורות דף 56"
+      },
+      "diaspora": {
+        "en": "Bekhorot 56",
+        "he": "בכורות דף 56"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-14",
+      "cycle": 14,
+      "day_in_cycle": 2506,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 57,
+      "label": {
+        "en": "Bekhorot 57",
+        "he": "בכורות דף 57"
+      },
+      "references": [
+        "Bekhorot 57a",
+        "Bekhorot 57b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_57a",
+        "https://www.sefaria.org/Bekhorot_57b"
+      ],
+      "id": "cycle-14-bekhorot-57",
+      "target_shabbat": "2026-11-14",
+      "hebrew_date": "ד׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 57",
+        "he": "בכורות דף 57"
+      },
+      "diaspora": {
+        "en": "Bekhorot 57",
+        "he": "בכורות דף 57"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-15",
+      "cycle": 14,
+      "day_in_cycle": 2507,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 58,
+      "label": {
+        "en": "Bekhorot 58",
+        "he": "בכורות דף 58"
+      },
+      "references": [
+        "Bekhorot 58a",
+        "Bekhorot 58b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_58a",
+        "https://www.sefaria.org/Bekhorot_58b"
+      ],
+      "id": "cycle-14-bekhorot-58",
+      "target_shabbat": "2026-11-15",
+      "hebrew_date": "ה׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 58",
+        "he": "בכורות דף 58"
+      },
+      "diaspora": {
+        "en": "Bekhorot 58",
+        "he": "בכורות דף 58"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-16",
+      "cycle": 14,
+      "day_in_cycle": 2508,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 59,
+      "label": {
+        "en": "Bekhorot 59",
+        "he": "בכורות דף 59"
+      },
+      "references": [
+        "Bekhorot 59a",
+        "Bekhorot 59b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_59a",
+        "https://www.sefaria.org/Bekhorot_59b"
+      ],
+      "id": "cycle-14-bekhorot-59",
+      "target_shabbat": "2026-11-16",
+      "hebrew_date": "ו׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 59",
+        "he": "בכורות דף 59"
+      },
+      "diaspora": {
+        "en": "Bekhorot 59",
+        "he": "בכורות דף 59"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-17",
+      "cycle": 14,
+      "day_in_cycle": 2509,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 60,
+      "label": {
+        "en": "Bekhorot 60",
+        "he": "בכורות דף 60"
+      },
+      "references": [
+        "Bekhorot 60a",
+        "Bekhorot 60b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_60a",
+        "https://www.sefaria.org/Bekhorot_60b"
+      ],
+      "id": "cycle-14-bekhorot-60",
+      "target_shabbat": "2026-11-17",
+      "hebrew_date": "ז׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 60",
+        "he": "בכורות דף 60"
+      },
+      "diaspora": {
+        "en": "Bekhorot 60",
+        "he": "בכורות דף 60"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-18",
+      "cycle": 14,
+      "day_in_cycle": 2510,
+      "tractate_id": "bekhorot",
+      "tractate": {
+        "en": "Bekhorot",
+        "he": "בכורות"
+      },
+      "daf": 61,
+      "label": {
+        "en": "Bekhorot 61",
+        "he": "בכורות דף 61"
+      },
+      "references": [
+        "Bekhorot 61a",
+        "Bekhorot 61b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Bekhorot_61a",
+        "https://www.sefaria.org/Bekhorot_61b"
+      ],
+      "id": "cycle-14-bekhorot-61",
+      "target_shabbat": "2026-11-18",
+      "hebrew_date": "ח׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Bekhorot 61",
+        "he": "בכורות דף 61"
+      },
+      "diaspora": {
+        "en": "Bekhorot 61",
+        "he": "בכורות דף 61"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-19",
+      "cycle": 14,
+      "day_in_cycle": 2511,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 2,
+      "label": {
+        "en": "Arakhin 2",
+        "he": "ערכין דף 2"
+      },
+      "references": [
+        "Arakhin 2a",
+        "Arakhin 2b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_2a",
+        "https://www.sefaria.org/Arakhin_2b"
+      ],
+      "id": "cycle-14-arakhin-2",
+      "target_shabbat": "2026-11-19",
+      "hebrew_date": "ט׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 2",
+        "he": "ערכין דף 2"
+      },
+      "diaspora": {
+        "en": "Arakhin 2",
+        "he": "ערכין דף 2"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-20",
+      "cycle": 14,
+      "day_in_cycle": 2512,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 3,
+      "label": {
+        "en": "Arakhin 3",
+        "he": "ערכין דף 3"
+      },
+      "references": [
+        "Arakhin 3a",
+        "Arakhin 3b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_3a",
+        "https://www.sefaria.org/Arakhin_3b"
+      ],
+      "id": "cycle-14-arakhin-3",
+      "target_shabbat": "2026-11-20",
+      "hebrew_date": "י׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 3",
+        "he": "ערכין דף 3"
+      },
+      "diaspora": {
+        "en": "Arakhin 3",
+        "he": "ערכין דף 3"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-21",
+      "cycle": 14,
+      "day_in_cycle": 2513,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 4,
+      "label": {
+        "en": "Arakhin 4",
+        "he": "ערכין דף 4"
+      },
+      "references": [
+        "Arakhin 4a",
+        "Arakhin 4b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_4a",
+        "https://www.sefaria.org/Arakhin_4b"
+      ],
+      "id": "cycle-14-arakhin-4",
+      "target_shabbat": "2026-11-21",
+      "hebrew_date": "י״א כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 4",
+        "he": "ערכין דף 4"
+      },
+      "diaspora": {
+        "en": "Arakhin 4",
+        "he": "ערכין דף 4"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-22",
+      "cycle": 14,
+      "day_in_cycle": 2514,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 5,
+      "label": {
+        "en": "Arakhin 5",
+        "he": "ערכין דף 5"
+      },
+      "references": [
+        "Arakhin 5a",
+        "Arakhin 5b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_5a",
+        "https://www.sefaria.org/Arakhin_5b"
+      ],
+      "id": "cycle-14-arakhin-5",
+      "target_shabbat": "2026-11-22",
+      "hebrew_date": "י״ב כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 5",
+        "he": "ערכין דף 5"
+      },
+      "diaspora": {
+        "en": "Arakhin 5",
+        "he": "ערכין דף 5"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-23",
+      "cycle": 14,
+      "day_in_cycle": 2515,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 6,
+      "label": {
+        "en": "Arakhin 6",
+        "he": "ערכין דף 6"
+      },
+      "references": [
+        "Arakhin 6a",
+        "Arakhin 6b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_6a",
+        "https://www.sefaria.org/Arakhin_6b"
+      ],
+      "id": "cycle-14-arakhin-6",
+      "target_shabbat": "2026-11-23",
+      "hebrew_date": "י״ג כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 6",
+        "he": "ערכין דף 6"
+      },
+      "diaspora": {
+        "en": "Arakhin 6",
+        "he": "ערכין דף 6"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-24",
+      "cycle": 14,
+      "day_in_cycle": 2516,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 7,
+      "label": {
+        "en": "Arakhin 7",
+        "he": "ערכין דף 7"
+      },
+      "references": [
+        "Arakhin 7a",
+        "Arakhin 7b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_7a",
+        "https://www.sefaria.org/Arakhin_7b"
+      ],
+      "id": "cycle-14-arakhin-7",
+      "target_shabbat": "2026-11-24",
+      "hebrew_date": "י״ד כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 7",
+        "he": "ערכין דף 7"
+      },
+      "diaspora": {
+        "en": "Arakhin 7",
+        "he": "ערכין דף 7"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-25",
+      "cycle": 14,
+      "day_in_cycle": 2517,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 8,
+      "label": {
+        "en": "Arakhin 8",
+        "he": "ערכין דף 8"
+      },
+      "references": [
+        "Arakhin 8a",
+        "Arakhin 8b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_8a",
+        "https://www.sefaria.org/Arakhin_8b"
+      ],
+      "id": "cycle-14-arakhin-8",
+      "target_shabbat": "2026-11-25",
+      "hebrew_date": "ט״ו כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 8",
+        "he": "ערכין דף 8"
+      },
+      "diaspora": {
+        "en": "Arakhin 8",
+        "he": "ערכין דף 8"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-26",
+      "cycle": 14,
+      "day_in_cycle": 2518,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 9,
+      "label": {
+        "en": "Arakhin 9",
+        "he": "ערכין דף 9"
+      },
+      "references": [
+        "Arakhin 9a",
+        "Arakhin 9b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_9a",
+        "https://www.sefaria.org/Arakhin_9b"
+      ],
+      "id": "cycle-14-arakhin-9",
+      "target_shabbat": "2026-11-26",
+      "hebrew_date": "ט״ז כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 9",
+        "he": "ערכין דף 9"
+      },
+      "diaspora": {
+        "en": "Arakhin 9",
+        "he": "ערכין דף 9"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-27",
+      "cycle": 14,
+      "day_in_cycle": 2519,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 10,
+      "label": {
+        "en": "Arakhin 10",
+        "he": "ערכין דף 10"
+      },
+      "references": [
+        "Arakhin 10a",
+        "Arakhin 10b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_10a",
+        "https://www.sefaria.org/Arakhin_10b"
+      ],
+      "id": "cycle-14-arakhin-10",
+      "target_shabbat": "2026-11-27",
+      "hebrew_date": "י״ז כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 10",
+        "he": "ערכין דף 10"
+      },
+      "diaspora": {
+        "en": "Arakhin 10",
+        "he": "ערכין דף 10"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-28",
+      "cycle": 14,
+      "day_in_cycle": 2520,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 11,
+      "label": {
+        "en": "Arakhin 11",
+        "he": "ערכין דף 11"
+      },
+      "references": [
+        "Arakhin 11a",
+        "Arakhin 11b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_11a",
+        "https://www.sefaria.org/Arakhin_11b"
+      ],
+      "id": "cycle-14-arakhin-11",
+      "target_shabbat": "2026-11-28",
+      "hebrew_date": "י״ח כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 11",
+        "he": "ערכין דף 11"
+      },
+      "diaspora": {
+        "en": "Arakhin 11",
+        "he": "ערכין דף 11"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-29",
+      "cycle": 14,
+      "day_in_cycle": 2521,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 12,
+      "label": {
+        "en": "Arakhin 12",
+        "he": "ערכין דף 12"
+      },
+      "references": [
+        "Arakhin 12a",
+        "Arakhin 12b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_12a",
+        "https://www.sefaria.org/Arakhin_12b"
+      ],
+      "id": "cycle-14-arakhin-12",
+      "target_shabbat": "2026-11-29",
+      "hebrew_date": "י״ט כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 12",
+        "he": "ערכין דף 12"
+      },
+      "diaspora": {
+        "en": "Arakhin 12",
+        "he": "ערכין דף 12"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-11-30",
+      "cycle": 14,
+      "day_in_cycle": 2522,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 13,
+      "label": {
+        "en": "Arakhin 13",
+        "he": "ערכין דף 13"
+      },
+      "references": [
+        "Arakhin 13a",
+        "Arakhin 13b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_13a",
+        "https://www.sefaria.org/Arakhin_13b"
+      ],
+      "id": "cycle-14-arakhin-13",
+      "target_shabbat": "2026-11-30",
+      "hebrew_date": "כ׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 13",
+        "he": "ערכין דף 13"
+      },
+      "diaspora": {
+        "en": "Arakhin 13",
+        "he": "ערכין דף 13"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-01",
+      "cycle": 14,
+      "day_in_cycle": 2523,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 14,
+      "label": {
+        "en": "Arakhin 14",
+        "he": "ערכין דף 14"
+      },
+      "references": [
+        "Arakhin 14a",
+        "Arakhin 14b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_14a",
+        "https://www.sefaria.org/Arakhin_14b"
+      ],
+      "id": "cycle-14-arakhin-14",
+      "target_shabbat": "2026-12-01",
+      "hebrew_date": "כ״א כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 14",
+        "he": "ערכין דף 14"
+      },
+      "diaspora": {
+        "en": "Arakhin 14",
+        "he": "ערכין דף 14"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-02",
+      "cycle": 14,
+      "day_in_cycle": 2524,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 15,
+      "label": {
+        "en": "Arakhin 15",
+        "he": "ערכין דף 15"
+      },
+      "references": [
+        "Arakhin 15a",
+        "Arakhin 15b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_15a",
+        "https://www.sefaria.org/Arakhin_15b"
+      ],
+      "id": "cycle-14-arakhin-15",
+      "target_shabbat": "2026-12-02",
+      "hebrew_date": "כ״ב כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 15",
+        "he": "ערכין דף 15"
+      },
+      "diaspora": {
+        "en": "Arakhin 15",
+        "he": "ערכין דף 15"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-03",
+      "cycle": 14,
+      "day_in_cycle": 2525,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 16,
+      "label": {
+        "en": "Arakhin 16",
+        "he": "ערכין דף 16"
+      },
+      "references": [
+        "Arakhin 16a",
+        "Arakhin 16b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_16a",
+        "https://www.sefaria.org/Arakhin_16b"
+      ],
+      "id": "cycle-14-arakhin-16",
+      "target_shabbat": "2026-12-03",
+      "hebrew_date": "כ״ג כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 16",
+        "he": "ערכין דף 16"
+      },
+      "diaspora": {
+        "en": "Arakhin 16",
+        "he": "ערכין דף 16"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-04",
+      "cycle": 14,
+      "day_in_cycle": 2526,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 17,
+      "label": {
+        "en": "Arakhin 17",
+        "he": "ערכין דף 17"
+      },
+      "references": [
+        "Arakhin 17a",
+        "Arakhin 17b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_17a",
+        "https://www.sefaria.org/Arakhin_17b"
+      ],
+      "id": "cycle-14-arakhin-17",
+      "target_shabbat": "2026-12-04",
+      "hebrew_date": "כ״ד כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 17",
+        "he": "ערכין דף 17"
+      },
+      "diaspora": {
+        "en": "Arakhin 17",
+        "he": "ערכין דף 17"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-05",
+      "cycle": 14,
+      "day_in_cycle": 2527,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 18,
+      "label": {
+        "en": "Arakhin 18",
+        "he": "ערכין דף 18"
+      },
+      "references": [
+        "Arakhin 18a",
+        "Arakhin 18b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_18a",
+        "https://www.sefaria.org/Arakhin_18b"
+      ],
+      "id": "cycle-14-arakhin-18",
+      "target_shabbat": "2026-12-05",
+      "hebrew_date": "כ״ה כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 18",
+        "he": "ערכין דף 18"
+      },
+      "diaspora": {
+        "en": "Arakhin 18",
+        "he": "ערכין דף 18"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-06",
+      "cycle": 14,
+      "day_in_cycle": 2528,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 19,
+      "label": {
+        "en": "Arakhin 19",
+        "he": "ערכין דף 19"
+      },
+      "references": [
+        "Arakhin 19a",
+        "Arakhin 19b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_19a",
+        "https://www.sefaria.org/Arakhin_19b"
+      ],
+      "id": "cycle-14-arakhin-19",
+      "target_shabbat": "2026-12-06",
+      "hebrew_date": "כ״ו כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 19",
+        "he": "ערכין דף 19"
+      },
+      "diaspora": {
+        "en": "Arakhin 19",
+        "he": "ערכין דף 19"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-07",
+      "cycle": 14,
+      "day_in_cycle": 2529,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 20,
+      "label": {
+        "en": "Arakhin 20",
+        "he": "ערכין דף 20"
+      },
+      "references": [
+        "Arakhin 20a",
+        "Arakhin 20b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_20a",
+        "https://www.sefaria.org/Arakhin_20b"
+      ],
+      "id": "cycle-14-arakhin-20",
+      "target_shabbat": "2026-12-07",
+      "hebrew_date": "כ״ז כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 20",
+        "he": "ערכין דף 20"
+      },
+      "diaspora": {
+        "en": "Arakhin 20",
+        "he": "ערכין דף 20"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-08",
+      "cycle": 14,
+      "day_in_cycle": 2530,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 21,
+      "label": {
+        "en": "Arakhin 21",
+        "he": "ערכין דף 21"
+      },
+      "references": [
+        "Arakhin 21a",
+        "Arakhin 21b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_21a",
+        "https://www.sefaria.org/Arakhin_21b"
+      ],
+      "id": "cycle-14-arakhin-21",
+      "target_shabbat": "2026-12-08",
+      "hebrew_date": "כ״ח כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 21",
+        "he": "ערכין דף 21"
+      },
+      "diaspora": {
+        "en": "Arakhin 21",
+        "he": "ערכין דף 21"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-09",
+      "cycle": 14,
+      "day_in_cycle": 2531,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 22,
+      "label": {
+        "en": "Arakhin 22",
+        "he": "ערכין דף 22"
+      },
+      "references": [
+        "Arakhin 22a",
+        "Arakhin 22b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_22a",
+        "https://www.sefaria.org/Arakhin_22b"
+      ],
+      "id": "cycle-14-arakhin-22",
+      "target_shabbat": "2026-12-09",
+      "hebrew_date": "כ״ט כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 22",
+        "he": "ערכין דף 22"
+      },
+      "diaspora": {
+        "en": "Arakhin 22",
+        "he": "ערכין דף 22"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-10",
+      "cycle": 14,
+      "day_in_cycle": 2532,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 23,
+      "label": {
+        "en": "Arakhin 23",
+        "he": "ערכין דף 23"
+      },
+      "references": [
+        "Arakhin 23a",
+        "Arakhin 23b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_23a",
+        "https://www.sefaria.org/Arakhin_23b"
+      ],
+      "id": "cycle-14-arakhin-23",
+      "target_shabbat": "2026-12-10",
+      "hebrew_date": "ל׳ כסלו תשפ״ז",
+      "israel": {
+        "en": "Arakhin 23",
+        "he": "ערכין דף 23"
+      },
+      "diaspora": {
+        "en": "Arakhin 23",
+        "he": "ערכין דף 23"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-11",
+      "cycle": 14,
+      "day_in_cycle": 2533,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 24,
+      "label": {
+        "en": "Arakhin 24",
+        "he": "ערכין דף 24"
+      },
+      "references": [
+        "Arakhin 24a",
+        "Arakhin 24b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_24a",
+        "https://www.sefaria.org/Arakhin_24b"
+      ],
+      "id": "cycle-14-arakhin-24",
+      "target_shabbat": "2026-12-11",
+      "hebrew_date": "א׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 24",
+        "he": "ערכין דף 24"
+      },
+      "diaspora": {
+        "en": "Arakhin 24",
+        "he": "ערכין דף 24"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-12",
+      "cycle": 14,
+      "day_in_cycle": 2534,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 25,
+      "label": {
+        "en": "Arakhin 25",
+        "he": "ערכין דף 25"
+      },
+      "references": [
+        "Arakhin 25a",
+        "Arakhin 25b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_25a",
+        "https://www.sefaria.org/Arakhin_25b"
+      ],
+      "id": "cycle-14-arakhin-25",
+      "target_shabbat": "2026-12-12",
+      "hebrew_date": "ב׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 25",
+        "he": "ערכין דף 25"
+      },
+      "diaspora": {
+        "en": "Arakhin 25",
+        "he": "ערכין דף 25"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-13",
+      "cycle": 14,
+      "day_in_cycle": 2535,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 26,
+      "label": {
+        "en": "Arakhin 26",
+        "he": "ערכין דף 26"
+      },
+      "references": [
+        "Arakhin 26a",
+        "Arakhin 26b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_26a",
+        "https://www.sefaria.org/Arakhin_26b"
+      ],
+      "id": "cycle-14-arakhin-26",
+      "target_shabbat": "2026-12-13",
+      "hebrew_date": "ג׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 26",
+        "he": "ערכין דף 26"
+      },
+      "diaspora": {
+        "en": "Arakhin 26",
+        "he": "ערכין דף 26"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-14",
+      "cycle": 14,
+      "day_in_cycle": 2536,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 27,
+      "label": {
+        "en": "Arakhin 27",
+        "he": "ערכין דף 27"
+      },
+      "references": [
+        "Arakhin 27a",
+        "Arakhin 27b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_27a",
+        "https://www.sefaria.org/Arakhin_27b"
+      ],
+      "id": "cycle-14-arakhin-27",
+      "target_shabbat": "2026-12-14",
+      "hebrew_date": "ד׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 27",
+        "he": "ערכין דף 27"
+      },
+      "diaspora": {
+        "en": "Arakhin 27",
+        "he": "ערכין דף 27"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-15",
+      "cycle": 14,
+      "day_in_cycle": 2537,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 28,
+      "label": {
+        "en": "Arakhin 28",
+        "he": "ערכין דף 28"
+      },
+      "references": [
+        "Arakhin 28a",
+        "Arakhin 28b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_28a",
+        "https://www.sefaria.org/Arakhin_28b"
+      ],
+      "id": "cycle-14-arakhin-28",
+      "target_shabbat": "2026-12-15",
+      "hebrew_date": "ה׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 28",
+        "he": "ערכין דף 28"
+      },
+      "diaspora": {
+        "en": "Arakhin 28",
+        "he": "ערכין דף 28"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-16",
+      "cycle": 14,
+      "day_in_cycle": 2538,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 29,
+      "label": {
+        "en": "Arakhin 29",
+        "he": "ערכין דף 29"
+      },
+      "references": [
+        "Arakhin 29a",
+        "Arakhin 29b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_29a",
+        "https://www.sefaria.org/Arakhin_29b"
+      ],
+      "id": "cycle-14-arakhin-29",
+      "target_shabbat": "2026-12-16",
+      "hebrew_date": "ו׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 29",
+        "he": "ערכין דף 29"
+      },
+      "diaspora": {
+        "en": "Arakhin 29",
+        "he": "ערכין דף 29"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-17",
+      "cycle": 14,
+      "day_in_cycle": 2539,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 30,
+      "label": {
+        "en": "Arakhin 30",
+        "he": "ערכין דף 30"
+      },
+      "references": [
+        "Arakhin 30a",
+        "Arakhin 30b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_30a",
+        "https://www.sefaria.org/Arakhin_30b"
+      ],
+      "id": "cycle-14-arakhin-30",
+      "target_shabbat": "2026-12-17",
+      "hebrew_date": "ז׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 30",
+        "he": "ערכין דף 30"
+      },
+      "diaspora": {
+        "en": "Arakhin 30",
+        "he": "ערכין דף 30"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-18",
+      "cycle": 14,
+      "day_in_cycle": 2540,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 31,
+      "label": {
+        "en": "Arakhin 31",
+        "he": "ערכין דף 31"
+      },
+      "references": [
+        "Arakhin 31a",
+        "Arakhin 31b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_31a",
+        "https://www.sefaria.org/Arakhin_31b"
+      ],
+      "id": "cycle-14-arakhin-31",
+      "target_shabbat": "2026-12-18",
+      "hebrew_date": "ח׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 31",
+        "he": "ערכין דף 31"
+      },
+      "diaspora": {
+        "en": "Arakhin 31",
+        "he": "ערכין דף 31"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-19",
+      "cycle": 14,
+      "day_in_cycle": 2541,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 32,
+      "label": {
+        "en": "Arakhin 32",
+        "he": "ערכין דף 32"
+      },
+      "references": [
+        "Arakhin 32a",
+        "Arakhin 32b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_32a",
+        "https://www.sefaria.org/Arakhin_32b"
+      ],
+      "id": "cycle-14-arakhin-32",
+      "target_shabbat": "2026-12-19",
+      "hebrew_date": "ט׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 32",
+        "he": "ערכין דף 32"
+      },
+      "diaspora": {
+        "en": "Arakhin 32",
+        "he": "ערכין דף 32"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-20",
+      "cycle": 14,
+      "day_in_cycle": 2542,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 33,
+      "label": {
+        "en": "Arakhin 33",
+        "he": "ערכין דף 33"
+      },
+      "references": [
+        "Arakhin 33a",
+        "Arakhin 33b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_33a",
+        "https://www.sefaria.org/Arakhin_33b"
+      ],
+      "id": "cycle-14-arakhin-33",
+      "target_shabbat": "2026-12-20",
+      "hebrew_date": "י׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 33",
+        "he": "ערכין דף 33"
+      },
+      "diaspora": {
+        "en": "Arakhin 33",
+        "he": "ערכין דף 33"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-21",
+      "cycle": 14,
+      "day_in_cycle": 2543,
+      "tractate_id": "arakhin",
+      "tractate": {
+        "en": "Arakhin",
+        "he": "ערכין"
+      },
+      "daf": 34,
+      "label": {
+        "en": "Arakhin 34",
+        "he": "ערכין דף 34"
+      },
+      "references": [
+        "Arakhin 34a",
+        "Arakhin 34b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Arakhin_34a",
+        "https://www.sefaria.org/Arakhin_34b"
+      ],
+      "id": "cycle-14-arakhin-34",
+      "target_shabbat": "2026-12-21",
+      "hebrew_date": "י״א טבת תשפ״ז",
+      "israel": {
+        "en": "Arakhin 34",
+        "he": "ערכין דף 34"
+      },
+      "diaspora": {
+        "en": "Arakhin 34",
+        "he": "ערכין דף 34"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-22",
+      "cycle": 14,
+      "day_in_cycle": 2544,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 2,
+      "label": {
+        "en": "Temurah 2",
+        "he": "תמורה דף 2"
+      },
+      "references": [
+        "Temurah 2a",
+        "Temurah 2b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_2a",
+        "https://www.sefaria.org/Temurah_2b"
+      ],
+      "id": "cycle-14-temurah-2",
+      "target_shabbat": "2026-12-22",
+      "hebrew_date": "י״ב טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 2",
+        "he": "תמורה דף 2"
+      },
+      "diaspora": {
+        "en": "Temurah 2",
+        "he": "תמורה דף 2"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-23",
+      "cycle": 14,
+      "day_in_cycle": 2545,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 3,
+      "label": {
+        "en": "Temurah 3",
+        "he": "תמורה דף 3"
+      },
+      "references": [
+        "Temurah 3a",
+        "Temurah 3b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_3a",
+        "https://www.sefaria.org/Temurah_3b"
+      ],
+      "id": "cycle-14-temurah-3",
+      "target_shabbat": "2026-12-23",
+      "hebrew_date": "י״ג טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 3",
+        "he": "תמורה דף 3"
+      },
+      "diaspora": {
+        "en": "Temurah 3",
+        "he": "תמורה דף 3"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-24",
+      "cycle": 14,
+      "day_in_cycle": 2546,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 4,
+      "label": {
+        "en": "Temurah 4",
+        "he": "תמורה דף 4"
+      },
+      "references": [
+        "Temurah 4a",
+        "Temurah 4b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_4a",
+        "https://www.sefaria.org/Temurah_4b"
+      ],
+      "id": "cycle-14-temurah-4",
+      "target_shabbat": "2026-12-24",
+      "hebrew_date": "י״ד טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 4",
+        "he": "תמורה דף 4"
+      },
+      "diaspora": {
+        "en": "Temurah 4",
+        "he": "תמורה דף 4"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-25",
+      "cycle": 14,
+      "day_in_cycle": 2547,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 5,
+      "label": {
+        "en": "Temurah 5",
+        "he": "תמורה דף 5"
+      },
+      "references": [
+        "Temurah 5a",
+        "Temurah 5b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_5a",
+        "https://www.sefaria.org/Temurah_5b"
+      ],
+      "id": "cycle-14-temurah-5",
+      "target_shabbat": "2026-12-25",
+      "hebrew_date": "ט״ו טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 5",
+        "he": "תמורה דף 5"
+      },
+      "diaspora": {
+        "en": "Temurah 5",
+        "he": "תמורה דף 5"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-26",
+      "cycle": 14,
+      "day_in_cycle": 2548,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 6,
+      "label": {
+        "en": "Temurah 6",
+        "he": "תמורה דף 6"
+      },
+      "references": [
+        "Temurah 6a",
+        "Temurah 6b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_6a",
+        "https://www.sefaria.org/Temurah_6b"
+      ],
+      "id": "cycle-14-temurah-6",
+      "target_shabbat": "2026-12-26",
+      "hebrew_date": "ט״ז טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 6",
+        "he": "תמורה דף 6"
+      },
+      "diaspora": {
+        "en": "Temurah 6",
+        "he": "תמורה דף 6"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-27",
+      "cycle": 14,
+      "day_in_cycle": 2549,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 7,
+      "label": {
+        "en": "Temurah 7",
+        "he": "תמורה דף 7"
+      },
+      "references": [
+        "Temurah 7a",
+        "Temurah 7b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_7a",
+        "https://www.sefaria.org/Temurah_7b"
+      ],
+      "id": "cycle-14-temurah-7",
+      "target_shabbat": "2026-12-27",
+      "hebrew_date": "י״ז טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 7",
+        "he": "תמורה דף 7"
+      },
+      "diaspora": {
+        "en": "Temurah 7",
+        "he": "תמורה דף 7"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-28",
+      "cycle": 14,
+      "day_in_cycle": 2550,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 8,
+      "label": {
+        "en": "Temurah 8",
+        "he": "תמורה דף 8"
+      },
+      "references": [
+        "Temurah 8a",
+        "Temurah 8b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_8a",
+        "https://www.sefaria.org/Temurah_8b"
+      ],
+      "id": "cycle-14-temurah-8",
+      "target_shabbat": "2026-12-28",
+      "hebrew_date": "י״ח טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 8",
+        "he": "תמורה דף 8"
+      },
+      "diaspora": {
+        "en": "Temurah 8",
+        "he": "תמורה דף 8"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-29",
+      "cycle": 14,
+      "day_in_cycle": 2551,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 9,
+      "label": {
+        "en": "Temurah 9",
+        "he": "תמורה דף 9"
+      },
+      "references": [
+        "Temurah 9a",
+        "Temurah 9b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_9a",
+        "https://www.sefaria.org/Temurah_9b"
+      ],
+      "id": "cycle-14-temurah-9",
+      "target_shabbat": "2026-12-29",
+      "hebrew_date": "י״ט טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 9",
+        "he": "תמורה דף 9"
+      },
+      "diaspora": {
+        "en": "Temurah 9",
+        "he": "תמורה דף 9"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-30",
+      "cycle": 14,
+      "day_in_cycle": 2552,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 10,
+      "label": {
+        "en": "Temurah 10",
+        "he": "תמורה דף 10"
+      },
+      "references": [
+        "Temurah 10a",
+        "Temurah 10b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_10a",
+        "https://www.sefaria.org/Temurah_10b"
+      ],
+      "id": "cycle-14-temurah-10",
+      "target_shabbat": "2026-12-30",
+      "hebrew_date": "כ׳ טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 10",
+        "he": "תמורה דף 10"
+      },
+      "diaspora": {
+        "en": "Temurah 10",
+        "he": "תמורה דף 10"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2026-12-31",
+      "cycle": 14,
+      "day_in_cycle": 2553,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 11,
+      "label": {
+        "en": "Temurah 11",
+        "he": "תמורה דף 11"
+      },
+      "references": [
+        "Temurah 11a",
+        "Temurah 11b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_11a",
+        "https://www.sefaria.org/Temurah_11b"
+      ],
+      "id": "cycle-14-temurah-11",
+      "target_shabbat": "2026-12-31",
+      "hebrew_date": "כ״א טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 11",
+        "he": "תמורה דף 11"
+      },
+      "diaspora": {
+        "en": "Temurah 11",
+        "he": "תמורה דף 11"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-01",
+      "cycle": 14,
+      "day_in_cycle": 2554,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 12,
+      "label": {
+        "en": "Temurah 12",
+        "he": "תמורה דף 12"
+      },
+      "references": [
+        "Temurah 12a",
+        "Temurah 12b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_12a",
+        "https://www.sefaria.org/Temurah_12b"
+      ],
+      "id": "cycle-14-temurah-12",
+      "target_shabbat": "2027-01-01",
+      "hebrew_date": "כ״ב טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 12",
+        "he": "תמורה דף 12"
+      },
+      "diaspora": {
+        "en": "Temurah 12",
+        "he": "תמורה דף 12"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-02",
+      "cycle": 14,
+      "day_in_cycle": 2555,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 13,
+      "label": {
+        "en": "Temurah 13",
+        "he": "תמורה דף 13"
+      },
+      "references": [
+        "Temurah 13a",
+        "Temurah 13b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_13a",
+        "https://www.sefaria.org/Temurah_13b"
+      ],
+      "id": "cycle-14-temurah-13",
+      "target_shabbat": "2027-01-02",
+      "hebrew_date": "כ״ג טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 13",
+        "he": "תמורה דף 13"
+      },
+      "diaspora": {
+        "en": "Temurah 13",
+        "he": "תמורה דף 13"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-03",
+      "cycle": 14,
+      "day_in_cycle": 2556,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 14,
+      "label": {
+        "en": "Temurah 14",
+        "he": "תמורה דף 14"
+      },
+      "references": [
+        "Temurah 14a",
+        "Temurah 14b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_14a",
+        "https://www.sefaria.org/Temurah_14b"
+      ],
+      "id": "cycle-14-temurah-14",
+      "target_shabbat": "2027-01-03",
+      "hebrew_date": "כ״ד טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 14",
+        "he": "תמורה דף 14"
+      },
+      "diaspora": {
+        "en": "Temurah 14",
+        "he": "תמורה דף 14"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-04",
+      "cycle": 14,
+      "day_in_cycle": 2557,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 15,
+      "label": {
+        "en": "Temurah 15",
+        "he": "תמורה דף 15"
+      },
+      "references": [
+        "Temurah 15a",
+        "Temurah 15b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_15a",
+        "https://www.sefaria.org/Temurah_15b"
+      ],
+      "id": "cycle-14-temurah-15",
+      "target_shabbat": "2027-01-04",
+      "hebrew_date": "כ״ה טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 15",
+        "he": "תמורה דף 15"
+      },
+      "diaspora": {
+        "en": "Temurah 15",
+        "he": "תמורה דף 15"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-05",
+      "cycle": 14,
+      "day_in_cycle": 2558,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 16,
+      "label": {
+        "en": "Temurah 16",
+        "he": "תמורה דף 16"
+      },
+      "references": [
+        "Temurah 16a",
+        "Temurah 16b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_16a",
+        "https://www.sefaria.org/Temurah_16b"
+      ],
+      "id": "cycle-14-temurah-16",
+      "target_shabbat": "2027-01-05",
+      "hebrew_date": "כ״ו טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 16",
+        "he": "תמורה דף 16"
+      },
+      "diaspora": {
+        "en": "Temurah 16",
+        "he": "תמורה דף 16"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-06",
+      "cycle": 14,
+      "day_in_cycle": 2559,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 17,
+      "label": {
+        "en": "Temurah 17",
+        "he": "תמורה דף 17"
+      },
+      "references": [
+        "Temurah 17a",
+        "Temurah 17b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_17a",
+        "https://www.sefaria.org/Temurah_17b"
+      ],
+      "id": "cycle-14-temurah-17",
+      "target_shabbat": "2027-01-06",
+      "hebrew_date": "כ״ז טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 17",
+        "he": "תמורה דף 17"
+      },
+      "diaspora": {
+        "en": "Temurah 17",
+        "he": "תמורה דף 17"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-07",
+      "cycle": 14,
+      "day_in_cycle": 2560,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 18,
+      "label": {
+        "en": "Temurah 18",
+        "he": "תמורה דף 18"
+      },
+      "references": [
+        "Temurah 18a",
+        "Temurah 18b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_18a",
+        "https://www.sefaria.org/Temurah_18b"
+      ],
+      "id": "cycle-14-temurah-18",
+      "target_shabbat": "2027-01-07",
+      "hebrew_date": "כ״ח טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 18",
+        "he": "תמורה דף 18"
+      },
+      "diaspora": {
+        "en": "Temurah 18",
+        "he": "תמורה דף 18"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-08",
+      "cycle": 14,
+      "day_in_cycle": 2561,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 19,
+      "label": {
+        "en": "Temurah 19",
+        "he": "תמורה דף 19"
+      },
+      "references": [
+        "Temurah 19a",
+        "Temurah 19b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_19a",
+        "https://www.sefaria.org/Temurah_19b"
+      ],
+      "id": "cycle-14-temurah-19",
+      "target_shabbat": "2027-01-08",
+      "hebrew_date": "כ״ט טבת תשפ״ז",
+      "israel": {
+        "en": "Temurah 19",
+        "he": "תמורה דף 19"
+      },
+      "diaspora": {
+        "en": "Temurah 19",
+        "he": "תמורה דף 19"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-09",
+      "cycle": 14,
+      "day_in_cycle": 2562,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 20,
+      "label": {
+        "en": "Temurah 20",
+        "he": "תמורה דף 20"
+      },
+      "references": [
+        "Temurah 20a",
+        "Temurah 20b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_20a",
+        "https://www.sefaria.org/Temurah_20b"
+      ],
+      "id": "cycle-14-temurah-20",
+      "target_shabbat": "2027-01-09",
+      "hebrew_date": "א׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 20",
+        "he": "תמורה דף 20"
+      },
+      "diaspora": {
+        "en": "Temurah 20",
+        "he": "תמורה דף 20"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-10",
+      "cycle": 14,
+      "day_in_cycle": 2563,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 21,
+      "label": {
+        "en": "Temurah 21",
+        "he": "תמורה דף 21"
+      },
+      "references": [
+        "Temurah 21a",
+        "Temurah 21b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_21a",
+        "https://www.sefaria.org/Temurah_21b"
+      ],
+      "id": "cycle-14-temurah-21",
+      "target_shabbat": "2027-01-10",
+      "hebrew_date": "ב׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 21",
+        "he": "תמורה דף 21"
+      },
+      "diaspora": {
+        "en": "Temurah 21",
+        "he": "תמורה דף 21"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-11",
+      "cycle": 14,
+      "day_in_cycle": 2564,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 22,
+      "label": {
+        "en": "Temurah 22",
+        "he": "תמורה דף 22"
+      },
+      "references": [
+        "Temurah 22a",
+        "Temurah 22b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_22a",
+        "https://www.sefaria.org/Temurah_22b"
+      ],
+      "id": "cycle-14-temurah-22",
+      "target_shabbat": "2027-01-11",
+      "hebrew_date": "ג׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 22",
+        "he": "תמורה דף 22"
+      },
+      "diaspora": {
+        "en": "Temurah 22",
+        "he": "תמורה דף 22"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-12",
+      "cycle": 14,
+      "day_in_cycle": 2565,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 23,
+      "label": {
+        "en": "Temurah 23",
+        "he": "תמורה דף 23"
+      },
+      "references": [
+        "Temurah 23a",
+        "Temurah 23b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_23a",
+        "https://www.sefaria.org/Temurah_23b"
+      ],
+      "id": "cycle-14-temurah-23",
+      "target_shabbat": "2027-01-12",
+      "hebrew_date": "ד׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 23",
+        "he": "תמורה דף 23"
+      },
+      "diaspora": {
+        "en": "Temurah 23",
+        "he": "תמורה דף 23"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-13",
+      "cycle": 14,
+      "day_in_cycle": 2566,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 24,
+      "label": {
+        "en": "Temurah 24",
+        "he": "תמורה דף 24"
+      },
+      "references": [
+        "Temurah 24a",
+        "Temurah 24b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_24a",
+        "https://www.sefaria.org/Temurah_24b"
+      ],
+      "id": "cycle-14-temurah-24",
+      "target_shabbat": "2027-01-13",
+      "hebrew_date": "ה׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 24",
+        "he": "תמורה דף 24"
+      },
+      "diaspora": {
+        "en": "Temurah 24",
+        "he": "תמורה דף 24"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-14",
+      "cycle": 14,
+      "day_in_cycle": 2567,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 25,
+      "label": {
+        "en": "Temurah 25",
+        "he": "תמורה דף 25"
+      },
+      "references": [
+        "Temurah 25a",
+        "Temurah 25b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_25a",
+        "https://www.sefaria.org/Temurah_25b"
+      ],
+      "id": "cycle-14-temurah-25",
+      "target_shabbat": "2027-01-14",
+      "hebrew_date": "ו׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 25",
+        "he": "תמורה דף 25"
+      },
+      "diaspora": {
+        "en": "Temurah 25",
+        "he": "תמורה דף 25"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    }
+  ]
+}
