@@ -782,6 +782,435 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-arakhin-2",
+      "title": {
+        "en": "Arakhin 2 — Everyone values and is valued",
+        "he": "הכל מעריכין ונערכין"
+      },
+      "parashah": {
+        "en": "Arakhin 2",
+        "he": "ערכין דף 2"
+      },
+      "target_shabbat": "2026-11-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-3",
+      "title": {
+        "en": "Arakhin 3 — All are obligated: from Megilla to kohanim",
+        "he": "הכל חייבין: ממגילה ועד כהנים"
+      },
+      "parashah": {
+        "en": "Arakhin 3",
+        "he": "ערכין דף 3"
+      },
+      "target_shabbat": "2026-11-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-4",
+      "title": {
+        "en": "Arakhin 4 — Kohanim in valuations and the scope of “your valuation”",
+        "he": "כהנים בערכין והיקף \"בערכך\""
+      },
+      "parashah": {
+        "en": "Arakhin 4",
+        "he": "ערכין דף 4"
+      },
+      "target_shabbat": "2026-11-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-5",
+      "title": {
+        "en": "Arakhin 5 — A limb for the altar, an infant and a gentile",
+        "he": "אבר למזבח, פחות מבן חודש ונכרי"
+      },
+      "parashah": {
+        "en": "Arakhin 5",
+        "he": "ערכין דף 5"
+      },
+      "target_shabbat": "2026-11-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-6",
+      "title": {
+        "en": "Arakhin 6 — Gifts from gentiles, charity pledges and the condemned",
+        "he": "נדבת נכרי, נדר צדקה והיוצא ליהרג"
+      },
+      "parashah": {
+        "en": "Arakhin 6",
+        "he": "ערכין דף 6"
+      },
+      "target_shabbat": "2026-11-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-7",
+      "title": {
+        "en": "Arakhin 7 — The condemned, the unborn, and the limits of valuation",
+        "he": "היוצא ליהרג, הוולד, וגבולות הערכין"
+      },
+      "parashah": {
+        "en": "Arakhin 7",
+        "he": "ערכין דף 7"
+      },
+      "target_shabbat": "2026-11-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-8",
+      "title": {
+        "en": "Arakhin 8 — Minimums and maximums: the confused woman, plagues and months",
+        "he": "אין פחות ולא יתר: טועה, נגעים וחודשים"
+      },
+      "parashah": {
+        "en": "Arakhin 8",
+        "he": "ערכין דף 8"
+      },
+      "target_shabbat": "2026-11-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-9",
+      "title": {
+        "en": "Arakhin 9 — Full and deficient months",
+        "he": "חודשים מלאים וחסרים"
+      },
+      "parashah": {
+        "en": "Arakhin 9",
+        "he": "ערכין דף 9"
+      },
+      "target_shabbat": "2026-11-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-10",
+      "title": {
+        "en": "Arakhin 10 — Trumpets, flutes and the days of Hallel",
+        "he": "תקיעות, חלילים וימי ההלל"
+      },
+      "parashah": {
+        "en": "Arakhin 10",
+        "he": "ערכין דף 10"
+      },
+      "target_shabbat": "2026-11-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-11",
+      "title": {
+        "en": "Arakhin 11 — The song of the levites",
+        "he": "שירת הלוים"
+      },
+      "parashah": {
+        "en": "Arakhin 11",
+        "he": "ערכין דף 11"
+      },
+      "target_shabbat": "2026-11-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-12",
+      "title": {
+        "en": "Arakhin 12 — Libations, song, and the year the Temples fell",
+        "he": "נסכים, שירה ושנת החורבן"
+      },
+      "parashah": {
+        "en": "Arakhin 12",
+        "he": "ערכין דף 12"
+      },
+      "target_shabbat": "2026-11-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-13",
+      "title": {
+        "en": "Arakhin 13 — Lambs, instruments and levites on the platform",
+        "he": "טלאים, כלי שיר ולוים על הדוכן"
+      },
+      "parashah": {
+        "en": "Arakhin 13",
+        "he": "ערכין דף 13"
+      },
+      "target_shabbat": "2026-11-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-14",
+      "title": {
+        "en": "Arakhin 14 — Fixed sums: the ancestral field, the goring ox and the fifty sela’im",
+        "he": "סכומים קצובים: שדה אחוזה, שור המועד וחמשים סלע"
+      },
+      "parashah": {
+        "en": "Arakhin 14",
+        "he": "ערכין דף 14"
+      },
+      "target_shabbat": "2026-12-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-15",
+      "title": {
+        "en": "Arakhin 15 — The power of speech",
+        "he": "כוחו של לשון הרע"
+      },
+      "parashah": {
+        "en": "Arakhin 15",
+        "he": "ערכין דף 15"
+      },
+      "target_shabbat": "2026-12-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-16",
+      "title": {
+        "en": "Arakhin 16 — Plagues, atonement and rebuke",
+        "he": "נגעים, כפרה ותוכחה"
+      },
+      "parashah": {
+        "en": "Arakhin 16",
+        "he": "ערכין דף 16"
+      },
+      "target_shabbat": "2026-12-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-17",
+      "title": {
+        "en": "Arakhin 17 — According to his means",
+        "he": "השג יד"
+      },
+      "parashah": {
+        "en": "Arakhin 17",
+        "he": "ערכין דף 17"
+      },
+      "target_shabbat": "2026-12-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-18",
+      "title": {
+        "en": "Arakhin 18 — Years by the one valued, value at the time of valuation",
+        "he": "השנים בנידר והערך בזמן הערך"
+      },
+      "parashah": {
+        "en": "Arakhin 18",
+        "he": "ערכין דף 18"
+      },
+      "target_shabbat": "2026-12-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-19",
+      "title": {
+        "en": "Arakhin 19 — My weight, my height and my hand",
+        "he": "משקלי, קומתי וידי"
+      },
+      "parashah": {
+        "en": "Arakhin 19",
+        "he": "ערכין דף 19"
+      },
+      "target_shabbat": "2026-12-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-20",
+      "title": {
+        "en": "Arakhin 20 — Stringencies of valuations over vows",
+        "he": "חומר בערכין מבנדרים"
+      },
+      "parashah": {
+        "en": "Arakhin 20",
+        "he": "ערכין דף 20"
+      },
+      "target_shabbat": "2026-12-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-21",
+      "title": {
+        "en": "Arakhin 21 — Compelled until he says “I want”",
+        "he": "כופין אותו עד שיאמר רוצה אני"
+      },
+      "parashah": {
+        "en": "Arakhin 21",
+        "he": "ערכין דף 21"
+      },
+      "target_shabbat": "2026-12-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-22",
+      "title": {
+        "en": "Arakhin 22 — Collecting from orphans’ property",
+        "he": "הזקקות לנכסי יתומים"
+      },
+      "parashah": {
+        "en": "Arakhin 22",
+        "he": "ערכין דף 22"
+      },
+      "target_shabbat": "2026-12-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-23",
+      "title": {
+        "en": "Arakhin 23 — Consecrated property and the wife’s ketuba",
+        "he": "המקדיש נכסיו וכתובת אשה"
+      },
+      "parashah": {
+        "en": "Arakhin 23",
+        "he": "ערכין דף 23"
+      },
+      "target_shabbat": "2026-12-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-24",
+      "title": {
+        "en": "Arakhin 24 — Clothing, tefillin and the Jubilee year",
+        "he": "כסות, תפילין ושנת היובל"
+      },
+      "parashah": {
+        "en": "Arakhin 24",
+        "he": "ערכין דף 24"
+      },
+      "target_shabbat": "2026-12-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-25",
+      "title": {
+        "en": "Arakhin 25 — Redeeming the consecrated field",
+        "he": "גאולת שדה ההקדש"
+      },
+      "parashah": {
+        "en": "Arakhin 25",
+        "he": "ערכין דף 25"
+      },
+      "target_shabbat": "2026-12-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-26",
+      "title": {
+        "en": "Arakhin 26 — The field that returns no more",
+        "he": "השדה שאינה נגאלת עוד"
+      },
+      "parashah": {
+        "en": "Arakhin 26",
+        "he": "ערכין דף 26"
+      },
+      "target_shabbat": "2026-12-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-27",
+      "title": {
+        "en": "Arakhin 27 — You open first: bidding for a consecrated field",
+        "he": "פתח אתה ראשון: מכרז על שדה מוקדשת"
+      },
+      "parashah": {
+        "en": "Arakhin 27",
+        "he": "ערכין דף 27"
+      },
+      "target_shabbat": "2026-12-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-28",
+      "title": {
+        "en": "Arakhin 28 — Proscribed property",
+        "he": "חרמים"
+      },
+      "parashah": {
+        "en": "Arakhin 28",
+        "he": "ערכין דף 28"
+      },
+      "target_shabbat": "2026-12-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-29",
+      "title": {
+        "en": "Arakhin 29 — Proscriptions today and the sale of a field",
+        "he": "חרמים בזמן הזה ומכירת שדה"
+      },
+      "parashah": {
+        "en": "Arakhin 29",
+        "he": "ערכין דף 29"
+      },
+      "target_shabbat": "2026-12-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-30",
+      "title": {
+        "en": "Arakhin 30 — Redeeming a sold field and the dust of the Sabbatical year",
+        "he": "גאולת שדה מכורה ואבקה של שביעית"
+      },
+      "parashah": {
+        "en": "Arakhin 30",
+        "he": "ערכין דף 30"
+      },
+      "target_shabbat": "2026-12-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-31",
+      "title": {
+        "en": "Arakhin 31 — Houses in walled cities",
+        "he": "בתי ערי חומה"
+      },
+      "parashah": {
+        "en": "Arakhin 31",
+        "he": "ערכין דף 31"
+      },
+      "target_shabbat": "2026-12-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-32",
+      "title": {
+        "en": "Arakhin 32 — Which cities are walled",
+        "he": "אילו ערים מוקפות חומה"
+      },
+      "parashah": {
+        "en": "Arakhin 32",
+        "he": "ערכין דף 32"
+      },
+      "target_shabbat": "2026-12-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-33",
+      "title": {
+        "en": "Arakhin 33 — Unwalled villages and the cities of the levites",
+        "he": "בתי החצרים וערי הלוים"
+      },
+      "parashah": {
+        "en": "Arakhin 33",
+        "he": "ערכין דף 33"
+      },
+      "target_shabbat": "2026-12-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-arakhin-34",
+      "title": {
+        "en": "Arakhin 34 — The kohen’s proscribed field",
+        "he": "שדה חרמו של כהן"
+      },
+      "parashah": {
+        "en": "Arakhin 34",
+        "he": "ערכין דף 34"
+      },
+      "target_shabbat": "2026-12-21",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
