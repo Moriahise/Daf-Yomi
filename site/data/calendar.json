@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-17T22:39:39.655029+03:00",
+  "calculated_at": "2026-10-18T00:27:33.659381+03:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-10-17",
-      "cycle": 14,
-      "day_in_cycle": 2478,
-      "tractate_id": "bekhorot",
-      "tractate": {
-        "en": "Bekhorot",
-        "he": "בכורות"
-      },
-      "daf": 29,
-      "label": {
-        "en": "Bekhorot 29",
-        "he": "בכורות דף 29"
-      },
-      "references": [
-        "Bekhorot 29a",
-        "Bekhorot 29b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Bekhorot_29a",
-        "https://www.sefaria.org/Bekhorot_29b"
-      ],
-      "id": "cycle-14-bekhorot-29",
-      "target_shabbat": "2026-10-17",
-      "hebrew_date": "ו׳ חשון תשפ״ז",
-      "israel": {
-        "en": "Bekhorot 29",
-        "he": "בכורות דף 29"
-      },
-      "diaspora": {
-        "en": "Bekhorot 29",
-        "he": "בכורות דף 29"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-10-18",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Temurah 25",
         "he": "תמורה דף 25"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-15",
+      "cycle": 14,
+      "day_in_cycle": 2568,
+      "tractate_id": "temurah",
+      "tractate": {
+        "en": "Temurah",
+        "he": "תמורה"
+      },
+      "daf": 26,
+      "label": {
+        "en": "Temurah 26",
+        "he": "תמורה דף 26"
+      },
+      "references": [
+        "Temurah 26a",
+        "Temurah 26b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Temurah_26a",
+        "https://www.sefaria.org/Temurah_26b"
+      ],
+      "id": "cycle-14-temurah-26",
+      "target_shabbat": "2027-01-15",
+      "hebrew_date": "ז׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Temurah 26",
+        "he": "תמורה דף 26"
+      },
+      "diaspora": {
+        "en": "Temurah 26",
+        "he": "תמורה דף 26"
       },
       "different_readings": false,
       "festival": null,

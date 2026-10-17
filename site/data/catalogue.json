@@ -2,6 +2,357 @@
   "schema": 1,
   "editions": [
     {
+      "id": "cycle-14-bekhorot-2",
+      "title": {
+        "en": "Bekhorot 2 — A gentile’s share exempts the firstborn",
+        "he": "שותפות נכרי פוטרת מן הבכורה"
+      },
+      "parashah": {
+        "en": "Bekhorot 2",
+        "he": "בכורות דף 2"
+      },
+      "target_shabbat": "2026-09-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-3",
+      "title": {
+        "en": "Bekhorot 3 — How much gentile ownership exempts?",
+        "he": "כמה שותפות נכרי פוטרת?"
+      },
+      "parashah": {
+        "en": "Bekhorot 3",
+        "he": "בכורות דף 3"
+      },
+      "target_shabbat": "2026-09-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-4",
+      "title": {
+        "en": "Bekhorot 4 — The Levites in place of the firstborn",
+        "he": "הלוים תחת הבכורות"
+      },
+      "parashah": {
+        "en": "Bekhorot 4",
+        "he": "בכורות דף 4"
+      },
+      "target_shabbat": "2026-09-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-5",
+      "title": {
+        "en": "Bekhorot 5 — The missing Levites, Moses’ accounts and a cow that bore a donkey",
+        "he": "הלויים החסרים, חשבונות משה ופרה שילדה מין חמור"
+      },
+      "parashah": {
+        "en": "Bekhorot 5",
+        "he": "בכורות דף 5"
+      },
+      "target_shabbat": "2026-09-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-6",
+      "title": {
+        "en": "Bekhorot 6 — Mixed species, milk and “you shall fear the Lord your God”",
+        "he": "מינים מעורבים, חלב ו\"את ה׳ אלהיך תירא\""
+      },
+      "parashah": {
+        "en": "Bekhorot 6",
+        "he": "בכורות דף 6"
+      },
+      "target_shabbat": "2026-09-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-7",
+      "title": {
+        "en": "Bekhorot 7 — What comes from the impure: urine, honey and swallowed fish",
+        "he": "היוצא מן הטמא: מי רגלים, דבש ודג שבלע"
+      },
+      "parashah": {
+        "en": "Bekhorot 7",
+        "he": "בכורות דף 7"
+      },
+      "target_shabbat": "2026-09-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-8",
+      "title": {
+        "en": "Bekhorot 8 — Gestation periods and the elders of Athens",
+        "he": "ימי העיבור וזקני בית אתונא"
+      },
+      "parashah": {
+        "en": "Bekhorot 8",
+        "he": "בכורות דף 8"
+      },
+      "target_shabbat": "2026-09-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-9",
+      "title": {
+        "en": "Bekhorot 9 — Twin donkeys and the prohibition of benefit",
+        "he": "חמורים תאומים ואיסור ההנאה"
+      },
+      "parashah": {
+        "en": "Bekhorot 9",
+        "he": "בכורות דף 9"
+      },
+      "target_shabbat": "2026-09-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-10",
+      "title": {
+        "en": "Bekhorot 10 — Food impurity, breaking the neck and the price of redemption",
+        "he": "טומאת אוכלים, עריפה ושיעור הפדייה"
+      },
+      "parashah": {
+        "en": "Bekhorot 10",
+        "he": "בכורות דף 10"
+      },
+      "target_shabbat": "2026-09-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-11",
+      "title": {
+        "en": "Bekhorot 11 — Redeeming a firstborn donkey: value, ownership and doubtful cases",
+        "he": "פדיון פטר חמור: שווי, בעלות וספקות"
+      },
+      "parashah": {
+        "en": "Bekhorot 11",
+        "he": "בכורות דף 11"
+      },
+      "target_shabbat": "2026-09-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-12",
+      "title": {
+        "en": "Bekhorot 12 — Which lamb redeems, and who bears the risk?",
+        "he": "באיזה שה פודים, ומי נושא באחריות?"
+      },
+      "parashah": {
+        "en": "Bekhorot 12",
+        "he": "בכורות דף 12"
+      },
+      "target_shabbat": "2026-09-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-13",
+      "title": {
+        "en": "Bekhorot 13 — Order of mitzvot and acquiring from a gentile",
+        "he": "סדר המצוות וקניין מן הנכרי"
+      },
+      "parashah": {
+        "en": "Bekhorot 13",
+        "he": "בכורות דף 13"
+      },
+      "target_shabbat": "2026-10-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-14",
+      "title": {
+        "en": "Bekhorot 14 — Consecrated animals with a blemish: before or after consecration",
+        "he": "קדשים בעלי מום: קודם הקדשן או אחריו"
+      },
+      "parashah": {
+        "en": "Bekhorot 14",
+        "he": "בכורות דף 14"
+      },
+      "target_shabbat": "2026-10-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-15",
+      "title": {
+        "en": "Bekhorot 15 — Like a deer and a hart: disqualified sacrifices after redemption",
+        "he": "כצבי וכאיל: פסולי המוקדשין לאחר פדיונם"
+      },
+      "parashah": {
+        "en": "Bekhorot 15",
+        "he": "בכורות דף 15"
+      },
+      "target_shabbat": "2026-10-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-16",
+      "title": {
+        "en": "Bekhorot 16 — Exchange that dies and the iron flock",
+        "he": "תמורה שמתה וצאן ברזל"
+      },
+      "parashah": {
+        "en": "Bekhorot 16",
+        "he": "בכורות דף 16"
+      },
+      "target_shabbat": "2026-10-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-17",
+      "title": {
+        "en": "Bekhorot 17 — Look-alikes, changed wool and exact precision",
+        "he": "נדמה, צמר שנשתנה וצמצום"
+      },
+      "parashah": {
+        "en": "Bekhorot 17",
+        "he": "בכורות דף 17"
+      },
+      "target_shabbat": "2026-10-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-18",
+      "title": {
+        "en": "Bekhorot 18 — Doubtful firstborns: the kohen and the owner",
+        "he": "ספק בכור: בין הכהן לבעל הבית"
+      },
+      "parashah": {
+        "en": "Bekhorot 18",
+        "he": "בכורות דף 18"
+      },
+      "target_shabbat": "2026-10-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-19",
+      "title": {
+        "en": "Bekhorot 19 — Caesarean birth and an animal bought from a gentile",
+        "he": "יוצא דופן ובהמה שנקנתה מן הנכרי"
+      },
+      "parashah": {
+        "en": "Bekhorot 19",
+        "he": "בכורות דף 19"
+      },
+      "target_shabbat": "2026-10-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-20",
+      "title": {
+        "en": "Bekhorot 20 — Discharge, milk and the counting of time",
+        "he": "טינוף, חלב וחישוב הזמן"
+      },
+      "parashah": {
+        "en": "Bekhorot 20",
+        "he": "בכורות דף 20"
+      },
+      "target_shabbat": "2026-10-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-21",
+      "title": {
+        "en": "Bekhorot 21 — Lacking time, signs of birth and buying from an Israelite",
+        "he": "מחוסר זמן, סימני לידה ולוקח מישראל"
+      },
+      "parashah": {
+        "en": "Bekhorot 21",
+        "he": "בכורות דף 21"
+      },
+      "target_shabbat": "2026-10-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-22",
+      "title": {
+        "en": "Bekhorot 22 — Nullified impurity, the measures of a stillbirth and fish brine",
+        "he": "טומאה בטלה, שיעורי נפלים וציר"
+      },
+      "parashah": {
+        "en": "Bekhorot 22",
+        "he": "בכורות דף 22"
+      },
+      "target_shabbat": "2026-10-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-23",
+      "title": {
+        "en": "Bekhorot 23 — Nullification, spoiled carcasses and a nursing animal",
+        "he": "ביטול, נבלה סרוחה ובהמה מניקה"
+      },
+      "parashah": {
+        "en": "Bekhorot 23",
+        "he": "בכורות דף 23"
+      },
+      "target_shabbat": "2026-10-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-24",
+      "title": {
+        "en": "Bekhorot 24 — Does an animal nurse another’s young? And plucking wool on Yom Tov",
+        "he": "האם בהמה מרחמת על ולד שאינו שלה? ותלישת שער ביום טוב"
+      },
+      "parashah": {
+        "en": "Bekhorot 24",
+        "he": "בכורות דף 24"
+      },
+      "target_shabbat": "2026-10-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-25",
+      "title": {
+        "en": "Bekhorot 25 — Plucking, unintended acts and the hair of a firstborn",
+        "he": "תלישה, דבר שאין מתכוין ושער הבכור"
+      },
+      "parashah": {
+        "en": "Bekhorot 25",
+        "he": "בכורות דף 25"
+      },
+      "target_shabbat": "2026-10-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-26",
+      "title": {
+        "en": "Bekhorot 26 — Three positions on fallen hair, and caring for the firstborn",
+        "he": "שלוש שיטות בשער שנשר, והטיפול בבכור"
+      },
+      "parashah": {
+        "en": "Bekhorot 26",
+        "he": "בכורות דף 26"
+      },
+      "target_shabbat": "2026-10-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-27",
+      "title": {
+        "en": "Bekhorot 27 — Teruma outside the Land and the firstborn’s year",
+        "he": "תרומת חוצה לארץ ושנתו של בכור"
+      },
+      "parashah": {
+        "en": "Bekhorot 27",
+        "he": "בכורות דף 27"
+      },
+      "target_shabbat": "2026-10-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-28",
+      "title": {
+        "en": "Bekhorot 28 — The thirty days, the expert and Rabbi Tarfon’s cow",
+        "he": "שלושים הימים, המומחה ופרתו של רבי טרפון"
+      },
+      "parashah": {
+        "en": "Bekhorot 28",
+        "he": "בכורות דף 28"
+      },
+      "target_shabbat": "2026-10-16",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-14-bekhorot-29",
       "title": {
         "en": "Trust beyond the verdict",
@@ -129,6 +480,305 @@
         "he": "בכורות דף 38"
       },
       "target_shabbat": "2026-10-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-39",
+      "title": {
+        "en": "Bekhorot 39 — Testing a cure, blemishes of nose and lips, and internal lacks",
+        "he": "בדיקת הרפואה, מומי חוטם ושפה, וחסרון מבפנים"
+      },
+      "parashah": {
+        "en": "Bekhorot 39",
+        "he": "בכורות דף 39"
+      },
+      "target_shabbat": "2026-10-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-40",
+      "title": {
+        "en": "Bekhorot 40 — Missing testicles, extra legs and rulings made in Yavne",
+        "he": "ביצים חסרות, רגליים יתרות ומומים שנמנו ביבנה"
+      },
+      "parashah": {
+        "en": "Bekhorot 40",
+        "he": "בכורות דף 40"
+      },
+      "target_shabbat": "2026-10-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-41",
+      "title": {
+        "en": "Bekhorot 41 — Blemishes that do not permit slaughter, and the androgynos",
+        "he": "מומים שאין שוחטים עליהם, והאנדרוגינוס"
+      },
+      "parashah": {
+        "en": "Bekhorot 41",
+        "he": "בכורות דף 41"
+      },
+      "target_shabbat": "2026-10-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-42",
+      "title": {
+        "en": "Bekhorot 42 — The tumtum: a doubt or a creature of its own?",
+        "he": "הטומטום: ספק או בריה בפני עצמה?"
+      },
+      "parashah": {
+        "en": "Bekhorot 42",
+        "he": "בכורות דף 42"
+      },
+      "target_shabbat": "2026-10-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-43",
+      "title": {
+        "en": "Bekhorot 43 — Blemishes of kohanim: “equal within the seed of Aaron”",
+        "he": "מומי כהנים: \"שוה בזרעו של אהרן\""
+      },
+      "parashah": {
+        "en": "Bekhorot 43",
+        "he": "בכורות דף 43"
+      },
+      "target_shabbat": "2026-10-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-44",
+      "title": {
+        "en": "Bekhorot 44 — Eyes, proportions and the health of the body",
+        "he": "עיניים, מידות הגוף ובריאות הגוף"
+      },
+      "parashah": {
+        "en": "Bekhorot 44",
+        "he": "בכורות דף 44"
+      },
+      "target_shabbat": "2026-11-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-45",
+      "title": {
+        "en": "Bekhorot 45 — Legs, extra fingers and the limbs of the body",
+        "he": "רגליים, אצבעות יתרות ואברי הגוף"
+      },
+      "parashah": {
+        "en": "Bekhorot 45",
+        "he": "בכורות דף 45"
+      },
+      "target_shabbat": "2026-11-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-46",
+      "title": {
+        "en": "Bekhorot 46 — Firstborn for inheritance and firstborn for the kohen",
+        "he": "בכור לנחלה ובכור לכהן"
+      },
+      "parashah": {
+        "en": "Bekhorot 46",
+        "he": "בכורות דף 46"
+      },
+      "target_shabbat": "2026-11-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-47",
+      "title": {
+        "en": "Bekhorot 47 — A convert’s firstborn, a Levite mother and a ḥalal son",
+        "he": "בכור של גר, אם לויה ובן חלל"
+      },
+      "parashah": {
+        "en": "Bekhorot 47",
+        "he": "בכורות דף 47"
+      },
+      "target_shabbat": "2026-11-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-48",
+      "title": {
+        "en": "Bekhorot 48 — Twins, heirs and the debt of five sela’im",
+        "he": "תאומים, יורשים וחוב חמש הסלעים"
+      },
+      "parashah": {
+        "en": "Bekhorot 48",
+        "he": "בכורות דף 48"
+      },
+      "target_shabbat": "2026-11-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-49",
+      "title": {
+        "en": "Bekhorot 49 — The thirtieth day, redemption too early, and father before son",
+        "he": "יום השלושים, פדייה מוקדמת, ואב קודם לבנו"
+      },
+      "parashah": {
+        "en": "Bekhorot 49",
+        "he": "בכורות דף 49"
+      },
+      "target_shabbat": "2026-11-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-50",
+      "title": {
+        "en": "Bekhorot 50 — The value of the sela and the silver of the Torah",
+        "he": "שווי הסלע וכסף התורה"
+      },
+      "parashah": {
+        "en": "Bekhorot 50",
+        "he": "בכורות דף 50"
+      },
+      "target_shabbat": "2026-11-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-51",
+      "title": {
+        "en": "Bekhorot 51 — What may redeem a son, and the kohen who returns it",
+        "he": "במה פודים את הבן, והכהן המחזיר"
+      },
+      "parashah": {
+        "en": "Bekhorot 51",
+        "he": "בכורות דף 51"
+      },
+      "target_shabbat": "2026-11-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-52",
+      "title": {
+        "en": "Bekhorot 52 — The firstborn’s double share and the Jubilee",
+        "he": "פי שניים של הבכור והיובל"
+      },
+      "parashah": {
+        "en": "Bekhorot 52",
+        "he": "בכורות דף 52"
+      },
+      "target_shabbat": "2026-11-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-53",
+      "title": {
+        "en": "Bekhorot 53 — Animal tithe: where, when and from what",
+        "he": "מעשר בהמה: היכן, מתי וממה"
+      },
+      "parashah": {
+        "en": "Bekhorot 53",
+        "he": "בכורות דף 53"
+      },
+      "target_shabbat": "2026-11-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-54",
+      "title": {
+        "en": "Bekhorot 54 — Species, “the tenth” and the shepherd’s gaze",
+        "he": "מינים, \"העשירי\" ועין הרועה"
+      },
+      "parashah": {
+        "en": "Bekhorot 54",
+        "he": "בכורות דף 54"
+      },
+      "target_shabbat": "2026-11-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-55",
+      "title": {
+        "en": "Bekhorot 55 — The Jordan as a boundary and the waters of the Euphrates",
+        "he": "הירדן כגבול ומימי פרת"
+      },
+      "parashah": {
+        "en": "Bekhorot 55",
+        "he": "בכורות דף 55"
+      },
+      "target_shabbat": "2026-11-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-56",
+      "title": {
+        "en": "Bekhorot 56 — Bought animals, brothers and partners",
+        "he": "לקוח, אחים ושותפים"
+      },
+      "parashah": {
+        "en": "Bekhorot 56",
+        "he": "בכורות דף 56"
+      },
+      "target_shabbat": "2026-11-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-57",
+      "title": {
+        "en": "Bekhorot 57 — What enters the pen, and the threshing times of animal tithe",
+        "he": "מה נכנס לדיר, וגרנות מעשר בהמה"
+      },
+      "parashah": {
+        "en": "Bekhorot 57",
+        "he": "בכורות דף 57"
+      },
+      "target_shabbat": "2026-11-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-58",
+      "title": {
+        "en": "Bekhorot 58 — The threshing times explained and the counting through the gate",
+        "he": "טעמי הגרנות והמנייה דרך הפתח"
+      },
+      "parashah": {
+        "en": "Bekhorot 58",
+        "he": "בכורות דף 58"
+      },
+      "target_shabbat": "2026-11-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-59",
+      "title": {
+        "en": "Bekhorot 59 — The tenth is holy by itself, and the count that exempts",
+        "he": "העשירי קדוש מאליו, ומניין הראוי פוטר"
+      },
+      "parashah": {
+        "en": "Bekhorot 59",
+        "he": "בכורות דף 59"
+      },
+      "target_shabbat": "2026-11-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-60",
+      "title": {
+        "en": "Bekhorot 60 — The ninth, the tenth and the eleventh",
+        "he": "התשיעי, העשירי והאחד עשר"
+      },
+      "parashah": {
+        "en": "Bekhorot 60",
+        "he": "בכורות דף 60"
+      },
+      "target_shabbat": "2026-11-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-bekhorot-61",
+      "title": {
+        "en": "Bekhorot 61 — Exchange of tithe and the agent who erred",
+        "he": "תמורת מעשר והשליח שטעה"
+      },
+      "parashah": {
+        "en": "Bekhorot 61",
+        "he": "בכורות דף 61"
+      },
+      "target_shabbat": "2026-11-18",
       "category": "talmud"
     },
     {
