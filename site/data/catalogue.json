@@ -5109,6 +5109,1124 @@
       },
       "target_shabbat": "2027-10-18",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-72",
+      "title": {
+        "en": "Shabbat 72 — Intended something else",
+        "he": "נתכוין לדבר אחר"
+      },
+      "parashah": {
+        "en": "Shabbat 72",
+        "he": "שבת דף 72"
+      },
+      "target_shabbat": "2027-10-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-73",
+      "title": {
+        "en": "Shabbat 73 — Forty less one",
+        "he": "ארבעים חסר אחת"
+      },
+      "parashah": {
+        "en": "Shabbat 73",
+        "he": "שבת דף 73"
+      },
+      "target_shabbat": "2027-10-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-74",
+      "title": {
+        "en": "Shabbat 74 — Selecting for now",
+        "he": "בורר לאלתר"
+      },
+      "parashah": {
+        "en": "Shabbat 74",
+        "he": "שבת דף 74"
+      },
+      "target_shabbat": "2027-10-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-75",
+      "title": {
+        "en": "Shabbat 75 — Your wisdom in the eyes of the nations",
+        "he": "חכמתכם ובינתכם לעיני העמים"
+      },
+      "parashah": {
+        "en": "Shabbat 75",
+        "he": "שבת דף 75"
+      },
+      "target_shabbat": "2027-10-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-76",
+      "title": {
+        "en": "Shabbat 76 — A cow’s mouthful",
+        "he": "כמלא פי פרה"
+      },
+      "parashah": {
+        "en": "Shabbat 76",
+        "he": "שבת דף 76"
+      },
+      "target_shabbat": "2027-10-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-77",
+      "title": {
+        "en": "Shabbat 77 — Nothing created in vain",
+        "he": "לא ברא דבר אחד לבטלה"
+      },
+      "parashah": {
+        "en": "Shabbat 77",
+        "he": "שבת דף 77"
+      },
+      "target_shabbat": "2027-10-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-78",
+      "title": {
+        "en": "Shabbat 78 — Common and uncommon use",
+        "he": "שכיחא ולא שכיחא"
+      },
+      "parashah": {
+        "en": "Shabbat 78",
+        "he": "שבת דף 78"
+      },
+      "target_shabbat": "2027-10-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-79",
+      "title": {
+        "en": "Shabbat 79 — Parchment and duchsustos",
+        "he": "קלף ודוכסוסטוס"
+      },
+      "parashah": {
+        "en": "Shabbat 79",
+        "he": "שבת דף 79"
+      },
+      "target_shabbat": "2027-10-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-80",
+      "title": {
+        "en": "Shabbat 80 — Writing is placing",
+        "he": "כתיבתן זו היא הנחתן"
+      },
+      "parashah": {
+        "en": "Shabbat 80",
+        "he": "שבת דף 80"
+      },
+      "target_shabbat": "2027-10-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-81",
+      "title": {
+        "en": "Shabbat 81 — Great is human dignity",
+        "he": "גדול כבוד הבריות"
+      },
+      "parashah": {
+        "en": "Shabbat 81",
+        "he": "שבת דף 81"
+      },
+      "target_shabbat": "2027-10-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-82",
+      "title": {
+        "en": "Shabbat 82 — The life of people",
+        "he": "חיי דברייתא"
+      },
+      "parashah": {
+        "en": "Shabbat 82",
+        "he": "שבת דף 82"
+      },
+      "target_shabbat": "2027-10-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-83",
+      "title": {
+        "en": "Shabbat 83 — Never absent from the study hall",
+        "he": "לעולם אל ימנע אדם עצמו מבית המדרש"
+      },
+      "parashah": {
+        "en": "Shabbat 83",
+        "he": "שבת דף 83"
+      },
+      "target_shabbat": "2027-10-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-84",
+      "title": {
+        "en": "Shabbat 84 — Five kinds in one bed",
+        "he": "חמשה זרעונין בערוגה"
+      },
+      "parashah": {
+        "en": "Shabbat 84",
+        "he": "שבת דף 84"
+      },
+      "target_shabbat": "2027-10-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-85",
+      "title": {
+        "en": "Shabbat 85 — The boundary set by the ancients",
+        "he": "גבול שגבלו ראשונים"
+      },
+      "parashah": {
+        "en": "Shabbat 85",
+        "he": "שבת דף 85"
+      },
+      "target_shabbat": "2027-11-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-86",
+      "title": {
+        "en": "Shabbat 86 — The Torah given on Shabbat",
+        "he": "בשבת ניתנה תורה"
+      },
+      "parashah": {
+        "en": "Shabbat 86",
+        "he": "שבת דף 86"
+      },
+      "target_shabbat": "2027-11-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-87",
+      "title": {
+        "en": "Shabbat 87 — Well done that you broke them",
+        "he": "יישר כחך ששברת"
+      },
+      "parashah": {
+        "en": "Shabbat 87",
+        "he": "שבת דף 87"
+      },
+      "target_shabbat": "2027-11-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-88",
+      "title": {
+        "en": "Shabbat 88 — We will do and we will hear",
+        "he": "נעשה ונשמע"
+      },
+      "parashah": {
+        "en": "Shabbat 88",
+        "he": "שבת דף 88"
+      },
+      "target_shabbat": "2027-11-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-89",
+      "title": {
+        "en": "Shabbat 89 — You are our Father",
+        "he": "כי אתה אבינו"
+      },
+      "parashah": {
+        "en": "Shabbat 89",
+        "he": "שבת דף 89"
+      },
+      "target_shabbat": "2027-11-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-90",
+      "title": {
+        "en": "Shabbat 90 — Stored away for burial",
+        "he": "שמצניעין אותן לגונזן"
+      },
+      "parashah": {
+        "en": "Shabbat 90",
+        "he": "שבת דף 90"
+      },
+      "target_shabbat": "2027-11-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-91",
+      "title": {
+        "en": "Shabbat 91 — According to his first intention",
+        "he": "על דעת ראשונה"
+      },
+      "parashah": {
+        "en": "Shabbat 91",
+        "he": "שבת דף 91"
+      },
+      "target_shabbat": "2027-11-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-92",
+      "title": {
+        "en": "Shabbat 92 — The burden of the sons of Kehat",
+        "he": "משא בני קהת"
+      },
+      "parashah": {
+        "en": "Shabbat 92",
+        "he": "שבת דף 92"
+      },
+      "target_shabbat": "2027-11-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-93",
+      "title": {
+        "en": "Shabbat 93 — A helper adds nothing",
+        "he": "מסייע אין בו ממש"
+      },
+      "parashah": {
+        "en": "Shabbat 93",
+        "he": "שבת דף 93"
+      },
+      "target_shabbat": "2027-11-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-94",
+      "title": {
+        "en": "Shabbat 94 — The living carries itself",
+        "he": "החי נושא את עצמו"
+      },
+      "parashah": {
+        "en": "Shabbat 94",
+        "he": "שבת דף 94"
+      },
+      "target_shabbat": "2027-11-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-95",
+      "title": {
+        "en": "Shabbat 95 — God braided Eve’s hair",
+        "he": "שקילעה הקדוש ברוך הוא לחוה"
+      },
+      "parashah": {
+        "en": "Shabbat 95",
+        "he": "שבת דף 95"
+      },
+      "target_shabbat": "2027-11-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-96",
+      "title": {
+        "en": "Shabbat 96 — The gatherer of wood",
+        "he": "המקושש"
+      },
+      "parashah": {
+        "en": "Shabbat 96",
+        "he": "שבת דף 96"
+      },
+      "target_shabbat": "2027-11-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-97",
+      "title": {
+        "en": "Shabbat 97 — Suspecting the innocent",
+        "he": "החושד בכשרים"
+      },
+      "parashah": {
+        "en": "Shabbat 97",
+        "he": "שבת דף 97"
+      },
+      "target_shabbat": "2027-11-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-98",
+      "title": {
+        "en": "Shabbat 98 — The boards of the Tabernacle",
+        "he": "קרשי המשכן"
+      },
+      "parashah": {
+        "en": "Shabbat 98",
+        "he": "שבת דף 98"
+      },
+      "target_shabbat": "2027-11-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-99",
+      "title": {
+        "en": "Shabbat 99 — You all spit in one another’s saliva",
+        "he": "כולכו ברוקא דהדדי תפיתו"
+      },
+      "parashah": {
+        "en": "Shabbat 99",
+        "he": "שבת דף 99"
+      },
+      "target_shabbat": "2027-11-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-100",
+      "title": {
+        "en": "Shabbat 100 — Water does not cancel a partition",
+        "he": "מים לא מבטלי מחיצתא"
+      },
+      "parashah": {
+        "en": "Shabbat 100",
+        "he": "שבת דף 100"
+      },
+      "target_shabbat": "2027-11-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-101",
+      "title": {
+        "en": "Shabbat 101 — Moses, you spoke well",
+        "he": "משה שפיר קאמרת"
+      },
+      "parashah": {
+        "en": "Shabbat 101",
+        "he": "שבת דף 101"
+      },
+      "target_shabbat": "2027-11-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-102",
+      "title": {
+        "en": "Shabbat 102 — Beginning and end in error",
+        "he": "תחלתן וסופן שגגה"
+      },
+      "parashah": {
+        "en": "Shabbat 102",
+        "he": "שבת דף 102"
+      },
+      "target_shabbat": "2027-11-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-103",
+      "title": {
+        "en": "Shabbat 103 — Shem from Shimon",
+        "he": "שם משמעון"
+      },
+      "parashah": {
+        "en": "Shabbat 103",
+        "he": "שבת דף 103"
+      },
+      "target_shabbat": "2027-11-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-104",
+      "title": {
+        "en": "Shabbat 104 — Gimel runs after dalet",
+        "he": "גמול דלים"
+      },
+      "parashah": {
+        "en": "Shabbat 104",
+        "he": "שבת דף 104"
+      },
+      "target_shabbat": "2027-11-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-105",
+      "title": {
+        "en": "Shabbat 105 — Tears for a worthy person",
+        "he": "דמעות על אדם כשר"
+      },
+      "parashah": {
+        "en": "Shabbat 105",
+        "he": "שבת דף 105"
+      },
+      "target_shabbat": "2027-11-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-106",
+      "title": {
+        "en": "Shabbat 106 — The free bird",
+        "he": "צפור דרור"
+      },
+      "parashah": {
+        "en": "Shabbat 106",
+        "he": "שבת דף 106"
+      },
+      "target_shabbat": "2027-11-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-107",
+      "title": {
+        "en": "Shabbat 107 — Exempt and permitted",
+        "he": "פטור ומותר"
+      },
+      "parashah": {
+        "en": "Shabbat 107",
+        "he": "שבת דף 107"
+      },
+      "target_shabbat": "2027-11-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-108",
+      "title": {
+        "en": "Shabbat 108 — What is permitted in your mouth",
+        "he": "מן המותר בפיך"
+      },
+      "parashah": {
+        "en": "Shabbat 108",
+        "he": "שבת דף 108"
+      },
+      "target_shabbat": "2027-11-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-109",
+      "title": {
+        "en": "Shabbat 109 — The food of the healthy",
+        "he": "מאכל בריאים"
+      },
+      "parashah": {
+        "en": "Shabbat 109",
+        "he": "שבת דף 109"
+      },
+      "target_shabbat": "2027-11-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-110",
+      "title": {
+        "en": "Shabbat 110 — The snake of the Sages",
+        "he": "חיויא דרבנן"
+      },
+      "parashah": {
+        "en": "Shabbat 110",
+        "he": "שבת דף 110"
+      },
+      "target_shabbat": "2027-11-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-111",
+      "title": {
+        "en": "Shabbat 111 — All Israel are princes",
+        "he": "כל ישראל בני מלכים הם"
+      },
+      "parashah": {
+        "en": "Shabbat 111",
+        "he": "שבת דף 111"
+      },
+      "target_shabbat": "2027-11-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-112",
+      "title": {
+        "en": "Shabbat 112 — If the earlier ones were angels",
+        "he": "אם ראשונים בני מלאכים"
+      },
+      "parashah": {
+        "en": "Shabbat 112",
+        "he": "שבת דף 112"
+      },
+      "target_shabbat": "2027-11-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-113",
+      "title": {
+        "en": "Shabbat 113 — Honoring Shabbat by one’s garments",
+        "he": "וכבדתו"
+      },
+      "parashah": {
+        "en": "Shabbat 113",
+        "he": "שבת דף 113"
+      },
+      "target_shabbat": "2027-11-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-114",
+      "title": {
+        "en": "Shabbat 114 — The builders of the world",
+        "he": "בנאין"
+      },
+      "parashah": {
+        "en": "Shabbat 114",
+        "he": "שבת דף 114"
+      },
+      "target_shabbat": "2027-11-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-115",
+      "title": {
+        "en": "Shabbat 115 — All sacred writings",
+        "he": "כל כתבי הקודש"
+      },
+      "parashah": {
+        "en": "Shabbat 115",
+        "he": "שבת דף 115"
+      },
+      "target_shabbat": "2027-12-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-116",
+      "title": {
+        "en": "Shabbat 116 — A book in its own right",
+        "he": "ספר חשוב בפני עצמו"
+      },
+      "parashah": {
+        "en": "Shabbat 116",
+        "he": "שבת דף 116"
+      },
+      "target_shabbat": "2027-12-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-117",
+      "title": {
+        "en": "Shabbat 117 — Three meals from the fire",
+        "he": "מזון שלש סעודות"
+      },
+      "parashah": {
+        "en": "Shabbat 117",
+        "he": "שבת דף 117"
+      },
+      "target_shabbat": "2027-12-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-118",
+      "title": {
+        "en": "Shabbat 118 — May my portion be",
+        "he": "יהא חלקי"
+      },
+      "parashah": {
+        "en": "Shabbat 118",
+        "he": "שבת דף 118"
+      },
+      "target_shabbat": "2027-12-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-119",
+      "title": {
+        "en": "Shabbat 119 — Come, bride",
+        "he": "בואי כלה"
+      },
+      "parashah": {
+        "en": "Shabbat 119",
+        "he": "שבת דף 119"
+      },
+      "target_shabbat": "2027-12-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-120",
+      "title": {
+        "en": "Shabbat 120 — Rescuing and wearing",
+        "he": "לובש ומוציא"
+      },
+      "parashah": {
+        "en": "Shabbat 120",
+        "he": "שבת דף 120"
+      },
+      "target_shabbat": "2027-12-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-121",
+      "title": {
+        "en": "Shabbat 121 — Whoever extinguishes will not lose",
+        "he": "כל המכבה אינו מפסיד"
+      },
+      "parashah": {
+        "en": "Shabbat 121",
+        "he": "שבת דף 121"
+      },
+      "target_shabbat": "2027-12-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-122",
+      "title": {
+        "en": "Shabbat 122 — A lamp for one is a lamp for a hundred",
+        "he": "נר לאחד נר למאה"
+      },
+      "parashah": {
+        "en": "Shabbat 122",
+        "he": "שבת דף 122"
+      },
+      "target_shabbat": "2027-12-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-123",
+      "title": {
+        "en": "Shabbat 123 — They permitted again and again",
+        "he": "התירו וחזרו והתירו"
+      },
+      "parashah": {
+        "en": "Shabbat 123",
+        "he": "שבת דף 123"
+      },
+      "target_shabbat": "2027-12-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-124",
+      "title": {
+        "en": "Shabbat 124 — For a need and not for a need",
+        "he": "לצורך ושלא לצורך"
+      },
+      "parashah": {
+        "en": "Shabbat 124",
+        "he": "שבת דף 124"
+      },
+      "target_shabbat": "2027-12-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-125",
+      "title": {
+        "en": "Shabbat 125 — Go and think about them",
+        "he": "צאו וחשבו"
+      },
+      "parashah": {
+        "en": "Shabbat 125",
+        "he": "שבת דף 125"
+      },
+      "target_shabbat": "2027-12-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-126",
+      "title": {
+        "en": "Shabbat 126 — An action is a precedent",
+        "he": "מעשה רב"
+      },
+      "parashah": {
+        "en": "Shabbat 126",
+        "he": "שבת דף 126"
+      },
+      "target_shabbat": "2027-12-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-127",
+      "title": {
+        "en": "Shabbat 127 — Greater than greeting the Presence",
+        "he": "גדולה הכנסת אורחין"
+      },
+      "parashah": {
+        "en": "Shabbat 127",
+        "he": "שבת דף 127"
+      },
+      "target_shabbat": "2027-12-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-128",
+      "title": {
+        "en": "Shabbat 128 — Animal suffering is Torah law",
+        "he": "צער בעלי חיים דאורייתא"
+      },
+      "parashah": {
+        "en": "Shabbat 128",
+        "he": "שבת דף 128"
+      },
+      "target_shabbat": "2027-12-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-129",
+      "title": {
+        "en": "Shabbat 129 — Doubt of life is lenient",
+        "he": "ספק נפשות להקל"
+      },
+      "parashah": {
+        "en": "Shabbat 129",
+        "he": "שבת דף 129"
+      },
+      "target_shabbat": "2027-12-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-130",
+      "title": {
+        "en": "Shabbat 130 — Accepted with joy",
+        "he": "שקיבלו עליהם בשמחה"
+      },
+      "parashah": {
+        "en": "Shabbat 130",
+        "he": "שבת דף 130"
+      },
+      "target_shabbat": "2027-12-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-131",
+      "title": {
+        "en": "Shabbat 131 — Preparations for a mitzva",
+        "he": "מכשירי מצוה"
+      },
+      "parashah": {
+        "en": "Shabbat 131",
+        "he": "שבת דף 131"
+      },
+      "target_shabbat": "2027-12-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-132",
+      "title": {
+        "en": "Shabbat 132 — On the day, even on Shabbat",
+        "he": "ביום אפילו בשבת"
+      },
+      "parashah": {
+        "en": "Shabbat 132",
+        "he": "שבת דף 132"
+      },
+      "target_shabbat": "2027-12-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-133",
+      "title": {
+        "en": "Shabbat 133 — This is my God and I will glorify Him",
+        "he": "זה אלי ואנוהו"
+      },
+      "parashah": {
+        "en": "Shabbat 133",
+        "he": "שבת דף 133"
+      },
+      "target_shabbat": "2027-12-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-134",
+      "title": {
+        "en": "Shabbat 134 — Named after me",
+        "he": "על שמי"
+      },
+      "parashah": {
+        "en": "Shabbat 134",
+        "he": "שבת דף 134"
+      },
+      "target_shabbat": "2027-12-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-135",
+      "title": {
+        "en": "Shabbat 135 — The Torah was given and a law renewed",
+        "he": "נתנה תורה ונתחדשה הלכה"
+      },
+      "parashah": {
+        "en": "Shabbat 135",
+        "he": "שבת דף 135"
+      },
+      "target_shabbat": "2027-12-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-136",
+      "title": {
+        "en": "Shabbat 136 — I know his months were complete",
+        "he": "קים לי ביה שכלו לו חדשיו"
+      },
+      "parashah": {
+        "en": "Shabbat 136",
+        "he": "שבת דף 136"
+      },
+      "target_shabbat": "2027-12-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-137",
+      "title": {
+        "en": "Shabbat 137 — As he entered the covenant",
+        "he": "כשם שנכנס לברית"
+      },
+      "parashah": {
+        "en": "Shabbat 137",
+        "he": "שבת דף 137"
+      },
+      "target_shabbat": "2027-12-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-138",
+      "title": {
+        "en": "Shabbat 138 — The Torah will not be forgotten",
+        "he": "שלא תשתכח תורה"
+      },
+      "parashah": {
+        "en": "Shabbat 138",
+        "he": "שבת דף 138"
+      },
+      "target_shabbat": "2027-12-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-139",
+      "title": {
+        "en": "Shabbat 139 — Zion redeemed with justice",
+        "he": "ציון במשפט תפדה"
+      },
+      "parashah": {
+        "en": "Shabbat 139",
+        "he": "שבת דף 139"
+      },
+      "target_shabbat": "2027-12-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-140",
+      "title": {
+        "en": "Shabbat 140 — The waste of one’s body",
+        "he": "בל תשחית דגופא"
+      },
+      "parashah": {
+        "en": "Shabbat 140",
+        "he": "שבת דף 140"
+      },
+      "target_shabbat": "2027-12-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-141",
+      "title": {
+        "en": "Shabbat 141 — A father carries his son",
+        "he": "נוטל אדם את בנו"
+      },
+      "parashah": {
+        "en": "Shabbat 141",
+        "he": "שבת דף 141"
+      },
+      "target_shabbat": "2027-12-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-142",
+      "title": {
+        "en": "Shabbat 142 — If I were not an important man",
+        "he": "אי לאו דאדם חשוב אנא"
+      },
+      "parashah": {
+        "en": "Shabbat 142",
+        "he": "שבת דף 142"
+      },
+      "target_shabbat": "2027-12-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-143",
+      "title": {
+        "en": "Shabbat 143 — Clearing the table",
+        "he": "מעבירין מעל השלחן"
+      },
+      "parashah": {
+        "en": "Shabbat 143",
+        "he": "שבת דף 143"
+      },
+      "target_shabbat": "2027-12-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-144",
+      "title": {
+        "en": "Shabbat 144 — Liquid that comes to food",
+        "he": "משקה הבא לאוכל"
+      },
+      "parashah": {
+        "en": "Shabbat 144",
+        "he": "שבת דף 144"
+      },
+      "target_shabbat": "2027-12-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-145",
+      "title": {
+        "en": "Shabbat 145 — Say to wisdom: you are my sister",
+        "he": "אמור לחכמה אחותי את"
+      },
+      "parashah": {
+        "en": "Shabbat 145",
+        "he": "שבת דף 145"
+      },
+      "target_shabbat": "2027-12-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-146",
+      "title": {
+        "en": "Shabbat 146 — Even in the innermost rooms",
+        "he": "אפילו בחדרי חדרים"
+      },
+      "parashah": {
+        "en": "Shabbat 146",
+        "he": "שבת דף 146"
+      },
+      "target_shabbat": "2028-01-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-147",
+      "title": {
+        "en": "Shabbat 147 — Exile yourself to a place of Torah",
+        "he": "הוי גולה למקום תורה"
+      },
+      "parashah": {
+        "en": "Shabbat 147",
+        "he": "שבת דף 147"
+      },
+      "target_shabbat": "2028-01-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-148",
+      "title": {
+        "en": "Shabbat 148 — Better unwitting than deliberate",
+        "he": "מוטב שיהו שוגגין"
+      },
+      "parashah": {
+        "en": "Shabbat 148",
+        "he": "שבת דף 148"
+      },
+      "target_shabbat": "2028-01-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-149",
+      "title": {
+        "en": "Shabbat 149 — Do not turn to idols",
+        "he": "אל תפנו אל האלילים"
+      },
+      "parashah": {
+        "en": "Shabbat 149",
+        "he": "שבת דף 149"
+      },
+      "target_shabbat": "2028-01-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-150",
+      "title": {
+        "en": "Shabbat 150 — Speech forbidden, thought permitted",
+        "he": "דיבור אסור הרהור מותר"
+      },
+      "parashah": {
+        "en": "Shabbat 150",
+        "he": "שבת דף 150"
+      },
+      "target_shabbat": "2028-01-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-151",
+      "title": {
+        "en": "Shabbat 151 — Desecrate one Shabbat",
+        "he": "חלל עליו שבת אחת"
+      },
+      "parashah": {
+        "en": "Shabbat 151",
+        "he": "שבת דף 151"
+      },
+      "target_shabbat": "2028-01-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-152",
+      "title": {
+        "en": "Shabbat 152 — Return it in purity",
+        "he": "תנה לו בטהרה"
+      },
+      "parashah": {
+        "en": "Shabbat 152",
+        "he": "שבת דף 152"
+      },
+      "target_shabbat": "2028-01-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-153",
+      "title": {
+        "en": "Shabbat 153 — Repent one day before death",
+        "he": "שוב יום אחד לפני מיתתך"
+      },
+      "parashah": {
+        "en": "Shabbat 153",
+        "he": "שבת דף 153"
+      },
+      "target_shabbat": "2028-01-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-154",
+      "title": {
+        "en": "Shabbat 154 — Driving a loaded donkey",
+        "he": "המחמר אחר בהמתו"
+      },
+      "parashah": {
+        "en": "Shabbat 154",
+        "he": "שבת דף 154"
+      },
+      "target_shabbat": "2028-01-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-155",
+      "title": {
+        "en": "Shabbat 155 — The righteous knows the cause of the poor",
+        "he": "יודע צדיק דין דלים"
+      },
+      "parashah": {
+        "en": "Shabbat 155",
+        "he": "שבת דף 155"
+      },
+      "target_shabbat": "2028-01-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-156",
+      "title": {
+        "en": "Shabbat 156 — Israel is not bound by the stars",
+        "he": "אין מזל לישראל"
+      },
+      "parashah": {
+        "en": "Shabbat 156",
+        "he": "שבת דף 156"
+      },
+      "target_shabbat": "2028-01-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shabbat-157",
+      "title": {
+        "en": "Shabbat 157 — Plugging and measuring on Shabbat",
+        "he": "פוקקין ומודדין בשבת"
+      },
+      "parashah": {
+        "en": "Shabbat 157",
+        "he": "שבת דף 157"
+      },
+      "target_shabbat": "2028-01-12",
+      "category": "talmud"
     }
   ]
 }
