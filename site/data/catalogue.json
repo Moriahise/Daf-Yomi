@@ -6227,6 +6227,1358 @@
       },
       "target_shabbat": "2028-01-12",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-2",
+      "title": {
+        "en": "Eruvin 2 — The entrance of the Sanctuary",
+        "he": "פתחו של היכל"
+      },
+      "parashah": {
+        "en": "Eruvin 2",
+        "he": "עירובין דף 2"
+      },
+      "target_shabbat": "2028-01-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-3",
+      "title": {
+        "en": "Eruvin 3 — A partners’ pot",
+        "he": "קדרא דבי שותפי"
+      },
+      "parashah": {
+        "en": "Eruvin 3",
+        "he": "עירובין דף 3"
+      },
+      "target_shabbat": "2028-01-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-4",
+      "title": {
+        "en": "Eruvin 4 — Law given to Moses at Sinai",
+        "he": "הלכה למשה מסיני"
+      },
+      "parashah": {
+        "en": "Eruvin 4",
+        "he": "עירובין דף 4"
+      },
+      "target_shabbat": "2028-01-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-5",
+      "title": {
+        "en": "Eruvin 5 — Standing exceeds the breached",
+        "he": "עומד מרובה על הפרוץ"
+      },
+      "parashah": {
+        "en": "Eruvin 5",
+        "he": "עירובין דף 5"
+      },
+      "target_shabbat": "2028-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-6",
+      "title": {
+        "en": "Eruvin 6 — The fool walks in darkness",
+        "he": "הכסיל בחשך הולך"
+      },
+      "parashah": {
+        "en": "Eruvin 6",
+        "he": "עירובין דף 6"
+      },
+      "target_shabbat": "2028-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-7",
+      "title": {
+        "en": "Eruvin 7 — Stringencies that contradict",
+        "he": "חומרי דסתרי אהדדי"
+      },
+      "parashah": {
+        "en": "Eruvin 7",
+        "he": "עירובין דף 7"
+      },
+      "target_shabbat": "2028-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-8",
+      "title": {
+        "en": "Eruvin 8 — The sea may rise in a sandbar",
+        "he": "שמא יעלה הים שרטון"
+      },
+      "parashah": {
+        "en": "Eruvin 8",
+        "he": "עירובין דף 8"
+      },
+      "target_shabbat": "2028-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-9",
+      "title": {
+        "en": "Eruvin 9 — Between the side posts",
+        "he": "בין לחיים"
+      },
+      "parashah": {
+        "en": "Eruvin 9",
+        "he": "עירובין דף 9"
+      },
+      "target_shabbat": "2028-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-10",
+      "title": {
+        "en": "Eruvin 10 — No one leaves a large door",
+        "he": "אין אדם מניח פתח גדול"
+      },
+      "parashah": {
+        "en": "Eruvin 10",
+        "he": "עירובין דף 10"
+      },
+      "target_shabbat": "2028-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-11",
+      "title": {
+        "en": "Eruvin 11 — The form of a doorway",
+        "he": "צורת הפתח"
+      },
+      "parashah": {
+        "en": "Eruvin 11",
+        "he": "עירובין דף 11"
+      },
+      "target_shabbat": "2028-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-12",
+      "title": {
+        "en": "Eruvin 12 — Lenient with water",
+        "he": "קל הוא שהקלו חכמים במים"
+      },
+      "parashah": {
+        "en": "Eruvin 12",
+        "he": "עירובין דף 12"
+      },
+      "target_shabbat": "2028-01-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-13",
+      "title": {
+        "en": "Eruvin 13 — These and those are words of the living God",
+        "he": "אלו ואלו דברי אלהים חיים"
+      },
+      "parashah": {
+        "en": "Eruvin 13",
+        "he": "עירובין דף 13"
+      },
+      "target_shabbat": "2028-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-14",
+      "title": {
+        "en": "Eruvin 14 — The sea that Solomon made",
+        "he": "ים שעשה שלמה"
+      },
+      "parashah": {
+        "en": "Eruvin 14",
+        "he": "עירובין דף 14"
+      },
+      "target_shabbat": "2028-01-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-15",
+      "title": {
+        "en": "Eruvin 15 — A side post standing by itself",
+        "he": "לחי העומד מאליו"
+      },
+      "parashah": {
+        "en": "Eruvin 15",
+        "he": "עירובין דף 15"
+      },
+      "target_shabbat": "2028-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-16",
+      "title": {
+        "en": "Eruvin 16 — Words I said were my error",
+        "he": "דברים שאמרתי טעות הן בידי"
+      },
+      "parashah": {
+        "en": "Eruvin 16",
+        "he": "עירובין דף 16"
+      },
+      "target_shabbat": "2028-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-17",
+      "title": {
+        "en": "Eruvin 17 — Four things exempted in a camp",
+        "he": "ארבעה דברים פטרו במחנה"
+      },
+      "parashah": {
+        "en": "Eruvin 17",
+        "he": "עירובין דף 17"
+      },
+      "target_shabbat": "2028-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-18",
+      "title": {
+        "en": "Eruvin 18 — Two pillars",
+        "he": "דיו עמודין"
+      },
+      "parashah": {
+        "en": "Eruvin 18",
+        "he": "עירובין דף 18"
+      },
+      "target_shabbat": "2028-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-19",
+      "title": {
+        "en": "Eruvin 19 — Full of mitzvot like a pomegranate",
+        "he": "מליאין מצות כרמון"
+      },
+      "parashah": {
+        "en": "Eruvin 19",
+        "he": "עירובין דף 19"
+      },
+      "target_shabbat": "2028-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-20",
+      "title": {
+        "en": "Eruvin 20 — No water, no partition",
+        "he": "מים אין כאן מחיצה אין כאן"
+      },
+      "parashah": {
+        "en": "Eruvin 20",
+        "he": "עירובין דף 20"
+      },
+      "target_shabbat": "2028-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-21",
+      "title": {
+        "en": "Eruvin 21 — Your commandment is very broad",
+        "he": "רחבה מצותך מאד"
+      },
+      "parashah": {
+        "en": "Eruvin 21",
+        "he": "עירובין דף 21"
+      },
+      "target_shabbat": "2028-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-22",
+      "title": {
+        "en": "Eruvin 22 — Today to do them",
+        "he": "היום לעשותם"
+      },
+      "parashah": {
+        "en": "Eruvin 22",
+        "he": "עירובין דף 22"
+      },
+      "target_shabbat": "2028-02-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-23",
+      "title": {
+        "en": "Eruvin 23 — Like the courtyard of the Mishkan",
+        "he": "כחצר המשכן"
+      },
+      "parashah": {
+        "en": "Eruvin 23",
+        "he": "עירובין דף 23"
+      },
+      "target_shabbat": "2028-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-24",
+      "title": {
+        "en": "Eruvin 24 — New faces have come here",
+        "he": "פנים חדשות באו לכאן"
+      },
+      "parashah": {
+        "en": "Eruvin 24",
+        "he": "עירובין דף 24"
+      },
+      "target_shabbat": "2028-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-25",
+      "title": {
+        "en": "Eruvin 25 — A partition upon a partition",
+        "he": "מחיצה על גבי מחיצה"
+      },
+      "parashah": {
+        "en": "Eruvin 25",
+        "he": "עירובין דף 25"
+      },
+      "target_shabbat": "2028-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-26",
+      "title": {
+        "en": "Eruvin 26 — A study session at the door",
+        "he": "ישיבה על פתחו"
+      },
+      "parashah": {
+        "en": "Eruvin 26",
+        "he": "עירובין דף 26"
+      },
+      "target_shabbat": "2028-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-27",
+      "title": {
+        "en": "Eruvin 27 — No learning from general rules",
+        "he": "אין למידין מן הכללות"
+      },
+      "parashah": {
+        "en": "Eruvin 27",
+        "he": "עירובין דף 27"
+      },
+      "target_shabbat": "2028-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-28",
+      "title": {
+        "en": "Eruvin 28 — The child of the study hall",
+        "he": "ינוקא דבי רב"
+      },
+      "parashah": {
+        "en": "Eruvin 28",
+        "he": "עירובין דף 28"
+      },
+      "target_shabbat": "2028-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-29",
+      "title": {
+        "en": "Eruvin 29 — Food for two meals",
+        "he": "מזון שתי סעודות"
+      },
+      "parashah": {
+        "en": "Eruvin 29",
+        "he": "עירובין דף 29"
+      },
+      "target_shabbat": "2028-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-30",
+      "title": {
+        "en": "Eruvin 30 — Everything according to the person",
+        "he": "הכל לפי מה שהוא אדם"
+      },
+      "parashah": {
+        "en": "Eruvin 30",
+        "he": "עירובין דף 30"
+      },
+      "target_shabbat": "2028-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-31",
+      "title": {
+        "en": "Eruvin 31 — Mitzvot were not given for benefit",
+        "he": "מצות לאו ליהנות ניתנו"
+      },
+      "parashah": {
+        "en": "Eruvin 31",
+        "he": "עירובין דף 31"
+      },
+      "target_shabbat": "2028-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-32",
+      "title": {
+        "en": "Eruvin 32 — An agent performs his errand",
+        "he": "חזקה שליח עושה שליחותו"
+      },
+      "parashah": {
+        "en": "Eruvin 32",
+        "he": "עירובין דף 32"
+      },
+      "target_shabbat": "2028-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-33",
+      "title": {
+        "en": "Eruvin 33 — Carving to complete",
+        "he": "חוקקין להשלים"
+      },
+      "parashah": {
+        "en": "Eruvin 33",
+        "he": "עירובין דף 33"
+      },
+      "target_shabbat": "2028-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-34",
+      "title": {
+        "en": "Eruvin 34 — The troops at Nehardea",
+        "he": "הפולמוסא בנהרדעא"
+      },
+      "parashah": {
+        "en": "Eruvin 34",
+        "he": "עירובין דף 34"
+      },
+      "target_shabbat": "2028-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-35",
+      "title": {
+        "en": "Eruvin 35 — A doubtful eruv is valid",
+        "he": "ספק עירוב כשר"
+      },
+      "parashah": {
+        "en": "Eruvin 35",
+        "he": "עירובין דף 35"
+      },
+      "target_shabbat": "2028-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-36",
+      "title": {
+        "en": "Eruvin 36 — A conditional eruv",
+        "he": "מתנה אדם על עירובו"
+      },
+      "parashah": {
+        "en": "Eruvin 36",
+        "he": "עירובין דף 36"
+      },
+      "target_shabbat": "2028-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-37",
+      "title": {
+        "en": "Eruvin 37 — Retroactive clarification",
+        "he": "ברירה"
+      },
+      "parashah": {
+        "en": "Eruvin 37",
+        "he": "עירובין דף 37"
+      },
+      "target_shabbat": "2028-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-38",
+      "title": {
+        "en": "Eruvin 38 — Two sanctities",
+        "he": "שתי קדושות"
+      },
+      "parashah": {
+        "en": "Eruvin 38",
+        "he": "עירובין דף 38"
+      },
+      "target_shabbat": "2028-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-39",
+      "title": {
+        "en": "Eruvin 39 — The Exilarch’s gazelle",
+        "he": "בר טביא דבי ריש גלותא"
+      },
+      "parashah": {
+        "en": "Eruvin 39",
+        "he": "עירובין דף 39"
+      },
+      "target_shabbat": "2028-02-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-40",
+      "title": {
+        "en": "Eruvin 40 — The blessing of the season",
+        "he": "ברכת הזמן"
+      },
+      "parashah": {
+        "en": "Eruvin 40",
+        "he": "עירובין דף 40"
+      },
+      "target_shabbat": "2028-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-41",
+      "title": {
+        "en": "Eruvin 41 — The body follows the head",
+        "he": "בתר רישא גופא אזיל"
+      },
+      "parashah": {
+        "en": "Eruvin 41",
+        "he": "עירובין דף 41"
+      },
+      "target_shabbat": "2028-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-42",
+      "title": {
+        "en": "Eruvin 42 — Two thousand average steps",
+        "he": "אלפים פסיעות בינוניות"
+      },
+      "parashah": {
+        "en": "Eruvin 42",
+        "he": "עירובין דף 42"
+      },
+      "target_shabbat": "2028-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-43",
+      "title": {
+        "en": "Eruvin 43 — Rabban Gamliel’s tube",
+        "he": "השפופרת של רבן גמליאל"
+      },
+      "parashah": {
+        "en": "Eruvin 43",
+        "he": "עירובין דף 43"
+      },
+      "target_shabbat": "2028-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-44",
+      "title": {
+        "en": "Eruvin 44 — A person as a wall",
+        "he": "אדם נעשה דופן"
+      },
+      "parashah": {
+        "en": "Eruvin 44",
+        "he": "עירובין דף 44"
+      },
+      "target_shabbat": "2028-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-45",
+      "title": {
+        "en": "Eruvin 45 — Return with their weapons",
+        "he": "חוזרין בכלי זיינן"
+      },
+      "parashah": {
+        "en": "Eruvin 45",
+        "he": "עירובין דף 45"
+      },
+      "target_shabbat": "2028-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-46",
+      "title": {
+        "en": "Eruvin 46 — The lenient view in eruv",
+        "he": "הלכה כדברי המיקל בעירוב"
+      },
+      "parashah": {
+        "en": "Eruvin 46",
+        "he": "עירובין דף 46"
+      },
+      "target_shabbat": "2028-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-47",
+      "title": {
+        "en": "Eruvin 47 — Not from everyone may one learn",
+        "he": "אין מן הכל זוכה אדם ללמוד"
+      },
+      "parashah": {
+        "en": "Eruvin 47",
+        "he": "עירובין דף 47"
+      },
+      "target_shabbat": "2028-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-48",
+      "title": {
+        "en": "Eruvin 48 — Each man in his place",
+        "he": "שבו איש תחתיו"
+      },
+      "parashah": {
+        "en": "Eruvin 48",
+        "he": "עירובין דף 48"
+      },
+      "target_shabbat": "2028-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-49",
+      "title": {
+        "en": "Eruvin 49 — The trait of Sodom",
+        "he": "מדת סדום"
+      },
+      "parashah": {
+        "en": "Eruvin 49",
+        "he": "עירובין דף 49"
+      },
+      "target_shabbat": "2028-02-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-50",
+      "title": {
+        "en": "Eruvin 50 — Not one after another, not at once",
+        "he": "כל שאינו בזה אחר זה"
+      },
+      "parashah": {
+        "en": "Eruvin 50",
+        "he": "עירובין דף 50"
+      },
+      "target_shabbat": "2028-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-51",
+      "title": {
+        "en": "Eruvin 51 — Like this shall all Shabbat observers be",
+        "he": "כזה יהו כל שובתי שבת"
+      },
+      "parashah": {
+        "en": "Eruvin 51",
+        "he": "עירובין דף 51"
+      },
+      "target_shabbat": "2028-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-52",
+      "title": {
+        "en": "Eruvin 52 — Your foot on Shabbat",
+        "he": "אם תשיב משבת רגלך"
+      },
+      "parashah": {
+        "en": "Eruvin 52",
+        "he": "עירובין דף 52"
+      },
+      "target_shabbat": "2028-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-53",
+      "title": {
+        "en": "Eruvin 53 — Like a needle’s eye",
+        "he": "כמלא נקב מחט סידקית"
+      },
+      "parashah": {
+        "en": "Eruvin 53",
+        "he": "עירובין דף 53"
+      },
+      "target_shabbat": "2028-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-54",
+      "title": {
+        "en": "Eruvin 54 — Arranged in all your limbs",
+        "he": "ערוכה ברמ״ח אברים"
+      },
+      "parashah": {
+        "en": "Eruvin 54",
+        "he": "עירובין דף 54"
+      },
+      "target_shabbat": "2028-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-55",
+      "title": {
+        "en": "Eruvin 55 — Not in heaven",
+        "he": "לא בשמים היא"
+      },
+      "parashah": {
+        "en": "Eruvin 55",
+        "he": "עירובין דף 55"
+      },
+      "target_shabbat": "2028-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-56",
+      "title": {
+        "en": "Eruvin 56 — Squaring with the world",
+        "he": "ריבוע עולם"
+      },
+      "parashah": {
+        "en": "Eruvin 56",
+        "he": "עירובין דף 56"
+      },
+      "target_shabbat": "2028-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-57",
+      "title": {
+        "en": "Eruvin 57 — The enclosure of the city",
+        "he": "קרפף לעיר"
+      },
+      "parashah": {
+        "en": "Eruvin 57",
+        "he": "עירובין דף 57"
+      },
+      "target_shabbat": "2028-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-58",
+      "title": {
+        "en": "Eruvin 58 — Measuring the mountains",
+        "he": "מקדרין בהרים"
+      },
+      "parashah": {
+        "en": "Eruvin 58",
+        "he": "עירובין דף 58"
+      },
+      "target_shabbat": "2028-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-59",
+      "title": {
+        "en": "Eruvin 59 — A city of one becomes a city of many",
+        "he": "עיר של יחיד ונעשית של רבים"
+      },
+      "parashah": {
+        "en": "Eruvin 59",
+        "he": "עירובין דף 59"
+      },
+      "target_shabbat": "2028-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-60",
+      "title": {
+        "en": "Eruvin 60 — A tradition is like a song",
+        "he": "גמרא גמור זמורתא תהא"
+      },
+      "parashah": {
+        "en": "Eruvin 60",
+        "he": "עירובין דף 60"
+      },
+      "target_shabbat": "2028-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-61",
+      "title": {
+        "en": "Eruvin 61 — Words of prophecy",
+        "he": "אין אלו אלא דברי נביאות"
+      },
+      "parashah": {
+        "en": "Eruvin 61",
+        "he": "עירובין דף 61"
+      },
+      "target_shabbat": "2028-03-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-62",
+      "title": {
+        "en": "Eruvin 62 — A small measure but clean",
+        "he": "קב ונקי"
+      },
+      "parashah": {
+        "en": "Eruvin 62",
+        "he": "עירובין דף 62"
+      },
+      "target_shabbat": "2028-03-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-63",
+      "title": {
+        "en": "Eruvin 63 — No honor to a teacher before desecration",
+        "he": "אין חולקין כבוד לרב"
+      },
+      "parashah": {
+        "en": "Eruvin 63",
+        "he": "עירובין דף 63"
+      },
+      "target_shabbat": "2028-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-64",
+      "title": {
+        "en": "Eruvin 64 — One who drank should not rule",
+        "he": "שתה רביעית יין אל יורה"
+      },
+      "parashah": {
+        "en": "Eruvin 64",
+        "he": "עירובין דף 64"
+      },
+      "target_shabbat": "2028-03-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-65",
+      "title": {
+        "en": "Eruvin 65 — Known by his cup, purse and anger",
+        "he": "בכוסו ובכיסו ובכעסו"
+      },
+      "parashah": {
+        "en": "Eruvin 65",
+        "he": "עירובין דף 65"
+      },
+      "target_shabbat": "2028-03-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-66",
+      "title": {
+        "en": "Eruvin 66 — Renting is like eruv",
+        "he": "שוכר כמערב"
+      },
+      "parashah": {
+        "en": "Eruvin 66",
+        "he": "עירובין דף 66"
+      },
+      "target_shabbat": "2028-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-67",
+      "title": {
+        "en": "Eruvin 67 — Hot water for the infant",
+        "he": "חמימי לינוקא"
+      },
+      "parashah": {
+        "en": "Eruvin 67",
+        "he": "עירובין דף 67"
+      },
+      "target_shabbat": "2028-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-68",
+      "title": {
+        "en": "Eruvin 68 — Not a laughingstock",
+        "he": "כחוכא ואטלולא"
+      },
+      "parashah": {
+        "en": "Eruvin 68",
+        "he": "עירובין דף 68"
+      },
+      "target_shabbat": "2028-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-69",
+      "title": {
+        "en": "Eruvin 69 — Shabbat like idolatry",
+        "he": "שבת כעבודה זרה"
+      },
+      "parashah": {
+        "en": "Eruvin 69",
+        "he": "עירובין דף 69"
+      },
+      "target_shabbat": "2028-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-70",
+      "title": {
+        "en": "Eruvin 70 — The heir and nullifying",
+        "he": "יורש מהו שיבטל"
+      },
+      "parashah": {
+        "en": "Eruvin 70",
+        "he": "עירובין דף 70"
+      },
+      "target_shabbat": "2028-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-71",
+      "title": {
+        "en": "Eruvin 71 — Come to the better ones",
+        "he": "כלך אצל יפות"
+      },
+      "parashah": {
+        "en": "Eruvin 71",
+        "he": "עירובין דף 71"
+      },
+      "target_shabbat": "2028-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-72",
+      "title": {
+        "en": "Eruvin 72 — The power of leniency",
+        "he": "כח דהיתרא עדיף"
+      },
+      "parashah": {
+        "en": "Eruvin 72",
+        "he": "עירובין דף 72"
+      },
+      "target_shabbat": "2028-03-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-73",
+      "title": {
+        "en": "Eruvin 73 — Relying on our master’s table",
+        "he": "סומכין על שולחנו"
+      },
+      "parashah": {
+        "en": "Eruvin 73",
+        "he": "עירובין דף 73"
+      },
+      "target_shabbat": "2028-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-74",
+      "title": {
+        "en": "Eruvin 74 — The sexton who slept in the synagogue",
+        "he": "חזנא דבייתי בבי כנישתא"
+      },
+      "parashah": {
+        "en": "Eruvin 74",
+        "he": "עירובין דף 74"
+      },
+      "target_shabbat": "2028-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-75",
+      "title": {
+        "en": "Eruvin 75 — Master of Abraham",
+        "he": "מריה דאברהם"
+      },
+      "parashah": {
+        "en": "Eruvin 75",
+        "he": "עירובין דף 75"
+      },
+      "target_shabbat": "2028-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-76",
+      "title": {
+        "en": "Eruvin 76 — The round window",
+        "he": "חלון עגול"
+      },
+      "parashah": {
+        "en": "Eruvin 76",
+        "he": "עירובין דף 76"
+      },
+      "target_shabbat": "2028-03-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-77",
+      "title": {
+        "en": "Eruvin 77 — Easy use and hard use",
+        "he": "בנחת ובקשה"
+      },
+      "parashah": {
+        "en": "Eruvin 77",
+        "he": "עירובין דף 77"
+      },
+      "target_shabbat": "2028-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-78",
+      "title": {
+        "en": "Eruvin 78 — A lion crouching at the door",
+        "he": "פיתחא הוא ואריא רביע עליה"
+      },
+      "parashah": {
+        "en": "Eruvin 78",
+        "he": "עירובין דף 78"
+      },
+      "target_shabbat": "2028-03-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-79",
+      "title": {
+        "en": "Eruvin 79 — The elders of Pumbedita",
+        "he": "סבי דפומבדיתא"
+      },
+      "parashah": {
+        "en": "Eruvin 79",
+        "he": "עירובין דף 79"
+      },
+      "target_shabbat": "2028-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-80",
+      "title": {
+        "en": "Eruvin 80 — Be lenient in eruvin",
+        "he": "כל שיש לך להקל בעירובין הקל"
+      },
+      "parashah": {
+        "en": "Eruvin 80",
+        "he": "עירובין דף 80"
+      },
+      "target_shabbat": "2028-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-81",
+      "title": {
+        "en": "Eruvin 81 — Because of ill will",
+        "he": "משום איבה"
+      },
+      "parashah": {
+        "en": "Eruvin 81",
+        "he": "עירובין דף 81"
+      },
+      "target_shabbat": "2028-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-82",
+      "title": {
+        "en": "Eruvin 82 — There is always room for sweets",
+        "he": "רווחא לבסימא שכיח"
+      },
+      "parashah": {
+        "en": "Eruvin 82",
+        "he": "עירובין דף 82"
+      },
+      "target_shabbat": "2028-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-83",
+      "title": {
+        "en": "Eruvin 83 — Healthy and blessed",
+        "he": "בריא ומבורך"
+      },
+      "parashah": {
+        "en": "Eruvin 83",
+        "he": "עירובין דף 83"
+      },
+      "target_shabbat": "2028-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-84",
+      "title": {
+        "en": "Eruvin 84 — Within ten of each other",
+        "he": "בתוך עשרה דהדדי"
+      },
+      "parashah": {
+        "en": "Eruvin 84",
+        "he": "עירובין דף 84"
+      },
+      "target_shabbat": "2028-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-85",
+      "title": {
+        "en": "Eruvin 85 — Like a tripod",
+        "he": "כחצובה"
+      },
+      "parashah": {
+        "en": "Eruvin 85",
+        "he": "עירובין דף 85"
+      },
+      "target_shabbat": "2028-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-86",
+      "title": {
+        "en": "Eruvin 86 — Rabbi honored the wealthy",
+        "he": "רבי מכבד עשירים"
+      },
+      "parashah": {
+        "en": "Eruvin 86",
+        "he": "עירובין דף 86"
+      },
+      "target_shabbat": "2028-04-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-87",
+      "title": {
+        "en": "Eruvin 87 — The sea of Tiberias",
+        "he": "ימה של טבריא"
+      },
+      "parashah": {
+        "en": "Eruvin 87",
+        "he": "עירובין דף 87"
+      },
+      "target_shabbat": "2028-04-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-88",
+      "title": {
+        "en": "Eruvin 88 — Water that is absorbed",
+        "he": "מים שנבלעים"
+      },
+      "parashah": {
+        "en": "Eruvin 88",
+        "he": "עירובין דף 88"
+      },
+      "target_shabbat": "2028-04-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-89",
+      "title": {
+        "en": "Eruvin 89 — All the roofs of the city",
+        "he": "כל גגות העיר"
+      },
+      "parashah": {
+        "en": "Eruvin 89",
+        "he": "עירובין דף 89"
+      },
+      "target_shabbat": "2028-04-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-90",
+      "title": {
+        "en": "Eruvin 90 — Rami bar Ḥama’s sharpness",
+        "he": "אגב חורפיה"
+      },
+      "parashah": {
+        "en": "Eruvin 90",
+        "he": "עירובין דף 90"
+      },
+      "target_shabbat": "2028-04-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-91",
+      "title": {
+        "en": "Eruvin 91 — A time of danger is no proof",
+        "he": "אין שעת הסכנה ראיה"
+      },
+      "parashah": {
+        "en": "Eruvin 91",
+        "he": "עירובין דף 91"
+      },
+      "target_shabbat": "2028-04-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-92",
+      "title": {
+        "en": "Eruvin 92 — If Rabbi did not teach it",
+        "he": "וכי רבי לא שנאה"
+      },
+      "parashah": {
+        "en": "Eruvin 92",
+        "he": "עירובין דף 92"
+      },
+      "target_shabbat": "2028-04-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-93",
+      "title": {
+        "en": "Eruvin 93 — Once permitted, it stays permitted",
+        "he": "שבת כיון שהותרה הותרה"
+      },
+      "parashah": {
+        "en": "Eruvin 93",
+        "he": "עירובין דף 93"
+      },
+      "target_shabbat": "2028-04-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-94",
+      "title": {
+        "en": "Eruvin 94 — Take a cloak and spread it",
+        "he": "שקולו גלימא נגידו בה"
+      },
+      "parashah": {
+        "en": "Eruvin 94",
+        "he": "עירובין דף 94"
+      },
+      "target_shabbat": "2028-04-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-95",
+      "title": {
+        "en": "Eruvin 95 — One who finds tefillin",
+        "he": "המוצא תפילין"
+      },
+      "parashah": {
+        "en": "Eruvin 95",
+        "he": "עירובין דף 95"
+      },
+      "target_shabbat": "2028-04-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-96",
+      "title": {
+        "en": "Eruvin 96 — Michal wore tefillin",
+        "he": "מיכל בת כושי היתה מנחת תפילין"
+      },
+      "parashah": {
+        "en": "Eruvin 96",
+        "he": "עירובין דף 96"
+      },
+      "target_shabbat": "2028-04-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-97",
+      "title": {
+        "en": "Eruvin 97 — The scroll that rolled away",
+        "he": "נתגלגל הספר מידו"
+      },
+      "parashah": {
+        "en": "Eruvin 97",
+        "he": "עירובין דף 97"
+      },
+      "target_shabbat": "2028-04-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-98",
+      "title": {
+        "en": "Eruvin 98 — Holy writings are not thrown",
+        "he": "אין מזרקין כתבי הקודש"
+      },
+      "parashah": {
+        "en": "Eruvin 98",
+        "he": "עירובין דף 98"
+      },
+      "target_shabbat": "2028-04-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-99",
+      "title": {
+        "en": "Eruvin 99 — Thought makes it a place",
+        "he": "מחשבתו משויא ליה מקום"
+      },
+      "parashah": {
+        "en": "Eruvin 99",
+        "he": "עירובין דף 99"
+      },
+      "target_shabbat": "2028-04-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-100",
+      "title": {
+        "en": "Eruvin 100 — Arise and act, or sit and refrain",
+        "he": "קום עשה ושב ואל תעשה"
+      },
+      "parashah": {
+        "en": "Eruvin 100",
+        "he": "עירובין דף 100"
+      },
+      "target_shabbat": "2028-04-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-101",
+      "title": {
+        "en": "Eruvin 101 — The best of them like a thorn hedge",
+        "he": "טובם כחדק"
+      },
+      "parashah": {
+        "en": "Eruvin 101",
+        "he": "עירובין דף 101"
+      },
+      "target_shabbat": "2028-04-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-102",
+      "title": {
+        "en": "Eruvin 102 — Adding to a temporary tent",
+        "he": "מוסיף על אהל עראי"
+      },
+      "parashah": {
+        "en": "Eruvin 102",
+        "he": "עירובין דף 102"
+      },
+      "target_shabbat": "2028-04-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-103",
+      "title": {
+        "en": "Eruvin 103 — Priests are diligent",
+        "he": "כהנים זריזין הן"
+      },
+      "parashah": {
+        "en": "Eruvin 103",
+        "he": "עירובין דף 103"
+      },
+      "target_shabbat": "2028-04-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-104",
+      "title": {
+        "en": "Eruvin 104 — Errors in my hand",
+        "he": "טעות הן בידי"
+      },
+      "parashah": {
+        "en": "Eruvin 104",
+        "he": "עירובין דף 104"
+      },
+      "target_shabbat": "2028-04-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-eruvin-105",
+      "title": {
+        "en": "Eruvin 105 — They gave you from your own",
+        "he": "משלך נתנו לך"
+      },
+      "parashah": {
+        "en": "Eruvin 105",
+        "he": "עירובין דף 105"
+      },
+      "target_shabbat": "2028-04-25",
+      "category": "talmud"
     }
   ]
 }
