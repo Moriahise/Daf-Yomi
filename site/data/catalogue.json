@@ -1640,6 +1640,357 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-keritot-2",
+      "title": {
+        "en": "Keritot 2 — Thirty-six transgressions punished by karet",
+        "he": "שלושים ושש כריתות בתורה"
+      },
+      "parashah": {
+        "en": "Keritot 2",
+        "he": "כריתות דף 2"
+      },
+      "target_shabbat": "2027-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-3",
+      "title": {
+        "en": "Keritot 3 — How the list was counted",
+        "he": "כיצד נמנתה הרשימה"
+      },
+      "parashah": {
+        "en": "Keritot 3",
+        "he": "כריתות דף 3"
+      },
+      "target_shabbat": "2027-01-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-4",
+      "title": {
+        "en": "Keritot 4 — Forbidden fat and blood",
+        "he": "חלב ודם"
+      },
+      "parashah": {
+        "en": "Keritot 4",
+        "he": "כריתות דף 4"
+      },
+      "target_shabbat": "2027-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-5",
+      "title": {
+        "en": "Keritot 5 — The anointing oil",
+        "he": "שמן המשחה"
+      },
+      "parashah": {
+        "en": "Keritot 5",
+        "he": "כריתות דף 5"
+      },
+      "target_shabbat": "2027-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-6",
+      "title": {
+        "en": "Keritot 6 — The incense",
+        "he": "פיטום הקטורת"
+      },
+      "parashah": {
+        "en": "Keritot 6",
+        "he": "כריתות דף 6"
+      },
+      "target_shabbat": "2027-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-7",
+      "title": {
+        "en": "Keritot 7 — Yom Kippur and the blasphemer",
+        "he": "יום הכיפורים והמגדף"
+      },
+      "parashah": {
+        "en": "Keritot 7",
+        "he": "כריתות דף 7"
+      },
+      "target_shabbat": "2027-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-8",
+      "title": {
+        "en": "Keritot 8 — Doubtful births and the price of bird pairs",
+        "he": "ספק לידות ומחיר הקינין"
+      },
+      "parashah": {
+        "en": "Keritot 8",
+        "he": "כריתות דף 8"
+      },
+      "target_shabbat": "2027-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-9",
+      "title": {
+        "en": "Keritot 9 — The convert and offerings for many sins",
+        "he": "הגר וקרבן אחד על עבירות הרבה"
+      },
+      "parashah": {
+        "en": "Keritot 9",
+        "he": "כריתות דף 9"
+      },
+      "target_shabbat": "2027-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-10",
+      "title": {
+        "en": "Keritot 10 — The sliding-scale offering",
+        "he": "קרבן עולה ויורד"
+      },
+      "parashah": {
+        "en": "Keritot 10",
+        "he": "כריתות דף 10"
+      },
+      "target_shabbat": "2027-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-11",
+      "title": {
+        "en": "Keritot 11 — The betrothed maidservant and the witness",
+        "he": "שפחה חרופה ועד אחד"
+      },
+      "parashah": {
+        "en": "Keritot 11",
+        "he": "כריתות דף 11"
+      },
+      "target_shabbat": "2027-02-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-12",
+      "title": {
+        "en": "Keritot 12 — A person is believed about himself",
+        "he": "אדם נאמן על עצמו"
+      },
+      "parashah": {
+        "en": "Keritot 12",
+        "he": "כריתות דף 12"
+      },
+      "target_shabbat": "2027-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-13",
+      "title": {
+        "en": "Keritot 13 — The time of eating and wine before service",
+        "he": "כדי אכילת פרס ושתויי יין"
+      },
+      "parashah": {
+        "en": "Keritot 13",
+        "he": "כריתות דף 13"
+      },
+      "target_shabbat": "2027-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-14",
+      "title": {
+        "en": "Keritot 14 — One act, many prohibitions",
+        "he": "מעשה אחד ואיסורים רבים"
+      },
+      "parashah": {
+        "en": "Keritot 14",
+        "he": "כריתות דף 14"
+      },
+      "target_shabbat": "2027-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-15",
+      "title": {
+        "en": "Keritot 15 — Rabbi Akiva’s questions in the market of Emmaus",
+        "he": "שאלות רבי עקיבא באיטליס של עימאום"
+      },
+      "parashah": {
+        "en": "Keritot 15",
+        "he": "כריתות דף 15"
+      },
+      "target_shabbat": "2027-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-16",
+      "title": {
+        "en": "Keritot 16 — Many Shabbatot in one lapse",
+        "he": "שבתות הרבה בהעלם אחד"
+      },
+      "parashah": {
+        "en": "Keritot 16",
+        "he": "כריתות דף 16"
+      },
+      "target_shabbat": "2027-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-17",
+      "title": {
+        "en": "Keritot 17 — The suspended guilt offering",
+        "he": "אשם תלוי"
+      },
+      "parashah": {
+        "en": "Keritot 17",
+        "he": "כריתות דף 17"
+      },
+      "target_shabbat": "2027-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-18",
+      "title": {
+        "en": "Keritot 18 — An established prohibition and awareness of doubt",
+        "he": "איקבע איסורא וידיעת ספק"
+      },
+      "parashah": {
+        "en": "Keritot 18",
+        "he": "כריתות דף 18"
+      },
+      "target_shabbat": "2027-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-19",
+      "title": {
+        "en": "Keritot 19 — Not knowing what he sinned",
+        "he": "אינו יודע במה חטא"
+      },
+      "parashah": {
+        "en": "Keritot 19",
+        "he": "כריתות דף 19"
+      },
+      "target_shabbat": "2027-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-20",
+      "title": {
+        "en": "Keritot 20 — Two candles and the coals",
+        "he": "שתי נרות וחתיית גחלים"
+      },
+      "parashah": {
+        "en": "Keritot 20",
+        "he": "כריתות דף 20"
+      },
+      "target_shabbat": "2027-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-21",
+      "title": {
+        "en": "Keritot 21 — Which blood is forbidden",
+        "he": "איזה דם אסור"
+      },
+      "parashah": {
+        "en": "Keritot 21",
+        "he": "כריתות דף 21"
+      },
+      "target_shabbat": "2027-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-22",
+      "title": {
+        "en": "Keritot 22 — The blood of life",
+        "he": "דם הנפש"
+      },
+      "parashah": {
+        "en": "Keritot 22",
+        "he": "כריתות דף 22"
+      },
+      "target_shabbat": "2027-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-23",
+      "title": {
+        "en": "Keritot 23 — Two pieces and two people",
+        "he": "שתי חתיכות ושני אנשים"
+      },
+      "parashah": {
+        "en": "Keritot 23",
+        "he": "כריתות דף 23"
+      },
+      "target_shabbat": "2027-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-24",
+      "title": {
+        "en": "Keritot 24 — Witnesses proven false",
+        "he": "עדים שהוזמו"
+      },
+      "parashah": {
+        "en": "Keritot 24",
+        "he": "כריתות דף 24"
+      },
+      "target_shabbat": "2027-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-25",
+      "title": {
+        "en": "Keritot 25 — The guilt offering of the pious",
+        "he": "אשם חסידים"
+      },
+      "parashah": {
+        "en": "Keritot 25",
+        "he": "כריתות דף 25"
+      },
+      "target_shabbat": "2027-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-26",
+      "title": {
+        "en": "Keritot 26 — What Yom Kippur does not atone",
+        "he": "מה שאין יום הכיפורים מכפר"
+      },
+      "parashah": {
+        "en": "Keritot 26",
+        "he": "כריתות דף 26"
+      },
+      "target_shabbat": "2027-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-27",
+      "title": {
+        "en": "Keritot 27 — Increase in consecrated value",
+        "he": "שבח הקדש"
+      },
+      "parashah": {
+        "en": "Keritot 27",
+        "he": "כריתות דף 27"
+      },
+      "target_shabbat": "2027-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-keritot-28",
+      "title": {
+        "en": "Keritot 28 — The four cries of the Courtyard",
+        "he": "ארבע צווחות צווחה עזרה"
+      },
+      "parashah": {
+        "en": "Keritot 28",
+        "he": "כריתות דף 28"
+      },
+      "target_shabbat": "2027-02-19",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
