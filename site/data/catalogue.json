@@ -2394,6 +2394,58 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-middot-34",
+      "title": {
+        "en": "Middot 34 — Guards, gates and the house of the hearth",
+        "he": "שומרים, שערים ובית המוקד"
+      },
+      "parashah": {
+        "en": "Middot 34",
+        "he": "מידות דף 34"
+      },
+      "target_shabbat": "2027-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-middot-35",
+      "title": {
+        "en": "Middot 35 — The courtyards and the altar",
+        "he": "העזרות והמזבח"
+      },
+      "parashah": {
+        "en": "Middot 35",
+        "he": "מידות דף 35"
+      },
+      "target_shabbat": "2027-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-middot-36",
+      "title": {
+        "en": "Middot 36 — Stones untouched by iron",
+        "he": "אבנים שלא הונף עליהן ברזל"
+      },
+      "parashah": {
+        "en": "Middot 36",
+        "he": "מידות דף 36"
+      },
+      "target_shabbat": "2027-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-middot-37",
+      "title": {
+        "en": "Middot 37 — Narrow behind, wide in front",
+        "he": "צר מאחריו ורחב מלפניו"
+      },
+      "parashah": {
+        "en": "Middot 37",
+        "he": "מידות דף 37"
+      },
+      "target_shabbat": "2027-03-27",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
