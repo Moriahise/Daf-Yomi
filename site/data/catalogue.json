@@ -1991,6 +1991,279 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-meilah-2",
+      "title": {
+        "en": "Meilah 2 — Slaughtered in the south",
+        "he": "שחטן בדרום"
+      },
+      "parashah": {
+        "en": "Meilah 2",
+        "he": "מעילה דף 2"
+      },
+      "target_shabbat": "2027-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-3",
+      "title": {
+        "en": "Meilah 3 — Partitions that absorb",
+        "he": "קלטוה מחיצות"
+      },
+      "parashah": {
+        "en": "Meilah 3",
+        "he": "מעילה דף 3"
+      },
+      "target_shabbat": "2027-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-4",
+      "title": {
+        "en": "Meilah 4 — Piggul is always subject to misuse",
+        "he": "הפיגול לעולם מועלין בו"
+      },
+      "parashah": {
+        "en": "Meilah 4",
+        "he": "מעילה דף 4"
+      },
+      "target_shabbat": "2027-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-5",
+      "title": {
+        "en": "Meilah 5 — Permission of slaughter or eating",
+        "he": "היתר שחיטה או היתר אכילה"
+      },
+      "parashah": {
+        "en": "Meilah 5",
+        "he": "מעילה דף 5"
+      },
+      "target_shabbat": "2027-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-6",
+      "title": {
+        "en": "Meilah 6 — Meat taken out before sprinkling",
+        "he": "בשר שיצא לפני זריקה"
+      },
+      "parashah": {
+        "en": "Meilah 6",
+        "he": "מעילה דף 6"
+      },
+      "target_shabbat": "2027-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-7",
+      "title": {
+        "en": "Meilah 7 — A stolen answer",
+        "he": "תשובה גנובה"
+      },
+      "parashah": {
+        "en": "Meilah 7",
+        "he": "מעילה דף 7"
+      },
+      "target_shabbat": "2027-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-8",
+      "title": {
+        "en": "Meilah 8 — The bird sin offering",
+        "he": "חטאת העוף"
+      },
+      "parashah": {
+        "en": "Meilah 8",
+        "he": "מעילה דף 8"
+      },
+      "target_shabbat": "2027-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-9",
+      "title": {
+        "en": "Meilah 9 — Until it goes out to the ash heap",
+        "he": "עד שיצא לבית הדשן"
+      },
+      "parashah": {
+        "en": "Meilah 9",
+        "he": "מעילה דף 9"
+      },
+      "target_shabbat": "2027-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-10",
+      "title": {
+        "en": "Meilah 10 — Offerings with and without permitters",
+        "he": "יש לו מתירין ואין לו מתירין"
+      },
+      "parashah": {
+        "en": "Meilah 10",
+        "he": "מעילה דף 10"
+      },
+      "target_shabbat": "2027-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-11",
+      "title": {
+        "en": "Meilah 11 — The nazir’s money and the blood",
+        "he": "מעות נזיר והדם"
+      },
+      "parashah": {
+        "en": "Meilah 11",
+        "he": "מעילה דף 11"
+      },
+      "target_shabbat": "2027-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-12",
+      "title": {
+        "en": "Meilah 12 — Where did the sanctity go",
+        "he": "קדושה שבהן להיכן הלכה"
+      },
+      "parashah": {
+        "en": "Meilah 12",
+        "he": "מעילה דף 12"
+      },
+      "target_shabbat": "2027-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-13",
+      "title": {
+        "en": "Meilah 13 — The pit and its water",
+        "he": "בור ומימיו"
+      },
+      "parashah": {
+        "en": "Meilah 13",
+        "he": "מעילה דף 13"
+      },
+      "target_shabbat": "2027-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-14",
+      "title": {
+        "en": "Meilah 14 — Building with ordinary funds",
+        "he": "בונין בחול"
+      },
+      "parashah": {
+        "en": "Meilah 14",
+        "he": "מעילה דף 14"
+      },
+      "target_shabbat": "2027-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-15",
+      "title": {
+        "en": "Meilah 15 — What combines for misuse",
+        "he": "מה מצטרף למעילה"
+      },
+      "parashah": {
+        "en": "Meilah 15",
+        "he": "מעילה דף 15"
+      },
+      "target_shabbat": "2027-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-16",
+      "title": {
+        "en": "Meilah 16 — Combining carcasses and creeping things",
+        "he": "צירוף נבלות ושרצים"
+      },
+      "parashah": {
+        "en": "Meilah 16",
+        "he": "מעילה דף 16"
+      },
+      "target_shabbat": "2027-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-17",
+      "title": {
+        "en": "Meilah 17 — The journey to Rome",
+        "he": "המסע לרומי"
+      },
+      "parashah": {
+        "en": "Meilah 17",
+        "he": "מעילה דף 17"
+      },
+      "target_shabbat": "2027-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-18",
+      "title": {
+        "en": "Meilah 18 — Benefit and damage",
+        "he": "הנאה ופגם"
+      },
+      "parashah": {
+        "en": "Meilah 18",
+        "he": "מעילה דף 18"
+      },
+      "target_shabbat": "2027-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-19",
+      "title": {
+        "en": "Meilah 19 — One misuse after another",
+        "he": "מועל אחר מועל"
+      },
+      "parashah": {
+        "en": "Meilah 19",
+        "he": "מעילה דף 19"
+      },
+      "target_shabbat": "2027-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-20",
+      "title": {
+        "en": "Meilah 20 — The agent who did his mission",
+        "he": "השליח שעשה שליחותו"
+      },
+      "parashah": {
+        "en": "Meilah 20",
+        "he": "מעילה דף 20"
+      },
+      "target_shabbat": "2027-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-21",
+      "title": {
+        "en": "Meilah 21 — Words in the heart",
+        "he": "דברים שבלב"
+      },
+      "parashah": {
+        "en": "Meilah 21",
+        "he": "מעילה דף 21"
+      },
+      "target_shabbat": "2027-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-meilah-22",
+      "title": {
+        "en": "Meilah 22 — This purse shall not be exempt",
+        "he": "לא יפטר כיס זה מן ההקדש"
+      },
+      "parashah": {
+        "en": "Meilah 22",
+        "he": "מעילה דף 22"
+      },
+      "target_shabbat": "2027-03-12",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
