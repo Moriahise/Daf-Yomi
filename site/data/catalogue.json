@@ -2446,6 +2446,942 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-niddah-2",
+      "title": {
+        "en": "Niddah 2 — Her time is sufficient",
+        "he": "דיין שעתן"
+      },
+      "parashah": {
+        "en": "Niddah 2",
+        "he": "נדה דף 2"
+      },
+      "target_shabbat": "2027-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-3",
+      "title": {
+        "en": "Niddah 3 — Learned from the sota",
+        "he": "לא למדוה אלא מסוטה"
+      },
+      "parashah": {
+        "en": "Niddah 3",
+        "he": "נדה דף 3"
+      },
+      "target_shabbat": "2027-03-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-4",
+      "title": {
+        "en": "Niddah 4 — As found and where found",
+        "he": "כשעת מציאתן ובמקום מציאתן"
+      },
+      "parashah": {
+        "en": "Niddah 4",
+        "he": "נדה דף 4"
+      },
+      "target_shabbat": "2027-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-5",
+      "title": {
+        "en": "Niddah 5 — Stains and examination cloths",
+        "he": "כתמים ועדים"
+      },
+      "parashah": {
+        "en": "Niddah 5",
+        "he": "נדה דף 5"
+      },
+      "target_shabbat": "2027-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-6",
+      "title": {
+        "en": "Niddah 6 — Worthy to rely on in pressing need",
+        "he": "כדי הוא לסמוך עליו בשעת הדחק"
+      },
+      "parashah": {
+        "en": "Niddah 6",
+        "he": "נדה דף 6"
+      },
+      "target_shabbat": "2027-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-7",
+      "title": {
+        "en": "Niddah 7 — Four women whose time suffices",
+        "he": "ארבע נשים דיין שעתן"
+      },
+      "parashah": {
+        "en": "Niddah 7",
+        "he": "נדה דף 7"
+      },
+      "target_shabbat": "2027-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-8",
+      "title": {
+        "en": "Niddah 8 — A virgin of blood",
+        "he": "בתולת דמים"
+      },
+      "parashah": {
+        "en": "Niddah 8",
+        "he": "נדה דף 8"
+      },
+      "target_shabbat": "2027-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-9",
+      "title": {
+        "en": "Niddah 9 — Fear removes the blood",
+        "he": "חרדה מסלקת את הדמים"
+      },
+      "parashah": {
+        "en": "Niddah 9",
+        "he": "נדה דף 9"
+      },
+      "target_shabbat": "2027-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-10",
+      "title": {
+        "en": "Niddah 10 — A girl not yet of age",
+        "he": "תינוקת שלא הגיע זמנה לראות"
+      },
+      "parashah": {
+        "en": "Niddah 10",
+        "he": "נדה דף 10"
+      },
+      "target_shabbat": "2027-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-11",
+      "title": {
+        "en": "Niddah 11 — Jumping and the fixed cycle",
+        "he": "קפיצות ווסת"
+      },
+      "parashah": {
+        "en": "Niddah 11",
+        "he": "נדה דף 11"
+      },
+      "target_shabbat": "2027-04-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-12",
+      "title": {
+        "en": "Niddah 12 — Called modest",
+        "he": "נקרא צנוע"
+      },
+      "parashah": {
+        "en": "Niddah 12",
+        "he": "נדה דף 12"
+      },
+      "target_shabbat": "2027-04-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-13",
+      "title": {
+        "en": "Niddah 13 — Praiseworthy for women",
+        "he": "בנשים משובחת"
+      },
+      "parashah": {
+        "en": "Niddah 13",
+        "he": "נדה דף 13"
+      },
+      "target_shabbat": "2027-04-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-14",
+      "title": {
+        "en": "Niddah 14 — Two examination cloths",
+        "he": "שני עדים"
+      },
+      "parashah": {
+        "en": "Niddah 14",
+        "he": "נדה דף 14"
+      },
+      "target_shabbat": "2027-04-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-15",
+      "title": {
+        "en": "Niddah 15 — Returning from the road",
+        "he": "הבאין מן הדרך"
+      },
+      "parashah": {
+        "en": "Niddah 15",
+        "he": "נדה דף 15"
+      },
+      "target_shabbat": "2027-04-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-16",
+      "title": {
+        "en": "Niddah 16 — Two cloths for the whole night",
+        "he": "דיה בשני עדים כל הלילה"
+      },
+      "parashah": {
+        "en": "Niddah 16",
+        "he": "נדה דף 16"
+      },
+      "target_shabbat": "2027-04-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-17",
+      "title": {
+        "en": "Niddah 17 — Five dangerous things",
+        "he": "חמשה דברים"
+      },
+      "parashah": {
+        "en": "Niddah 17",
+        "he": "נדה דף 17"
+      },
+      "target_shabbat": "2027-04-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-18",
+      "title": {
+        "en": "Niddah 18 — Following the majority",
+        "he": "הלכו אחר הרוב"
+      },
+      "parashah": {
+        "en": "Niddah 18",
+        "he": "נדה דף 18"
+      },
+      "target_shabbat": "2027-04-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-19",
+      "title": {
+        "en": "Niddah 19 — Five impure colors",
+        "he": "חמשה דמים טמאים"
+      },
+      "parashah": {
+        "en": "Niddah 19",
+        "he": "נדה דף 19"
+      },
+      "target_shabbat": "2027-04-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-20",
+      "title": {
+        "en": "Niddah 20 — Examining blood",
+        "he": "ראיית דמים"
+      },
+      "parashah": {
+        "en": "Niddah 20",
+        "he": "נדה דף 20"
+      },
+      "target_shabbat": "2027-04-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-21",
+      "title": {
+        "en": "Niddah 21 — The opening of the womb",
+        "he": "פתיחת הקבר"
+      },
+      "parashah": {
+        "en": "Niddah 21",
+        "he": "נדה דף 21"
+      },
+      "target_shabbat": "2027-04-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-22",
+      "title": {
+        "en": "Niddah 22 — Asking the physicians",
+        "he": "שאלו לרופאים"
+      },
+      "parashah": {
+        "en": "Niddah 22",
+        "he": "נדה דף 22"
+      },
+      "target_shabbat": "2027-04-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-23",
+      "title": {
+        "en": "Niddah 23 — Eyes like a person’s",
+        "he": "עיניהם דומות כשל אדם"
+      },
+      "parashah": {
+        "en": "Niddah 23",
+        "he": "נדה דף 23"
+      },
+      "target_shabbat": "2027-04-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-24",
+      "title": {
+        "en": "Niddah 24 — Rav in matters of prohibition",
+        "he": "הלכה כרב באיסורי"
+      },
+      "parashah": {
+        "en": "Niddah 24",
+        "he": "נדה דף 24"
+      },
+      "target_shabbat": "2027-04-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-25",
+      "title": {
+        "en": "Niddah 25 — A formed sac",
+        "he": "שפיר מרוקם"
+      },
+      "parashah": {
+        "en": "Niddah 25",
+        "he": "נדה דף 25"
+      },
+      "target_shabbat": "2027-04-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-26",
+      "title": {
+        "en": "Niddah 26 — Five measures of a handbreadth",
+        "he": "חמשה שיעורן טפח"
+      },
+      "parashah": {
+        "en": "Niddah 26",
+        "he": "נדה דף 26"
+      },
+      "target_shabbat": "2027-04-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-27",
+      "title": {
+        "en": "Niddah 27 — Twins three months apart",
+        "he": "נשתהה שלשה חדשים"
+      },
+      "parashah": {
+        "en": "Niddah 27",
+        "he": "נדה דף 27"
+      },
+      "target_shabbat": "2027-04-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-28",
+      "title": {
+        "en": "Niddah 28 — When is a child born",
+        "he": "הרי הוא כילוד"
+      },
+      "parashah": {
+        "en": "Niddah 28",
+        "he": "נדה דף 28"
+      },
+      "target_shabbat": "2027-04-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-29",
+      "title": {
+        "en": "Niddah 29 — The head and most of the body",
+        "he": "הראש ורוב אברים"
+      },
+      "parashah": {
+        "en": "Niddah 29",
+        "he": "נדה דף 29"
+      },
+      "target_shabbat": "2027-04-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-30",
+      "title": {
+        "en": "Niddah 30 — A lamp above its head",
+        "he": "נר דלוק על ראשו"
+      },
+      "parashah": {
+        "en": "Niddah 30",
+        "he": "נדה דף 30"
+      },
+      "target_shabbat": "2027-04-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-31",
+      "title": {
+        "en": "Niddah 31 — Three partners",
+        "he": "שלשה שותפין"
+      },
+      "parashah": {
+        "en": "Niddah 31",
+        "he": "נדה דף 31"
+      },
+      "target_shabbat": "2027-04-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-32",
+      "title": {
+        "en": "Niddah 32 — A common minority",
+        "he": "מיעוטא דשכיח"
+      },
+      "parashah": {
+        "en": "Niddah 32",
+        "he": "נדה דף 32"
+      },
+      "target_shabbat": "2027-04-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-33",
+      "title": {
+        "en": "Niddah 33 — The daughters of the Tzedukim",
+        "he": "בנות צדוקין"
+      },
+      "parashah": {
+        "en": "Niddah 33",
+        "he": "נדה דף 33"
+      },
+      "target_shabbat": "2027-04-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-34",
+      "title": {
+        "en": "Niddah 34 — Blood of a gentile woman",
+        "he": "דם גויה"
+      },
+      "parashah": {
+        "en": "Niddah 34",
+        "he": "נדה דף 34"
+      },
+      "target_shabbat": "2027-04-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-35",
+      "title": {
+        "en": "Niddah 35 — One source or two",
+        "he": "מעין אחד או שני מעינות"
+      },
+      "parashah": {
+        "en": "Niddah 35",
+        "he": "נדה דף 35"
+      },
+      "target_shabbat": "2027-04-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-36",
+      "title": {
+        "en": "Niddah 36 — Difficult labor",
+        "he": "המקשה"
+      },
+      "parashah": {
+        "en": "Niddah 36",
+        "he": "נדה דף 36"
+      },
+      "target_shabbat": "2027-05-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-37",
+      "title": {
+        "en": "Niddah 37 — Does labor interrupt the count",
+        "he": "קושי מהו שתסתור"
+      },
+      "parashah": {
+        "en": "Niddah 37",
+        "he": "נדה דף 37"
+      },
+      "target_shabbat": "2027-05-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-38",
+      "title": {
+        "en": "Niddah 38 — Sufficient to be like its source",
+        "he": "דיו לבא מן הדין"
+      },
+      "parashah": {
+        "en": "Niddah 38",
+        "he": "נדה דף 38"
+      },
+      "target_shabbat": "2027-05-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-39",
+      "title": {
+        "en": "Niddah 39 — Eleven days of presumed purity",
+        "he": "אחד עשר יום בחזקת טהרה"
+      },
+      "parashah": {
+        "en": "Niddah 39",
+        "he": "נדה דף 39"
+      },
+      "target_shabbat": "2027-05-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-40",
+      "title": {
+        "en": "Niddah 40 — Born through the side",
+        "he": "יוצא דופן"
+      },
+      "parashah": {
+        "en": "Niddah 40",
+        "he": "נדה דף 40"
+      },
+      "target_shabbat": "2027-05-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-41",
+      "title": {
+        "en": "Niddah 41 — The outer chamber",
+        "he": "בית החיצון"
+      },
+      "parashah": {
+        "en": "Niddah 41",
+        "he": "נדה דף 41"
+      },
+      "target_shabbat": "2027-05-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-42",
+      "title": {
+        "en": "Niddah 42 — Absorbed or concealed",
+        "he": "בלוע או בית הסתרים"
+      },
+      "parashah": {
+        "en": "Niddah 42",
+        "he": "נדה דף 42"
+      },
+      "target_shabbat": "2027-05-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-43",
+      "title": {
+        "en": "Niddah 43 — Moving a zav",
+        "he": "היסטו של זב"
+      },
+      "parashah": {
+        "en": "Niddah 43",
+        "he": "נדה דף 43"
+      },
+      "target_shabbat": "2027-05-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-44",
+      "title": {
+        "en": "Niddah 44 — A child one day old",
+        "he": "תינוק בן יום אחד"
+      },
+      "parashah": {
+        "en": "Niddah 44",
+        "he": "נדה דף 44"
+      },
+      "target_shabbat": "2027-05-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-45",
+      "title": {
+        "en": "Niddah 45 — Extra understanding",
+        "he": "בינה יתירה"
+      },
+      "parashah": {
+        "en": "Niddah 45",
+        "he": "נדה דף 45"
+      },
+      "target_shabbat": "2027-05-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-46",
+      "title": {
+        "en": "Niddah 46 — Signs of maturity",
+        "he": "סימני בגרות"
+      },
+      "parashah": {
+        "en": "Niddah 46",
+        "he": "נדה דף 46"
+      },
+      "target_shabbat": "2027-05-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-47",
+      "title": {
+        "en": "Niddah 47 — The parable of the fig",
+        "he": "פגה בוחל וצמל"
+      },
+      "parashah": {
+        "en": "Niddah 47",
+        "he": "נדה דף 47"
+      },
+      "target_shabbat": "2027-05-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-48",
+      "title": {
+        "en": "Niddah 48 — Examined by women",
+        "he": "נבדקות על פי נשים"
+      },
+      "parashah": {
+        "en": "Niddah 48",
+        "he": "נדה דף 48"
+      },
+      "target_shabbat": "2027-05-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-49",
+      "title": {
+        "en": "Niddah 49 — Whoever lets in lets out",
+        "he": "כל המכניס מוציא"
+      },
+      "parashah": {
+        "en": "Niddah 49",
+        "he": "נדה דף 49"
+      },
+      "target_shabbat": "2027-05-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-50",
+      "title": {
+        "en": "Niddah 50 — The hen of Yavne",
+        "he": "תרנגולת שביבנה"
+      },
+      "parashah": {
+        "en": "Niddah 50",
+        "he": "נדה דף 50"
+      },
+      "target_shabbat": "2027-05-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-51",
+      "title": {
+        "en": "Niddah 51 — Scales and fins",
+        "he": "קשקשת וסנפיר"
+      },
+      "parashah": {
+        "en": "Niddah 51",
+        "he": "נדה דף 51"
+      },
+      "target_shabbat": "2027-05-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-52",
+      "title": {
+        "en": "Niddah 52 — Obligated in all the mitzvot",
+        "he": "חייבת בכל המצות"
+      },
+      "parashah": {
+        "en": "Niddah 52",
+        "he": "נדה דף 52"
+      },
+      "target_shabbat": "2027-05-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-53",
+      "title": {
+        "en": "Niddah 53 — Twilight and stains",
+        "he": "בין השמשות וכתמים"
+      },
+      "parashah": {
+        "en": "Niddah 53",
+        "he": "נדה דף 53"
+      },
+      "target_shabbat": "2027-05-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-54",
+      "title": {
+        "en": "Niddah 54 — Wet and dry",
+        "he": "לחין ויבשין"
+      },
+      "parashah": {
+        "en": "Niddah 54",
+        "he": "נדה דף 54"
+      },
+      "target_shabbat": "2027-05-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-55",
+      "title": {
+        "en": "Niddah 55 — What grows with a person",
+        "he": "מה שנברא עמו"
+      },
+      "parashah": {
+        "en": "Niddah 55",
+        "he": "נדה דף 55"
+      },
+      "target_shabbat": "2027-05-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-56",
+      "title": {
+        "en": "Niddah 56 — Until the time of sweeping",
+        "he": "עד שעת כבוד"
+      },
+      "parashah": {
+        "en": "Niddah 56",
+        "he": "נדה דף 56"
+      },
+      "target_shabbat": "2027-05-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-57",
+      "title": {
+        "en": "Niddah 57 — Felt in her flesh",
+        "he": "עד שתרגיש בבשרה"
+      },
+      "parashah": {
+        "en": "Niddah 57",
+        "he": "נדה דף 57"
+      },
+      "target_shabbat": "2027-05-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-58",
+      "title": {
+        "en": "Niddah 58 — Blood and not a stain",
+        "he": "דם ולא כתם"
+      },
+      "parashah": {
+        "en": "Niddah 58",
+        "he": "נדה דף 58"
+      },
+      "target_shabbat": "2027-05-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-59",
+      "title": {
+        "en": "Niddah 59 — The power of leniency",
+        "he": "כח דהיתרא עדיף"
+      },
+      "parashah": {
+        "en": "Niddah 59",
+        "he": "נדה דף 59"
+      },
+      "target_shabbat": "2027-05-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-60",
+      "title": {
+        "en": "Niddah 60 — Attributing to one another",
+        "he": "תולות זו בזו"
+      },
+      "parashah": {
+        "en": "Niddah 60",
+        "he": "נדה דף 60"
+      },
+      "target_shabbat": "2027-05-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-61",
+      "title": {
+        "en": "Niddah 61 — Freed from the mitzvot",
+        "he": "חפשי מן המצות"
+      },
+      "parashah": {
+        "en": "Niddah 61",
+        "he": "נדה דף 61"
+      },
+      "target_shabbat": "2027-05-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-62",
+      "title": {
+        "en": "Niddah 62 — Seven agents",
+        "he": "שבעה סמנין"
+      },
+      "parashah": {
+        "en": "Niddah 62",
+        "he": "נדה דף 62"
+      },
+      "target_shabbat": "2027-05-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-63",
+      "title": {
+        "en": "Niddah 63 — Bodily signs of a cycle",
+        "he": "וסתות הגוף"
+      },
+      "parashah": {
+        "en": "Niddah 63",
+        "he": "נדה דף 63"
+      },
+      "target_shabbat": "2027-05-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-64",
+      "title": {
+        "en": "Niddah 64 — Like vines",
+        "he": "כגפנים"
+      },
+      "parashah": {
+        "en": "Niddah 64",
+        "he": "נדה דף 64"
+      },
+      "target_shabbat": "2027-05-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-65",
+      "title": {
+        "en": "Niddah 65 — A full period",
+        "he": "עונה שלמה"
+      },
+      "parashah": {
+        "en": "Niddah 65",
+        "he": "נדה דף 65"
+      },
+      "target_shabbat": "2027-05-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-66",
+      "title": {
+        "en": "Niddah 66 — Daughters of Israel were stringent",
+        "he": "בנות ישראל החמירו על עצמן"
+      },
+      "parashah": {
+        "en": "Niddah 66",
+        "he": "נדה דף 66"
+      },
+      "target_shabbat": "2027-05-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-67",
+      "title": {
+        "en": "Niddah 67 — Immersion by night",
+        "he": "טבילה בלילה"
+      },
+      "parashah": {
+        "en": "Niddah 67",
+        "he": "נדה דף 67"
+      },
+      "target_shabbat": "2027-06-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-68",
+      "title": {
+        "en": "Niddah 68 — Errors were mine",
+        "he": "טעות הן בידי"
+      },
+      "parashah": {
+        "en": "Niddah 68",
+        "he": "נדה דף 68"
+      },
+      "target_shabbat": "2027-06-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-69",
+      "title": {
+        "en": "Niddah 69 — The questions of Alexandria",
+        "he": "שאלות אנשי אלכסנדריא"
+      },
+      "parashah": {
+        "en": "Niddah 69",
+        "he": "נדה דף 69"
+      },
+      "target_shabbat": "2027-06-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-70",
+      "title": {
+        "en": "Niddah 70 — Pray to the One who owns wisdom",
+        "he": "יבקשו רחמים ממי שהחכמה שלו"
+      },
+      "parashah": {
+        "en": "Niddah 70",
+        "he": "נדה דף 70"
+      },
+      "target_shabbat": "2027-06-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-71",
+      "title": {
+        "en": "Niddah 71 — Out of respect for the living",
+        "he": "מפני כבודן של חיות"
+      },
+      "parashah": {
+        "en": "Niddah 71",
+        "he": "נדה דף 71"
+      },
+      "target_shabbat": "2027-06-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-72",
+      "title": {
+        "en": "Niddah 72 — Make your measures consistent",
+        "he": "השוו מדותיכם"
+      },
+      "parashah": {
+        "en": "Niddah 72",
+        "he": "נדה דף 72"
+      },
+      "target_shabbat": "2027-06-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-niddah-73",
+      "title": {
+        "en": "Niddah 73 — The ways of the world are his",
+        "he": "הליכות עולם לו"
+      },
+      "parashah": {
+        "en": "Niddah 73",
+        "he": "נדה דף 73"
+      },
+      "target_shabbat": "2027-06-07",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
