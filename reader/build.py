@@ -12,6 +12,7 @@ import daf_calendar as calendar
 from portraits import Document
 from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]
+READER_BYTE_LIMIT=50_000_000  # Full tractate collections have outgrown the original pilot.
 PUBLIC={'index.html','404.html','robots.txt','sitemap.xml','.nojekyll','about/index.html','sources/index.html','tractates/index.html'}
 PUBLIC|={'assets/'+n for n in ['site.css','site.js','sources.css','source-library.js','sefaria-navigation.js','mark.svg','daf.css','daf.js','portraits.css']}
 PUBLIC|={'data/'+n for n in ['calendar.json','catalogue.json','source-provenance.json','sefaria-library.json','daf-calendar.json']}
@@ -21,7 +22,7 @@ def bi(en,he):
 
 def check_input(source):
     import re
-    if sum(p.stat().st_size for p in source.rglob('*') if p.is_file())>20_000_000:raise ValueError('Reader source exceeds limit')
+    if sum(p.stat().st_size for p in source.rglob('*') if p.is_file())>READER_BYTE_LIMIT:raise ValueError('Reader source exceeds limit')
     for p in source.rglob('*'):
         if p.is_symlink():raise ValueError('No symbolic reader assets')
         if not p.is_file():continue
@@ -95,6 +96,6 @@ def validate(output):
                 path=(page.parent/unquote(url.path)).resolve()
                 if not path.is_relative_to(output.resolve()):raise ValueError('Escaping reader asset')
                 if not path.is_file() and not (path/'index.html').is_file():raise ValueError('Missing reader asset: '+str(path))
-    if sum(p.stat().st_size for p in output.rglob('*') if p.is_file())>20_000_000:raise ValueError('Reader size exceeds limit')
+    if sum(p.stat().st_size for p in output.rglob('*') if p.is_file())>READER_BYTE_LIMIT:raise ValueError('Reader size exceeds limit')
 
 if __name__=='__main__':print(json.dumps(build(ROOT/'site',ROOT/'_site'),ensure_ascii=False))

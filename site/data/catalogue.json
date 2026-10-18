@@ -1211,6 +1211,435 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-temurah-2",
+      "title": {
+        "en": "Temurah 2 — All may exchange",
+        "he": "הכל ממירין"
+      },
+      "parashah": {
+        "en": "Temurah 2",
+        "he": "תמורה דף 2"
+      },
+      "target_shabbat": "2026-12-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-3",
+      "title": {
+        "en": "Temurah 3 — Lashes without an action",
+        "he": "לאו שאין בו מעשה"
+      },
+      "parashah": {
+        "en": "Temurah 3",
+        "he": "תמורה דף 3"
+      },
+      "target_shabbat": "2026-12-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-4",
+      "title": {
+        "en": "Temurah 4 — Is a forbidden act effective?",
+        "he": "האם מה שאסרה תורה מועיל?"
+      },
+      "parashah": {
+        "en": "Temurah 4",
+        "he": "תמורה דף 4"
+      },
+      "target_shabbat": "2026-12-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-5",
+      "title": {
+        "en": "Temurah 5 — Testing Abaye and Rava",
+        "he": "בחינת אביי ורבא"
+      },
+      "parashah": {
+        "en": "Temurah 5",
+        "he": "תמורה דף 5"
+      },
+      "target_shabbat": "2026-12-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-6",
+      "title": {
+        "en": "Temurah 6 — Theft, a pledge, pe’a and interest",
+        "he": "גזל, משכון, פאה ורבית"
+      },
+      "parashah": {
+        "en": "Temurah 6",
+        "he": "תמורה דף 6"
+      },
+      "target_shabbat": "2026-12-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-7",
+      "title": {
+        "en": "Temurah 7 — A blemished animal is not a palm tree",
+        "he": "בעל מום אינו דקל"
+      },
+      "parashah": {
+        "en": "Temurah 7",
+        "he": "תמורה דף 7"
+      },
+      "target_shabbat": "2026-12-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-8",
+      "title": {
+        "en": "Temurah 8 — The kohen’s share in the firstborn",
+        "he": "זכיית הכהן בבכור"
+      },
+      "parashah": {
+        "en": "Temurah 8",
+        "he": "תמורה דף 8"
+      },
+      "target_shabbat": "2026-12-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-9",
+      "title": {
+        "en": "Temurah 9 — Good for bad, one for many",
+        "he": "טוב ברע, אחד במאה"
+      },
+      "parashah": {
+        "en": "Temurah 9",
+        "he": "תמורה דף 9"
+      },
+      "target_shabbat": "2026-12-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-10",
+      "title": {
+        "en": "Temurah 10 — Who exchanges, and is a fetus holy?",
+        "he": "מי ממיר, והאם העובר קדוש?"
+      },
+      "parashah": {
+        "en": "Temurah 10",
+        "he": "תמורה דף 10"
+      },
+      "target_shabbat": "2026-12-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-11",
+      "title": {
+        "en": "Temurah 11 — “Its foot is a burnt offering”",
+        "he": "\"רגלה של זו עולה\""
+      },
+      "parashah": {
+        "en": "Temurah 11",
+        "he": "תמורה דף 11"
+      },
+      "target_shabbat": "2026-12-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-12",
+      "title": {
+        "en": "Temurah 12 — What does not transmit its status",
+        "he": "מה אינו מעביר את דינו"
+      },
+      "parashah": {
+        "en": "Temurah 12",
+        "he": "תמורה דף 12"
+      },
+      "target_shabbat": "2027-01-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-13",
+      "title": {
+        "en": "Temurah 13 — Birds, communities and Temple maintenance",
+        "he": "עופות, ציבור ובדק הבית"
+      },
+      "parashah": {
+        "en": "Temurah 13",
+        "he": "תמורה דף 13"
+      },
+      "target_shabbat": "2027-01-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-14",
+      "title": {
+        "en": "Temurah 14 — Individual and communal offerings",
+        "he": "קרבנות יחיד וקרבנות ציבור"
+      },
+      "parashah": {
+        "en": "Temurah 14",
+        "he": "תמורה דף 14"
+      },
+      "target_shabbat": "2027-01-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-15",
+      "title": {
+        "en": "Temurah 15 — A community does not die",
+        "he": "אין הציבור מתים"
+      },
+      "parashah": {
+        "en": "Temurah 15",
+        "he": "תמורה דף 15"
+      },
+      "target_shabbat": "2027-01-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-16",
+      "title": {
+        "en": "Temurah 16 — The forgotten halakhot and the five sin offerings",
+        "he": "ההלכות שנשתכחו וחמש חטאות מתות"
+      },
+      "parashah": {
+        "en": "Temurah 16",
+        "he": "תמורה דף 16"
+      },
+      "target_shabbat": "2027-01-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-17",
+      "title": {
+        "en": "Temurah 17 — Unintentional exchange and offspring of offerings",
+        "he": "שוגג כמזיד וולדות קדשים"
+      },
+      "parashah": {
+        "en": "Temurah 17",
+        "he": "תמורה דף 17"
+      },
+      "target_shabbat": "2027-01-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-18",
+      "title": {
+        "en": "Temurah 18 — Offspring of peace offerings, thanksgiving and burnt offerings",
+        "he": "ולד שלמים, תודה ועולה"
+      },
+      "parashah": {
+        "en": "Temurah 18",
+        "he": "תמורה דף 18"
+      },
+      "target_shabbat": "2027-01-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-19",
+      "title": {
+        "en": "Temurah 19 — A female set aside for a guilt offering",
+        "he": "המפריש נקבה לאשם"
+      },
+      "parashah": {
+        "en": "Temurah 19",
+        "he": "תמורה דף 19"
+      },
+      "target_shabbat": "2027-01-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-20",
+      "title": {
+        "en": "Temurah 20 — Exchanges of a guilt offering",
+        "he": "תמורת אשם"
+      },
+      "parashah": {
+        "en": "Temurah 20",
+        "he": "תמורה דף 20"
+      },
+      "target_shabbat": "2027-01-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-21",
+      "title": {
+        "en": "Temurah 21 — Firstborn and tithe: from abroad and after the Temple",
+        "he": "בכור ומעשר: מחוץ לארץ ולאחר החורבן"
+      },
+      "parashah": {
+        "en": "Temurah 21",
+        "he": "תמורה דף 21"
+      },
+      "target_shabbat": "2027-01-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-22",
+      "title": {
+        "en": "Temurah 22 — Sin offerings that die and the meaning of “lost”",
+        "he": "חטאות מתות ופירוש \"אבודה\""
+      },
+      "parashah": {
+        "en": "Temurah 22",
+        "he": "תמורה דף 22"
+      },
+      "target_shabbat": "2027-01-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-23",
+      "title": {
+        "en": "Temurah 23 — Remedies in consecrated matters",
+        "he": "תקנה בקדשים"
+      },
+      "parashah": {
+        "en": "Temurah 23",
+        "he": "תמורה דף 23"
+      },
+      "target_shabbat": "2027-01-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-24",
+      "title": {
+        "en": "Temurah 24 — Two sin offerings and the device for the firstborn",
+        "he": "שתי חטאות לאחריות והערמה על הבכור"
+      },
+      "parashah": {
+        "en": "Temurah 24",
+        "he": "תמורה דף 24"
+      },
+      "target_shabbat": "2027-01-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-25",
+      "title": {
+        "en": "Temurah 25 — When is the offspring holy?",
+        "he": "מתי הוולד קדוש?"
+      },
+      "parashah": {
+        "en": "Temurah 25",
+        "he": "תמורה דף 25"
+      },
+      "target_shabbat": "2027-01-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-26",
+      "title": {
+        "en": "Temurah 26 — Half a burnt offering, half a peace offering",
+        "he": "חציה עולה וחציה שלמים"
+      },
+      "parashah": {
+        "en": "Temurah 26",
+        "he": "תמורה דף 26"
+      },
+      "target_shabbat": "2027-01-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-27",
+      "title": {
+        "en": "Temurah 27 — Redemption and exchange of blemished animals",
+        "he": "חילול ותמורה בבעלי מומין"
+      },
+      "parashah": {
+        "en": "Temurah 27",
+        "he": "תמורה דף 27"
+      },
+      "target_shabbat": "2027-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-28",
+      "title": {
+        "en": "Temurah 28 — Animals forbidden for the altar",
+        "he": "כל האסורין לגבי מזבח"
+      },
+      "parashah": {
+        "en": "Temurah 28",
+        "he": "תמורה דף 28"
+      },
+      "target_shabbat": "2027-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-29",
+      "title": {
+        "en": "Temurah 29 — Worship, tereifa and a forbidden payment",
+        "he": "נעבד, טריפה ואתנן"
+      },
+      "parashah": {
+        "en": "Temurah 29",
+        "he": "תמורה דף 29"
+      },
+      "target_shabbat": "2027-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-30",
+      "title": {
+        "en": "Temurah 30 — The price of a dog",
+        "he": "מחיר כלב"
+      },
+      "parashah": {
+        "en": "Temurah 30",
+        "he": "תמורה דף 30"
+      },
+      "target_shabbat": "2027-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-31",
+      "title": {
+        "en": "Temurah 31 — Altar and Temple-maintenance sanctity",
+        "he": "קדשי מזבח וקדשי בדק הבית"
+      },
+      "parashah": {
+        "en": "Temurah 31",
+        "he": "תמורה דף 31"
+      },
+      "target_shabbat": "2027-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-32",
+      "title": {
+        "en": "Temurah 32 — Changing from one sanctity to another",
+        "he": "אין משנים מקדושה לקדושה"
+      },
+      "parashah": {
+        "en": "Temurah 32",
+        "he": "תמורה דף 32"
+      },
+      "target_shabbat": "2027-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-33",
+      "title": {
+        "en": "Temurah 33 — What is buried and what is burned",
+        "he": "הנקברין והנשרפין"
+      },
+      "parashah": {
+        "en": "Temurah 33",
+        "he": "תמורה דף 33"
+      },
+      "target_shabbat": "2027-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-temurah-34",
+      "title": {
+        "en": "Temurah 34 — The ashes of what is burned",
+        "he": "אפר הנשרפין"
+      },
+      "parashah": {
+        "en": "Temurah 34",
+        "he": "תמורה דף 34"
+      },
+      "target_shabbat": "2027-01-23",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
