@@ -2264,6 +2264,45 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-kinnim-23",
+      "title": {
+        "en": "Kinnim 23 — The bird that flew away",
+        "he": "הגוזל שפרח"
+      },
+      "parashah": {
+        "en": "Kinnim 23",
+        "he": "קינים דף 23"
+      },
+      "target_shabbat": "2027-03-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-kinnim-24",
+      "title": {
+        "en": "Kinnim 24 — The kohen who did not consult",
+        "he": "כהן שאינו נמלך"
+      },
+      "parashah": {
+        "en": "Kinnim 24",
+        "he": "קינים דף 24"
+      },
+      "target_shabbat": "2027-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-kinnim-25",
+      "title": {
+        "en": "Kinnim 25 — One voice in life, seven in death",
+        "he": "קולו אחד וקולו שבעה"
+      },
+      "parashah": {
+        "en": "Kinnim 25",
+        "he": "קינים דף 25"
+      },
+      "target_shabbat": "2027-03-15",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
