@@ -2303,6 +2303,97 @@
       "category": "talmud"
     },
     {
+      "id": "cycle-14-tamid-27",
+      "title": {
+        "en": "Tamid 27 — Guarding the Temple",
+        "he": "שמירת המקדש"
+      },
+      "parashah": {
+        "en": "Tamid 27",
+        "he": "תמיד דף 27"
+      },
+      "target_shabbat": "2027-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-28",
+      "title": {
+        "en": "Tamid 28 — Love rebuke",
+        "he": "יאהב את התוכחות"
+      },
+      "parashah": {
+        "en": "Tamid 28",
+        "he": "תמיד דף 28"
+      },
+      "target_shabbat": "2027-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-29",
+      "title": {
+        "en": "Tamid 29 — The Sages spoke in exaggeration",
+        "he": "דברו חכמים בלשון הבאי"
+      },
+      "parashah": {
+        "en": "Tamid 29",
+        "he": "תמיד דף 29"
+      },
+      "target_shabbat": "2027-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-30",
+      "title": {
+        "en": "Tamid 30 — Heard from Jericho",
+        "he": "מיריחו היו שומעין"
+      },
+      "parashah": {
+        "en": "Tamid 30",
+        "he": "תמיד דף 30"
+      },
+      "target_shabbat": "2027-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-31",
+      "title": {
+        "en": "Tamid 31 — Like the binding of Isaac",
+        "he": "כעקידת יצחק"
+      },
+      "parashah": {
+        "en": "Tamid 31",
+        "he": "תמיד דף 31"
+      },
+      "target_shabbat": "2027-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-32",
+      "title": {
+        "en": "Tamid 32 — Alexander and the elders of the south",
+        "he": "אלכסנדרוס וזקני הנגב"
+      },
+      "parashah": {
+        "en": "Tamid 32",
+        "he": "תמיד דף 32"
+      },
+      "target_shabbat": "2027-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-14-tamid-33",
+      "title": {
+        "en": "Tamid 33 — The order of the daily offering",
+        "he": "זהו סדר התמיד"
+      },
+      "parashah": {
+        "en": "Tamid 33",
+        "he": "תמיד דף 33"
+      },
+      "target_shabbat": "2027-03-23",
+      "category": "talmud"
+    },
+    {
       "id": "cycle-15-berakhot-2",
       "title": {
         "en": "Berakhot 2 — When does the night begin?",
