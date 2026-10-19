@@ -9412,6 +9412,1137 @@
       },
       "target_shabbat": "2028-09-13",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-2",
+      "title": {
+        "en": "Yoma 2 — Seven days of separation",
+        "he": "שבעת ימי הפרישה"
+      },
+      "parashah": {
+        "en": "Yoma 2",
+        "he": "יומא דף 2"
+      },
+      "target_shabbat": "2028-09-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-3",
+      "title": {
+        "en": "Yoma 3 — “Take for yourself” and six days at Sinai",
+        "he": "\"קח לך\" וששת ימי סיני"
+      },
+      "parashah": {
+        "en": "Yoma 3",
+        "he": "יומא דף 3"
+      },
+      "target_shabbat": "2028-09-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-4",
+      "title": {
+        "en": "Yoma 4 — Moshe in the cloud",
+        "he": "משה בתוך הענן"
+      },
+      "parashah": {
+        "en": "Yoma 4",
+        "he": "יומא דף 4"
+      },
+      "target_shabbat": "2028-09-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-5",
+      "title": {
+        "en": "Yoma 5 — “So” means it is essential",
+        "he": "\"ככה\" עיכובא הוא"
+      },
+      "parashah": {
+        "en": "Yoma 5",
+        "he": "יומא דף 5"
+      },
+      "target_shabbat": "2028-09-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-6",
+      "title": {
+        "en": "Yoma 6 — Permitted or set aside",
+        "he": "הותרה או דחויה"
+      },
+      "parashah": {
+        "en": "Yoma 6",
+        "he": "יומא דף 6"
+      },
+      "target_shabbat": "2028-09-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-7",
+      "title": {
+        "en": "Yoma 7 — The frontplate atones",
+        "he": "הציץ מרצה"
+      },
+      "parashah": {
+        "en": "Yoma 7",
+        "he": "יומא דף 7"
+      },
+      "target_shabbat": "2028-09-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-8",
+      "title": {
+        "en": "Yoma 8 — Immersion in its time is a mitzvah",
+        "he": "טבילה בזמנה מצוה"
+      },
+      "parashah": {
+        "en": "Yoma 8",
+        "he": "יומא דף 8"
+      },
+      "target_shabbat": "2028-09-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-9",
+      "title": {
+        "en": "Yoma 9 — Why the Temples were destroyed",
+        "he": "מפני מה חרבו המקדשות"
+      },
+      "parashah": {
+        "en": "Yoma 9",
+        "he": "יומא דף 9"
+      },
+      "target_shabbat": "2028-09-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-10",
+      "title": {
+        "en": "Yoma 10 — A mezuzah for the chamber",
+        "he": "מזוזה ללשכה"
+      },
+      "parashah": {
+        "en": "Yoma 10",
+        "he": "יומא דף 10"
+      },
+      "target_shabbat": "2028-09-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-11",
+      "title": {
+        "en": "Yoma 11 — Your gates",
+        "he": "בשעריך"
+      },
+      "parashah": {
+        "en": "Yoma 11",
+        "he": "יומא דף 11"
+      },
+      "target_shabbat": "2028-09-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-12",
+      "title": {
+        "en": "Yoma 12 — Raised in holiness, not lowered",
+        "he": "מעלין בקודש ולא מורידין"
+      },
+      "parashah": {
+        "en": "Yoma 12",
+        "he": "יומא דף 12"
+      },
+      "target_shabbat": "2028-09-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-13",
+      "title": {
+        "en": "Yoma 13 — “His house” and not two houses",
+        "he": "\"ביתו\" ולא שני בתים"
+      },
+      "parashah": {
+        "en": "Yoma 13",
+        "he": "יומא דף 13"
+      },
+      "target_shabbat": "2028-09-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-14",
+      "title": {
+        "en": "Yoma 14 — The pure one sprinkles on the impure",
+        "he": "והזה הטהור על הטמא"
+      },
+      "parashah": {
+        "en": "Yoma 14",
+        "he": "יומא דף 14"
+      },
+      "target_shabbat": "2028-09-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-15",
+      "title": {
+        "en": "Yoma 15 — Always to the right",
+        "he": "דרך ימין"
+      },
+      "parashah": {
+        "en": "Yoma 15",
+        "he": "יומא דף 15"
+      },
+      "target_shabbat": "2028-09-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-16",
+      "title": {
+        "en": "Yoma 16 — The measurements of the courtyard",
+        "he": "מידות העזרה"
+      },
+      "parashah": {
+        "en": "Yoma 16",
+        "he": "יומא דף 16"
+      },
+      "target_shabbat": "2028-09-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-17",
+      "title": {
+        "en": "Yoma 17 — A portion first",
+        "he": "חלק בראש"
+      },
+      "parashah": {
+        "en": "Yoma 17",
+        "he": "יומא דף 17"
+      },
+      "target_shabbat": "2028-09-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-18",
+      "title": {
+        "en": "Yoma 18 — Perhaps you have forgotten",
+        "he": "שמא שכחת"
+      },
+      "parashah": {
+        "en": "Yoma 18",
+        "he": "יומא דף 18"
+      },
+      "target_shabbat": "2028-09-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-19",
+      "title": {
+        "en": "Yoma 19 — Suspecting the worthy",
+        "he": "החושד בכשרים"
+      },
+      "parashah": {
+        "en": "Yoma 19",
+        "he": "יומא דף 19"
+      },
+      "target_shabbat": "2028-10-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-20",
+      "title": {
+        "en": "Yoma 20 — The call of the gever",
+        "he": "קריאת הגבר"
+      },
+      "parashah": {
+        "en": "Yoma 20",
+        "he": "יומא דף 20"
+      },
+      "target_shabbat": "2028-10-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-21",
+      "title": {
+        "en": "Yoma 21 — Ten miracles in the Temple",
+        "he": "עשרה נסים במקדש"
+      },
+      "parashah": {
+        "en": "Yoma 21",
+        "he": "יומא דף 21"
+      },
+      "target_shabbat": "2028-10-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-22",
+      "title": {
+        "en": "Yoma 22 — Not counting Israel",
+        "he": "אסור למנות את ישראל"
+      },
+      "parashah": {
+        "en": "Yoma 22",
+        "he": "יומא דף 22"
+      },
+      "target_shabbat": "2028-10-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-23",
+      "title": {
+        "en": "Yoma 23 — Those insulted who do not insult",
+        "he": "הנעלבין ואינן עולבין"
+      },
+      "parashah": {
+        "en": "Yoma 23",
+        "he": "יומא דף 23"
+      },
+      "target_shabbat": "2028-10-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-24",
+      "title": {
+        "en": "Yoma 24 — We walked in the house of God in throng",
+        "he": "בבית אלהים נהלך ברגש"
+      },
+      "parashah": {
+        "en": "Yoma 24",
+        "he": "יומא דף 24"
+      },
+      "target_shabbat": "2028-10-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-25",
+      "title": {
+        "en": "Yoma 25 — The hall of hewn stone",
+        "he": "לשכת הגזית"
+      },
+      "parashah": {
+        "en": "Yoma 25",
+        "he": "יומא דף 25"
+      },
+      "target_shabbat": "2028-10-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-26",
+      "title": {
+        "en": "Yoma 26 — New ones for the incense",
+        "he": "חדשים לקטורת"
+      },
+      "parashah": {
+        "en": "Yoma 26",
+        "he": "יומא דף 26"
+      },
+      "target_shabbat": "2028-10-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-27",
+      "title": {
+        "en": "Yoma 27 — Slaughter by a non-priest is valid",
+        "he": "שחיטה בזר כשרה"
+      },
+      "parashah": {
+        "en": "Yoma 27",
+        "he": "יומא דף 27"
+      },
+      "target_shabbat": "2028-10-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-28",
+      "title": {
+        "en": "Yoma 28 — The whole east is lit",
+        "he": "האיר פני כל המזרח"
+      },
+      "parashah": {
+        "en": "Yoma 28",
+        "he": "יומא דף 28"
+      },
+      "target_shabbat": "2028-10-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-29",
+      "title": {
+        "en": "Yoma 29 — The doe of the dawn",
+        "he": "אילת השחר"
+      },
+      "parashah": {
+        "en": "Yoma 29",
+        "he": "יומא דף 29"
+      },
+      "target_shabbat": "2028-10-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-30",
+      "title": {
+        "en": "Yoma 30 — Five immersions and ten washings",
+        "he": "חמש טבילות ועשרה קידושין"
+      },
+      "parashah": {
+        "en": "Yoma 30",
+        "he": "יומא דף 30"
+      },
+      "target_shabbat": "2028-10-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-31",
+      "title": {
+        "en": "Yoma 31 — Above the Water Gate",
+        "he": "על גבי שער המים"
+      },
+      "parashah": {
+        "en": "Yoma 31",
+        "he": "יומא דף 31"
+      },
+      "target_shabbat": "2028-10-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-32",
+      "title": {
+        "en": "Yoma 32 — From service to service",
+        "he": "מעבודה לעבודה"
+      },
+      "parashah": {
+        "en": "Yoma 32",
+        "he": "יומא דף 32"
+      },
+      "target_shabbat": "2028-10-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-33",
+      "title": {
+        "en": "Yoma 33 — One does not pass over mitzvot",
+        "he": "אין מעבירין על המצוות"
+      },
+      "parashah": {
+        "en": "Yoma 33",
+        "he": "יומא דף 33"
+      },
+      "target_shabbat": "2028-10-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-34",
+      "title": {
+        "en": "Yoma 34 — What is not intended is permitted",
+        "he": "דבר שאין מתכוין מותר"
+      },
+      "parashah": {
+        "en": "Yoma 34",
+        "he": "יומא דף 34"
+      },
+      "target_shabbat": "2028-10-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-35",
+      "title": {
+        "en": "Yoma 35 — Were you poorer than Hillel?",
+        "he": "כלום עני היית יותר מהלל?"
+      },
+      "parashah": {
+        "en": "Yoma 35",
+        "he": "יומא דף 35"
+      },
+      "target_shabbat": "2028-10-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-36",
+      "title": {
+        "en": "Yoma 36 — I have sinned, transgressed and rebelled",
+        "he": "חטאתי, עויתי, פשעתי"
+      },
+      "parashah": {
+        "en": "Yoma 36",
+        "he": "יומא דף 36"
+      },
+      "target_shabbat": "2028-10-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-37",
+      "title": {
+        "en": "Yoma 37 — Remembered for praise",
+        "he": "מזכירין אותן לשבח"
+      },
+      "parashah": {
+        "en": "Yoma 37",
+        "he": "יומא דף 37"
+      },
+      "target_shabbat": "2028-10-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-38",
+      "title": {
+        "en": "Yoma 38 — The name of the wicked shall rot",
+        "he": "ושם רשעים ירקב"
+      },
+      "parashah": {
+        "en": "Yoma 38",
+        "he": "יומא דף 38"
+      },
+      "target_shabbat": "2028-10-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-39",
+      "title": {
+        "en": "Yoma 39 — Shimon the Righteous",
+        "he": "שמעון הצדיק"
+      },
+      "parashah": {
+        "en": "Yoma 39",
+        "he": "יומא דף 39"
+      },
+      "target_shabbat": "2028-10-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-40",
+      "title": {
+        "en": "Yoma 40 — Give no room to the Sadducees",
+        "he": "אל תתנו מקום לצדוקים"
+      },
+      "parashah": {
+        "en": "Yoma 40",
+        "he": "יומא דף 40"
+      },
+      "target_shabbat": "2028-10-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-41",
+      "title": {
+        "en": "Yoma 41 — The thread of crimson",
+        "he": "לשון של זהורית"
+      },
+      "parashah": {
+        "en": "Yoma 41",
+        "he": "יומא דף 41"
+      },
+      "target_shabbat": "2028-10-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-42",
+      "title": {
+        "en": "Yoma 42 — The slaughter of the heifer",
+        "he": "שחיטת הפרה"
+      },
+      "parashah": {
+        "en": "Yoma 42",
+        "he": "יומא דף 42"
+      },
+      "target_shabbat": "2028-10-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-43",
+      "title": {
+        "en": "Yoma 43 — A person with understanding",
+        "he": "מי שיש בו דעת"
+      },
+      "parashah": {
+        "en": "Yoma 43",
+        "he": "יומא דף 43"
+      },
+      "target_shabbat": "2028-10-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-44",
+      "title": {
+        "en": "Yoma 44 — Incense atones",
+        "he": "קטורת מכפרת"
+      },
+      "parashah": {
+        "en": "Yoma 44",
+        "he": "יומא דף 44"
+      },
+      "target_shabbat": "2028-10-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-45",
+      "title": {
+        "en": "Yoma 45 — The pyres of the altar",
+        "he": "מערכות המזבח"
+      },
+      "parashah": {
+        "en": "Yoma 45",
+        "he": "יומא דף 45"
+      },
+      "target_shabbat": "2028-10-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-46",
+      "title": {
+        "en": "Yoma 46 — Its beginning overrides",
+        "he": "תחילתו דוחה"
+      },
+      "parashah": {
+        "en": "Yoma 46",
+        "he": "יומא דף 46"
+      },
+      "target_shabbat": "2028-10-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-47",
+      "title": {
+        "en": "Yoma 47 — Full handfuls",
+        "he": "מלוא חפניו"
+      },
+      "parashah": {
+        "en": "Yoma 47",
+        "he": "יומא דף 47"
+      },
+      "target_shabbat": "2028-10-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-48",
+      "title": {
+        "en": "Yoma 48 — Stuck to the side of the vessel",
+        "he": "דבקיה בדופני דמנא"
+      },
+      "parashah": {
+        "en": "Yoma 48",
+        "he": "יומא דף 48"
+      },
+      "target_shabbat": "2028-10-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-49",
+      "title": {
+        "en": "Yoma 49 — The question of the early ones",
+        "he": "שאלת הראשונים"
+      },
+      "parashah": {
+        "en": "Yoma 49",
+        "he": "יומא דף 49"
+      },
+      "target_shabbat": "2028-10-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-50",
+      "title": {
+        "en": "Yoma 50 — Fixed time overrides",
+        "he": "כל שזמנו קבוע"
+      },
+      "parashah": {
+        "en": "Yoma 50",
+        "he": "יומא דף 50"
+      },
+      "target_shabbat": "2028-11-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-51",
+      "title": {
+        "en": "Yoma 51 — Between the two curtains",
+        "he": "בין שתי הפרוכות"
+      },
+      "parashah": {
+        "en": "Yoma 51",
+        "he": "יומא דף 51"
+      },
+      "target_shabbat": "2028-11-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-52",
+      "title": {
+        "en": "Yoma 52 — Five verses without decision",
+        "he": "חמש מקראות שאין להן הכרע"
+      },
+      "parashah": {
+        "en": "Yoma 52",
+        "he": "יומא דף 52"
+      },
+      "target_shabbat": "2028-11-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-53",
+      "title": {
+        "en": "Yoma 53 — Leaving the way he came",
+        "he": "דרך בית כניסתו"
+      },
+      "parashah": {
+        "en": "Yoma 53",
+        "he": "יומא דף 53"
+      },
+      "target_shabbat": "2028-11-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-54",
+      "title": {
+        "en": "Yoma 54 — The foundation of the world",
+        "he": "שממנה הושתת העולם"
+      },
+      "parashah": {
+        "en": "Yoma 54",
+        "he": "יומא דף 54"
+      },
+      "target_shabbat": "2028-11-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-55",
+      "title": {
+        "en": "Yoma 55 — One and one, one and two",
+        "he": "אחת ואחת, אחת ושתים"
+      },
+      "parashah": {
+        "en": "Yoma 55",
+        "he": "יומא דף 55"
+      },
+      "target_shabbat": "2028-11-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-56",
+      "title": {
+        "en": "Yoma 56 — Dwelling among their impurity",
+        "he": "השוכן אתם בתוך טומאתם"
+      },
+      "parashah": {
+        "en": "Yoma 56",
+        "he": "יומא דף 56"
+      },
+      "target_shabbat": "2028-11-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-57",
+      "title": {
+        "en": "Yoma 57 — Bloods mixed",
+        "he": "נתערבו לו דמים בדמים"
+      },
+      "parashah": {
+        "en": "Yoma 57",
+        "he": "יומא דף 57"
+      },
+      "target_shabbat": "2028-11-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-58",
+      "title": {
+        "en": "Yoma 58 — He shall go out to the altar",
+        "he": "ויצא אל המזבח"
+      },
+      "parashah": {
+        "en": "Yoma 58",
+        "he": "יומא דף 58"
+      },
+      "target_shabbat": "2028-11-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-59",
+      "title": {
+        "en": "Yoma 59 — The purity of the altar",
+        "he": "טהרו של מזבח"
+      },
+      "parashah": {
+        "en": "Yoma 59",
+        "he": "יומא דף 59"
+      },
+      "target_shabbat": "2028-11-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-60",
+      "title": {
+        "en": "Yoma 60 — Done out of order",
+        "he": "הקדים מעשה לחברו"
+      },
+      "parashah": {
+        "en": "Yoma 60",
+        "he": "יומא דף 60"
+      },
+      "target_shabbat": "2028-11-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-61",
+      "title": {
+        "en": "Yoma 61 — Each an atonement by itself",
+        "he": "כפרה בפני עצמה"
+      },
+      "parashah": {
+        "en": "Yoma 61",
+        "he": "יומא דף 61"
+      },
+      "target_shabbat": "2028-11-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-62",
+      "title": {
+        "en": "Yoma 62 — Two goats alike",
+        "he": "שני שעירים שווים"
+      },
+      "parashah": {
+        "en": "Yoma 62",
+        "he": "יומא דף 62"
+      },
+      "target_shabbat": "2028-11-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-63",
+      "title": {
+        "en": "Yoma 63 — Fit for the entrance of the Tent",
+        "he": "הראוי לפתח אוהל מועד"
+      },
+      "parashah": {
+        "en": "Yoma 63",
+        "he": "יומא דף 63"
+      },
+      "target_shabbat": "2028-11-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-64",
+      "title": {
+        "en": "Yoma 64 — Living animals are not rejected",
+        "he": "בעלי חיים אינן נידחין"
+      },
+      "parashah": {
+        "en": "Yoma 64",
+        "he": "יומא דף 64"
+      },
+      "target_shabbat": "2028-11-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-65",
+      "title": {
+        "en": "Yoma 65 — Shekels sent and stolen",
+        "he": "שקלים שנשלחו ונגנבו"
+      },
+      "parashah": {
+        "en": "Yoma 65",
+        "he": "יומא דף 65"
+      },
+      "target_shabbat": "2028-11-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-66",
+      "title": {
+        "en": "Yoma 66 — The confession over the scapegoat",
+        "he": "הווידוי על שעיר המשתלח"
+      },
+      "parashah": {
+        "en": "Yoma 66",
+        "he": "יומא דף 66"
+      },
+      "target_shabbat": "2028-11-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-67",
+      "title": {
+        "en": "Yoma 67 — Statutes without explanation",
+        "he": "חוקים שאין לך רשות להרהר בהם"
+      },
+      "parashah": {
+        "en": "Yoma 67",
+        "he": "יומא דף 67"
+      },
+      "target_shabbat": "2028-11-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-68",
+      "title": {
+        "en": "Yoma 68 — The goat has reached the wilderness",
+        "he": "הגיע שעיר למדבר"
+      },
+      "parashah": {
+        "en": "Yoma 68",
+        "he": "יומא דף 68"
+      },
+      "target_shabbat": "2028-11-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-69",
+      "title": {
+        "en": "Yoma 69 — The seal of God is truth",
+        "he": "חותמו של הקב\"ה אמת"
+      },
+      "parashah": {
+        "en": "Yoma 69",
+        "he": "יומא דף 69"
+      },
+      "target_shabbat": "2028-11-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-70",
+      "title": {
+        "en": "Yoma 70 — The respect of the congregation",
+        "he": "כבוד הציבור"
+      },
+      "parashah": {
+        "en": "Yoma 70",
+        "he": "יומא דף 70"
+      },
+      "target_shabbat": "2028-11-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-71",
+      "title": {
+        "en": "Yoma 71 — Doubled six times",
+        "he": "חוטן כפול ששה"
+      },
+      "parashah": {
+        "en": "Yoma 71",
+        "he": "יומא דף 71"
+      },
+      "target_shabbat": "2028-11-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-72",
+      "title": {
+        "en": "Yoma 72 — Garments of service",
+        "he": "בגדי השרד"
+      },
+      "parashah": {
+        "en": "Yoma 72",
+        "he": "יומא דף 72"
+      },
+      "target_shabbat": "2028-11-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-73",
+      "title": {
+        "en": "Yoma 73 — Lights and completeness",
+        "he": "אורים ותומים"
+      },
+      "parashah": {
+        "en": "Yoma 73",
+        "he": "יומא דף 73"
+      },
+      "target_shabbat": "2028-11-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-74",
+      "title": {
+        "en": "Yoma 74 — You shall afflict yourselves",
+        "he": "תענו את נפשותיכם"
+      },
+      "parashah": {
+        "en": "Yoma 74",
+        "he": "יומא דף 74"
+      },
+      "target_shabbat": "2028-11-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-75",
+      "title": {
+        "en": "Yoma 75 — Bread of the mighty",
+        "he": "לחם אבירים"
+      },
+      "parashah": {
+        "en": "Yoma 75",
+        "he": "יומא דף 75"
+      },
+      "target_shabbat": "2028-11-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-76",
+      "title": {
+        "en": "Yoma 76 — Five afflictions",
+        "he": "חמישה עינויים"
+      },
+      "parashah": {
+        "en": "Yoma 76",
+        "he": "יומא דף 76"
+      },
+      "target_shabbat": "2028-11-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-77",
+      "title": {
+        "en": "Yoma 77 — I have done as You commanded",
+        "he": "עשיתי כאשר צויתני"
+      },
+      "parashah": {
+        "en": "Yoma 77",
+        "he": "יומא דף 77"
+      },
+      "target_shabbat": "2028-11-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-78",
+      "title": {
+        "en": "Yoma 78 — Shoes on Yom Kippur",
+        "he": "נעילת הסנדל ביום הכיפורים"
+      },
+      "parashah": {
+        "en": "Yoma 78",
+        "he": "יומא דף 78"
+      },
+      "target_shabbat": "2028-11-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-79",
+      "title": {
+        "en": "Yoma 79 — The large date",
+        "he": "ככותבת הגסה"
+      },
+      "parashah": {
+        "en": "Yoma 79",
+        "he": "יומא דף 79"
+      },
+      "target_shabbat": "2028-11-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-80",
+      "title": {
+        "en": "Yoma 80 — A cheekful",
+        "he": "מלוא לוגמיו"
+      },
+      "parashah": {
+        "en": "Yoma 80",
+        "he": "יומא דף 80"
+      },
+      "target_shabbat": "2028-12-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-81",
+      "title": {
+        "en": "Yoma 81 — Eating on the ninth",
+        "he": "אכילה בתשיעי"
+      },
+      "parashah": {
+        "en": "Yoma 81",
+        "he": "יומא דף 81"
+      },
+      "target_shabbat": "2028-12-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-82",
+      "title": {
+        "en": "Yoma 82 — Nothing stands before saving life",
+        "he": "אין לך דבר שעומד בפני פיקוח נפש"
+      },
+      "parashah": {
+        "en": "Yoma 82",
+        "he": "יומא דף 82"
+      },
+      "target_shabbat": "2028-12-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-83",
+      "title": {
+        "en": "Yoma 83 — The heart knows its own bitterness",
+        "he": "לב יודע מרת נפשו"
+      },
+      "parashah": {
+        "en": "Yoma 83",
+        "he": "יומא דף 83"
+      },
+      "target_shabbat": "2028-12-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-84",
+      "title": {
+        "en": "Yoma 84 — The zealous are praised",
+        "he": "והזריז הרי זה משובח"
+      },
+      "parashah": {
+        "en": "Yoma 84",
+        "he": "יומא דף 84"
+      },
+      "target_shabbat": "2028-12-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-85",
+      "title": {
+        "en": "Yoma 85 — Live by them",
+        "he": "וחי בהם"
+      },
+      "parashah": {
+        "en": "Yoma 85",
+        "he": "יומא דף 85"
+      },
+      "target_shabbat": "2028-12-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-86",
+      "title": {
+        "en": "Yoma 86 — Great is repentance",
+        "he": "גדולה תשובה"
+      },
+      "parashah": {
+        "en": "Yoma 86",
+        "he": "יומא דף 86"
+      },
+      "target_shabbat": "2028-12-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-87",
+      "title": {
+        "en": "Yoma 87 — Appeasing one’s fellow",
+        "he": "ריצוי החבר"
+      },
+      "parashah": {
+        "en": "Yoma 87",
+        "he": "יומא דף 87"
+      },
+      "target_shabbat": "2028-12-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yoma-88",
+      "title": {
+        "en": "Yoma 88 — Immersion on Yom Kippur",
+        "he": "טבילה ביום הכיפורים"
+      },
+      "parashah": {
+        "en": "Yoma 88",
+        "he": "יומא דף 88"
+      },
+      "target_shabbat": "2028-12-09",
+      "category": "talmud"
     }
   ]
 }
