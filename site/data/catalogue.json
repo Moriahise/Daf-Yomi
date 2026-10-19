@@ -9139,6 +9139,279 @@
       },
       "target_shabbat": "2028-08-23",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-2",
+      "title": {
+        "en": "Shekalim 2 — Gold for the Calf, gold for the Ark cover",
+        "he": "זהב העגל וזהב הכפורת"
+      },
+      "parashah": {
+        "en": "Shekalim 2",
+        "he": "שקלים דף 2"
+      },
+      "target_shabbat": "2028-08-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-3",
+      "title": {
+        "en": "Shekalim 3 — The impurity calls out: keep away",
+        "he": "הטומאה קוראה ואומרת פרוש"
+      },
+      "parashah": {
+        "en": "Shekalim 3",
+        "he": "שקלים דף 3"
+      },
+      "target_shabbat": "2028-08-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-4",
+      "title": {
+        "en": "Shekalim 4 — A coin of fire",
+        "he": "כמין מטבע של אש"
+      },
+      "parashah": {
+        "en": "Shekalim 4",
+        "he": "שקלים דף 4"
+      },
+      "target_shabbat": "2028-08-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-5",
+      "title": {
+        "en": "Shekalim 5 — Lest the price of gems fall",
+        "he": "שמא יוזלו המרגליות"
+      },
+      "parashah": {
+        "en": "Shekalim 5",
+        "he": "שקלים דף 5"
+      },
+      "target_shabbat": "2028-08-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-6",
+      "title": {
+        "en": "Shekalim 6 — Ten gera for ten commandments",
+        "he": "עשרה גרה כנגד עשרת הדברות"
+      },
+      "parashah": {
+        "en": "Shekalim 6",
+        "he": "שקלים דף 6"
+      },
+      "target_shabbat": "2028-08-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-7",
+      "title": {
+        "en": "Shekalim 7 — Lips moving in the grave",
+        "he": "שפתותיו דובבות בקבר"
+      },
+      "parashah": {
+        "en": "Shekalim 7",
+        "he": "שקלים דף 7"
+      },
+      "target_shabbat": "2028-08-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-8",
+      "title": {
+        "en": "Shekalim 8 — Guiltless before God and before Israel",
+        "he": "והייתם נקיים מה׳ ומישראל"
+      },
+      "parashah": {
+        "en": "Shekalim 8",
+        "he": "שקלים דף 8"
+      },
+      "target_shabbat": "2028-08-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-9",
+      "title": {
+        "en": "Shekalim 9 — Alacrity leads to cleanliness",
+        "he": "זריזות מביאה לידי נקיות"
+      },
+      "parashah": {
+        "en": "Shekalim 9",
+        "he": "שקלים דף 9"
+      },
+      "target_shabbat": "2028-08-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-10",
+      "title": {
+        "en": "Shekalim 10 — The wood of the priests and the people",
+        "he": "זמן עצי כהנים והעם"
+      },
+      "parashah": {
+        "en": "Shekalim 10",
+        "he": "שקלים דף 10"
+      },
+      "target_shabbat": "2028-09-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-11",
+      "title": {
+        "en": "Shekalim 11 — The High Priests’ ramp",
+        "he": "כבש הפרה של כהנים גדולים"
+      },
+      "parashah": {
+        "en": "Shekalim 11",
+        "he": "שקלים דף 11"
+      },
+      "target_shabbat": "2028-09-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-12",
+      "title": {
+        "en": "Shekalim 12 — One who consecrates all his possessions",
+        "he": "המקדיש את נכסיו"
+      },
+      "parashah": {
+        "en": "Shekalim 12",
+        "he": "שקלים דף 12"
+      },
+      "target_shabbat": "2028-09-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-13",
+      "title": {
+        "en": "Shekalim 13 — Petaḥya who opened matters",
+        "he": "פתחיה שהיה פותח בדברים"
+      },
+      "parashah": {
+        "en": "Shekalim 13",
+        "he": "שקלים דף 13"
+      },
+      "target_shabbat": "2028-09-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-14",
+      "title": {
+        "en": "Shekalim 14 — Exacting to a hair’s breadth",
+        "he": "מדקדק עם הצדיקים כחוט השערה"
+      },
+      "parashah": {
+        "en": "Shekalim 14",
+        "he": "שקלים דף 14"
+      },
+      "target_shabbat": "2028-09-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-15",
+      "title": {
+        "en": "Shekalim 15 — Israel forgot its Maker and built palaces",
+        "he": "וישכח ישראל את עושהו ויבן היכלות"
+      },
+      "parashah": {
+        "en": "Shekalim 15",
+        "he": "שקלים דף 15"
+      },
+      "target_shabbat": "2028-09-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-16",
+      "title": {
+        "en": "Shekalim 16 — White fire on black fire",
+        "he": "אש לבנה חרותה באש שחורה"
+      },
+      "parashah": {
+        "en": "Shekalim 16",
+        "he": "שקלים דף 16"
+      },
+      "target_shabbat": "2028-09-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-17",
+      "title": {
+        "en": "Shekalim 17 — Your keys are handed back to You",
+        "he": "מפתחותיך מסורות לך"
+      },
+      "parashah": {
+        "en": "Shekalim 17",
+        "he": "שקלים דף 17"
+      },
+      "target_shabbat": "2028-09-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-18",
+      "title": {
+        "en": "Shekalim 18 — The thirteen horns",
+        "he": "שלושה עשר שופרות"
+      },
+      "parashah": {
+        "en": "Shekalim 18",
+        "he": "שקלים דף 18"
+      },
+      "target_shabbat": "2028-09-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-19",
+      "title": {
+        "en": "Shekalim 19 — Follow the nearer",
+        "he": "הולכין אחר הקרוב"
+      },
+      "parashah": {
+        "en": "Shekalim 19",
+        "he": "שקלים דף 19"
+      },
+      "target_shabbat": "2028-09-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-20",
+      "title": {
+        "en": "Shekalim 20 — A condition of the court",
+        "he": "תנאי בית דין"
+      },
+      "parashah": {
+        "en": "Shekalim 20",
+        "he": "שקלים דף 20"
+      },
+      "target_shabbat": "2028-09-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-21",
+      "title": {
+        "en": "Shekalim 21 — The Sages spoke in exaggeration",
+        "he": "דברו חכמים בלשון גוזמא"
+      },
+      "parashah": {
+        "en": "Shekalim 21",
+        "he": "שקלים דף 21"
+      },
+      "target_shabbat": "2028-09-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shekalim-22",
+      "title": {
+        "en": "Shekalim 22 — Shekalim and first fruits today",
+        "he": "שקלים וביכורים בזמן הזה"
+      },
+      "parashah": {
+        "en": "Shekalim 22",
+        "he": "שקלים דף 22"
+      },
+      "target_shabbat": "2028-09-13",
+      "category": "talmud"
     }
   ]
 }
