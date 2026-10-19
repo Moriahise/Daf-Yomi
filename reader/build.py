@@ -12,7 +12,7 @@ import daf_calendar as calendar
 from portraits import Document
 from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]
-READER_BYTE_LIMIT=50_000_000  # Full tractate collections have outgrown the original pilot.
+READER_BYTE_LIMIT=100_000_000  # Bound the growing export while retaining complete tractate collections.
 PUBLIC={'index.html','404.html','robots.txt','sitemap.xml','.nojekyll','about/index.html','sources/index.html','tractates/index.html'}
 PUBLIC|={'assets/'+n for n in ['site.css','site.js','sources.css','source-library.js','sefaria-navigation.js','mark.svg','daf.css','daf.js','portraits.css']}
 PUBLIC|={'data/'+n for n in ['calendar.json','catalogue.json','source-provenance.json','sefaria-library.json','daf-calendar.json']}

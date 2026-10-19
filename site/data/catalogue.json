@@ -7579,6 +7579,1566 @@
       },
       "target_shabbat": "2028-04-25",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-2",
+      "title": {
+        "en": "Pesachim 2 — The night of the fourteenth and the meaning of “light”",
+        "he": "אור לארבעה עשר ומשמעה של המילה \"אור\""
+      },
+      "parashah": {
+        "en": "Pesachim 2",
+        "he": "פסחים דף 2"
+      },
+      "target_shabbat": "2028-04-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-3",
+      "title": {
+        "en": "Pesachim 3 — Clean language and words that reveal a person",
+        "he": "לשון נקייה ומילים המגלות את האדם"
+      },
+      "parashah": {
+        "en": "Pesachim 3",
+        "he": "פסחים דף 3"
+      },
+      "target_shabbat": "2028-04-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-4",
+      "title": {
+        "en": "Pesachim 4 — Why at night, who searches, and when ḥametz becomes forbidden",
+        "he": "מדוע בלילה, מי בודק, ומתי נאסר החמץ"
+      },
+      "parashah": {
+        "en": "Pesachim 4",
+        "he": "פסחים דף 4"
+      },
+      "target_shabbat": "2028-04-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-5",
+      "title": {
+        "en": "Pesachim 5 — The fourteenth called “first” and the ḥametz of others",
+        "he": "ארבעה עשר הנקרא \"ראשון\" וחמצם של אחרים"
+      },
+      "parashah": {
+        "en": "Pesachim 5",
+        "he": "פסחים דף 5"
+      },
+      "target_shabbat": "2028-04-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-6",
+      "title": {
+        "en": "Pesachim 6 — Deposits, partitions, thirty days and the order of the Torah",
+        "he": "פיקדונות, מחיצות, שלושים יום וסדר התורה"
+      },
+      "parashah": {
+        "en": "Pesachim 6",
+        "he": "פסחים דף 6"
+      },
+      "target_shabbat": "2028-04-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-7",
+      "title": {
+        "en": "Pesachim 7 — Nullifying in time, moldy bread and the blessing on removal",
+        "he": "ביטול בזמנו, פת שעיפשה וברכת הביעור"
+      },
+      "parashah": {
+        "en": "Pesachim 7",
+        "he": "פסחים דף 7"
+      },
+      "target_shabbat": "2028-05-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-8",
+      "title": {
+        "en": "Pesachim 8 — The candle, the places to search and those on a mitzvah errand",
+        "he": "הנר, המקומות הצריכים בדיקה ושלוחי מצוה"
+      },
+      "parashah": {
+        "en": "Pesachim 8",
+        "he": "פסחים דף 8"
+      },
+      "target_shabbat": "2028-05-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-9",
+      "title": {
+        "en": "Pesachim 9 — The weasel, doubt and certainty",
+        "he": "החולדה, הספק והוודאי"
+      },
+      "parashah": {
+        "en": "Pesachim 9",
+        "he": "פסחים דף 9"
+      },
+      "target_shabbat": "2028-05-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-10",
+      "title": {
+        "en": "Pesachim 10 — Mice, loaves and the limits of “I say”",
+        "he": "עכברים, ככרות וגבולות \"שאני אומר\""
+      },
+      "parashah": {
+        "en": "Pesachim 10",
+        "he": "פסחים דף 10"
+      },
+      "target_shabbat": "2028-05-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-11",
+      "title": {
+        "en": "Pesachim 11 — When Rabbi Yehuda decrees, and witnesses who disagree on the hour",
+        "he": "מתי גוזר רבי יהודה, ועדים החלוקים בשעה"
+      },
+      "parashah": {
+        "en": "Pesachim 11",
+        "he": "פסחים דף 11"
+      },
+      "target_shabbat": "2028-05-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-12",
+      "title": {
+        "en": "Pesachim 12 — How much error is human, and when people eat",
+        "he": "כמה טעות היא אנושית, ומתי בני אדם אוכלים"
+      },
+      "parashah": {
+        "en": "Pesachim 12",
+        "he": "פסחים דף 12"
+      },
+      "target_shabbat": "2028-05-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-13",
+      "title": {
+        "en": "Pesachim 13 — The halakha of the hours and the two loaves on the roof",
+        "he": "הלכת השעות ושתי החלות על הגג"
+      },
+      "parashah": {
+        "en": "Pesachim 13",
+        "he": "פסחים דף 13"
+      },
+      "target_shabbat": "2028-05-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-14",
+      "title": {
+        "en": "Pesachim 14 — Adding impurity to impurity",
+        "he": "מוסיפין טומאה על טומאתו"
+      },
+      "parashah": {
+        "en": "Pesachim 14",
+        "he": "פסחים דף 14"
+      },
+      "target_shabbat": "2028-05-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-15",
+      "title": {
+        "en": "Pesachim 15 — A broken barrel in the winepress and the measure that is not the same",
+        "he": "חבית שנשברה בגת ומידה שאינה היא"
+      },
+      "parashah": {
+        "en": "Pesachim 15",
+        "he": "פסחים דף 15"
+      },
+      "target_shabbat": "2028-05-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-16",
+      "title": {
+        "en": "Pesachim 16 — The liquids of the Temple slaughterhouse",
+        "he": "משקי בית מטבחיא"
+      },
+      "parashah": {
+        "en": "Pesachim 16",
+        "he": "פסחים דף 16"
+      },
+      "target_shabbat": "2028-05-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-17",
+      "title": {
+        "en": "Pesachim 17 — Ḥaggai’s question to the priests",
+        "he": "שאלתו של חגי לכהנים"
+      },
+      "parashah": {
+        "en": "Pesachim 17",
+        "he": "פסחים דף 17"
+      },
+      "target_shabbat": "2028-05-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-18",
+      "title": {
+        "en": "Pesachim 18 — “It shall be impure”: how impurity passes on",
+        "he": "\"יטמא\": כיצד הטומאה עוברת"
+      },
+      "parashah": {
+        "en": "Pesachim 18",
+        "he": "פסחים דף 18"
+      },
+      "target_shabbat": "2028-05-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-19",
+      "title": {
+        "en": "Pesachim 19 — A needle in the sacrificial meat",
+        "he": "מחט שנמצאת בבשר"
+      },
+      "parashah": {
+        "en": "Pesachim 19",
+        "he": "פסחים דף 19"
+      },
+      "target_shabbat": "2028-05-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-20",
+      "title": {
+        "en": "Pesachim 20 — Contradictions between Pesaḥ, terumah and the winepress",
+        "he": "סתירות בין פסחא, תרומה והגת"
+      },
+      "parashah": {
+        "en": "Pesachim 20",
+        "he": "פסחים דף 20"
+      },
+      "target_shabbat": "2028-05-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-21",
+      "title": {
+        "en": "Pesachim 21 — Whenever one may eat, one may feed",
+        "he": "כל שעה שמותר לאכול מאכיל"
+      },
+      "parashah": {
+        "en": "Pesachim 21",
+        "he": "פסחים דף 21"
+      },
+      "target_shabbat": "2028-05-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-22",
+      "title": {
+        "en": "Pesachim 22 — Is benefit included in “do not eat”?",
+        "he": "האם ההנאה כלולה ב\"לא יאכל\"?"
+      },
+      "parashah": {
+        "en": "Pesachim 22",
+        "he": "פסחים דף 22"
+      },
+      "target_shabbat": "2028-05-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-23",
+      "title": {
+        "en": "Pesachim 23 — “For you”: what belongs to you may be used",
+        "he": "\"לכם\": שלכם יהא"
+      },
+      "parashah": {
+        "en": "Pesachim 23",
+        "he": "פסחים דף 23"
+      },
+      "target_shabbat": "2028-05-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-24",
+      "title": {
+        "en": "Pesachim 24 — “If it is not needed for itself”: finding the general rule",
+        "he": "\"אם אינו ענין\": מציאת הכלל הכללי"
+      },
+      "parashah": {
+        "en": "Pesachim 24",
+        "he": "פסחים דף 24"
+      },
+      "target_shabbat": "2028-05-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-25",
+      "title": {
+        "en": "Pesachim 25 — Healing with forbidden things, and benefit that comes unbidden",
+        "he": "רפואה באיסורים, והנאה הבאה בעל כורחו"
+      },
+      "parashah": {
+        "en": "Pesachim 25",
+        "he": "פסחים דף 25"
+      },
+      "target_shabbat": "2028-05-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-26",
+      "title": {
+        "en": "Pesachim 26 — The shade of the Sanctuary and the heifer that threshed",
+        "he": "צילו של היכל והעגלה שדשה"
+      },
+      "parashah": {
+        "en": "Pesachim 26",
+        "he": "פסחים דף 26"
+      },
+      "target_shabbat": "2028-05-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-27",
+      "title": {
+        "en": "Pesachim 27 — When two causes produce one result",
+        "he": "זה וזה גורם"
+      },
+      "parashah": {
+        "en": "Pesachim 27",
+        "he": "פסחים דף 27"
+      },
+      "target_shabbat": "2028-05-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-28",
+      "title": {
+        "en": "Pesachim 28 — Burning or scattering, and ḥametz that remained over Pesaḥ",
+        "he": "שריפה או פירור, וחמץ שעבר עליו הפסח"
+      },
+      "parashah": {
+        "en": "Pesachim 28",
+        "he": "פסחים דף 28"
+      },
+      "target_shabbat": "2028-05-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-29",
+      "title": {
+        "en": "Pesachim 29 — A penalty for keeping ḥametz, and ḥametz in a mixture",
+        "he": "קנס על השהיית חמץ, וחמץ בתערובת"
+      },
+      "parashah": {
+        "en": "Pesachim 29",
+        "he": "פסחים דף 29"
+      },
+      "target_shabbat": "2028-05-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-30",
+      "title": {
+        "en": "Pesachim 30 — Pots, knives and vessels after Pesaḥ",
+        "he": "קדירות, סכינים וכלים אחר הפסח"
+      },
+      "parashah": {
+        "en": "Pesachim 30",
+        "he": "פסחים דף 30"
+      },
+      "target_shabbat": "2028-05-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-31",
+      "title": {
+        "en": "Pesachim 31 — When does a creditor own the pledge?",
+        "he": "מתי קונה בעל חוב את המשכון?"
+      },
+      "parashah": {
+        "en": "Pesachim 31",
+        "he": "פסחים דף 31"
+      },
+      "target_shabbat": "2028-05-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-32",
+      "title": {
+        "en": "Pesachim 32 — Paying for terumah: by measure or by value",
+        "he": "תשלומי תרומה: לפי מידה או לפי דמים"
+      },
+      "parashah": {
+        "en": "Pesachim 32",
+        "he": "פסחים דף 32"
+      },
+      "target_shabbat": "2028-05-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-33",
+      "title": {
+        "en": "Pesachim 33 — Terumah that cannot be terumah, and grapes trodden in small amounts",
+        "he": "תרומה שאינה יכולה להיות תרומה, וענבים הנדרכים פחות פחות"
+      },
+      "parashah": {
+        "en": "Pesachim 33",
+        "he": "פסחים דף 33"
+      },
+      "target_shabbat": "2028-05-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-34",
+      "title": {
+        "en": "Pesachim 34 — Inattention, “dark” teachings and stringencies for holy things",
+        "he": "היסח הדעת, שמועות \"מחשכות\" ומעלות בקודש"
+      },
+      "parashah": {
+        "en": "Pesachim 34",
+        "he": "פסחים דף 34"
+      },
+      "target_shabbat": "2028-05-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-35",
+      "title": {
+        "en": "Pesachim 35 — The five grains of matza",
+        "he": "חמשת המינים למצה"
+      },
+      "parashah": {
+        "en": "Pesachim 35",
+        "he": "פסחים דף 35"
+      },
+      "target_shabbat": "2028-05-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-36",
+      "title": {
+        "en": "Pesachim 36 — Bread of affliction",
+        "he": "לחם עוני"
+      },
+      "parashah": {
+        "en": "Pesachim 36",
+        "he": "פסחים דף 36"
+      },
+      "target_shabbat": "2028-05-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-37",
+      "title": {
+        "en": "Pesachim 37 — Thick bread, decorated wafers and baking in a pan",
+        "he": "פת עבה, סריקין המצויירין ומעשה אילפס"
+      },
+      "parashah": {
+        "en": "Pesachim 37",
+        "he": "פסחים דף 37"
+      },
+      "target_shabbat": "2028-05-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-38",
+      "title": {
+        "en": "Pesachim 38 — Matza of second tithe and loaves made for a sacrifice",
+        "he": "מצה של מעשר שני וחלות שנעשו לשם זבח"
+      },
+      "parashah": {
+        "en": "Pesachim 38",
+        "he": "פסחים דף 38"
+      },
+      "target_shabbat": "2028-06-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-39",
+      "title": {
+        "en": "Pesachim 39 — The bitter herbs and the mercy in lettuce",
+        "he": "המרור והרחמים שבחסא"
+      },
+      "parashah": {
+        "en": "Pesachim 39",
+        "he": "פסחים דף 39"
+      },
+      "target_shabbat": "2028-06-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-40",
+      "title": {
+        "en": "Pesachim 40 — Soaking grain and guarding matza from the start",
+        "he": "לתיתה ושימור מעיקרא"
+      },
+      "parashah": {
+        "en": "Pesachim 40",
+        "he": "פסחים דף 40"
+      },
+      "target_shabbat": "2028-06-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-41",
+      "title": {
+        "en": "Pesachim 41 — Not raw, not boiled, only roasted by fire",
+        "he": "לא נא, לא מבושל, כי אם צלי אש"
+      },
+      "parashah": {
+        "en": "Pesachim 41",
+        "he": "פסחים דף 41"
+      },
+      "target_shabbat": "2028-06-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-42",
+      "title": {
+        "en": "Pesachim 42 — Water that rested overnight and the foods that pass Pesaḥ",
+        "he": "מים שלנו והמאכלים העוברים בפסח"
+      },
+      "parashah": {
+        "en": "Pesachim 42",
+        "he": "פסחים דף 42"
+      },
+      "target_shabbat": "2028-06-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-43",
+      "title": {
+        "en": "Pesachim 43 — Spoiled ḥametz, mixtures and the words “all” and “for all”",
+        "he": "חמץ נוקשה, תערובת והמילים \"כל\" ו\"כי כל\""
+      },
+      "parashah": {
+        "en": "Pesachim 43",
+        "he": "פסחים דף 43"
+      },
+      "target_shabbat": "2028-06-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-44",
+      "title": {
+        "en": "Pesachim 44 — Taste like substance",
+        "he": "טעם כעיקר"
+      },
+      "parashah": {
+        "en": "Pesachim 44",
+        "he": "פסחים דף 44"
+      },
+      "target_shabbat": "2028-06-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-45",
+      "title": {
+        "en": "Pesachim 45 — Dough in the cracks of a kneading trough",
+        "he": "בצק שבסדקי עריבה"
+      },
+      "parashah": {
+        "en": "Pesachim 45",
+        "he": "פסחים דף 45"
+      },
+      "target_shabbat": "2028-06-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-46",
+      "title": {
+        "en": "Pesachim 46 — “Deaf” dough, four mil and baking on a festival for a weekday",
+        "he": "בצק החרש, ארבעה מילין ואפייה מיום טוב לחול"
+      },
+      "parashah": {
+        "en": "Pesachim 46",
+        "he": "פסחים דף 46"
+      },
+      "target_shabbat": "2028-06-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-47",
+      "title": {
+        "en": "Pesachim 47 — One furrow and eight prohibitions",
+        "he": "תלם אחד ושמונה לאווין"
+      },
+      "parashah": {
+        "en": "Pesachim 47",
+        "he": "פסחים דף 47"
+      },
+      "target_shabbat": "2028-06-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-48",
+      "title": {
+        "en": "Pesachim 48 — Muktze wood, the measure of dough and three women at the oven",
+        "he": "עצי מוקצה, שיעור עיסה ושלוש נשים בתנור"
+      },
+      "parashah": {
+        "en": "Pesachim 48",
+        "he": "פסחים דף 48"
+      },
+      "target_shabbat": "2028-06-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-49",
+      "title": {
+        "en": "Pesachim 49 — The fourteenth on Shabbat and returning to remove ḥametz",
+        "he": "ארבעה עשר שחל בשבת וחזרה לביעור חמץ"
+      },
+      "parashah": {
+        "en": "Pesachim 49",
+        "he": "פסחים דף 49"
+      },
+      "target_shabbat": "2028-06-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-50",
+      "title": {
+        "en": "Pesachim 50 — An upside-down world and work on the eve of Pesaḥ",
+        "he": "עולם הפוך ומלאכה בערבי פסחים"
+      },
+      "parashah": {
+        "en": "Pesachim 50",
+        "he": "פסחים דף 50"
+      },
+      "target_shabbat": "2028-06-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-51",
+      "title": {
+        "en": "Pesachim 51 — Things permitted that others treated as forbidden",
+        "he": "דברים המותרים ואחרים נהגו בהם איסור"
+      },
+      "parashah": {
+        "en": "Pesachim 51",
+        "he": "פסחים דף 51"
+      },
+      "target_shabbat": "2028-06-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-52",
+      "title": {
+        "en": "Pesachim 52 — The second festival day and Sabbatical fruit that moved",
+        "he": "יום טוב שני ופירות שביעית שעברו ממקומם"
+      },
+      "parashah": {
+        "en": "Pesachim 52",
+        "he": "פסחים דף 52"
+      },
+      "target_shabbat": "2028-06-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-53",
+      "title": {
+        "en": "Pesachim 53 — Todos of Rome and the lamp on Yom Kippur night",
+        "he": "תודוס איש רומי ונר בליל יום הכיפורים"
+      },
+      "parashah": {
+        "en": "Pesachim 53",
+        "he": "פסחים דף 53"
+      },
+      "target_shabbat": "2028-06-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-54",
+      "title": {
+        "en": "Pesachim 54 — The blessing over fire and things created at twilight",
+        "he": "ברכת האור ודברים שנבראו בין השמשות"
+      },
+      "parashah": {
+        "en": "Pesachim 54",
+        "he": "פסחים דף 54"
+      },
+      "target_shabbat": "2028-06-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-55",
+      "title": {
+        "en": "Pesachim 55 — Tailors, barbers and launderers on the eve of Pesaḥ",
+        "he": "חייטים, ספרים וכובסים בערבי פסחים"
+      },
+      "parashah": {
+        "en": "Pesachim 55",
+        "he": "פסחים דף 55"
+      },
+      "target_shabbat": "2028-06-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-56",
+      "title": {
+        "en": "Pesachim 56 — The six deeds of Hezekiah and the customs of Jericho",
+        "he": "ששה דברים שעשה חזקיה ומנהגי אנשי יריחו"
+      },
+      "parashah": {
+        "en": "Pesachim 56",
+        "he": "פסחים דף 56"
+      },
+      "target_shabbat": "2028-06-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-57",
+      "title": {
+        "en": "Pesachim 57 — Woe to me from the house of Boethus",
+        "he": "אוי לי מבית בייתוס"
+      },
+      "parashah": {
+        "en": "Pesachim 57",
+        "he": "פסחים דף 57"
+      },
+      "target_shabbat": "2028-06-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-58",
+      "title": {
+        "en": "Pesachim 58 — The daily offering on the eve of Pesaḥ",
+        "he": "התמיד בערב פסח"
+      },
+      "parashah": {
+        "en": "Pesachim 58",
+        "he": "פסחים דף 58"
+      },
+      "target_shabbat": "2028-06-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-59",
+      "title": {
+        "en": "Pesachim 59 — Incense, lamps and one lacking atonement",
+        "he": "קטורת, נרות ומחוסר כפורים"
+      },
+      "parashah": {
+        "en": "Pesachim 59",
+        "he": "פסחים דף 59"
+      },
+      "target_shabbat": "2028-06-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-60",
+      "title": {
+        "en": "Pesachim 60 — One service or two, and a Pesaḥ outside its time",
+        "he": "בעבודה אחת או בשתי עבודות, ופסח שלא בזמנו"
+      },
+      "parashah": {
+        "en": "Pesachim 60",
+        "he": "פסחים דף 60"
+      },
+      "target_shabbat": "2028-06-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-61",
+      "title": {
+        "en": "Pesachim 61 — Not for its eaters and the uncircumcised at the sprinkling",
+        "he": "שלא לאוכליו וערלים בזריקה"
+      },
+      "parashah": {
+        "en": "Pesachim 61",
+        "he": "פסחים דף 61"
+      },
+      "target_shabbat": "2028-06-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-62",
+      "title": {
+        "en": "Pesachim 62 — The Book of Genealogies",
+        "he": "ספר יוחסין"
+      },
+      "parashah": {
+        "en": "Pesachim 62",
+        "he": "פסחים דף 62"
+      },
+      "target_shabbat": "2028-06-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-63",
+      "title": {
+        "en": "Pesachim 63 — Slaughtering the Pesaḥ with ḥametz",
+        "he": "השוחט את הפסח על החמץ"
+      },
+      "parashah": {
+        "en": "Pesachim 63",
+        "he": "פסחים דף 63"
+      },
+      "target_shabbat": "2028-06-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-64",
+      "title": {
+        "en": "Pesachim 64 — Three groups in the Temple court",
+        "he": "שלוש כתות בעזרה"
+      },
+      "parashah": {
+        "en": "Pesachim 64",
+        "he": "פסחים דף 64"
+      },
+      "target_shabbat": "2028-06-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-65",
+      "title": {
+        "en": "Pesachim 65 — The lazy group and blood up to the knees",
+        "he": "כת עצלנית ודם עד הארכובות"
+      },
+      "parashah": {
+        "en": "Pesachim 65",
+        "he": "פסחים דף 65"
+      },
+      "target_shabbat": "2028-06-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-66",
+      "title": {
+        "en": "Pesachim 66 — Hillel and the sons of Beteira",
+        "he": "הלל ובני בתירא"
+      },
+      "parashah": {
+        "en": "Pesachim 66",
+        "he": "פסחים דף 66"
+      },
+      "target_shabbat": "2028-06-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-67",
+      "title": {
+        "en": "Pesachim 67 — Three camps and who is sent out",
+        "he": "שלוש מחנות ומי משתלח"
+      },
+      "parashah": {
+        "en": "Pesachim 67",
+        "he": "פסחים דף 67"
+      },
+      "target_shabbat": "2028-06-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-68",
+      "title": {
+        "en": "Pesachim 68 — Half for God and half for you",
+        "he": "חציו לה' וחציו לכם"
+      },
+      "parashah": {
+        "en": "Pesachim 68",
+        "he": "פסחים דף 68"
+      },
+      "target_shabbat": "2028-07-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-69",
+      "title": {
+        "en": "Pesachim 69 — “By slaughter shall be his death”",
+        "he": "\"בשחיטה תהא מיתתו\""
+      },
+      "parashah": {
+        "en": "Pesachim 69",
+        "he": "פסחים דף 69"
+      },
+      "target_shabbat": "2028-07-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-70",
+      "title": {
+        "en": "Pesachim 70 — Ben Teima and Yehuda ben Durtai",
+        "he": "בן תימא ויהודה בן דורתאי"
+      },
+      "parashah": {
+        "en": "Pesachim 70",
+        "he": "פסחים דף 70"
+      },
+      "target_shabbat": "2028-07-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-71",
+      "title": {
+        "en": "Pesachim 71 — Rejoicing with clean garments and old wine",
+        "he": "שמחה בכסות נקייה וביין ישן"
+      },
+      "parashah": {
+        "en": "Pesachim 71",
+        "he": "פסחים דף 71"
+      },
+      "target_shabbat": "2028-07-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-72",
+      "title": {
+        "en": "Pesachim 72 — Deliberate or mistaken change",
+        "he": "עוקר או טועה"
+      },
+      "parashah": {
+        "en": "Pesachim 72",
+        "he": "פסחים דף 72"
+      },
+      "target_shabbat": "2028-07-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-73",
+      "title": {
+        "en": "Pesachim 73 — What did he repair?",
+        "he": "מה תיקן?"
+      },
+      "parashah": {
+        "en": "Pesachim 73",
+        "he": "פסחים דף 73"
+      },
+      "target_shabbat": "2028-07-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-74",
+      "title": {
+        "en": "Pesachim 74 — A spit of pomegranate wood",
+        "he": "שפוד של רימון"
+      },
+      "parashah": {
+        "en": "Pesachim 74",
+        "he": "פסחים דף 74"
+      },
+      "target_shabbat": "2028-07-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-75",
+      "title": {
+        "en": "Pesachim 75 — Are coals called fire?",
+        "he": "האם גחלים נקראים אש?"
+      },
+      "parashah": {
+        "en": "Pesachim 75",
+        "he": "פסחים דף 75"
+      },
+      "target_shabbat": "2028-07-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-76",
+      "title": {
+        "en": "Pesachim 76 — The upper prevails or the lower prevails",
+        "he": "עילאה גבר או תתאה גבר"
+      },
+      "parashah": {
+        "en": "Pesachim 76",
+        "he": "פסחים דף 76"
+      },
+      "target_shabbat": "2028-07-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-77",
+      "title": {
+        "en": "Pesachim 77 — The headplate and the blood without flesh",
+        "he": "הציץ ודם בלא בשר"
+      },
+      "parashah": {
+        "en": "Pesachim 77",
+        "he": "פסחים דף 77"
+      },
+      "target_shabbat": "2028-07-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-78",
+      "title": {
+        "en": "Pesachim 78 — One Pesaḥ for all Israel",
+        "he": "פסח אחד לכל ישראל"
+      },
+      "parashah": {
+        "en": "Pesachim 78",
+        "he": "פסחים דף 78"
+      },
+      "target_shabbat": "2028-07-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-79",
+      "title": {
+        "en": "Pesachim 79 — Half pure and half impure",
+        "he": "מחצה טהורים ומחצה טמאים"
+      },
+      "parashah": {
+        "en": "Pesachim 79",
+        "he": "פסחים דף 79"
+      },
+      "target_shabbat": "2028-07-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-80",
+      "title": {
+        "en": "Pesachim 80 — Tipping the community to impurity",
+        "he": "הכרעת הציבור לטומאה"
+      },
+      "parashah": {
+        "en": "Pesachim 80",
+        "he": "פסחים דף 80"
+      },
+      "target_shabbat": "2028-07-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-81",
+      "title": {
+        "en": "Pesachim 81 — Impurity of the depths",
+        "he": "טומאת התהום"
+      },
+      "parashah": {
+        "en": "Pesachim 81",
+        "he": "פסחים דף 81"
+      },
+      "target_shabbat": "2028-07-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-82",
+      "title": {
+        "en": "Pesachim 82 — Burned before the Temple",
+        "he": "נשרף לפני הבירה"
+      },
+      "parashah": {
+        "en": "Pesachim 82",
+        "he": "פסחים דף 82"
+      },
+      "target_shabbat": "2028-07-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-83",
+      "title": {
+        "en": "Pesachim 83 — Bones, sinews and leftovers",
+        "he": "העצמות, הגידים והנותר"
+      },
+      "parashah": {
+        "en": "Pesachim 83",
+        "he": "פסחים דף 83"
+      },
+      "target_shabbat": "2028-07-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-84",
+      "title": {
+        "en": "Pesachim 84 — Breaking a bone of the Pesaḥ",
+        "he": "שבירת עצם בפסח"
+      },
+      "parashah": {
+        "en": "Pesachim 84",
+        "he": "פסחים דף 84"
+      },
+      "target_shabbat": "2028-07-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-85",
+      "title": {
+        "en": "Pesachim 85 — Not even an iron partition",
+        "he": "אפילו מחיצה של ברזל"
+      },
+      "parashah": {
+        "en": "Pesachim 85",
+        "he": "פסחים דף 85"
+      },
+      "target_shabbat": "2028-07-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-86",
+      "title": {
+        "en": "Pesachim 86 — Two groups in one house",
+        "he": "שתי חבורות בבית אחד"
+      },
+      "parashah": {
+        "en": "Pesachim 86",
+        "he": "פסחים דף 86"
+      },
+      "target_shabbat": "2028-07-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-87",
+      "title": {
+        "en": "Pesachim 87 — Hosea and the four acquisitions",
+        "he": "הושע וארבעה קניינים"
+      },
+      "parashah": {
+        "en": "Pesachim 87",
+        "he": "פסחים דף 87"
+      },
+      "target_shabbat": "2028-07-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-88",
+      "title": {
+        "en": "Pesachim 88 — The king, the queen and Rabban Gamliel",
+        "he": "המלך, המלכה ורבן גמליאל"
+      },
+      "parashah": {
+        "en": "Pesachim 88",
+        "he": "פסחים דף 88"
+      },
+      "target_shabbat": "2028-07-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-89",
+      "title": {
+        "en": "Pesachim 89 — “Take your share and leave”",
+        "he": "\"טול חלקך וצא\""
+      },
+      "parashah": {
+        "en": "Pesachim 89",
+        "he": "פסחים דף 89"
+      },
+      "target_shabbat": "2028-07-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-90",
+      "title": {
+        "en": "Pesachim 90 — Sustain yourself from the lamb",
+        "he": "החייהו משה"
+      },
+      "parashah": {
+        "en": "Pesachim 90",
+        "he": "פסחים דף 90"
+      },
+      "target_shabbat": "2028-07-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-91",
+      "title": {
+        "en": "Pesachim 91 — The mourner, the prisoner and the individual",
+        "he": "האונן, האסיר והיחיד"
+      },
+      "parashah": {
+        "en": "Pesachim 91",
+        "he": "פסחים דף 91"
+      },
+      "target_shabbat": "2028-07-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-92",
+      "title": {
+        "en": "Pesachim 92 — The mourner, the convert and the second Pesaḥ",
+        "he": "האונן, הגר והפסח השני"
+      },
+      "parashah": {
+        "en": "Pesachim 92",
+        "he": "פסחים דף 92"
+      },
+      "target_shabbat": "2028-07-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-93",
+      "title": {
+        "en": "Pesachim 93 — A distant road",
+        "he": "דרך רחוקה"
+      },
+      "parashah": {
+        "en": "Pesachim 93",
+        "he": "פסחים דף 93"
+      },
+      "target_shabbat": "2028-07-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-94",
+      "title": {
+        "en": "Pesachim 94 — The thickness of the firmament",
+        "he": "עוביו של רקיע"
+      },
+      "parashah": {
+        "en": "Pesachim 94",
+        "he": "פסחים דף 94"
+      },
+      "target_shabbat": "2028-07-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-95",
+      "title": {
+        "en": "Pesachim 95 — The first Pesaḥ and the second",
+        "he": "פסח ראשון ופסח שני"
+      },
+      "parashah": {
+        "en": "Pesachim 95",
+        "he": "פסחים דף 95"
+      },
+      "target_shabbat": "2028-07-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-96",
+      "title": {
+        "en": "Pesachim 96 — The Pesaḥ of Egypt and the Pesaḥ of the generations",
+        "he": "פסח מצרים ופסח דורות"
+      },
+      "parashah": {
+        "en": "Pesachim 96",
+        "he": "פסחים דף 96"
+      },
+      "target_shabbat": "2028-07-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-97",
+      "title": {
+        "en": "Pesachim 97 — What dies in a sin offering",
+        "he": "כל שבחטאת מתה"
+      },
+      "parashah": {
+        "en": "Pesachim 97",
+        "he": "פסחים דף 97"
+      },
+      "target_shabbat": "2028-07-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-98",
+      "title": {
+        "en": "Pesachim 98 — A lost Pesaḥ and mixed offerings",
+        "he": "פסח שאבד וזבחים שנתערבו"
+      },
+      "parashah": {
+        "en": "Pesachim 98",
+        "he": "פסחים דף 98"
+      },
+      "target_shabbat": "2028-07-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-99",
+      "title": {
+        "en": "Pesachim 99 — The eve of Pesaḥ near minḥa",
+        "he": "ערבי פסחים סמוך למנחה"
+      },
+      "parashah": {
+        "en": "Pesachim 99",
+        "he": "פסחים דף 99"
+      },
+      "target_shabbat": "2028-08-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-100",
+      "title": {
+        "en": "Pesachim 100 — Spreading a cloth and making kiddush",
+        "he": "פורס מפה ומקדש"
+      },
+      "parashah": {
+        "en": "Pesachim 100",
+        "he": "פסחים דף 100"
+      },
+      "target_shabbat": "2028-08-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-101",
+      "title": {
+        "en": "Pesachim 101 — Kiddush only where one eats",
+        "he": "אין קידוש אלא במקום סעודה"
+      },
+      "parashah": {
+        "en": "Pesachim 101",
+        "he": "פסחים דף 101"
+      },
+      "target_shabbat": "2028-08-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-102",
+      "title": {
+        "en": "Pesachim 102 — No two sanctities on one cup",
+        "he": "אין אומרים שתי קדושות על כוס אחד"
+      },
+      "parashah": {
+        "en": "Pesachim 102",
+        "he": "פסחים דף 102"
+      },
+      "target_shabbat": "2028-08-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-103",
+      "title": {
+        "en": "Pesachim 103 — The king leaves and the governor enters",
+        "he": "המלך יוצא ואפרכוס נכנס"
+      },
+      "parashah": {
+        "en": "Pesachim 103",
+        "he": "פסחים דף 103"
+      },
+      "target_shabbat": "2028-08-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-104",
+      "title": {
+        "en": "Pesachim 104 — The separations of havdala",
+        "he": "סדר ההבדלות"
+      },
+      "parashah": {
+        "en": "Pesachim 104",
+        "he": "פסחים דף 104"
+      },
+      "target_shabbat": "2028-08-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-105",
+      "title": {
+        "en": "Pesachim 105 — Shabbat fixes itself for kiddush",
+        "he": "שבת קובעת לקידוש"
+      },
+      "parashah": {
+        "en": "Pesachim 105",
+        "he": "פסחים דף 105"
+      },
+      "target_shabbat": "2028-08-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-106",
+      "title": {
+        "en": "Pesachim 106 — Remember it over wine",
+        "he": "זוכרהו על היין"
+      },
+      "parashah": {
+        "en": "Pesachim 106",
+        "he": "פסחים דף 106"
+      },
+      "target_shabbat": "2028-08-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-107",
+      "title": {
+        "en": "Pesachim 107 — Beer, wine and the time near minḥa",
+        "he": "שיכרא, חמרא וסמוך למנחה"
+      },
+      "parashah": {
+        "en": "Pesachim 107",
+        "he": "פסחים דף 107"
+      },
+      "target_shabbat": "2028-08-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-108",
+      "title": {
+        "en": "Pesachim 108 — Reclining and the four cups",
+        "he": "הסיבה וארבע כוסות"
+      },
+      "parashah": {
+        "en": "Pesachim 108",
+        "he": "פסחים דף 108"
+      },
+      "target_shabbat": "2028-08-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-109",
+      "title": {
+        "en": "Pesachim 109 — Nuts for the children and joy for the household",
+        "he": "אגוזים לתינוקות ושמחה לבני הבית"
+      },
+      "parashah": {
+        "en": "Pesachim 109",
+        "he": "פסחים דף 109"
+      },
+      "target_shabbat": "2028-08-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-110",
+      "title": {
+        "en": "Pesachim 110 — The question of pairs",
+        "he": "שאלת הזוגות"
+      },
+      "parashah": {
+        "en": "Pesachim 110",
+        "he": "פסחים דף 110"
+      },
+      "target_shabbat": "2028-08-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-111",
+      "title": {
+        "en": "Pesachim 111 — Between two palms",
+        "he": "בין שני דקלים"
+      },
+      "parashah": {
+        "en": "Pesachim 111",
+        "he": "פסחים דף 111"
+      },
+      "target_shabbat": "2028-08-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-112",
+      "title": {
+        "en": "Pesachim 112 — The instructions of Rabbi Akiva and of Rebbe",
+        "he": "צוואות רבי עקיבא ורבנו הקדוש"
+      },
+      "parashah": {
+        "en": "Pesachim 112",
+        "he": "פסחים דף 112"
+      },
+      "target_shabbat": "2028-08-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-113",
+      "title": {
+        "en": "Pesachim 113 — Three whom God loves",
+        "he": "שלושה הקדוש ברוך הוא אוהבן"
+      },
+      "parashah": {
+        "en": "Pesachim 113",
+        "he": "פסחים דף 113"
+      },
+      "target_shabbat": "2028-08-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-114",
+      "title": {
+        "en": "Pesachim 114 — The first cup and the first dipping",
+        "he": "הכוס הראשון והטיבול הראשון"
+      },
+      "parashah": {
+        "en": "Pesachim 114",
+        "he": "פסחים דף 114"
+      },
+      "target_shabbat": "2028-08-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-115",
+      "title": {
+        "en": "Pesachim 115 — Hillel wrapped them together",
+        "he": "הלל היה כורכן בבת אחת"
+      },
+      "parashah": {
+        "en": "Pesachim 115",
+        "he": "פסחים דף 115"
+      },
+      "target_shabbat": "2028-08-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-116",
+      "title": {
+        "en": "Pesachim 116 — Why is this night different",
+        "he": "מה נשתנה הלילה הזה"
+      },
+      "parashah": {
+        "en": "Pesachim 116",
+        "he": "פסחים דף 116"
+      },
+      "target_shabbat": "2028-08-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-117",
+      "title": {
+        "en": "Pesachim 117 — Who said the Hallel",
+        "he": "הלל זה מי אמרו"
+      },
+      "parashah": {
+        "en": "Pesachim 117",
+        "he": "פסחים דף 117"
+      },
+      "target_shabbat": "2028-08-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-118",
+      "title": {
+        "en": "Pesachim 118 — The great Hallel and the hardship of sustenance",
+        "he": "הלל הגדול וקושי המזונות"
+      },
+      "parashah": {
+        "en": "Pesachim 118",
+        "he": "פסחים דף 118"
+      },
+      "target_shabbat": "2028-08-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-119",
+      "title": {
+        "en": "Pesachim 119 — The cup of blessing at the banquet of the righteous",
+        "he": "כוס של ברכה בסעודת הצדיקים"
+      },
+      "parashah": {
+        "en": "Pesachim 119",
+        "he": "פסחים דף 119"
+      },
+      "target_shabbat": "2028-08-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-120",
+      "title": {
+        "en": "Pesachim 120 — Matza today is Torah law",
+        "he": "מצה בזמן הזה דאורייתא"
+      },
+      "parashah": {
+        "en": "Pesachim 120",
+        "he": "פסחים דף 120"
+      },
+      "target_shabbat": "2028-08-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-pesachim-121",
+      "title": {
+        "en": "Pesachim 121 — The blessing of the Pesaḥ and the completion of the tractate",
+        "he": "ברכת הפסח וסיום המסכת"
+      },
+      "parashah": {
+        "en": "Pesachim 121",
+        "he": "פסחים דף 121"
+      },
+      "target_shabbat": "2028-08-23",
+      "category": "talmud"
     }
   ]
 }
