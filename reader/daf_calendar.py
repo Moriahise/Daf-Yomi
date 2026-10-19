@@ -42,6 +42,25 @@ def cycle_tractates(cycle):
         start=end+timedelta(days=1)
     return rows
 
+READER_START = date(2026, 9, 20)
+
+
+def reader_tractates(today):
+    """One current or upcoming occurrence per tractate, from the reader's launch."""
+    if isinstance(today, str):
+        today = date.fromisoformat(today)
+    floor = max(today, READER_START)
+    cycle = learning_day(floor)['cycle']
+    selected = {}
+    for entry in cycle_tractates(cycle) + cycle_tractates(cycle + 1):
+        if (date.fromisoformat(entry['start']) >= READER_START
+                and date.fromisoformat(entry['end']) >= floor):
+            selected.setdefault(entry['id'], entry)
+    if len(selected) != len(tractates()):
+        raise ValueError('Incomplete current and upcoming tractate path')
+    return sorted(selected.values(), key=lambda entry: entry['start'])
+
+
 def reader_calendar(today):
     cycle=learning_day(today)['cycle']
     return {'schema':1,'timezone':'Asia/Jerusalem','day_boundary':'civil-midnight','cycle':cycle,'cycle_start':cycle_start(cycle).isoformat(),'next_cycle_start':cycle_start(cycle+1).isoformat(),'days_per_cycle':CYCLE_LENGTH,'attribution':'Calendar calculation follows Hebcal; modern Daf Yomi pagination.','tractates':[{k:v for k,v in t.items() if k!='mapping_requires_editor'} for t in tractates()],'cycles':[{'cycle':n,'start':cycle_start(n).isoformat(),'end':(cycle_start(n+1)-timedelta(days=1)).isoformat(),'tractates':[{k:v for k,v in t.items() if k!='mapping_requires_editor'} for t in cycle_tractates(n)]} for n in (cycle,cycle+1)]}

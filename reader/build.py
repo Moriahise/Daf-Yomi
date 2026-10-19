@@ -31,6 +31,47 @@ def check_input(source):
     for e in json.loads((source/'data/catalogue.json').read_text())['editions']:
         if set(e)!={'id','title','parashah','target_shabbat','category'}:raise ValueError('Unknown reader catalogue fields')
 
+def refresh_tractates(index, today):
+    """Keep displayed ranges, cycle labels, order and destinations in agreement."""
+    doc = Document(index)
+    entries = calendar.reader_tractates(today)
+    cards = [node for node in doc.nodes if node.has('tractate-card')]
+    by_id = {card.attrs['data-tractate']: card for card in cards}
+    if len(cards) != len(entries) or set(by_id) != {entry['id'] for entry in entries}:
+        raise ValueError('Tractate overview must contain every tractate exactly once')
+    rendered = []
+    for entry in entries:
+        card = by_id[entry['id']]
+        markup = index[card.start:card.end]
+        changes = []
+        for child in doc.nodes:
+            if not card.opening_end <= child.start < card.closing_start:
+                continue
+            if child.has('eyebrow'):
+                value = entry['start']+' — '+entry['end']+' · '+bi('Cycle '+str(entry['cycle']), 'מחזור '+str(entry['cycle']))
+                changes.append((child.opening_end-card.start, child.closing_start-card.start, value))
+            if child.tag == 'a':
+                opening = index[child.start:child.opening_end]
+                opening = opening.replace(escape(child.attrs['href'], quote=True), '../?date='+entry['start']+'#calendar')
+                changes.append((child.start-card.start, child.opening_end-card.start, opening))
+        for start, end, value in sorted(changes, reverse=True):
+            markup = markup[:start]+value+markup[end:]
+        rendered.append(markup)
+    grid = next(node for node in doc.nodes if node.has('tractate-grid'))
+    main = next(node for node in doc.nodes if node.has('tractates-main'))
+    intro = next(node for node in doc.nodes if node.tag == 'p' and main.opening_end <= node.start < grid.start)
+    cycles = sorted({entry['cycle'] for entry in entries})
+    cycle_label = str(cycles[0]) if len(cycles) == 1 else str(cycles[0])+'–'+str(cycles[-1])
+    span = entries[0]['start']+' — '+entries[-1]['end']
+    en = 'Current and upcoming tractates · '+('Cycle ' if len(cycles) == 1 else 'Cycles ')+cycle_label+' · '+span
+    he = 'המסכת הנלמדת והמסכתות הבאות · '+('מחזור ' if len(cycles) == 1 else 'מחזורים ')+cycle_label+' · '+span
+    changes = [(grid.opening_end, grid.closing_start, ''.join(rendered)),
+               (intro.opening_end, intro.closing_start, bi(en, he))]
+    for start, end, value in sorted(changes, reverse=True):
+        index = index[:start]+value+index[end:]
+    return index
+
+
 def build(source,output,now=None):
     check_input(source)
     if output.exists():raise ValueError('Output already exists')
@@ -65,23 +106,8 @@ def build(source,output,now=None):
     for start,end,markup in sorted(edits,reverse=True):home=home[:start]+markup+home[end:]
     (output/'index.html').write_text(home)
     # The tractate overview must advance even while no new study guide is published.
-    index_path=output/'tractates/index.html';index=index_path.read_text();index_doc=Document(index);index_edits=[]
-    entries={t['id']:t for t in calendar.cycle_tractates(row['cycle'])}
-    cards=[n for n in index_doc.nodes if n.has('tractate-card')]
-    for card in cards:
-        entry=entries[card.attrs['data-tractate']]
-        for child in index_doc.nodes:
-            if not card.opening_end<=child.start<card.closing_start:continue
-            if child.has('eyebrow'):index_edits.append((child.opening_end,child.closing_start,entry['start']+' — '+entry['end']))
-            if child.tag=='a':
-                opening=index[child.start:child.opening_end]
-                index_edits.append((child.start,child.opening_end,opening.replace(escape(child.attrs['href'],quote=True),'../?date='+entry['start']+'#calendar')))
-    main=next(n for n in index_doc.nodes if n.has('tractates-main'))
-    intro=next(n for n in index_doc.nodes if n.tag=='p' and main.opening_end<=n.start<cards[0].start)
-    start=calendar.cycle_start(row['cycle']).isoformat();end=(calendar.cycle_start(row['cycle']+1)-timedelta(days=1)).isoformat()
-    index_edits.append((intro.opening_end,intro.closing_start,bi('Cycle '+str(row['cycle'])+' · '+start+' to '+end,'מחזור '+str(row['cycle']))))
-    for start,end,markup in sorted(index_edits,reverse=True):index=index[:start]+markup+index[end:]
-    index_path.write_text(index)
+    index_path=output/'tractates/index.html'
+    index_path.write_text(refresh_tractates(index_path.read_text(), today))
     validate(output)
     return {'date':today.isoformat(),'daf':row['label']['en'],'cycle':row['cycle'],'portraits':len(profiles),'public_files':sum(p.is_file() for p in output.rglob('*'))}
 
