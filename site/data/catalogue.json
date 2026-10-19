@@ -10543,6 +10543,721 @@
       },
       "target_shabbat": "2028-12-09",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-2",
+      "title": {
+        "en": "Sukkah 2 — Higher than twenty cubits",
+        "he": "למעלה מעשרים אמה"
+      },
+      "parashah": {
+        "en": "Sukkah 2",
+        "he": "סוכה דף 2"
+      },
+      "target_shabbat": "2028-12-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-3",
+      "title": {
+        "en": "Sukkah 3 — A sukkah with small rooms",
+        "he": "סוכה העשויה קיטוניות"
+      },
+      "parashah": {
+        "en": "Sukkah 3",
+        "he": "סוכה דף 3"
+      },
+      "target_shabbat": "2028-12-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-4",
+      "title": {
+        "en": "Sukkah 4 — Lowering the sukkah",
+        "he": "מיעוט הסוכה"
+      },
+      "parashah": {
+        "en": "Sukkah 4",
+        "he": "סוכה דף 4"
+      },
+      "target_shabbat": "2028-12-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-5",
+      "title": {
+        "en": "Sukkah 5 — The cover one handbreadth",
+        "he": "כפורת טפח"
+      },
+      "parashah": {
+        "en": "Sukkah 5",
+        "he": "סוכה דף 5"
+      },
+      "target_shabbat": "2028-12-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-6",
+      "title": {
+        "en": "Sukkah 6 — Two proper walls and a handbreadth",
+        "he": "שתיים כהלכתן ושלישית טפח"
+      },
+      "parashah": {
+        "en": "Sukkah 6",
+        "he": "סוכה דף 6"
+      },
+      "target_shabbat": "2028-12-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-7",
+      "title": {
+        "en": "Sukkah 7 — A permanent dwelling",
+        "he": "דירת קבע בעינן"
+      },
+      "parashah": {
+        "en": "Sukkah 7",
+        "he": "סוכה דף 7"
+      },
+      "target_shabbat": "2028-12-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-8",
+      "title": {
+        "en": "Sukkah 8 — Squaring the circle",
+        "he": "ריבוע ועיגול"
+      },
+      "parashah": {
+        "en": "Sukkah 8",
+        "he": "סוכה דף 8"
+      },
+      "target_shabbat": "2028-12-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-9",
+      "title": {
+        "en": "Sukkah 9 — An old sukkah",
+        "he": "סוכה ישנה"
+      },
+      "parashah": {
+        "en": "Sukkah 9",
+        "he": "סוכה דף 9"
+      },
+      "target_shabbat": "2028-12-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-10",
+      "title": {
+        "en": "Sukkah 10 — Decorations of the sukkah",
+        "he": "נויי סוכה"
+      },
+      "parashah": {
+        "en": "Sukkah 10",
+        "he": "סוכה דף 10"
+      },
+      "target_shabbat": "2028-12-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-11",
+      "title": {
+        "en": "Sukkah 11 — Cutting is their making",
+        "he": "קציצתן זו היא עשייתן"
+      },
+      "parashah": {
+        "en": "Sukkah 11",
+        "he": "סוכה דף 11"
+      },
+      "target_shabbat": "2028-12-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-12",
+      "title": {
+        "en": "Sukkah 12 — Waste of threshing floor and winepress",
+        "he": "פסולת גורן ויקב"
+      },
+      "parashah": {
+        "en": "Sukkah 12",
+        "he": "סוכה דף 12"
+      },
+      "target_shabbat": "2028-12-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-13",
+      "title": {
+        "en": "Sukkah 13 — A binding by Heaven",
+        "he": "אגד בידי שמים"
+      },
+      "parashah": {
+        "en": "Sukkah 13",
+        "he": "סוכה דף 13"
+      },
+      "target_shabbat": "2028-12-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-14",
+      "title": {
+        "en": "Sukkah 14 — Roofing with boards",
+        "he": "סיכוך בנסרים"
+      },
+      "parashah": {
+        "en": "Sukkah 14",
+        "he": "סוכה דף 14"
+      },
+      "target_shabbat": "2028-12-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-15",
+      "title": {
+        "en": "Sukkah 15 — A ceiling without plaster",
+        "he": "תקרה שאין עליה מעזיבה"
+      },
+      "parashah": {
+        "en": "Sukkah 15",
+        "he": "סוכה דף 15"
+      },
+      "target_shabbat": "2028-12-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-16",
+      "title": {
+        "en": "Sukkah 16 — A suspended partition",
+        "he": "מחיצה תלויה"
+      },
+      "parashah": {
+        "en": "Sukkah 16",
+        "he": "סוכה דף 16"
+      },
+      "target_shabbat": "2028-12-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-17",
+      "title": {
+        "en": "Sukkah 17 — A bent wall",
+        "he": "דופן עקומה"
+      },
+      "parashah": {
+        "en": "Sukkah 17",
+        "he": "סוכה דף 17"
+      },
+      "target_shabbat": "2028-12-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-18",
+      "title": {
+        "en": "Sukkah 18 — The edge of the ceiling descends",
+        "he": "פי תקרה יורד וסותם"
+      },
+      "parashah": {
+        "en": "Sukkah 18",
+        "he": "סוכה דף 18"
+      },
+      "target_shabbat": "2028-12-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-19",
+      "title": {
+        "en": "Sukkah 19 — Slopes of tents",
+        "he": "שיפועי אהלים"
+      },
+      "parashah": {
+        "en": "Sukkah 19",
+        "he": "סוכה דף 19"
+      },
+      "target_shabbat": "2028-12-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-20",
+      "title": {
+        "en": "Sukkah 20 — When the Torah was forgotten",
+        "he": "כשנשתכחה תורה"
+      },
+      "parashah": {
+        "en": "Sukkah 20",
+        "he": "סוכה דף 20"
+      },
+      "target_shabbat": "2028-12-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-21",
+      "title": {
+        "en": "Sukkah 21 — Courtyards over the rock",
+        "he": "חצרות על גבי הסלע"
+      },
+      "parashah": {
+        "en": "Sukkah 21",
+        "he": "סוכה דף 21"
+      },
+      "target_shabbat": "2028-12-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-22",
+      "title": {
+        "en": "Sukkah 22 — A disheveled sukkah",
+        "he": "סוכה מדובללת"
+      },
+      "parashah": {
+        "en": "Sukkah 22",
+        "he": "סוכה דף 22"
+      },
+      "target_shabbat": "2028-12-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-23",
+      "title": {
+        "en": "Sukkah 23 — A sukkah on a ship",
+        "he": "סוכה בראש הספינה"
+      },
+      "parashah": {
+        "en": "Sukkah 23",
+        "he": "סוכה דף 23"
+      },
+      "target_shabbat": "2028-12-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-24",
+      "title": {
+        "en": "Sukkah 24 — A partition that stands in the wind",
+        "he": "מחיצה העומדת ברוח"
+      },
+      "parashah": {
+        "en": "Sukkah 24",
+        "he": "סוכה דף 24"
+      },
+      "target_shabbat": "2029-01-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-25",
+      "title": {
+        "en": "Sukkah 25 — Occupied with a mitzvah",
+        "he": "העוסק במצוה"
+      },
+      "parashah": {
+        "en": "Sukkah 25",
+        "he": "סוכה דף 25"
+      },
+      "target_shabbat": "2029-01-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-26",
+      "title": {
+        "en": "Sukkah 26 — Travelers and guards",
+        "he": "הולכי דרכים ושומרים"
+      },
+      "parashah": {
+        "en": "Sukkah 26",
+        "he": "סוכה דף 26"
+      },
+      "target_shabbat": "2029-01-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-27",
+      "title": {
+        "en": "Sukkah 27 — Fourteen meals",
+        "he": "ארבע עשרה סעודות"
+      },
+      "parashah": {
+        "en": "Sukkah 27",
+        "he": "סוכה דף 27"
+      },
+      "target_shabbat": "2029-01-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-28",
+      "title": {
+        "en": "Sukkah 28 — The smallest of Hillel’s students",
+        "he": "קטן שבתלמידי הלל"
+      },
+      "parashah": {
+        "en": "Sukkah 28",
+        "he": "סוכה דף 28"
+      },
+      "target_shabbat": "2029-01-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-29",
+      "title": {
+        "en": "Sukkah 29 — When the sun is eclipsed",
+        "he": "בזמן שהחמה לוקה"
+      },
+      "parashah": {
+        "en": "Sukkah 29",
+        "he": "סוכה דף 29"
+      },
+      "target_shabbat": "2029-01-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-30",
+      "title": {
+        "en": "Sukkah 30 — A mitzvah through a transgression",
+        "he": "מצוה הבאה בעבירה"
+      },
+      "parashah": {
+        "en": "Sukkah 30",
+        "he": "סוכה דף 30"
+      },
+      "target_shabbat": "2029-01-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-31",
+      "title": {
+        "en": "Sukkah 31 — A stolen sukkah",
+        "he": "סוכה גזולה"
+      },
+      "parashah": {
+        "en": "Sukkah 31",
+        "he": "סוכה דף 31"
+      },
+      "target_shabbat": "2029-01-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-32",
+      "title": {
+        "en": "Sukkah 32 — The gate of Gehinnom",
+        "he": "פתחה של גיהנם"
+      },
+      "parashah": {
+        "en": "Sukkah 32",
+        "he": "סוכה דף 32"
+      },
+      "target_shabbat": "2029-01-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-33",
+      "title": {
+        "en": "Sukkah 33 — Rejection among mitzvot",
+        "he": "דחוי אצל מצוות"
+      },
+      "parashah": {
+        "en": "Sukkah 33",
+        "he": "סוכה דף 33"
+      },
+      "target_shabbat": "2029-01-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-34",
+      "title": {
+        "en": "Sukkah 34 — Names that changed",
+        "he": "שמות שנשתנו"
+      },
+      "parashah": {
+        "en": "Sukkah 34",
+        "he": "סוכה דף 34"
+      },
+      "target_shabbat": "2029-01-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-35",
+      "title": {
+        "en": "Sukkah 35 — The fruit of a beautiful tree",
+        "he": "פרי עץ הדר"
+      },
+      "parashah": {
+        "en": "Sukkah 35",
+        "he": "סוכה דף 35"
+      },
+      "target_shabbat": "2029-01-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-36",
+      "title": {
+        "en": "Sukkah 36 — A swollen and decayed etrog",
+        "he": "אתרוג תפוח וסרוח"
+      },
+      "parashah": {
+        "en": "Sukkah 36",
+        "he": "סוכה דף 36"
+      },
+      "target_shabbat": "2029-01-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-37",
+      "title": {
+        "en": "Sukkah 37 — Taking through something else",
+        "he": "לקיחה על ידי דבר אחר"
+      },
+      "parashah": {
+        "en": "Sukkah 37",
+        "he": "סוכה דף 37"
+      },
+      "target_shabbat": "2029-01-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-38",
+      "title": {
+        "en": "Sukkah 38 — The listener is like one who answers",
+        "he": "שומע כעונה"
+      },
+      "parashah": {
+        "en": "Sukkah 38",
+        "he": "סוכה דף 38"
+      },
+      "target_shabbat": "2029-01-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-39",
+      "title": {
+        "en": "Sukkah 39 — Blessing before the deed",
+        "he": "עובר לעשייתן"
+      },
+      "parashah": {
+        "en": "Sukkah 39",
+        "he": "סוכה דף 39"
+      },
+      "target_shabbat": "2029-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-40",
+      "title": {
+        "en": "Sukkah 40 — Sanctity of the Sabbatical year",
+        "he": "קדושת שביעית"
+      },
+      "parashah": {
+        "en": "Sukkah 40",
+        "he": "סוכה דף 40"
+      },
+      "target_shabbat": "2029-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-41",
+      "title": {
+        "en": "Sukkah 41 — In remembrance of the Temple",
+        "he": "זכר למקדש"
+      },
+      "parashah": {
+        "en": "Sukkah 41",
+        "he": "סוכה דף 41"
+      },
+      "target_shabbat": "2029-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-42",
+      "title": {
+        "en": "Sukkah 42 — A child who knows how to wave",
+        "he": "קטן היודע לנענע"
+      },
+      "parashah": {
+        "en": "Sukkah 42",
+        "he": "סוכה דף 42"
+      },
+      "target_shabbat": "2029-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-43",
+      "title": {
+        "en": "Sukkah 43 — The willow on the seventh day",
+        "he": "ערבה בשביעי"
+      },
+      "parashah": {
+        "en": "Sukkah 43",
+        "he": "סוכה דף 43"
+      },
+      "target_shabbat": "2029-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-44",
+      "title": {
+        "en": "Sukkah 44 — A custom of the prophets",
+        "he": "מנהג נביאים"
+      },
+      "parashah": {
+        "en": "Sukkah 44",
+        "he": "סוכה דף 44"
+      },
+      "target_shabbat": "2029-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-45",
+      "title": {
+        "en": "Sukkah 45 — Bind the festival offering",
+        "he": "אסרו חג בעבותים"
+      },
+      "parashah": {
+        "en": "Sukkah 45",
+        "he": "סוכה דף 45"
+      },
+      "target_shabbat": "2029-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-46",
+      "title": {
+        "en": "Sukkah 46 — A full vessel holds more",
+        "he": "מלא מחזיק"
+      },
+      "parashah": {
+        "en": "Sukkah 46",
+        "he": "סוכה דף 46"
+      },
+      "target_shabbat": "2029-01-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-47",
+      "title": {
+        "en": "Sukkah 47 — A festival in its own right",
+        "he": "רגל בפני עצמו"
+      },
+      "parashah": {
+        "en": "Sukkah 47",
+        "he": "סוכה דף 47"
+      },
+      "target_shabbat": "2029-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-48",
+      "title": {
+        "en": "Sukkah 48 — Drawing water in joy",
+        "he": "ושאבתם מים בששון"
+      },
+      "parashah": {
+        "en": "Sukkah 48",
+        "he": "סוכה דף 48"
+      },
+      "target_shabbat": "2029-01-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-49",
+      "title": {
+        "en": "Sukkah 49 — Walking modestly",
+        "he": "והצנע לכת"
+      },
+      "parashah": {
+        "en": "Sukkah 49",
+        "he": "סוכה דף 49"
+      },
+      "target_shabbat": "2029-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-50",
+      "title": {
+        "en": "Sukkah 50 — The flute of the water drawing",
+        "he": "החליל של בית השואבה"
+      },
+      "parashah": {
+        "en": "Sukkah 50",
+        "he": "סוכה דף 50"
+      },
+      "target_shabbat": "2029-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-51",
+      "title": {
+        "en": "Sukkah 51 — The joy of the water drawing",
+        "he": "שמחת בית השואבה"
+      },
+      "parashah": {
+        "en": "Sukkah 51",
+        "he": "סוכה דף 51"
+      },
+      "target_shabbat": "2029-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-52",
+      "title": {
+        "en": "Sukkah 52 — The evil inclination",
+        "he": "יצר הרע"
+      },
+      "parashah": {
+        "en": "Sukkah 52",
+        "he": "סוכה דף 52"
+      },
+      "target_shabbat": "2029-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-53",
+      "title": {
+        "en": "Sukkah 53 — If I am here, all is here",
+        "he": "אם אני כאן הכל כאן"
+      },
+      "parashah": {
+        "en": "Sukkah 53",
+        "he": "סוכה דף 53"
+      },
+      "target_shabbat": "2029-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-54",
+      "title": {
+        "en": "Sukkah 54 — The frequent comes first",
+        "he": "תדיר קודם"
+      },
+      "parashah": {
+        "en": "Sukkah 54",
+        "he": "סוכה דף 54"
+      },
+      "target_shabbat": "2029-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-55",
+      "title": {
+        "en": "Sukkah 55 — Seventy bulls",
+        "he": "שבעים פרים"
+      },
+      "parashah": {
+        "en": "Sukkah 55",
+        "he": "סוכה דף 55"
+      },
+      "target_shabbat": "2029-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sukkah-56",
+      "title": {
+        "en": "Sukkah 56 — Good for the righteous, good for his neighbor",
+        "he": "טוב לצדיק טוב לשכינו"
+      },
+      "parashah": {
+        "en": "Sukkah 56",
+        "he": "סוכה דף 56"
+      },
+      "target_shabbat": "2029-02-02",
+      "category": "talmud"
     }
   ]
 }
