@@ -12207,6 +12207,396 @@
       },
       "target_shabbat": "2029-04-16",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-2",
+      "title": {
+        "en": "Taanit 2 — The might of rain",
+        "he": "גבורות גשמים"
+      },
+      "parashah": {
+        "en": "Taanit 2",
+        "he": "תענית דף 2"
+      },
+      "target_shabbat": "2029-04-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-3",
+      "title": {
+        "en": "Taanit 3 — Dew and winds",
+        "he": "טל ורוחות"
+      },
+      "parashah": {
+        "en": "Taanit 3",
+        "he": "תענית דף 3"
+      },
+      "target_shabbat": "2029-04-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-4",
+      "title": {
+        "en": "Taanit 4 — Like a seed under a clod",
+        "he": "כפרצידא דתותי קלא"
+      },
+      "parashah": {
+        "en": "Taanit 4",
+        "he": "תענית דף 4"
+      },
+      "target_shabbat": "2029-04-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-5",
+      "title": {
+        "en": "Taanit 5 — Those who sow in tears",
+        "he": "הזורעים בדמעה"
+      },
+      "parashah": {
+        "en": "Taanit 5",
+        "he": "תענית דף 5"
+      },
+      "target_shabbat": "2029-04-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-6",
+      "title": {
+        "en": "Taanit 6 — The early and the late rain",
+        "he": "יורה ומלקוש"
+      },
+      "parashah": {
+        "en": "Taanit 6",
+        "he": "תענית דף 6"
+      },
+      "target_shabbat": "2029-04-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-7",
+      "title": {
+        "en": "Taanit 7 — Like water, wine and milk",
+        "he": "כמים, כיין וכחלב"
+      },
+      "parashah": {
+        "en": "Taanit 7",
+        "he": "תענית דף 7"
+      },
+      "target_shabbat": "2029-04-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-8",
+      "title": {
+        "en": "Taanit 8 — Truth springs from the earth",
+        "he": "אמת מארץ תצמח"
+      },
+      "parashah": {
+        "en": "Taanit 8",
+        "he": "תענית דף 8"
+      },
+      "target_shabbat": "2029-04-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-9",
+      "title": {
+        "en": "Taanit 9 — Tithe so that you become rich",
+        "he": "עשר בשביל שתתעשר"
+      },
+      "parashah": {
+        "en": "Taanit 9",
+        "he": "תענית דף 9"
+      },
+      "target_shabbat": "2029-04-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-10",
+      "title": {
+        "en": "Taanit 10 — The last of Israel at the Euphrates",
+        "he": "אחרון שבישראל לנהר פרת"
+      },
+      "parashah": {
+        "en": "Taanit 10",
+        "he": "תענית דף 10"
+      },
+      "target_shabbat": "2029-04-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-11",
+      "title": {
+        "en": "Taanit 11 — Suffering with the community",
+        "he": "יצער אדם עם הציבור"
+      },
+      "parashah": {
+        "en": "Taanit 11",
+        "he": "תענית דף 11"
+      },
+      "target_shabbat": "2029-04-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-12",
+      "title": {
+        "en": "Taanit 12 — Like a bellows full of wind",
+        "he": "כמפוחא דמליא זיקא"
+      },
+      "parashah": {
+        "en": "Taanit 12",
+        "he": "תענית דף 12"
+      },
+      "target_shabbat": "2029-04-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-13",
+      "title": {
+        "en": "Taanit 13 — Hot and cold",
+        "he": "בחמין ובצונן"
+      },
+      "parashah": {
+        "en": "Taanit 13",
+        "he": "תענית דף 13"
+      },
+      "target_shabbat": "2029-04-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-14",
+      "title": {
+        "en": "Taanit 14 — Shofar or “answer us”",
+        "he": "בשופרות או בעננו"
+      },
+      "parashah": {
+        "en": "Taanit 14",
+        "he": "תענית דף 14"
+      },
+      "target_shabbat": "2029-04-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-15",
+      "title": {
+        "en": "Taanit 15 — The order of fasts",
+        "he": "סדר תעניות"
+      },
+      "parashah": {
+        "en": "Taanit 15",
+        "he": "תענית דף 15"
+      },
+      "target_shabbat": "2029-04-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-16",
+      "title": {
+        "en": "Taanit 16 — A modest vessel disgraced",
+        "he": "כלי צנוע שנתבזה"
+      },
+      "parashah": {
+        "en": "Taanit 16",
+        "he": "תענית דף 16"
+      },
+      "target_shabbat": "2029-05-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-17",
+      "title": {
+        "en": "Taanit 17 — Its remedy is its ruin",
+        "he": "תקנתו קלקלתו"
+      },
+      "parashah": {
+        "en": "Taanit 17",
+        "he": "תענית דף 17"
+      },
+      "target_shabbat": "2029-05-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-18",
+      "title": {
+        "en": "Taanit 18 — The days of Nicanor and Turyanus",
+        "he": "יום ניקנור ויום טוריינוס"
+      },
+      "parashah": {
+        "en": "Taanit 18",
+        "he": "תענית דף 18"
+      },
+      "target_shabbat": "2029-05-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-19",
+      "title": {
+        "en": "Taanit 19 — Ḥoni the circle-maker",
+        "he": "חוני המעגל"
+      },
+      "parashah": {
+        "en": "Taanit 19",
+        "he": "תענית דף 19"
+      },
+      "target_shabbat": "2029-05-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-20",
+      "title": {
+        "en": "Taanit 20 — Soft as a reed",
+        "he": "רך כקנה"
+      },
+      "parashah": {
+        "en": "Taanit 20",
+        "he": "תענית דף 20"
+      },
+      "target_shabbat": "2029-05-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-21",
+      "title": {
+        "en": "Taanit 21 — This too is for the good",
+        "he": "גם זו לטובה"
+      },
+      "parashah": {
+        "en": "Taanit 21",
+        "he": "תענית דף 21"
+      },
+      "target_shabbat": "2029-05-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-22",
+      "title": {
+        "en": "Taanit 22 — One does not pray over too much good",
+        "he": "אין מתפללין על רוב הטובה"
+      },
+      "parashah": {
+        "en": "Taanit 22",
+        "he": "תענית דף 22"
+      },
+      "target_shabbat": "2029-05-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-23",
+      "title": {
+        "en": "Taanit 23 — Abba Ḥilkiya",
+        "he": "אבא חלקיה"
+      },
+      "parashah": {
+        "en": "Taanit 23",
+        "he": "תענית דף 23"
+      },
+      "target_shabbat": "2029-05-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-24",
+      "title": {
+        "en": "Taanit 24 — A kav of carobs",
+        "he": "קב חרובים"
+      },
+      "parashah": {
+        "en": "Taanit 24",
+        "he": "תענית דף 24"
+      },
+      "target_shabbat": "2029-05-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-25",
+      "title": {
+        "en": "Taanit 25 — Our Father, our King",
+        "he": "אבינו מלכנו"
+      },
+      "parashah": {
+        "en": "Taanit 25",
+        "he": "תענית דף 25"
+      },
+      "target_shabbat": "2029-05-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-26",
+      "title": {
+        "en": "Taanit 26 — Three times a year",
+        "he": "בשלשה פרקים בשנה"
+      },
+      "parashah": {
+        "en": "Taanit 26",
+        "he": "תענית דף 26"
+      },
+      "target_shabbat": "2029-05-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-27",
+      "title": {
+        "en": "Taanit 27 — Were it not for the stands",
+        "he": "אלמלא מעמדות"
+      },
+      "parashah": {
+        "en": "Taanit 27",
+        "he": "תענית דף 27"
+      },
+      "target_shabbat": "2029-05-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-28",
+      "title": {
+        "en": "Taanit 28 — The wood of priests and people",
+        "he": "עצי כהנים והעם"
+      },
+      "parashah": {
+        "en": "Taanit 28",
+        "he": "תענית דף 28"
+      },
+      "target_shabbat": "2029-05-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-29",
+      "title": {
+        "en": "Taanit 29 — A weeping for generations",
+        "he": "בכיה לדורות"
+      },
+      "parashah": {
+        "en": "Taanit 29",
+        "he": "תענית דף 29"
+      },
+      "target_shabbat": "2029-05-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-30",
+      "title": {
+        "en": "Taanit 30 — Those who mourn for Jerusalem",
+        "he": "המתאבלים על ירושלים"
+      },
+      "parashah": {
+        "en": "Taanit 30",
+        "he": "תענית דף 30"
+      },
+      "target_shabbat": "2029-05-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-taanit-31",
+      "title": {
+        "en": "Taanit 31 — A dance for the righteous",
+        "he": "מחול לצדיקים"
+      },
+      "parashah": {
+        "en": "Taanit 31",
+        "he": "תענית דף 31"
+      },
+      "target_shabbat": "2029-05-16",
+      "category": "talmud"
     }
   ]
 }
