@@ -11765,6 +11765,448 @@
       },
       "target_shabbat": "2029-03-13",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-2",
+      "title": {
+        "en": "Rosh Hashanah 2 — Four new years",
+        "he": "ארבעה ראשי שנים"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 2",
+        "he": "ראש השנה דף 2"
+      },
+      "target_shabbat": "2029-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-3",
+      "title": {
+        "en": "Rosh Hashanah 3 — Koresh was a worthy king",
+        "he": "כורש מלך כשר היה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 3",
+        "he": "ראש השנה דף 3"
+      },
+      "target_shabbat": "2029-03-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-4",
+      "title": {
+        "en": "Rosh Hashanah 4 — The prohibition of delay",
+        "he": "בל תאחר"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 4",
+        "he": "ראש השנה דף 4"
+      },
+      "target_shabbat": "2029-03-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-5",
+      "title": {
+        "en": "Rosh Hashanah 5 — When you make a vow",
+        "he": "כי תדור נדר"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 5",
+        "he": "ראש השנה דף 5"
+      },
+      "target_shabbat": "2029-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-6",
+      "title": {
+        "en": "Rosh Hashanah 6 — What your lips utter",
+        "he": "מוצא שפתיך"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 6",
+        "he": "ראש השנה דף 6"
+      },
+      "target_shabbat": "2029-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-7",
+      "title": {
+        "en": "Rosh Hashanah 7 — The first of months",
+        "he": "ראש חודשים"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 7",
+        "he": "ראש השנה דף 7"
+      },
+      "target_shabbat": "2029-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-8",
+      "title": {
+        "en": "Rosh Hashanah 8 — A statute for Israel",
+        "he": "כי חק לישראל הוא"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 8",
+        "he": "ראש השנה דף 8"
+      },
+      "target_shabbat": "2029-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-9",
+      "title": {
+        "en": "Rosh Hashanah 9 — Adding to the holy",
+        "he": "מוסיפין מחול על קדש"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 9",
+        "he": "ראש השנה דף 9"
+      },
+      "target_shabbat": "2029-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-10",
+      "title": {
+        "en": "Rosh Hashanah 10 — One day in the year",
+        "he": "יום אחד בשנה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 10",
+        "he": "ראש השנה דף 10"
+      },
+      "target_shabbat": "2029-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-11",
+      "title": {
+        "en": "Rosh Hashanah 11 — The month of the mighty",
+        "he": "ירח האיתנים"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 11",
+        "he": "ראש השנה דף 11"
+      },
+      "target_shabbat": "2029-03-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-12",
+      "title": {
+        "en": "Rosh Hashanah 12 — Vegetables, tithes and vows",
+        "he": "לירקות, למעשרות ולנדרים"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 12",
+        "he": "ראש השנה דף 12"
+      },
+      "target_shabbat": "2029-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-13",
+      "title": {
+        "en": "Rosh Hashanah 13 — The measures of the Sages",
+        "he": "מדות חכמים"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 13",
+        "he": "ראש השנה דף 13"
+      },
+      "target_shabbat": "2029-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-14",
+      "title": {
+        "en": "Rosh Hashanah 14 — The etrog of Rabbi Akiva",
+        "he": "אתרוג של רבי עקיבא"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 14",
+        "he": "ראש השנה דף 14"
+      },
+      "target_shabbat": "2029-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-15",
+      "title": {
+        "en": "Rosh Hashanah 15 — The new year for the tree",
+        "he": "ראש השנה לאילן"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 15",
+        "he": "ראש השנה דף 15"
+      },
+      "target_shabbat": "2029-03-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-16",
+      "title": {
+        "en": "Rosh Hashanah 16 — Four times of judgment",
+        "he": "בארבעה פרקים העולם נידון"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 16",
+        "he": "ראש השנה דף 16"
+      },
+      "target_shabbat": "2029-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-17",
+      "title": {
+        "en": "Rosh Hashanah 17 — Abundant in kindness",
+        "he": "ורב חסד"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 17",
+        "he": "ראש השנה דף 17"
+      },
+      "target_shabbat": "2029-03-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-18",
+      "title": {
+        "en": "Rosh Hashanah 18 — Seek while He may be found",
+        "he": "דרשו ה' בהמצאו"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 18",
+        "he": "ראש השנה דף 18"
+      },
+      "target_shabbat": "2029-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-19",
+      "title": {
+        "en": "Rosh Hashanah 19 — Words of tradition",
+        "he": "דברי קבלה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 19",
+        "he": "ראש השנה דף 19"
+      },
+      "target_shabbat": "2029-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-20",
+      "title": {
+        "en": "Rosh Hashanah 20 — Hidden for twenty-four hours",
+        "he": "עשרים וארבע שעי מכסי סיהרא"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 20",
+        "he": "ראש השנה דף 20"
+      },
+      "target_shabbat": "2029-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-21",
+      "title": {
+        "en": "Rosh Hashanah 21 — Fifty gates of understanding",
+        "he": "חמישים שערי בינה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 21",
+        "he": "ראש השנה דף 21"
+      },
+      "target_shabbat": "2029-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-22",
+      "title": {
+        "en": "Rosh Hashanah 22 — If they do not know him",
+        "he": "אם אינן מכירין אותו"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 22",
+        "he": "ראש השנה דף 22"
+      },
+      "target_shabbat": "2029-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-23",
+      "title": {
+        "en": "Rosh Hashanah 23 — The courtyard of Beit Ya’azek",
+        "he": "בית יעזק"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 23",
+        "he": "ראש השנה דף 23"
+      },
+      "target_shabbat": "2029-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-24",
+      "title": {
+        "en": "Rosh Hashanah 24 — Images of the moon",
+        "he": "דמות צורות לבנה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 24",
+        "he": "ראש השנה דף 24"
+      },
+      "target_shabbat": "2029-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-25",
+      "title": {
+        "en": "Rosh Hashanah 25 — With your staff and your money",
+        "he": "במקלך ובמעותיך"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 25",
+        "he": "ראש השנה דף 25"
+      },
+      "target_shabbat": "2029-04-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-26",
+      "title": {
+        "en": "Rosh Hashanah 26 — Except that of a cow",
+        "he": "חוץ משל פרה"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 26",
+        "he": "ראש השנה דף 26"
+      },
+      "target_shabbat": "2029-04-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-27",
+      "title": {
+        "en": "Rosh Hashanah 27 — The way it grows",
+        "he": "דרך העברתו"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 27",
+        "he": "ראש השנה דף 27"
+      },
+      "target_shabbat": "2029-04-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-28",
+      "title": {
+        "en": "Rosh Hashanah 28 — Mitzvot were not given for benefit",
+        "he": "מצות לאו ליהנות ניתנו"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 28",
+        "he": "ראש השנה דף 28"
+      },
+      "target_shabbat": "2029-04-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-29",
+      "title": {
+        "en": "Rosh Hashanah 29 — When Moshe raised his hand",
+        "he": "כאשר ירים משה ידו"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 29",
+        "he": "ראש השנה דף 29"
+      },
+      "target_shabbat": "2029-04-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-30",
+      "title": {
+        "en": "Rosh Hashanah 30 — In remembrance of the Temple",
+        "he": "זכר למקדש"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 30",
+        "he": "ראש השנה דף 30"
+      },
+      "target_shabbat": "2029-04-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-31",
+      "title": {
+        "en": "Rosh Hashanah 31 — Ten journeys",
+        "he": "עשר מסעות"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 31",
+        "he": "ראש השנה דף 31"
+      },
+      "target_shabbat": "2029-04-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-32",
+      "title": {
+        "en": "Rosh Hashanah 32 — Kingship, remembrance and shofar",
+        "he": "מלכיות זכרונות ושופרות"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 32",
+        "he": "ראש השנה דף 32"
+      },
+      "target_shabbat": "2029-04-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-33",
+      "title": {
+        "en": "Rosh Hashanah 33 — Groaning and wailing",
+        "he": "גנוחי ויבבא"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 33",
+        "he": "ראש השנה דף 33"
+      },
+      "target_shabbat": "2029-04-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-34",
+      "title": {
+        "en": "Rosh Hashanah 34 — Groaned and then wailed",
+        "he": "גנח והדר יליל"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 34",
+        "he": "ראש השנה דף 34"
+      },
+      "target_shabbat": "2029-04-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-rosh-hashanah-35",
+      "title": {
+        "en": "Rosh Hashanah 35 — The people in the fields",
+        "he": "עם שבשדות"
+      },
+      "parashah": {
+        "en": "Rosh Hashanah 35",
+        "he": "ראש השנה דף 35"
+      },
+      "target_shabbat": "2029-04-16",
+      "category": "talmud"
     }
   ]
 }
