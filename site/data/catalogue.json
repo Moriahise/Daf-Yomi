@@ -11258,6 +11258,513 @@
       },
       "target_shabbat": "2029-02-02",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-2",
+      "title": {
+        "en": "Beitzah 2 — An egg laid on the festival",
+        "he": "ביצה שנולדה ביום טוב"
+      },
+      "parashah": {
+        "en": "Beitzah 2",
+        "he": "ביצה דף 2"
+      },
+      "target_shabbat": "2029-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-3",
+      "title": {
+        "en": "Beitzah 3 — One decree",
+        "he": "כולה חדא גזירה היא"
+      },
+      "parashah": {
+        "en": "Beitzah 3",
+        "he": "ביצה דף 3"
+      },
+      "target_shabbat": "2029-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-4",
+      "title": {
+        "en": "Beitzah 4 — The custom of your fathers",
+        "he": "מנהג אבותיכם בידיכם"
+      },
+      "parashah": {
+        "en": "Beitzah 4",
+        "he": "ביצה דף 4"
+      },
+      "target_shabbat": "2029-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-5",
+      "title": {
+        "en": "Beitzah 5 — A matter decided by a count",
+        "he": "דבר שבמניין"
+      },
+      "parashah": {
+        "en": "Beitzah 5",
+        "he": "ביצה דף 5"
+      },
+      "target_shabbat": "2029-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-6",
+      "title": {
+        "en": "Beitzah 6 — A chick hatched on the festival",
+        "he": "אפרוח שנולד ביום טוב"
+      },
+      "parashah": {
+        "en": "Beitzah 6",
+        "he": "ביצה דף 6"
+      },
+      "target_shabbat": "2029-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-7",
+      "title": {
+        "en": "Beitzah 7 — A mistaken sale",
+        "he": "מקח טעות"
+      },
+      "parashah": {
+        "en": "Beitzah 7",
+        "he": "ביצה דף 7"
+      },
+      "target_shabbat": "2029-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-8",
+      "title": {
+        "en": "Beitzah 8 — Stove ash is prepared",
+        "he": "אפר כירה מוכן הוא"
+      },
+      "parashah": {
+        "en": "Beitzah 8",
+        "he": "ביצה דף 8"
+      },
+      "target_shabbat": "2029-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-9",
+      "title": {
+        "en": "Beitzah 9 — The ladder of the dovecote",
+        "he": "סולם של שובך"
+      },
+      "parashah": {
+        "en": "Beitzah 9",
+        "he": "ביצה דף 9"
+      },
+      "target_shabbat": "2029-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-10",
+      "title": {
+        "en": "Beitzah 10 — Designating the doves",
+        "he": "זימון הגוזלות"
+      },
+      "parashah": {
+        "en": "Beitzah 10",
+        "he": "ביצה דף 10"
+      },
+      "target_shabbat": "2029-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-11",
+      "title": {
+        "en": "Beitzah 11 — The end permitted for the beginning",
+        "he": "התירו סופן משום תחילתן"
+      },
+      "parashah": {
+        "en": "Beitzah 11",
+        "he": "ביצה דף 11"
+      },
+      "target_shabbat": "2029-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-12",
+      "title": {
+        "en": "Beitzah 12 — Since it was permitted for a need",
+        "he": "מתוך שהותרה לצורך"
+      },
+      "parashah": {
+        "en": "Beitzah 12",
+        "he": "ביצה דף 12"
+      },
+      "target_shabbat": "2029-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-13",
+      "title": {
+        "en": "Beitzah 13 — The threshing floor for tithes",
+        "he": "גרנן למעשר"
+      },
+      "parashah": {
+        "en": "Beitzah 13",
+        "he": "ביצה דף 13"
+      },
+      "target_shabbat": "2029-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-14",
+      "title": {
+        "en": "Beitzah 14 — Spices crushed in their way",
+        "he": "תבלין נדוכים כדרכן"
+      },
+      "parashah": {
+        "en": "Beitzah 14",
+        "he": "ביצה דף 14"
+      },
+      "target_shabbat": "2029-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-15",
+      "title": {
+        "en": "Beitzah 15 — Remember it before it is forgotten",
+        "he": "זכרהו מאחר שבא להשכיחו"
+      },
+      "parashah": {
+        "en": "Beitzah 15",
+        "he": "ביצה דף 15"
+      },
+      "target_shabbat": "2029-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-16",
+      "title": {
+        "en": "Beitzah 16 — An extra soul",
+        "he": "נשמה יתירה"
+      },
+      "parashah": {
+        "en": "Beitzah 16",
+        "he": "ביצה דף 16"
+      },
+      "target_shabbat": "2029-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-17",
+      "title": {
+        "en": "Beitzah 17 — Baking from one festival day to the next",
+        "he": "אין אופים מיום טוב לחבירו"
+      },
+      "parashah": {
+        "en": "Beitzah 17",
+        "he": "ביצה דף 17"
+      },
+      "target_shabbat": "2029-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-18",
+      "title": {
+        "en": "Beitzah 18 — Lest he delay",
+        "he": "גזירה שמא ישהא"
+      },
+      "parashah": {
+        "en": "Beitzah 18",
+        "he": "ביצה דף 18"
+      },
+      "target_shabbat": "2029-02-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-19",
+      "title": {
+        "en": "Beitzah 19 — Offerings on the festival",
+        "he": "קרבנות ביום טוב"
+      },
+      "parashah": {
+        "en": "Beitzah 19",
+        "he": "ביצה דף 19"
+      },
+      "target_shabbat": "2029-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-20",
+      "title": {
+        "en": "Beitzah 20 — Hillel’s burnt offering",
+        "he": "עולתו של הלל"
+      },
+      "parashah": {
+        "en": "Beitzah 20",
+        "he": "ביצה דף 20"
+      },
+      "target_shabbat": "2029-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-21",
+      "title": {
+        "en": "Beitzah 21 — For you, not for others",
+        "he": "לכם ולא לנכרים"
+      },
+      "parashah": {
+        "en": "Beitzah 21",
+        "he": "ביצה דף 21"
+      },
+      "target_shabbat": "2029-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-22",
+      "title": {
+        "en": "Beitzah 22 — Extinguishing on the festival",
+        "he": "כיבוי ביום טוב"
+      },
+      "parashah": {
+        "en": "Beitzah 22",
+        "he": "ביצה דף 22"
+      },
+      "target_shabbat": "2029-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-23",
+      "title": {
+        "en": "Beitzah 23 — Creating a fragrance",
+        "he": "מוליד ריחא"
+      },
+      "parashah": {
+        "en": "Beitzah 23",
+        "he": "ביצה דף 23"
+      },
+      "target_shabbat": "2029-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-24",
+      "title": {
+        "en": "Beitzah 24 — Lacking capture",
+        "he": "מחוסר צידה"
+      },
+      "parashah": {
+        "en": "Beitzah 24",
+        "he": "ביצה דף 24"
+      },
+      "target_shabbat": "2029-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-25",
+      "title": {
+        "en": "Beitzah 25 — Proper manners",
+        "he": "אורח ארעא"
+      },
+      "parashah": {
+        "en": "Beitzah 25",
+        "he": "ביצה דף 25"
+      },
+      "target_shabbat": "2029-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-26",
+      "title": {
+        "en": "Beitzah 26 — A firstborn in a pit",
+        "he": "בכור שנפל לבור"
+      },
+      "parashah": {
+        "en": "Beitzah 26",
+        "he": "ביצה דף 26"
+      },
+      "target_shabbat": "2029-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-27",
+      "title": {
+        "en": "Beitzah 27 — Causing a blemish",
+        "he": "גרמת מום"
+      },
+      "parashah": {
+        "en": "Beitzah 27",
+        "he": "ביצה דף 27"
+      },
+      "target_shabbat": "2029-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-28",
+      "title": {
+        "en": "Beitzah 28 — Sharpening the knife",
+        "he": "השחזת הסכין"
+      },
+      "parashah": {
+        "en": "Beitzah 28",
+        "he": "ביצה דף 28"
+      },
+      "target_shabbat": "2029-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-29",
+      "title": {
+        "en": "Beitzah 29 — Abba Shaul ben Botnit’s measures",
+        "he": "מידותיו של אבא שאול בן בטנית"
+      },
+      "parashah": {
+        "en": "Beitzah 29",
+        "he": "ביצה דף 29"
+      },
+      "target_shabbat": "2029-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-30",
+      "title": {
+        "en": "Beitzah 30 — Better they err unknowingly",
+        "he": "מוטב שיהיו שוגגין"
+      },
+      "parashah": {
+        "en": "Beitzah 30",
+        "he": "ביצה דף 30"
+      },
+      "target_shabbat": "2029-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-31",
+      "title": {
+        "en": "Beitzah 31 — Wood from the field",
+        "he": "עצים מן השדה"
+      },
+      "parashah": {
+        "en": "Beitzah 31",
+        "he": "ביצה דף 31"
+      },
+      "target_shabbat": "2029-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-32",
+      "title": {
+        "en": "Beitzah 32 — Waiting at another’s table",
+        "he": "המצפה על שולחן אחרים"
+      },
+      "parashah": {
+        "en": "Beitzah 32",
+        "he": "ביצה דף 32"
+      },
+      "target_shabbat": "2029-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-33",
+      "title": {
+        "en": "Beitzah 33 — A toothpick",
+        "he": "קיסם לחצוץ בו שיניו"
+      },
+      "parashah": {
+        "en": "Beitzah 33",
+        "he": "ביצה דף 33"
+      },
+      "target_shabbat": "2029-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-34",
+      "title": {
+        "en": "Beitzah 34 — Standing over the set-aside fruit",
+        "he": "עומד אדם על המוקצה"
+      },
+      "parashah": {
+        "en": "Beitzah 34",
+        "he": "ביצה דף 34"
+      },
+      "target_shabbat": "2029-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-35",
+      "title": {
+        "en": "Beitzah 35 — Lowering fruit through a skylight",
+        "he": "משילין פירות דרך ארובה"
+      },
+      "parashah": {
+        "en": "Beitzah 35",
+        "he": "ביצה דף 35"
+      },
+      "target_shabbat": "2029-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-36",
+      "title": {
+        "en": "Beitzah 36 — Rest, choice and mitzvah",
+        "he": "שבות, רשות ומצוה"
+      },
+      "parashah": {
+        "en": "Beitzah 36",
+        "he": "ביצה דף 36"
+      },
+      "target_shabbat": "2029-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-37",
+      "title": {
+        "en": "Beitzah 37 — Like the owner’s feet",
+        "he": "כרגלי הבעלים"
+      },
+      "parashah": {
+        "en": "Beitzah 37",
+        "he": "ביצה דף 37"
+      },
+      "target_shabbat": "2029-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-38",
+      "title": {
+        "en": "Beitzah 38 — Rabbi Abba’s question",
+        "he": "שאלתו של רבי אבא"
+      },
+      "parashah": {
+        "en": "Beitzah 38",
+        "he": "ביצה דף 38"
+      },
+      "target_shabbat": "2029-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-39",
+      "title": {
+        "en": "Beitzah 39 — A coal and a flame",
+        "he": "גחלת ושלהבת"
+      },
+      "parashah": {
+        "en": "Beitzah 39",
+        "he": "ביצה דף 39"
+      },
+      "target_shabbat": "2029-03-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-beitzah-40",
+      "title": {
+        "en": "Beitzah 40 — Animals of the wilderness",
+        "he": "מדבריות ובייתות"
+      },
+      "parashah": {
+        "en": "Beitzah 40",
+        "he": "ביצה דף 40"
+      },
+      "target_shabbat": "2029-03-13",
+      "category": "talmud"
     }
   ]
 }
