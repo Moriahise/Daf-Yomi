@@ -12597,6 +12597,409 @@
       },
       "target_shabbat": "2029-05-16",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-2",
+      "title": {
+        "en": "Megillah 2 — In their times",
+        "he": "בזמניהם"
+      },
+      "parashah": {
+        "en": "Megillah 2",
+        "he": "מגילה דף 2"
+      },
+      "target_shabbat": "2029-05-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-3",
+      "title": {
+        "en": "Megillah 3 — The translation of the Prophets",
+        "he": "תרגום של נביאים"
+      },
+      "parashah": {
+        "en": "Megillah 3",
+        "he": "מגילה דף 3"
+      },
+      "target_shabbat": "2029-05-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-4",
+      "title": {
+        "en": "Megillah 4 — Read at night and repeat by day",
+        "he": "לקרות בלילה ולשנותה ביום"
+      },
+      "parashah": {
+        "en": "Megillah 4",
+        "he": "מגילה דף 4"
+      },
+      "target_shabbat": "2029-05-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-5",
+      "title": {
+        "en": "Megillah 5 — Advance but do not delay",
+        "he": "מקדימין ולא מאחרין"
+      },
+      "parashah": {
+        "en": "Megillah 5",
+        "he": "מגילה דף 5"
+      },
+      "target_shabbat": "2029-05-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-6",
+      "title": {
+        "en": "Megillah 6 — The first and second Adar",
+        "he": "אדר הראשון ואדר השני"
+      },
+      "parashah": {
+        "en": "Megillah 6",
+        "he": "מגילה דף 6"
+      },
+      "target_shabbat": "2029-05-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-7",
+      "title": {
+        "en": "Megillah 7 — Written by the holy spirit",
+        "he": "ברוח הקודש נאמרה"
+      },
+      "parashah": {
+        "en": "Megillah 7",
+        "he": "מגילה דף 7"
+      },
+      "target_shabbat": "2029-05-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-8",
+      "title": {
+        "en": "Megillah 8 — The only difference between",
+        "he": "אין בין"
+      },
+      "parashah": {
+        "en": "Megillah 8",
+        "he": "מגילה דף 8"
+      },
+      "target_shabbat": "2029-05-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-9",
+      "title": {
+        "en": "Megillah 9 — The beauty of Yefet",
+        "he": "יפיותו של יפת"
+      },
+      "parashah": {
+        "en": "Megillah 9",
+        "he": "מגילה דף 9"
+      },
+      "target_shabbat": "2029-05-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-10",
+      "title": {
+        "en": "Megillah 10 — And it came to pass in the days",
+        "he": "ויהי בימי"
+      },
+      "parashah": {
+        "en": "Megillah 10",
+        "he": "מגילה דף 10"
+      },
+      "target_shabbat": "2029-05-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-11",
+      "title": {
+        "en": "Megillah 11 — He is Aḥashverosh",
+        "he": "הוא אחשורוש"
+      },
+      "parashah": {
+        "en": "Megillah 11",
+        "he": "מגילה דף 11"
+      },
+      "target_shabbat": "2029-05-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-12",
+      "title": {
+        "en": "Megillah 12 — A Judean man",
+        "he": "איש יהודי"
+      },
+      "parashah": {
+        "en": "Megillah 12",
+        "he": "מגילה דף 12"
+      },
+      "target_shabbat": "2029-05-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-13",
+      "title": {
+        "en": "Megillah 13 — Esther did not tell",
+        "he": "אין אסתר מגדת"
+      },
+      "parashah": {
+        "en": "Megillah 13",
+        "he": "מגילה דף 13"
+      },
+      "target_shabbat": "2029-05-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-14",
+      "title": {
+        "en": "Megillah 14 — Seven prophetesses",
+        "he": "שבע נביאות"
+      },
+      "parashah": {
+        "en": "Megillah 14",
+        "he": "מגילה דף 14"
+      },
+      "target_shabbat": "2029-05-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-15",
+      "title": {
+        "en": "Megillah 15 — In the name of Mordekhai",
+        "he": "בשם מרדכי"
+      },
+      "parashah": {
+        "en": "Megillah 15",
+        "he": "מגילה דף 15"
+      },
+      "target_shabbat": "2029-05-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-16",
+      "title": {
+        "en": "Megillah 16 — Light and gladness",
+        "he": "אורה ושמחה"
+      },
+      "parashah": {
+        "en": "Megillah 16",
+        "he": "מגילה דף 16"
+      },
+      "target_shabbat": "2029-05-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-17",
+      "title": {
+        "en": "Megillah 17 — One who reads backwards",
+        "he": "הקורא למפרע"
+      },
+      "parashah": {
+        "en": "Megillah 17",
+        "he": "מגילה דף 17"
+      },
+      "target_shabbat": "2029-06-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-18",
+      "title": {
+        "en": "Megillah 18 — Silence is praise",
+        "he": "לך דומיה תהלה"
+      },
+      "parashah": {
+        "en": "Megillah 18",
+        "he": "מגילה דף 18"
+      },
+      "target_shabbat": "2029-06-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-19",
+      "title": {
+        "en": "Megillah 19 — From where does one read",
+        "he": "מהיכן קורא אדם"
+      },
+      "parashah": {
+        "en": "Megillah 19",
+        "he": "מגילה דף 19"
+      },
+      "target_shabbat": "2029-06-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-20",
+      "title": {
+        "en": "Megillah 20 — The whole day is fit",
+        "he": "כל היום כשר"
+      },
+      "parashah": {
+        "en": "Megillah 20",
+        "he": "מגילה דף 20"
+      },
+      "target_shabbat": "2029-06-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-21",
+      "title": {
+        "en": "Megillah 21 — One who reads standing",
+        "he": "הקורא עומד"
+      },
+      "parashah": {
+        "en": "Megillah 21",
+        "he": "מגילה דף 21"
+      },
+      "target_shabbat": "2029-06-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-22",
+      "title": {
+        "en": "Megillah 22 — He skips back",
+        "he": "דולג"
+      },
+      "parashah": {
+        "en": "Megillah 22",
+        "he": "מגילה דף 22"
+      },
+      "target_shabbat": "2029-06-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-23",
+      "title": {
+        "en": "Megillah 23 — Nothing holy with fewer than ten",
+        "he": "אין דבר שבקדושה פחות מעשרה"
+      },
+      "parashah": {
+        "en": "Megillah 23",
+        "he": "מגילה דף 23"
+      },
+      "target_shabbat": "2029-06-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-24",
+      "title": {
+        "en": "Megillah 24 — Because the people look at him",
+        "he": "מפני שהעם מסתכלין בו"
+      },
+      "parashah": {
+        "en": "Megillah 24",
+        "he": "מגילה דף 24"
+      },
+      "target_shabbat": "2029-06-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-25",
+      "title": {
+        "en": "Megillah 25 — Read and not translated",
+        "he": "נקרא ולא מתרגם"
+      },
+      "parashah": {
+        "en": "Megillah 25",
+        "he": "מגילה דף 25"
+      },
+      "target_shabbat": "2029-06-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-26",
+      "title": {
+        "en": "Megillah 26 — Townspeople who sold",
+        "he": "בני העיר שמכרו"
+      },
+      "parashah": {
+        "en": "Megillah 26",
+        "he": "מגילה דף 26"
+      },
+      "target_shabbat": "2029-06-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-27",
+      "title": {
+        "en": "Megillah 27 — Only to learn Torah",
+        "he": "אלא ללמוד תורה"
+      },
+      "parashah": {
+        "en": "Megillah 27",
+        "he": "מגילה דף 27"
+      },
+      "target_shabbat": "2029-06-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-28",
+      "title": {
+        "en": "Megillah 28 — He who hates gifts will live",
+        "he": "שונא מתנות יחיה"
+      },
+      "parashah": {
+        "en": "Megillah 28",
+        "he": "מגילה דף 28"
+      },
+      "target_shabbat": "2029-06-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-29",
+      "title": {
+        "en": "Megillah 29 — A small sanctuary",
+        "he": "מקדש מעט"
+      },
+      "parashah": {
+        "en": "Megillah 29",
+        "he": "מגילה דף 29"
+      },
+      "target_shabbat": "2029-06-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-30",
+      "title": {
+        "en": "Megillah 30 — The four portions",
+        "he": "ארבע פרשיות"
+      },
+      "parashah": {
+        "en": "Megillah 30",
+        "he": "מגילה דף 30"
+      },
+      "target_shabbat": "2029-06-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-31",
+      "title": {
+        "en": "Megillah 31 — Each in its time",
+        "he": "כל אחד ואחד בזמנו"
+      },
+      "parashah": {
+        "en": "Megillah 31",
+        "he": "מגילה דף 31"
+      },
+      "target_shabbat": "2029-06-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-megillah-32",
+      "title": {
+        "en": "Megillah 32 — The one who rolls the scroll",
+        "he": "הגולל ספר תורה"
+      },
+      "parashah": {
+        "en": "Megillah 32",
+        "he": "מגילה דף 32"
+      },
+      "target_shabbat": "2029-06-16",
+      "category": "talmud"
     }
   ]
 }
