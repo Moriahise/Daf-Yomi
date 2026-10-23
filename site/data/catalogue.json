@@ -13000,6 +13000,370 @@
       },
       "target_shabbat": "2029-06-16",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-2",
+      "title": {
+        "en": "Moed Katan 2 — Watering a thirsty field",
+        "he": "משקין בית השלחין"
+      },
+      "parashah": {
+        "en": "Moed Katan 2",
+        "he": "מועד קטן דף 2"
+      },
+      "target_shabbat": "2029-06-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-3",
+      "title": {
+        "en": "Moed Katan 3 — Your field, do not",
+        "he": "שדך לא"
+      },
+      "parashah": {
+        "en": "Moed Katan 3",
+        "he": "מועד קטן דף 3"
+      },
+      "target_shabbat": "2029-06-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-4",
+      "title": {
+        "en": "Moed Katan 4 — Rain and the swape",
+        "he": "מי גשמים ומי קילון"
+      },
+      "parashah": {
+        "en": "Moed Katan 4",
+        "he": "מועד קטן דף 4"
+      },
+      "target_shabbat": "2029-06-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-5",
+      "title": {
+        "en": "Moed Katan 5 — Marking the graves",
+        "he": "מציינין את הקברות"
+      },
+      "parashah": {
+        "en": "Moed Katan 5",
+        "he": "מועד קטן דף 5"
+      },
+      "target_shabbat": "2029-06-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-6",
+      "title": {
+        "en": "Moed Katan 6 — A scholar in the town",
+        "he": "צורבא מרבנן דאיכא במתא"
+      },
+      "parashah": {
+        "en": "Moed Katan 6",
+        "he": "מועד קטן דף 6"
+      },
+      "target_shabbat": "2029-06-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-7",
+      "title": {
+        "en": "Moed Katan 7 — Inspecting afflictions",
+        "he": "רואין את הנגעים"
+      },
+      "parashah": {
+        "en": "Moed Katan 7",
+        "he": "מועד קטן דף 7"
+      },
+      "target_shabbat": "2029-06-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-8",
+      "title": {
+        "en": "Moed Katan 8 — Thirty days before the festival",
+        "he": "קודם לרגל שלשים יום"
+      },
+      "parashah": {
+        "en": "Moed Katan 8",
+        "he": "מועד קטן דף 8"
+      },
+      "target_shabbat": "2029-06-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-9",
+      "title": {
+        "en": "Moed Katan 9 — Joy is not mixed with joy",
+        "he": "אין מערבין שמחה בשמחה"
+      },
+      "parashah": {
+        "en": "Moed Katan 9",
+        "he": "מועד קטן דף 9"
+      },
+      "target_shabbat": "2029-06-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-10",
+      "title": {
+        "en": "Moed Katan 10 — Lay work and craftsman’s work",
+        "he": "מעשה הדיוט ומעשה אומן"
+      },
+      "parashah": {
+        "en": "Moed Katan 10",
+        "he": "מועד קטן דף 10"
+      },
+      "target_shabbat": "2029-06-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-11",
+      "title": {
+        "en": "Moed Katan 11 — A railing for the roof",
+        "he": "מעקה לגג"
+      },
+      "parashah": {
+        "en": "Moed Katan 11",
+        "he": "מועד קטן דף 11"
+      },
+      "target_shabbat": "2029-06-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-12",
+      "title": {
+        "en": "Moed Katan 12 — A matter that would be lost",
+        "he": "דבר האבד"
+      },
+      "parashah": {
+        "en": "Moed Katan 12",
+        "he": "מועד קטן דף 12"
+      },
+      "target_shabbat": "2029-06-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-13",
+      "title": {
+        "en": "Moed Katan 13 — Moving from house to house",
+        "he": "אין מפנין מבית לבית"
+      },
+      "parashah": {
+        "en": "Moed Katan 13",
+        "he": "מועד קטן דף 13"
+      },
+      "target_shabbat": "2029-06-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-14",
+      "title": {
+        "en": "Moed Katan 14 — Not entering the festival disheveled",
+        "he": "שלא יכנסו לרגל כשהן מנוולין"
+      },
+      "parashah": {
+        "en": "Moed Katan 14",
+        "he": "מועד קטן דף 14"
+      },
+      "target_shabbat": "2029-06-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-15",
+      "title": {
+        "en": "Moed Katan 15 — Mourner, excommunicate and leper",
+        "he": "אבל, מנודה ומצורע"
+      },
+      "parashah": {
+        "en": "Moed Katan 15",
+        "he": "מועד קטן דף 15"
+      },
+      "target_shabbat": "2029-06-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-16",
+      "title": {
+        "en": "Moed Katan 16 — Ban and rebuke",
+        "he": "נידוי ונזיפה"
+      },
+      "parashah": {
+        "en": "Moed Katan 16",
+        "he": "מועד קטן דף 16"
+      },
+      "target_shabbat": "2029-07-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-17",
+      "title": {
+        "en": "Moed Katan 17 — Before the blind",
+        "he": "ולפני עור"
+      },
+      "parashah": {
+        "en": "Moed Katan 17",
+        "he": "מועד קטן דף 17"
+      },
+      "target_shabbat": "2029-07-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-18",
+      "title": {
+        "en": "Moed Katan 18 — Cutting the nails",
+        "he": "נטילת צפרנים"
+      },
+      "parashah": {
+        "en": "Moed Katan 18",
+        "he": "מועד קטן דף 18"
+      },
+      "target_shabbat": "2029-07-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-19",
+      "title": {
+        "en": "Moed Katan 19 — Part of the day is like all of it",
+        "he": "מקצת היום ככולו"
+      },
+      "parashah": {
+        "en": "Moed Katan 19",
+        "he": "מועד קטן דף 19"
+      },
+      "target_shabbat": "2029-07-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-20",
+      "title": {
+        "en": "Moed Katan 20 — Near news and distant news",
+        "he": "שמועה קרובה ושמועה רחוקה"
+      },
+      "parashah": {
+        "en": "Moed Katan 20",
+        "he": "מועד קטן דף 20"
+      },
+      "target_shabbat": "2029-07-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-21",
+      "title": {
+        "en": "Moed Katan 21 — If the public needs him",
+        "he": "אם היו רבים צריכין לו"
+      },
+      "parashah": {
+        "en": "Moed Katan 21",
+        "he": "מועד קטן דף 21"
+      },
+      "target_shabbat": "2029-07-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-22",
+      "title": {
+        "en": "Moed Katan 22 — Rending to the heart",
+        "he": "עד שיגלה את לבו"
+      },
+      "parashah": {
+        "en": "Moed Katan 22",
+        "he": "מועד קטן דף 22"
+      },
+      "target_shabbat": "2029-07-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-23",
+      "title": {
+        "en": "Moed Katan 23 — Whose dead lies before him",
+        "he": "מי שמתו מוטל לפניו"
+      },
+      "parashah": {
+        "en": "Moed Katan 23",
+        "he": "מועד קטן דף 23"
+      },
+      "target_shabbat": "2029-07-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-24",
+      "title": {
+        "en": "Moed Katan 24 — The tear in the heat of grief",
+        "he": "קרע בשעת חימום"
+      },
+      "parashah": {
+        "en": "Moed Katan 24",
+        "he": "מועד קטן דף 24"
+      },
+      "target_shabbat": "2029-07-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-25",
+      "title": {
+        "en": "Moed Katan 25 — All are his relatives",
+        "he": "הכל כקרוביו"
+      },
+      "parashah": {
+        "en": "Moed Katan 25",
+        "he": "מועד קטן דף 25"
+      },
+      "target_shabbat": "2029-07-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-26",
+      "title": {
+        "en": "Moed Katan 26 — Tears that are never mended",
+        "he": "קרעין שאין מתאחין"
+      },
+      "parashah": {
+        "en": "Moed Katan 26",
+        "he": "מועד קטן דף 26"
+      },
+      "target_shabbat": "2029-07-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-27",
+      "title": {
+        "en": "Moed Katan 27 — For the honor of the poor",
+        "he": "מפני כבודן של עניים"
+      },
+      "parashah": {
+        "en": "Moed Katan 27",
+        "he": "מועד קטן דף 27"
+      },
+      "target_shabbat": "2029-07-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-28",
+      "title": {
+        "en": "Moed Katan 28 — Life, children and sustenance",
+        "he": "חיי, בני ומזוני"
+      },
+      "parashah": {
+        "en": "Moed Katan 28",
+        "he": "מועד קטן דף 28"
+      },
+      "target_shabbat": "2029-07-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-moed-katan-29",
+      "title": {
+        "en": "Moed Katan 29 — Go to peace",
+        "he": "לך לשלום"
+      },
+      "parashah": {
+        "en": "Moed Katan 29",
+        "he": "מועד קטן דף 29"
+      },
+      "target_shabbat": "2029-07-14",
+      "category": "talmud"
     }
   ]
 }
