@@ -13364,6 +13364,344 @@
       },
       "target_shabbat": "2029-07-14",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-2",
+      "title": {
+        "en": "Chagigah 2 — Who Is Obligated to Appear?",
+        "he": "מי חייב בראייה?"
+      },
+      "parashah": {
+        "en": "Chagigah 2",
+        "he": "חגיגה דף 2"
+      },
+      "target_shabbat": "2029-07-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-3",
+      "title": {
+        "en": "Chagigah 3 — Hearing, Learning, and the Novelty of the Study Hall",
+        "he": "שמיעה, לימוד וחידושו של בית המדרש"
+      },
+      "parashah": {
+        "en": "Chagigah 3",
+        "he": "חגיגה דף 3"
+      },
+      "target_shabbat": "2029-07-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-4",
+      "title": {
+        "en": "Chagigah 4 — Who Can Ascend “With All Your Males”?",
+        "he": "מי יכול לעלות ״עם כל זכורך״?"
+      },
+      "parashah": {
+        "en": "Chagigah 4",
+        "he": "חגיגה דף 4"
+      },
+      "target_shabbat": "2029-07-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-5",
+      "title": {
+        "en": "Chagigah 5 — “Is There a Remedy for Him?”",
+        "he": "״תקנה יש לו?״"
+      },
+      "parashah": {
+        "en": "Chagigah 5",
+        "he": "חגיגה דף 5"
+      },
+      "target_shabbat": "2029-07-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-6",
+      "title": {
+        "en": "Chagigah 6 — What Was Offered at Sinai?",
+        "he": "מה הקריבו בסיני?"
+      },
+      "parashah": {
+        "en": "Chagigah 6",
+        "he": "חגיגה דף 6"
+      },
+      "target_shabbat": "2029-07-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-7",
+      "title": {
+        "en": "Chagigah 7 — Appearance Without Measure",
+        "he": "הראיון שאין לו שיעור"
+      },
+      "parashah": {
+        "en": "Chagigah 7",
+        "he": "חגיגה דף 7"
+      },
+      "target_shabbat": "2029-07-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-8",
+      "title": {
+        "en": "Chagigah 8 — Combining Funds and Completing the Festival",
+        "he": "טפילת מעות והשלמת הרגל"
+      },
+      "parashah": {
+        "en": "Chagigah 8",
+        "he": "חגיגה דף 8"
+      },
+      "target_shabbat": "2029-07-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-9",
+      "title": {
+        "en": "Chagigah 9 — Redress, the Crooked, and the Hundred-and-First Time",
+        "he": "תשלומין, המעוות, והפעם המאה ואחת"
+      },
+      "parashah": {
+        "en": "Chagigah 9",
+        "he": "חגיגה דף 9"
+      },
+      "target_shabbat": "2029-07-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-10",
+      "title": {
+        "en": "Chagigah 10 — Mountains Suspended by a Hair",
+        "he": "הררים התלויים בשערה"
+      },
+      "parashah": {
+        "en": "Chagigah 10",
+        "he": "חגיגה דף 10"
+      },
+      "target_shabbat": "2029-07-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-11",
+      "title": {
+        "en": "Chagigah 11 — The Body of Torah and the Limits of Teaching",
+        "he": "גופי תורה וגבולות הלימוד"
+      },
+      "parashah": {
+        "en": "Chagigah 11",
+        "he": "חגיגה דף 11"
+      },
+      "target_shabbat": "2029-07-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-12",
+      "title": {
+        "en": "Chagigah 12 — Adam’s Stature, the Hidden Light, and the Seven Firmaments",
+        "he": "קומת אדם הראשון, האור הגנוז ושבעת הרקיעים"
+      },
+      "parashah": {
+        "en": "Chagigah 12",
+        "he": "חגיגה דף 12"
+      },
+      "target_shabbat": "2029-07-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-13",
+      "title": {
+        "en": "Chagigah 13 — Up to Here You May Speak",
+        "he": "עד כאן יש לך רשות לדבר"
+      },
+      "parashah": {
+        "en": "Chagigah 13",
+        "he": "חגיגה דף 13"
+      },
+      "target_shabbat": "2029-07-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-14",
+      "title": {
+        "en": "Chagigah 14 — From Isaiah’s Curses to the Orchard",
+        "he": "מקללות ישעיהו אל הפרדס"
+      },
+      "parashah": {
+        "en": "Chagigah 14",
+        "he": "חגיגה דף 14"
+      },
+      "target_shabbat": "2029-07-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-15",
+      "title": {
+        "en": "Chagigah 15 — Aḥer and Rabbi Meir",
+        "he": "אחר ורבי מאיר"
+      },
+      "parashah": {
+        "en": "Chagigah 15",
+        "he": "חגיגה דף 15"
+      },
+      "target_shabbat": "2029-07-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-16",
+      "title": {
+        "en": "Chagigah 16 — Honor of the Maker and the Dispute over Laying Hands",
+        "he": "כבוד קונו ומחלוקת הסמיכה"
+      },
+      "parashah": {
+        "en": "Chagigah 16",
+        "he": "חגיגה דף 16"
+      },
+      "target_shabbat": "2029-07-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-17",
+      "title": {
+        "en": "Chagigah 17 — The Day of Slaughter and the Redress of Shavuot",
+        "he": "יום טבוח ותשלומי עצרת"
+      },
+      "parashah": {
+        "en": "Chagigah 17",
+        "he": "חגיגה דף 17"
+      },
+      "target_shabbat": "2029-07-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-18",
+      "title": {
+        "en": "Chagigah 18 — Intermediate Days and the Ladder of Purity",
+        "he": "חולו של מועד וסולם הטהרה"
+      },
+      "parashah": {
+        "en": "Chagigah 18",
+        "he": "חגיגה דף 18"
+      },
+      "target_shabbat": "2029-07-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-19",
+      "title": {
+        "en": "Chagigah 19 — Intention, Immersion, and One Foot in the Water",
+        "he": "כוונה, טבילה ורגל אחת במים"
+      },
+      "parashah": {
+        "en": "Chagigah 19",
+        "he": "חגיגה דף 19"
+      },
+      "target_shabbat": "2029-08-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-20",
+      "title": {
+        "en": "Chagigah 20 — Guarding Purity with the Mind",
+        "he": "שמירת הטהרה בלב"
+      },
+      "parashah": {
+        "en": "Chagigah 20",
+        "he": "חגיגה דף 20"
+      },
+      "target_shabbat": "2029-08-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-21",
+      "title": {
+        "en": "Chagigah 21 — Vessels Within Vessels",
+        "he": "כלים בתוך כלים"
+      },
+      "parashah": {
+        "en": "Chagigah 21",
+        "he": "חגיגה דף 21"
+      },
+      "target_shabbat": "2029-08-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-22",
+      "title": {
+        "en": "Chagigah 22 — The Vessels of the Am Ha’aretz",
+        "he": "כליו של עם הארץ"
+      },
+      "parashah": {
+        "en": "Chagigah 22",
+        "he": "חגיגה דף 22"
+      },
+      "target_shabbat": "2029-08-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-23",
+      "title": {
+        "en": "Chagigah 23 — The Strap, the Boat, and the Tube",
+        "he": "הרצועה, הספינה והשפופרת"
+      },
+      "parashah": {
+        "en": "Chagigah 23",
+        "he": "חגיגה דף 23"
+      },
+      "target_shabbat": "2029-08-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-24",
+      "title": {
+        "en": "Chagigah 24 — One Hand and the Other",
+        "he": "יד וחבירתה"
+      },
+      "parashah": {
+        "en": "Chagigah 24",
+        "he": "חגיגה דף 24"
+      },
+      "target_shabbat": "2029-08-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-25",
+      "title": {
+        "en": "Chagigah 25 — From the Galilee to Modi’im",
+        "he": "מן הגליל עד המודיעים"
+      },
+      "parashah": {
+        "en": "Chagigah 25",
+        "he": "חגיגה דף 25"
+      },
+      "target_shabbat": "2029-08-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-26",
+      "title": {
+        "en": "Chagigah 26 — All Israel as Ḥaverim",
+        "he": "כל ישראל חברים"
+      },
+      "parashah": {
+        "en": "Chagigah 26",
+        "he": "חגיגה דף 26"
+      },
+      "target_shabbat": "2029-08-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-chagigah-27",
+      "title": {
+        "en": "Chagigah 27 — The Table That Atones",
+        "he": "שלחנו של אדם מכפר"
+      },
+      "parashah": {
+        "en": "Chagigah 27",
+        "he": "חגיגה דף 27"
+      },
+      "target_shabbat": "2029-08-09",
+      "category": "talmud"
     }
   ]
 }
