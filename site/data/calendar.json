@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-26T22:31:31.080641+02:00",
+  "calculated_at": "2026-10-27T02:28:31.599500+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-10-26",
-      "cycle": 14,
-      "day_in_cycle": 2487,
-      "tractate_id": "bekhorot",
-      "tractate": {
-        "en": "Bekhorot",
-        "he": "בכורות"
-      },
-      "daf": 38,
-      "label": {
-        "en": "Bekhorot 38",
-        "he": "בכורות דף 38"
-      },
-      "references": [
-        "Bekhorot 38a",
-        "Bekhorot 38b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Bekhorot_38a",
-        "https://www.sefaria.org/Bekhorot_38b"
-      ],
-      "id": "cycle-14-bekhorot-38",
-      "target_shabbat": "2026-10-26",
-      "hebrew_date": "ט״ו חשון תשפ״ז",
-      "israel": {
-        "en": "Bekhorot 38",
-        "he": "בכורות דף 38"
-      },
-      "diaspora": {
-        "en": "Bekhorot 38",
-        "he": "בכורות דף 38"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-10-27",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Temurah 34",
         "he": "תמורה דף 34"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-24",
+      "cycle": 14,
+      "day_in_cycle": 2577,
+      "tractate_id": "keritot",
+      "tractate": {
+        "en": "Keritot",
+        "he": "כריתות"
+      },
+      "daf": 2,
+      "label": {
+        "en": "Keritot 2",
+        "he": "כריתות דף 2"
+      },
+      "references": [
+        "Keritot 2a",
+        "Keritot 2b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Keritot_2a",
+        "https://www.sefaria.org/Keritot_2b"
+      ],
+      "id": "cycle-14-keritot-2",
+      "target_shabbat": "2027-01-24",
+      "hebrew_date": "ט״ז שבט תשפ״ז",
+      "israel": {
+        "en": "Keritot 2",
+        "he": "כריתות דף 2"
+      },
+      "diaspora": {
+        "en": "Keritot 2",
+        "he": "כריתות דף 2"
       },
       "different_readings": false,
       "festival": null,
