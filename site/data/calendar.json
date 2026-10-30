@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-30T21:26:28.676865+02:00",
+  "calculated_at": "2026-10-31T01:50:57.430300+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-10-30",
-      "cycle": 14,
-      "day_in_cycle": 2491,
-      "tractate_id": "bekhorot",
-      "tractate": {
-        "en": "Bekhorot",
-        "he": "בכורות"
-      },
-      "daf": 42,
-      "label": {
-        "en": "Bekhorot 42",
-        "he": "בכורות דף 42"
-      },
-      "references": [
-        "Bekhorot 42a",
-        "Bekhorot 42b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Bekhorot_42a",
-        "https://www.sefaria.org/Bekhorot_42b"
-      ],
-      "id": "cycle-14-bekhorot-42",
-      "target_shabbat": "2026-10-30",
-      "hebrew_date": "י״ט חשון תשפ״ז",
-      "israel": {
-        "en": "Bekhorot 42",
-        "he": "בכורות דף 42"
-      },
-      "diaspora": {
-        "en": "Bekhorot 42",
-        "he": "בכורות דף 42"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-10-31",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Keritot 5",
         "he": "כריתות דף 5"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-01-28",
+      "cycle": 14,
+      "day_in_cycle": 2581,
+      "tractate_id": "keritot",
+      "tractate": {
+        "en": "Keritot",
+        "he": "כריתות"
+      },
+      "daf": 6,
+      "label": {
+        "en": "Keritot 6",
+        "he": "כריתות דף 6"
+      },
+      "references": [
+        "Keritot 6a",
+        "Keritot 6b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Keritot_6a",
+        "https://www.sefaria.org/Keritot_6b"
+      ],
+      "id": "cycle-14-keritot-6",
+      "target_shabbat": "2027-01-28",
+      "hebrew_date": "כ׳ שבט תשפ״ז",
+      "israel": {
+        "en": "Keritot 6",
+        "he": "כריתות דף 6"
+      },
+      "diaspora": {
+        "en": "Keritot 6",
+        "he": "כריתות דף 6"
       },
       "different_readings": false,
       "festival": null,
