@@ -14495,6 +14495,786 @@
       },
       "target_shabbat": "2029-10-09",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-63",
+      "title": {
+        "en": "Yevamot 63 — A helper against him",
+        "he": "עזר כנגדו"
+      },
+      "parashah": {
+        "en": "Yevamot 63",
+        "he": "יבמות דף 63"
+      },
+      "target_shabbat": "2029-10-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-64",
+      "title": {
+        "en": "Yevamot 64 — Ten years without children",
+        "he": "שהה עמה עשר שנים"
+      },
+      "parashah": {
+        "en": "Yevamot 64",
+        "he": "יבמות דף 64"
+      },
+      "target_shabbat": "2029-10-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-65",
+      "title": {
+        "en": "Yevamot 65 — The man is commanded",
+        "he": "האיש מצווה על פריה ורביה"
+      },
+      "parashah": {
+        "en": "Yevamot 65",
+        "he": "יבמות דף 65"
+      },
+      "target_shabbat": "2029-10-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-66",
+      "title": {
+        "en": "Yevamot 66 — Iron-flock slaves",
+        "he": "עבדי צאן ברזל"
+      },
+      "parashah": {
+        "en": "Yevamot 66",
+        "he": "יבמות דף 66"
+      },
+      "target_shabbat": "2029-10-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-67",
+      "title": {
+        "en": "Yevamot 67 — The fetus disqualifies",
+        "he": "העובר פוסל ואינו מאכיל"
+      },
+      "parashah": {
+        "en": "Yevamot 67",
+        "he": "יבמות דף 67"
+      },
+      "target_shabbat": "2029-10-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-68",
+      "title": {
+        "en": "Yevamot 68 — To a stranger",
+        "he": "לאיש זר"
+      },
+      "parashah": {
+        "en": "Yevamot 68",
+        "he": "יבמות דף 68"
+      },
+      "target_shabbat": "2029-10-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-69",
+      "title": {
+        "en": "Yevamot 69 — The son’s power is greater",
+        "he": "כחו של בן גדול משל אב"
+      },
+      "parashah": {
+        "en": "Yevamot 69",
+        "he": "יבמות דף 69"
+      },
+      "target_shabbat": "2029-10-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-70",
+      "title": {
+        "en": "Yevamot 70 — The uncircumcised and teruma",
+        "he": "הערל אינו אוכל בתרומה"
+      },
+      "parashah": {
+        "en": "Yevamot 70",
+        "he": "יבמות דף 70"
+      },
+      "target_shabbat": "2029-10-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-71",
+      "title": {
+        "en": "Yevamot 71 — The completion of circumcision",
+        "he": "פריעת מילה"
+      },
+      "parashah": {
+        "en": "Yevamot 71",
+        "he": "יבמות דף 71"
+      },
+      "target_shabbat": "2029-10-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-72",
+      "title": {
+        "en": "Yevamot 72 — The Lord protects the simple",
+        "he": "שומר פתאים ה'"
+      },
+      "parashah": {
+        "en": "Yevamot 72",
+        "he": "יבמות דף 72"
+      },
+      "target_shabbat": "2029-10-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-73",
+      "title": {
+        "en": "Yevamot 73 — Tithe and teruma",
+        "he": "מעשר ותרומה"
+      },
+      "parashah": {
+        "en": "Yevamot 73",
+        "he": "יבמות דף 73"
+      },
+      "target_shabbat": "2029-10-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-74",
+      "title": {
+        "en": "Yevamot 74 — Teruma for burning",
+        "he": "להסקה תחת תבשילך"
+      },
+      "parashah": {
+        "en": "Yevamot 74",
+        "he": "יבמות דף 74"
+      },
+      "target_shabbat": "2029-10-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-75",
+      "title": {
+        "en": "Yevamot 75 — By the hand of Heaven",
+        "he": "בידי שמים"
+      },
+      "parashah": {
+        "en": "Yevamot 75",
+        "he": "יבמות דף 75"
+      },
+      "target_shabbat": "2029-10-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-76",
+      "title": {
+        "en": "Yevamot 76 — An Ammonite, not an Ammonitess",
+        "he": "עמוני ולא עמונית"
+      },
+      "parashah": {
+        "en": "Yevamot 76",
+        "he": "יבמות דף 76"
+      },
+      "target_shabbat": "2029-10-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-77",
+      "title": {
+        "en": "Yevamot 77 — So I received it",
+        "he": "כך מקובלני"
+      },
+      "parashah": {
+        "en": "Yevamot 77",
+        "he": "יבמות דף 77"
+      },
+      "target_shabbat": "2029-10-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-78",
+      "title": {
+        "en": "Yevamot 78 — Who will give me a third generation",
+        "he": "מי יתן לי דור שלישי"
+      },
+      "parashah": {
+        "en": "Yevamot 78",
+        "he": "יבמות דף 78"
+      },
+      "target_shabbat": "2029-10-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-79",
+      "title": {
+        "en": "Yevamot 79 — Three signs of this nation",
+        "he": "שלשה סימנים באומה זו"
+      },
+      "parashah": {
+        "en": "Yevamot 79",
+        "he": "יבמות דף 79"
+      },
+      "target_shabbat": "2029-10-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-80",
+      "title": {
+        "en": "Yevamot 80 — Signs at twenty",
+        "he": "עד שיהו בן עשרים"
+      },
+      "parashah": {
+        "en": "Yevamot 80",
+        "he": "יבמות דף 80"
+      },
+      "target_shabbat": "2029-10-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-81",
+      "title": {
+        "en": "Yevamot 81 — Whatever is usually counted",
+        "he": "כל שדרכו לימנות"
+      },
+      "parashah": {
+        "en": "Yevamot 81",
+        "he": "יבמות דף 81"
+      },
+      "target_shabbat": "2029-10-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-82",
+      "title": {
+        "en": "Yevamot 82 — The third possession",
+        "he": "ירושה שלישית"
+      },
+      "parashah": {
+        "en": "Yevamot 82",
+        "he": "יבמות דף 82"
+      },
+      "target_shabbat": "2029-10-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-83",
+      "title": {
+        "en": "Yevamot 83 — A creature of its own",
+        "he": "בריה בפני עצמה"
+      },
+      "parashah": {
+        "en": "Yevamot 83",
+        "he": "יבמות דף 83"
+      },
+      "target_shabbat": "2029-10-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-84",
+      "title": {
+        "en": "Yevamot 84 — Permitted to their husbands",
+        "he": "מותרות לבעליהן"
+      },
+      "parashah": {
+        "en": "Yevamot 84",
+        "he": "יבמות דף 84"
+      },
+      "target_shabbat": "2029-10-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-85",
+      "title": {
+        "en": "Yevamot 85 — He leads her on",
+        "he": "זהו מרגילה"
+      },
+      "parashah": {
+        "en": "Yevamot 85",
+        "he": "יבמות דף 85"
+      },
+      "target_shabbat": "2029-11-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-86",
+      "title": {
+        "en": "Yevamot 86 — The first tithe",
+        "he": "מעשר ראשון"
+      },
+      "parashah": {
+        "en": "Yevamot 86",
+        "he": "יבמות דף 86"
+      },
+      "target_shabbat": "2029-11-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-87",
+      "title": {
+        "en": "Yevamot 87 — As in her youth",
+        "he": "כנעוריה"
+      },
+      "parashah": {
+        "en": "Yevamot 87",
+        "he": "יבמות דף 87"
+      },
+      "target_shabbat": "2029-11-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-88",
+      "title": {
+        "en": "Yevamot 88 — Because of agunah",
+        "he": "משום עיגונא"
+      },
+      "parashah": {
+        "en": "Yevamot 88",
+        "he": "יבמות דף 88"
+      },
+      "target_shabbat": "2029-11-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-89",
+      "title": {
+        "en": "Yevamot 89 — Ownerless by the court",
+        "he": "הפקר בית דין הפקר"
+      },
+      "parashah": {
+        "en": "Yevamot 89",
+        "he": "יבמות דף 89"
+      },
+      "target_shabbat": "2029-11-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-90",
+      "title": {
+        "en": "Yevamot 90 — Sit and do not act",
+        "he": "שב ואל תעשה"
+      },
+      "parashah": {
+        "en": "Yevamot 90",
+        "he": "יבמות דף 90"
+      },
+      "target_shabbat": "2029-11-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-91",
+      "title": {
+        "en": "Yevamot 91 — What could she have done",
+        "he": "מאי הוה לה למיעבד"
+      },
+      "parashah": {
+        "en": "Yevamot 91",
+        "he": "יבמות דף 91"
+      },
+      "target_shabbat": "2029-11-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-92",
+      "title": {
+        "en": "Yevamot 92 — A ruling or an error",
+        "he": "הוראה או טעות"
+      },
+      "parashah": {
+        "en": "Yevamot 92",
+        "he": "יבמות דף 92"
+      },
+      "target_shabbat": "2029-11-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-93",
+      "title": {
+        "en": "Yevamot 93 — A thing not yet in the world",
+        "he": "דבר שלא בא לעולם"
+      },
+      "parashah": {
+        "en": "Yevamot 93",
+        "he": "יבמות דף 93"
+      },
+      "target_shabbat": "2029-11-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-94",
+      "title": {
+        "en": "Yevamot 94 — A pearl and a shard",
+        "he": "מרגניתא וחספא"
+      },
+      "parashah": {
+        "en": "Yevamot 94",
+        "he": "יבמות דף 94"
+      },
+      "target_shabbat": "2029-11-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-95",
+      "title": {
+        "en": "Yevamot 95 — Her own union forbids her",
+        "he": "שכיבתה אוסרתה"
+      },
+      "parashah": {
+        "en": "Yevamot 95",
+        "he": "יבמות דף 95"
+      },
+      "target_shabbat": "2029-11-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-96",
+      "title": {
+        "en": "Yevamot 96 — Nine years and one day",
+        "he": "בן תשע שנים ויום אחד"
+      },
+      "parashah": {
+        "en": "Yevamot 96",
+        "he": "יבמות דף 96"
+      },
+      "target_shabbat": "2029-11-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-97",
+      "title": {
+        "en": "Yevamot 97 — Like a cluster of grapes",
+        "he": "ככומר של ענבים"
+      },
+      "parashah": {
+        "en": "Yevamot 97",
+        "he": "יבמות דף 97"
+      },
+      "target_shabbat": "2029-11-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-98",
+      "title": {
+        "en": "Yevamot 98 — A woman and her seven sons",
+        "he": "אשה ושבעה בניה"
+      },
+      "parashah": {
+        "en": "Yevamot 98",
+        "he": "יבמות דף 98"
+      },
+      "target_shabbat": "2029-11-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-99",
+      "title": {
+        "en": "Yevamot 99 — Raising to lineage",
+        "he": "מעלין מתרומה ליוחסין"
+      },
+      "parashah": {
+        "en": "Yevamot 99",
+        "he": "יבמות דף 99"
+      },
+      "target_shabbat": "2029-11-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-100",
+      "title": {
+        "en": "Yevamot 100 — The woman first",
+        "he": "נותנין לאשה תחלה"
+      },
+      "parashah": {
+        "en": "Yevamot 100",
+        "he": "יבמות דף 100"
+      },
+      "target_shabbat": "2029-11-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-101",
+      "title": {
+        "en": "Yevamot 101 — Three who can read",
+        "he": "שלשה שיודעין להקרות"
+      },
+      "parashah": {
+        "en": "Yevamot 101",
+        "he": "יבמות דף 101"
+      },
+      "target_shabbat": "2029-11-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-102",
+      "title": {
+        "en": "Yevamot 102 — If Eliyahu comes",
+        "he": "אם יבא אליהו"
+      },
+      "parashah": {
+        "en": "Yevamot 102",
+        "he": "יבמות דף 102"
+      },
+      "target_shabbat": "2029-11-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-103",
+      "title": {
+        "en": "Yevamot 103 — From upon his foot",
+        "he": "מעל רגלו"
+      },
+      "parashah": {
+        "en": "Yevamot 103",
+        "he": "יבמות דף 103"
+      },
+      "target_shabbat": "2029-11-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-104",
+      "title": {
+        "en": "Yevamot 104 — The right foot",
+        "he": "רגל ימין"
+      },
+      "parashah": {
+        "en": "Yevamot 104",
+        "he": "יבמות דף 104"
+      },
+      "target_shabbat": "2029-11-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-105",
+      "title": {
+        "en": "Yevamot 105 — Torah and kindness",
+        "he": "תורה וגמילות חסדים"
+      },
+      "parashah": {
+        "en": "Yevamot 105",
+        "he": "יבמות דף 105"
+      },
+      "target_shabbat": "2029-11-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-106",
+      "title": {
+        "en": "Yevamot 106 — Until he says I wish",
+        "he": "עד שיאמר רוצה אני"
+      },
+      "parashah": {
+        "en": "Yevamot 106",
+        "he": "יבמות דף 106"
+      },
+      "target_shabbat": "2029-11-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-107",
+      "title": {
+        "en": "Yevamot 107 — Refusal",
+        "he": "מיאון"
+      },
+      "parashah": {
+        "en": "Yevamot 107",
+        "he": "יבמות דף 107"
+      },
+      "target_shabbat": "2029-11-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-108",
+      "title": {
+        "en": "Yevamot 108 — Our water for silver",
+        "he": "מימינו בכסף שתינו"
+      },
+      "parashah": {
+        "en": "Yevamot 108",
+        "he": "יבמות דף 108"
+      },
+      "target_shabbat": "2029-11-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-109",
+      "title": {
+        "en": "Yevamot 109 — Cleave to three things",
+        "he": "ידבק בשלשה דברים"
+      },
+      "parashah": {
+        "en": "Yevamot 109",
+        "he": "יבמות דף 109"
+      },
+      "target_shabbat": "2029-11-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-110",
+      "title": {
+        "en": "Yevamot 110 — He acted improperly",
+        "he": "הוא עשה שלא כהוגן"
+      },
+      "parashah": {
+        "en": "Yevamot 110",
+        "he": "יבמות דף 110"
+      },
+      "target_shabbat": "2029-11-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-111",
+      "title": {
+        "en": "Yevamot 111 — Let them grow up together",
+        "he": "יגדלו זה עם זה"
+      },
+      "parashah": {
+        "en": "Yevamot 111",
+        "he": "יבמות דף 111"
+      },
+      "target_shabbat": "2029-11-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-112",
+      "title": {
+        "en": "Yevamot 112 — By a sign",
+        "he": "ברמיזה"
+      },
+      "parashah": {
+        "en": "Yevamot 112",
+        "he": "יבמות דף 112"
+      },
+      "target_shabbat": "2029-11-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-113",
+      "title": {
+        "en": "Yevamot 113 — Five who do not separate",
+        "he": "חמשה לא יתרומו"
+      },
+      "parashah": {
+        "en": "Yevamot 113",
+        "he": "יבמות דף 113"
+      },
+      "target_shabbat": "2029-11-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-114",
+      "title": {
+        "en": "Yevamot 114 — A minor who eats carcasses",
+        "he": "קטן אוכל נבלות"
+      },
+      "parashah": {
+        "en": "Yevamot 114",
+        "he": "יבמות דף 114"
+      },
+      "target_shabbat": "2029-11-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-115",
+      "title": {
+        "en": "Yevamot 115 — Her weapons upon her",
+        "he": "כליה עליה"
+      },
+      "parashah": {
+        "en": "Yevamot 115",
+        "he": "יבמות דף 115"
+      },
+      "target_shabbat": "2029-12-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-116",
+      "title": {
+        "en": "Yevamot 116 — She would not be so brazen",
+        "he": "אין אשה מעיזה פניה"
+      },
+      "parashah": {
+        "en": "Yevamot 116",
+        "he": "יבמות דף 116"
+      },
+      "target_shabbat": "2029-12-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-117",
+      "title": {
+        "en": "Yevamot 117 — As water reflects a face",
+        "he": "כמים הפנים לפנים"
+      },
+      "parashah": {
+        "en": "Yevamot 117",
+        "he": "יבמות דף 117"
+      },
+      "target_shabbat": "2029-12-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-118",
+      "title": {
+        "en": "Yevamot 118 — Better to dwell as two",
+        "he": "טב למיתב טן דו"
+      },
+      "parashah": {
+        "en": "Yevamot 118",
+        "he": "יבמות דף 118"
+      },
+      "target_shabbat": "2029-12-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-119",
+      "title": {
+        "en": "Yevamot 119 — A minority of a minority",
+        "he": "מיעוטא דמיעוטא"
+      },
+      "parashah": {
+        "en": "Yevamot 119",
+        "he": "יבמות דף 119"
+      },
+      "target_shabbat": "2029-12-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-120",
+      "title": {
+        "en": "Yevamot 120 — The face with the nose",
+        "he": "פרצוף פנים עם החוטם"
+      },
+      "parashah": {
+        "en": "Yevamot 120",
+        "he": "יבמות דף 120"
+      },
+      "target_shabbat": "2029-12-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-121",
+      "title": {
+        "en": "Yevamot 121 — Waters without end",
+        "he": "מים שאין להם סוף"
+      },
+      "parashah": {
+        "en": "Yevamot 121",
+        "he": "יבמות דף 121"
+      },
+      "target_shabbat": "2029-12-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-yevamot-122",
+      "title": {
+        "en": "Yevamot 122 — Scholars increase peace",
+        "he": "תלמידי חכמים מרבים שלום"
+      },
+      "parashah": {
+        "en": "Yevamot 122",
+        "he": "יבמות דף 122"
+      },
+      "target_shabbat": "2029-12-08",
+      "category": "talmud"
     }
   ]
 }
