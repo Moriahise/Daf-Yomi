@@ -15275,6 +15275,1449 @@
       },
       "target_shabbat": "2029-12-08",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-2",
+      "title": {
+        "en": "Kesuvos 2 — Why Wednesday? From a Fixed Wedding Day to the Limits of Duress",
+        "he": "כתובות ב׳ — מדוע ביום הרביעי? מיום נישואין קבוע אל גבולות האונס"
+      },
+      "parashah": {
+        "en": "Ketubot 2",
+        "he": "כתובות דף 2"
+      },
+      "target_shabbat": "2029-12-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-3",
+      "title": {
+        "en": "Kesuvos 3 — Uprooting a Betrothal, Reversing Rava, and Marrying Under Threat",
+        "he": "כתובות ג׳ — הפקעת קידושין, היפוך דברי רבא, ונישואין בצל הסכנה"
+      },
+      "parashah": {
+        "en": "Ketubot 3",
+        "he": "כתובות דף 3"
+      },
+      "target_shabbat": "2029-12-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-4",
+      "title": {
+        "en": "Kesuvos 4 — A Wedding and a Funeral: Mourning, Niddah, and the Limits of Leniency",
+        "he": "כתובות ד׳ — חופה ולוויה: אבלות, נידה וגבולות הקולא"
+      },
+      "parashah": {
+        "en": "Ketubot 4",
+        "he": "כתובות דף 4"
+      },
+      "target_shabbat": "2029-12-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-5",
+      "title": {
+        "en": "Kesuvos 5 — Calculations, Blessings, and Guarded Ears",
+        "he": "כתובות ה׳ — חשבונות, ברכות ואוזניים שמורות"
+      },
+      "parashah": {
+        "en": "Ketubot 5",
+        "he": "כתובות דף 5"
+      },
+      "target_shabbat": "2029-12-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-6",
+      "title": {
+        "en": "Kesuvos 6 — Rav, Shmuel, and the Logic of an Unintended Act",
+        "he": "כתובות ו׳ — רב, שמואל, והיגיון הדבר שאין מתכוון"
+      },
+      "parashah": {
+        "en": "Ketubot 6",
+        "he": "כתובות דף 6"
+      },
+      "target_shabbat": "2029-12-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-7",
+      "title": {
+        "en": "Kesuvos 7 — From the Sabbath Ruling to the Wedding Blessings",
+        "he": "כתובות ז׳ — מפסק השבת אל ברכות החתונה"
+      },
+      "parashah": {
+        "en": "Ketubot 7",
+        "he": "כתובות דף 7"
+      },
+      "target_shabbat": "2029-12-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-8",
+      "title": {
+        "en": "Kesuvos 8 — Seven Blessings and a House of Mourning",
+        "he": "כתובות ח׳ — שבע ברכות ובית האבל"
+      },
+      "parashah": {
+        "en": "Ketubot 8",
+        "he": "כתובות דף 8"
+      },
+      "target_shabbat": "2029-12-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-9",
+      "title": {
+        "en": "Kesuvos 9 — The Husband’s Claim and the Weight of a Doubtful Status",
+        "he": "כתובות ט׳ — טענת הבעל ומשקלו של מעמד מסופק"
+      },
+      "parashah": {
+        "en": "Ketubot 9",
+        "he": "כתובות דף 9"
+      },
+      "target_shabbat": "2029-12-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-10",
+      "title": {
+        "en": "Kesuvos 10 — The Value of a Ketubah and the Meaning of Words",
+        "he": "כתובות י׳ — ערכה של כתובה ומשמעותן של מילים"
+      },
+      "parashah": {
+        "en": "Ketubot 10",
+        "he": "כתובות דף 10"
+      },
+      "target_shabbat": "2029-12-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-11",
+      "title": {
+        "en": "Kesuvos 11 — Converts, Captives, and the Status Behind a Ketubah",
+        "he": "כתובות י״א — גרים, שבויות, והמעמד שמאחורי הכתובה"
+      },
+      "parashah": {
+        "en": "Ketubot 11",
+        "he": "כתובות דף 11"
+      },
+      "target_shabbat": "2029-12-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-12",
+      "title": {
+        "en": "Kesuvos 12 — Local Custom, Priestly Ketubot, and the Weight of Certainty",
+        "he": "כתובות י״ב — מנהג המקום, כתובות הכהנים, ומשקלה של ודאות"
+      },
+      "parashah": {
+        "en": "Ketubot 12",
+        "he": "כתובות דף 12"
+      },
+      "target_shabbat": "2029-12-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-13",
+      "title": {
+        "en": "Kesuvos 13 — A Woman’s Word About Herself and About Her Daughter",
+        "he": "כתובות י״ג — דברי האשה על עצמה ועל בתה"
+      },
+      "parashah": {
+        "en": "Ketubot 13",
+        "he": "כתובות דף 13"
+      },
+      "target_shabbat": "2029-12-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-14",
+      "title": {
+        "en": "Kesuvos 14 — Certainty, Doubt, and the Family of Uncertain Lineage",
+        "he": "כתובות י״ד — ודאות, ספק, ואלמנת עיסה"
+      },
+      "parashah": {
+        "en": "Ketubot 14",
+        "he": "כתובות דף 14"
+      },
+      "target_shabbat": "2029-12-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-15",
+      "title": {
+        "en": "Kesuvos 15 — Two Majorities, the Fixed Case, and the Abandoned Child",
+        "he": "כתובות ט״ו — שני רובים, קבוע, ותינוק מושלך"
+      },
+      "parashah": {
+        "en": "Ketubot 15",
+        "he": "כתובות דף 15"
+      },
+      "target_shabbat": "2029-12-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-16",
+      "title": {
+        "en": "Kesuvos 16 — The Mouth That Forbade, a Weakened Majority, and the Signs of a Wedding",
+        "he": "כתובות ט״ז — הפה שאסר, רוב שאיתרע, וסימני החתונה"
+      },
+      "parashah": {
+        "en": "Ketubot 16",
+        "he": "כתובות דף 16"
+      },
+      "target_shabbat": "2029-12-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-17",
+      "title": {
+        "en": "Kesuvos 17 — Praising the Bride and Honoring the Moment",
+        "he": "כתובות י״ז — קילוס הכלה וכבוד השעה"
+      },
+      "parashah": {
+        "en": "Ketubot 17",
+        "he": "כתובות דף 17"
+      },
+      "target_shabbat": "2029-12-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-18",
+      "title": {
+        "en": "Kesuvos 18 — Self-Interest, Oaths, and Witnesses Who Retract",
+        "he": "כתובות י״ח — נגיעה עצמית, שבועה, ועדים החוזרים בהם"
+      },
+      "parashah": {
+        "en": "Ketubot 18",
+        "he": "כתובות דף 18"
+      },
+      "target_shabbat": "2029-12-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-19",
+      "title": {
+        "en": "Kesuvos 19 — Documents of Trust, Protests, and Conditions",
+        "he": "כתובות י״ט — שטר אמנה, מודעא ותנאי"
+      },
+      "parashah": {
+        "en": "Ketubot 19",
+        "he": "כתובות דף 19"
+      },
+      "target_shabbat": "2029-12-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-20",
+      "title": {
+        "en": "Kesuvos 20 — Contradiction, Authentication, and the Memory of a Witness",
+        "he": "כתובות כ׳ — הכחשה, קיום שטרות, וזיכרונו של עד"
+      },
+      "parashah": {
+        "en": "Ketubot 20",
+        "he": "כתובות דף 20"
+      },
+      "target_shabbat": "2029-12-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-21",
+      "title": {
+        "en": "Kesuvos 21 — Witness and Judge: Who May Confirm a Document",
+        "he": "כתובות כ״א — עד ודיין: מי מקיים את השטר"
+      },
+      "parashah": {
+        "en": "Ketubot 21",
+        "he": "כתובות דף 21"
+      },
+      "target_shabbat": "2029-12-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-22",
+      "title": {
+        "en": "Kesuvos 22 — The Mouth That Forbade, a Plausible Reason, and Conflicting Reports",
+        "he": "כתובות כ״ב — הפה שאסר, אמתלא, ועדויות סותרות"
+      },
+      "parashah": {
+        "en": "Ketubot 22",
+        "he": "כתובות דף 22"
+      },
+      "target_shabbat": "2029-12-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-23",
+      "title": {
+        "en": "Kesuvos 23 — Captive Women, the Daughters of Shmuel, and Testimony for One Another",
+        "he": "כתובות כ״ג — שבויות, בנותיו של שמואל, ועדות זו על זו"
+      },
+      "parashah": {
+        "en": "Ketubot 23",
+        "he": "כתובות דף 23"
+      },
+      "target_shabbat": "2029-12-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-24",
+      "title": {
+        "en": "Kesuvos 24 — Mutual Testimony and the Evidence of Priesthood",
+        "he": "כתובות כ״ד — עדות הדדית וראיות לכהונה"
+      },
+      "parashah": {
+        "en": "Ketubot 24",
+        "he": "כתובות דף 24"
+      },
+      "target_shabbat": "2029-12-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-25",
+      "title": {
+        "en": "Kesuvos 25 — Great Is Presumption: Terumah, Ḥallah, and the First Aliyah",
+        "he": "כתובות כ״ה — גדולה חזקה: תרומה, חלה ועליה ראשונה"
+      },
+      "parashah": {
+        "en": "Ketubot 25",
+        "he": "כתובות דף 25"
+      },
+      "target_shabbat": "2030-01-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-26",
+      "title": {
+        "en": "Kesuvos 26 — Innocent Speech, Tithes, and the Dignity of the Court",
+        "he": "כתובות כ״ו — מסיח לפי תומו, מעשרות, וזילותא דבי דינא"
+      },
+      "parashah": {
+        "en": "Ketubot 26",
+        "he": "כתובות דף 26"
+      },
+      "target_shabbat": "2030-01-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-27",
+      "title": {
+        "en": "Kesuvos 27 — A Conquered City, a Hiding Place, and the Witness Who Cannot Testify for Himself",
+        "he": "כתובות כ״ז — עיר שנכבשה, מחבואה, ואין אדם מעיד על עצמו"
+      },
+      "parashah": {
+        "en": "Ketubot 27",
+        "he": "כתובות דף 27"
+      },
+      "target_shabbat": "2030-01-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-28",
+      "title": {
+        "en": "Kesuvos 28 — Distance After Divorce and Memories From Childhood",
+        "he": "כתובות כ״ח — ריחוק לאחר גירושין וזכרונות מן הילדות"
+      },
+      "parashah": {
+        "en": "Ketubot 28",
+        "he": "כתובות דף 28"
+      },
+      "target_shabbat": "2030-01-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-29",
+      "title": {
+        "en": "Kesuvos 29 — The Fine and the Women It Protects",
+        "he": "כתובות כ״ט — הקנס והנשים שהוא מגן עליהן"
+      },
+      "parashah": {
+        "en": "Ketubot 29",
+        "he": "כתובות דף 29"
+      },
+      "target_shabbat": "2030-01-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-30",
+      "title": {
+        "en": "Kesuvos 30 — Karet and Payment: When a Graver Penalty Exempts From Money",
+        "he": "כתובות ל׳ — כרת ותשלומין: מתי עונש חמור פוטר מממון"
+      },
+      "parashah": {
+        "en": "Ketubot 30",
+        "he": "כתובות דף 30"
+      },
+      "target_shabbat": "2030-01-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-31",
+      "title": {
+        "en": "Kesuvos 31 — The Arrow, the Stolen Purse, and the Moment of Acquisition",
+        "he": "כתובות ל״א — החץ, הכיס הגנוב, ורגע הקניין"
+      },
+      "parashah": {
+        "en": "Ketubot 31",
+        "he": "כתובות דף 31"
+      },
+      "target_shabbat": "2030-01-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-32",
+      "title": {
+        "en": "Kesuvos 32 — Lashes or Payment: Ulla and Rabbi Yoḥanan",
+        "he": "כתובות ל״ב — מלקות או ממון: עולא ורבי יוחנן"
+      },
+      "parashah": {
+        "en": "Ketubot 32",
+        "he": "כתובות דף 32"
+      },
+      "target_shabbat": "2030-01-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-33",
+      "title": {
+        "en": "Kesuvos 33 — Warnings, Graver Penalties, and Flogging Without Limit",
+        "he": "כתובות ל״ג — התראה, דבר חמור, והכאה שאין לה קצבה"
+      },
+      "parashah": {
+        "en": "Ketubot 33",
+        "he": "כתובות דף 33"
+      },
+      "target_shabbat": "2030-01-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-34",
+      "title": {
+        "en": "Kesuvos 34 — Stolen, Slaughtered, Borrowed: Timing and the Graver Penalty",
+        "he": "כתובות ל״ד — גנוב, טבוח, שאול: עיתוי וקים ליה בדרבה מיניה"
+      },
+      "parashah": {
+        "en": "Ketubot 34",
+        "he": "כתובות דף 34"
+      },
+      "target_shabbat": "2030-01-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-35",
+      "title": {
+        "en": "Kesuvos 35 — Lashes and Money: Which Inadvertent Sins Exempt from Payment",
+        "he": "כתובות ל״ה — מלקות וממון: אילו עבירות בשוגג פוטרות מתשלום"
+      },
+      "parashah": {
+        "en": "Ketubot 35",
+        "he": "כתובות דף 35"
+      },
+      "target_shabbat": "2030-01-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-36",
+      "title": {
+        "en": "Kesuvos 36 — Who Receives No Fine: Forbidden Relations, Refusers, Aylonit, Captives",
+        "he": "כתובות ל״ו — מי שאין לה קנס: עריות, ממאנת, איילונית ושבויה"
+      },
+      "parashah": {
+        "en": "Ketubot 36",
+        "he": "כתובות דף 36"
+      },
+      "target_shabbat": "2030-01-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-37",
+      "title": {
+        "en": "Kesuvos 37 — One Wickedness, One Penalty: The Waiting Period and the Ban on Ransom",
+        "he": "כתובות ל״ז — רשעה אחת ועונש אחד: ההמתנה וכופר הנפש"
+      },
+      "parashah": {
+        "en": "Ketubot 37",
+        "he": "כתובות דף 37"
+      },
+      "target_shabbat": "2030-01-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-38",
+      "title": {
+        "en": "Kesuvos 38 — The Betrothed and Divorced Na'arah: Does She Receive a Fine?",
+        "he": "כתובות ל״ח — נערה שנתארסה ונתגרשה: האם יש לה קנס?"
+      },
+      "parashah": {
+        "en": "Ketubot 38",
+        "he": "כתובות דף 38"
+      },
+      "target_shabbat": "2030-01-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-39",
+      "title": {
+        "en": "Kesuvos 39 — The Seducer and the Offender: Three Payments and Four",
+        "he": "כתובות ל״ט — המפתה והאונס: שלושה דברים וארבעה"
+      },
+      "parashah": {
+        "en": "Ketubot 39",
+        "he": "כתובות דף 39"
+      },
+      "target_shabbat": "2030-01-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-40",
+      "title": {
+        "en": "Kesuvos 40 — Shame, Loss of Value and the Fixed Fine",
+        "he": "כתובות מ׳ — בושת, פגם וקנס קצוב"
+      },
+      "parashah": {
+        "en": "Ketubot 40",
+        "he": "כתובות דף 40"
+      },
+      "target_shabbat": "2030-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-41",
+      "title": {
+        "en": "Kesuvos 41 — Self-Admission and Fines: Is Half-Damages Money or a Penalty?",
+        "he": "כתובות מ״א — מודה בקנס: פלגא נזקא ממונא או קנסא?"
+      },
+      "parashah": {
+        "en": "Ketubot 41",
+        "he": "כתובות דף 41"
+      },
+      "target_shabbat": "2030-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-42",
+      "title": {
+        "en": "Kesuvos 42 — A Fine After Judgment: Money for Inheritance, Fine for the Oath",
+        "he": "כתובות מ״ב — קנס אחרי עמידה בדין: ממון להורישו, קנס לקרבן שבועה"
+      },
+      "parashah": {
+        "en": "Ketubot 42",
+        "he": "כתובות דף 42"
+      },
+      "target_shabbat": "2030-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-43",
+      "title": {
+        "en": "Kesuvos 43 — A Daughter Supported by Her Brothers, and Whose Kesubah Is It?",
+        "he": "כתובות מ״ג — בת הניזונת מן האחין, וכתובתה של מי?"
+      },
+      "parashah": {
+        "en": "Ketubot 43",
+        "he": "כתובות דף 43"
+      },
+      "target_shabbat": "2030-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-44",
+      "title": {
+        "en": "Kesuvos 44 — Two Documents, the Convert's Daughter, and Defamation",
+        "he": "כתובות מ״ד — שני שטרות, בת הגיורת, ומוציא שם רע"
+      },
+      "parashah": {
+        "en": "Ketubot 44",
+        "he": "כתובות דף 44"
+      },
+      "target_shabbat": "2030-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-45",
+      "title": {
+        "en": "Kesuvos 45 — When the Status Changes: Na'arah or Bogeres at Judgment",
+        "he": "כתובות מ״ה — כשהמעמד משתנה: נערה או בוגרת בשעת הדין"
+      },
+      "parashah": {
+        "en": "Ketubot 45",
+        "he": "כתובות דף 45"
+      },
+      "target_shabbat": "2030-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-46",
+      "title": {
+        "en": "Kesuvos 46 — The Defamer's Punishment and a Father's Rights",
+        "he": "כתובות מ״ו — עונש המוציא שם רע וזכויות האב בבתו"
+      },
+      "parashah": {
+        "en": "Ketubot 46",
+        "he": "כתובות דף 46"
+      },
+      "target_shabbat": "2030-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-47",
+      "title": {
+        "en": "Kesuvos 47 — Rights and Duties: Father, Husband and the Balance of Obligations",
+        "he": "כתובות מ״ז — זכויות וחובות: האב, הבעל ואיזון ההתחייבויות"
+      },
+      "parashah": {
+        "en": "Ketubot 47",
+        "he": "כתובות דף 47"
+      },
+      "target_shabbat": "2030-01-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-48",
+      "title": {
+        "en": "Kesuvos 48 — She Rises With Him: Support, Burial and the Moment of Transfer",
+        "he": "כתובות מ״ח — עולה עמו ואינה יורדת: מזונות, קבורה ורגע המסירה"
+      },
+      "parashah": {
+        "en": "Ketubot 48",
+        "he": "כתובות דף 48"
+      },
+      "target_shabbat": "2030-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-49",
+      "title": {
+        "en": "Kesuvos 49 — A Father's Duty to Feed His Children",
+        "he": "כתובות מ״ט — חובת האב לזון את ילדיו"
+      },
+      "parashah": {
+        "en": "Ketubot 49",
+        "he": "כתובות דף 49"
+      },
+      "target_shabbat": "2030-01-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-50",
+      "title": {
+        "en": "Kesuvos 50 — The Enactments of Usha: Charity, Education and Daughters' Support",
+        "he": "כתובות נ׳ — תקנות אושא: צדקה, חינוך ומזונות הבנות"
+      },
+      "parashah": {
+        "en": "Ketubot 50",
+        "he": "כתובות דף 50"
+      },
+      "target_shabbat": "2030-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-51",
+      "title": {
+        "en": "Kesuvos 51 — Conditions of the Court: What the Kesubah Guarantees Even Unwritten",
+        "he": "כתובות נ״א — תנאי בית דין: מה הכתובה מבטיחה גם בלי שנכתב"
+      },
+      "parashah": {
+        "en": "Ketubot 51",
+        "he": "כתובות דף 51"
+      },
+      "target_shabbat": "2030-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-52",
+      "title": {
+        "en": "Kesuvos 52 — Ransom, Healing and the Sons' Kesubah",
+        "he": "כתובות נ״ב — פדיון, ריפוי וכתובת בנין דכרין"
+      },
+      "parashah": {
+        "en": "Ketubot 52",
+        "he": "כתובות דף 52"
+      },
+      "target_shabbat": "2030-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-53",
+      "title": {
+        "en": "Kesuvos 53 — Transferring an Inheritance, Waiving a Kesubah, and a Daughter's Support",
+        "he": "כתובות נ״ג — העברת נחלה, מחילת כתובה ומזונות הבת"
+      },
+      "parashah": {
+        "en": "Ketubot 53",
+        "he": "כתובות דף 53"
+      },
+      "target_shabbat": "2030-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-54",
+      "title": {
+        "en": "Kesuvos 54 — The Widow's Support and the Additional Kesubah",
+        "he": "כתובות נ״ד — מזונות האלמנה ותוספת כתובה"
+      },
+      "parashah": {
+        "en": "Ketubot 54",
+        "he": "כתובות דף 54"
+      },
+      "target_shabbat": "2030-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-55",
+      "title": {
+        "en": "Kesuvos 55 — Pumbedita and Mata Meḥasya: Four Disputes, and Following the Intent",
+        "he": "כתובות נ״ה — פומבדיתא ומתא מחסיא: ארבע מחלוקות, והליכה אחר האומדנא"
+      },
+      "parashah": {
+        "en": "Ketubot 55",
+        "he": "כתובות דף 55"
+      },
+      "target_shabbat": "2030-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-56",
+      "title": {
+        "en": "Kesuvos 56 — The Affection of the Ḥuppah and Reducing the Kesubah",
+        "he": "כתובות נ״ו — חיבת חופה ופחיתת הכתובה"
+      },
+      "parashah": {
+        "en": "Ketubot 56",
+        "he": "כתובות דף 56"
+      },
+      "target_shabbat": "2030-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-57",
+      "title": {
+        "en": "Kesuvos 57 — Twelve Months to Prepare, and Teruma for the Betrothed",
+        "he": "כתובות נ״ז — שנים עשר חודש להכנה, ותרומה לארוסה"
+      },
+      "parashah": {
+        "en": "Ketubot 57",
+        "he": "כתובות דף 57"
+      },
+      "target_shabbat": "2030-02-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-58",
+      "title": {
+        "en": "Kesuvos 58 — Teruma for the Betrothed, and a Wife's Earnings",
+        "he": "כתובות נ״ח — תרומה לארוסה, ומעשה ידי האישה"
+      },
+      "parashah": {
+        "en": "Ketubot 58",
+        "he": "כתובות דף 58"
+      },
+      "target_shabbat": "2030-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-59",
+      "title": {
+        "en": "Kesuvos 59 — Consecrating What Is Not Yet Made, and the Work a Wife Does",
+        "he": "כתובות נ״ט — הקדשת דבר שלא בא לעולם, ומלאכות שהאישה עושה"
+      },
+      "parashah": {
+        "en": "Ketubot 59",
+        "he": "כתובות דף 59"
+      },
+      "target_shabbat": "2030-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-60",
+      "title": {
+        "en": "Kesuvos 60 — Nursing: The Child Who Knows His Mother",
+        "he": "כתובות ס׳ — הנקה: התינוק המכיר את אמו"
+      },
+      "parashah": {
+        "en": "Ketubot 60",
+        "he": "כתובות דף 60"
+      },
+      "target_shabbat": "2030-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-61",
+      "title": {
+        "en": "Kesuvos 61 — Rising With Him, a Wife's Duties, and the Craving That Must Be Met",
+        "he": "כתובות ס״א — עולה עמו, חובות האישה, ותאווה שיש למלאותה"
+      },
+      "parashah": {
+        "en": "Ketubot 61",
+        "he": "כתובות דף 61"
+      },
+      "target_shabbat": "2030-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-62",
+      "title": {
+        "en": "Kesuvos 62 — Torah Study Away From Home and the Wife Who Waits",
+        "he": "כתובות ס״ב — לימוד תורה הרחק מן הבית והאישה הממתינה"
+      },
+      "parashah": {
+        "en": "Ketubot 62",
+        "he": "כתובות דף 62"
+      },
+      "target_shabbat": "2030-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-63",
+      "title": {
+        "en": "Kesuvos 63 — Rabbi Akiva's Wife and the Rebellious Spouse",
+        "he": "כתובות ס״ג — אשת רבי עקיבא והמורדת על בעלה"
+      },
+      "parashah": {
+        "en": "Ketubot 63",
+        "he": "כתובות דף 63"
+      },
+      "target_shabbat": "2030-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-64",
+      "title": {
+        "en": "Kesuvos 64 — The Letter of Rebellion and a Wife's Minimum Provisions",
+        "he": "כתובות ס״ד — אגרת מרד ומזונות האישה המינימליים"
+      },
+      "parashah": {
+        "en": "Ketubot 64",
+        "he": "כתובות דף 64"
+      },
+      "target_shabbat": "2030-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-65",
+      "title": {
+        "en": "Kesuvos 65 — Wine, Bedding and Shoes: The Details of a Wife's Provisions",
+        "he": "כתובות ס״ה — יין, מצעים ומנעלים: פרטי מזונות האישה"
+      },
+      "parashah": {
+        "en": "Ketubot 65",
+        "he": "כתובות דף 65"
+      },
+      "target_shabbat": "2030-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-66",
+      "title": {
+        "en": "Kesuvos 66 — A Wife's Finds, the Dowry Assessment, and Nakdimon's Daughter",
+        "he": "כתובות ס״ו — מציאת האישה, שומת הנדוניה ובת נקדימון"
+      },
+      "parashah": {
+        "en": "Ketubot 66",
+        "he": "כתובות דף 66"
+      },
+      "target_shabbat": "2030-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-67",
+      "title": {
+        "en": "Kesuvos 67 — Gold in the Kesubah, Dowries for Orphans, and Charity With Dignity",
+        "he": "כתובות ס״ז — זהב בכתובה, נדוניה ליתומה, וצדקה בכבוד"
+      },
+      "parashah": {
+        "en": "Ketubot 67",
+        "he": "כתובות דף 67"
+      },
+      "target_shabbat": "2030-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-68",
+      "title": {
+        "en": "Kesuvos 68 — Deceivers, Selling Possessions, and an Orphan's Dowry",
+        "he": "כתובות ס״ח — רמאים, מכירת חפצים, ונדוניית היתומה"
+      },
+      "parashah": {
+        "en": "Ketubot 68",
+        "he": "כתובות דף 68"
+      },
+      "target_shabbat": "2030-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-69",
+      "title": {
+        "en": "Kesuvos 69 — A Daughter's Tenth: Heir or Creditor?",
+        "he": "כתובות ס״ט — עישור נכסים לבת: יורשת או בעלת חוב?"
+      },
+      "parashah": {
+        "en": "Ketubot 69",
+        "he": "כתובות דף 69"
+      },
+      "target_shabbat": "2030-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-70",
+      "title": {
+        "en": "Kesuvos 70 — A Husband's Vow Against His Wife",
+        "he": "כתובות ע׳ — המדיר את אשתו"
+      },
+      "parashah": {
+        "en": "Ketubot 70",
+        "he": "כתובות דף 70"
+      },
+      "target_shabbat": "2030-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-71",
+      "title": {
+        "en": "Kesuvos 71 — Vows on Adornment and Visiting Her Father's House",
+        "he": "כתובות ע״א — נדרים על קישוט וביקור בבית אביה"
+      },
+      "parashah": {
+        "en": "Ketubot 71",
+        "he": "כתובות דף 71"
+      },
+      "target_shabbat": "2030-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-72",
+      "title": {
+        "en": "Kesuvos 72 — A Wife Who Transgresses: Dat Moshe and Dat Yehudit",
+        "he": "כתובות ע״ב — העוברת על דת משה ויהודית"
+      },
+      "parashah": {
+        "en": "Ketubot 72",
+        "he": "כתובות דף 72"
+      },
+      "target_shabbat": "2030-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-73",
+      "title": {
+        "en": "Kesuvos 73 — A Conditional Betrothal Followed by an Unconditional Marriage",
+        "he": "כתובות ע״ג — קידשה על תנאי וכנסה סתם"
+      },
+      "parashah": {
+        "en": "Ketubot 73",
+        "he": "כתובות דף 73"
+      },
+      "target_shabbat": "2030-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-74",
+      "title": {
+        "en": "Kesuvos 74 — Conditions, Loans and Annulling a Vow",
+        "he": "כתובות ע״ד — תנאים, מלווה והתרת נדר"
+      },
+      "parashah": {
+        "en": "Ketubot 74",
+        "he": "כתובות דף 74"
+      },
+      "target_shabbat": "2030-02-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-75",
+      "title": {
+        "en": "Kesuvos 75 — Defects in Marriage and the Burden of Proof",
+        "he": "כתובות ע״ה — מומים בנישואין ונטל הראיה"
+      },
+      "parashah": {
+        "en": "Ketubot 75",
+        "he": "כתובות דף 75"
+      },
+      "target_shabbat": "2030-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-76",
+      "title": {
+        "en": "Kesuvos 76 — Whose Doubt? The Cow and the Donkey",
+        "he": "כתובות ע״ו — ספק ברשות מי? פרה וחמור"
+      },
+      "parashah": {
+        "en": "Ketubot 76",
+        "he": "כתובות דף 76"
+      },
+      "target_shabbat": "2030-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-77",
+      "title": {
+        "en": "Kesuvos 77 — A Husband's Defects and Rabbi Yehoshua ben Levi",
+        "he": "כתובות ע״ז — מומי הבעל ורבי יהושע בן לוי"
+      },
+      "parashah": {
+        "en": "Ketubot 77",
+        "he": "כתובות דף 77"
+      },
+      "target_shabbat": "2030-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-78",
+      "title": {
+        "en": "Kesuvos 78 — A Wife's Sale of Her Own Property",
+        "he": "כתובות ע״ח — אשה שמכרה מנכסיה"
+      },
+      "parashah": {
+        "en": "Ketubot 78",
+        "he": "כתובות דף 78"
+      },
+      "target_shabbat": "2030-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-79",
+      "title": {
+        "en": "Kesuvos 79 — Sheltering Property and Converting the Wife's Assets",
+        "he": "כתובות ע״ט — שטר מברחת והמרת נכסי האישה"
+      },
+      "parashah": {
+        "en": "Ketubot 79",
+        "he": "כתובות דף 79"
+      },
+      "target_shabbat": "2030-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-80",
+      "title": {
+        "en": "Kesuvos 80 — Expenses, Sharecroppers, and the Levirate Widow's Property",
+        "he": "כתובות פ׳ — הוצאות, אריסים ונכסי שומרת יבם"
+      },
+      "parashah": {
+        "en": "Ketubot 80",
+        "he": "כתובות דף 80"
+      },
+      "target_shabbat": "2030-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-81",
+      "title": {
+        "en": "Kesuvos 81 — Who Buries the Levirate Widow, and May the Levir Sell?",
+        "he": "כתובות פ״א — מי קובר את שומרת היבם, והאם רשאי היבם למכור?"
+      },
+      "parashah": {
+        "en": "Ketubot 81",
+        "he": "כתובות דף 81"
+      },
+      "target_shabbat": "2030-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-82",
+      "title": {
+        "en": "Kesuvos 82 — The Levir's Property and Shimon ben Shataḥ's Enactment",
+        "he": "כתובות פ״ב — נכסי היבם ותקנת שמעון בן שטח"
+      },
+      "parashah": {
+        "en": "Ketubot 82",
+        "he": "כתובות דף 82"
+      },
+      "target_shabbat": "2030-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-83",
+      "title": {
+        "en": "Kesuvos 83 — “I Have No Claim to Your Property”",
+        "he": "כתובות פ״ג — ״דין ודברים אין לי בנכסיך״"
+      },
+      "parashah": {
+        "en": "Ketubot 83",
+        "he": "כתובות דף 83"
+      },
+      "target_shabbat": "2030-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-84",
+      "title": {
+        "en": "Kesuvos 84 — Rav's Ruling and the Insolvent Estate",
+        "he": "כתובות פ״ד — פסק רב והעיזבון שאינו מספיק"
+      },
+      "parashah": {
+        "en": "Ketubot 84",
+        "he": "כתובות דף 84"
+      },
+      "target_shabbat": "2030-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-85",
+      "title": {
+        "en": "Kesuvos 85 — Seizing After Death, Trusted Testimony and Deposits",
+        "he": "כתובות פ״ה — תפיסה לאחר מיתה, נאמנות ופקדונות"
+      },
+      "parashah": {
+        "en": "Ketubot 85",
+        "he": "כתובות דף 85"
+      },
+      "target_shabbat": "2030-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-86",
+      "title": {
+        "en": "Kesuvos 86 — Forgiving a Sold Debt and the Wife Who Manages His Affairs",
+        "he": "כתובות פ״ו — מחילת שטר שנמכר והאשה שמונתה אפוטרופיא"
+      },
+      "parashah": {
+        "en": "Ketubot 86",
+        "he": "כתובות דף 86"
+      },
+      "target_shabbat": "2030-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-87",
+      "title": {
+        "en": "Kesuvos 87 — Oath Formulas and the Woman Who Reduces Her Kesubah",
+        "he": "כתובות פ״ז — לשונות פטור משבועה והפוגמת כתובתה"
+      },
+      "parashah": {
+        "en": "Ketubot 87",
+        "he": "כתובות דף 87"
+      },
+      "target_shabbat": "2030-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-88",
+      "title": {
+        "en": "Kesuvos 88 — A Torah Oath, Orphans and Collecting in Absence",
+        "he": "כתובות פ״ח — שבועה דאורייתא, יתומים וגבייה שלא בפניו"
+      },
+      "parashah": {
+        "en": "Ketubot 88",
+        "he": "כתובות דף 88"
+      },
+      "target_shabbat": "2030-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-89",
+      "title": {
+        "en": "Kesuvos 89 — A Get Without a Kesubah, and Receipts",
+        "he": "כתובות פ״ט — גט בלא כתובה, וכתיבת שובר"
+      },
+      "parashah": {
+        "en": "Ketubot 89",
+        "he": "כתובות דף 89"
+      },
+      "target_shabbat": "2030-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-90",
+      "title": {
+        "en": "Kesuvos 90 — Two Wives and the Sons' Kesubah",
+        "he": "כתובות צ׳ — שתי נשים וכתובת בנין דכרין"
+      },
+      "parashah": {
+        "en": "Ketubot 90",
+        "he": "כתובות דף 90"
+      },
+      "target_shabbat": "2030-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-91",
+      "title": {
+        "en": "Kesuvos 91 — The Dinar Surplus and Paying Off a Creditor",
+        "he": "כתובות צ״א — מותר דינר ופריעת בעל חוב"
+      },
+      "parashah": {
+        "en": "Ketubot 91",
+        "he": "כתובות דף 91"
+      },
+      "target_shabbat": "2030-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-92",
+      "title": {
+        "en": "Kesuvos 92 — Guarantees in Land Sales",
+        "he": "כתובות צ״ב — אחריות במכירת קרקע"
+      },
+      "parashah": {
+        "en": "Ketubot 92",
+        "he": "כתובות דף 92"
+      },
+      "target_shabbat": "2030-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-93",
+      "title": {
+        "en": "Kesuvos 93 — Dividing an Estate Among Three Kesubos",
+        "he": "כתובות צ״ג — חלוקת עיזבון בין שלוש כתובות"
+      },
+      "parashah": {
+        "en": "Ketubot 93",
+        "he": "כתובות דף 93"
+      },
+      "target_shabbat": "2030-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-94",
+      "title": {
+        "en": "Kesuvos 94 — Two Documents on the Same Day",
+        "he": "כתובות צ״ד — שני שטרות היוצאים ביום אחד"
+      },
+      "parashah": {
+        "en": "Ketubot 94",
+        "he": "כתובות דף 94"
+      },
+      "target_shabbat": "2030-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-95",
+      "title": {
+        "en": "Kesuvos 95 — A Wife Who Waived Her Claim to a Sold Field",
+        "he": "כתובות צ״ה — אשה שכתבה ללוקח ״דין ודברים אין לי עמך״"
+      },
+      "parashah": {
+        "en": "Ketubot 95",
+        "he": "כתובות דף 95"
+      },
+      "target_shabbat": "2030-03-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-96",
+      "title": {
+        "en": "Kesuvos 96 — The Widow's Duties and the Student's Service",
+        "he": "כתובות צ״ו — חובות האלמנה ושימוש התלמיד"
+      },
+      "parashah": {
+        "en": "Ketubot 96",
+        "he": "כתובות דף 96"
+      },
+      "target_shabbat": "2030-03-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-97",
+      "title": {
+        "en": "Kesuvos 97 — Selling for the Widow's Support",
+        "he": "כתובות צ״ז — מכירה למזונות האלמנה"
+      },
+      "parashah": {
+        "en": "Ketubot 97",
+        "he": "כתובות דף 97"
+      },
+      "target_shabbat": "2030-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-98",
+      "title": {
+        "en": "Kesuvos 98 — The Widow's Sale and the Agent Who Exceeded His Mission",
+        "he": "כתובות צ״ח — מכירת האלמנה ושליח שהוסיף על דבריו"
+      },
+      "parashah": {
+        "en": "Ketubot 98",
+        "he": "כתובות דף 98"
+      },
+      "target_shabbat": "2030-03-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-99",
+      "title": {
+        "en": "Kesuvos 99 — The Agent's Deviation and the Judges' Valuation",
+        "he": "כתובות צ״ט — סטיית השליח ושום הדיינים"
+      },
+      "parashah": {
+        "en": "Ketubot 99",
+        "he": "כתובות דף 99"
+      },
+      "target_shabbat": "2030-03-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-100",
+      "title": {
+        "en": "Kesuvos 100 — The Strength of the Court",
+        "he": "כתובות ק׳ — מה כח בית דין יפה"
+      },
+      "parashah": {
+        "en": "Ketubot 100",
+        "he": "כתובות דף 100"
+      },
+      "target_shabbat": "2030-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-101",
+      "title": {
+        "en": "Kesuvos 101 — The Minor's Annulment, Worn Items, and Supporting a Stepdaughter",
+        "he": "כתובות ק״א — ממאנת, בלאות, ומזונות בת האשה"
+      },
+      "parashah": {
+        "en": "Ketubot 101",
+        "he": "כתובות דף 101"
+      },
+      "target_shabbat": "2030-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-102",
+      "title": {
+        "en": "Kesuvos 102 — Commitments Acquired by Words Alone",
+        "he": "כתובות ק״ב — דברים הנקנים באמירה"
+      },
+      "parashah": {
+        "en": "Ketubot 102",
+        "he": "כתובות דף 102"
+      },
+      "target_shabbat": "2030-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-103",
+      "title": {
+        "en": "Kesuvos 103 — The Widow's Home and Rebbi's Last Instructions",
+        "he": "כתובות ק״ג — מדור האלמנה וצוואת רבי"
+      },
+      "parashah": {
+        "en": "Ketubot 103",
+        "he": "כתובות דף 103"
+      },
+      "target_shabbat": "2030-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-104",
+      "title": {
+        "en": "Kesuvos 104 — Rebbi's Passing and the Twenty-Five Years",
+        "he": "כתובות ק״ד — פטירת רבי ועשרים וחמש שנים"
+      },
+      "parashah": {
+        "en": "Ketubot 104",
+        "he": "כתובות דף 104"
+      },
+      "target_shabbat": "2030-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-105",
+      "title": {
+        "en": "Kesuvos 105 — The Judges of Jerusalem and the Bribe",
+        "he": "כתובות ק״ה — דייני גזירות שבירושלים ושוחד"
+      },
+      "parashah": {
+        "en": "Ketubot 105",
+        "he": "כתובות דף 105"
+      },
+      "target_shabbat": "2030-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-106",
+      "title": {
+        "en": "Kesuvos 106 — Rav Anan and Elijah, and the Temple Treasury",
+        "he": "כתובות ק״ו — רב ענן ואליהו, ותרומת הלשכה"
+      },
+      "parashah": {
+        "en": "Ketubot 106",
+        "he": "כתובות דף 106"
+      },
+      "target_shabbat": "2030-03-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-107",
+      "title": {
+        "en": "Kesuvos 107 — Support for a Wife Whose Husband Is Abroad",
+        "he": "כתובות ק״ז — מזונות לאשה שבעלה במדינת הים"
+      },
+      "parashah": {
+        "en": "Ketubot 107",
+        "he": "כתובות דף 107"
+      },
+      "target_shabbat": "2030-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-108",
+      "title": {
+        "en": "Kesuvos 108 — Paying Another's Debt and Admon's Rulings",
+        "he": "כתובות ק״ח — פורע חובו של חבירו ודברי אדמון"
+      },
+      "parashah": {
+        "en": "Ketubot 108",
+        "he": "כתובות דף 108"
+      },
+      "target_shabbat": "2030-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-109",
+      "title": {
+        "en": "Kesuvos 109 — Admon's Remaining Rulings",
+        "he": "כתובות ק״ט — שאר דברי אדמון"
+      },
+      "parashah": {
+        "en": "Ketubot 109",
+        "he": "כתובות דף 109"
+      },
+      "target_shabbat": "2030-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-110",
+      "title": {
+        "en": "Kesuvos 110 — Mutual Debts, Moving Residence, and the Land of Israel",
+        "he": "כתובות ק״י — שטרות זה על זה, הוצאה ממקום למקום, וארץ ישראל"
+      },
+      "parashah": {
+        "en": "Ketubot 110",
+        "he": "כתובות דף 110"
+      },
+      "target_shabbat": "2030-03-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-111",
+      "title": {
+        "en": "Kesuvos 111 — The Greatness of the Land of Israel",
+        "he": "כתובות קי״א — מעלת ארץ ישראל"
+      },
+      "parashah": {
+        "en": "Ketubot 111",
+        "he": "כתובות דף 111"
+      },
+      "target_shabbat": "2030-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-ketubot-112",
+      "title": {
+        "en": "Kesuvos 112 — Love of the Land and the End of the Tractate",
+        "he": "כתובות קי״ב — חיבת הארץ וסיום המסכת"
+      },
+      "parashah": {
+        "en": "Ketubot 112",
+        "he": "כתובות דף 112"
+      },
+      "target_shabbat": "2030-03-29",
+      "category": "talmud"
     }
   ]
 }

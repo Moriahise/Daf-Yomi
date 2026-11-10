@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-10T19:53:30.519014+02:00",
+  "calculated_at": "2026-11-11T00:13:54.525686+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-11-10",
-      "cycle": 14,
-      "day_in_cycle": 2502,
-      "tractate_id": "bekhorot",
-      "tractate": {
-        "en": "Bekhorot",
-        "he": "בכורות"
-      },
-      "daf": 53,
-      "label": {
-        "en": "Bekhorot 53",
-        "he": "בכורות דף 53"
-      },
-      "references": [
-        "Bekhorot 53a",
-        "Bekhorot 53b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Bekhorot_53a",
-        "https://www.sefaria.org/Bekhorot_53b"
-      ],
-      "id": "cycle-14-bekhorot-53",
-      "target_shabbat": "2026-11-10",
-      "hebrew_date": "ל׳ חשון תשפ״ז",
-      "israel": {
-        "en": "Bekhorot 53",
-        "he": "בכורות דף 53"
-      },
-      "diaspora": {
-        "en": "Bekhorot 53",
-        "he": "בכורות דף 53"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-11-11",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Keritot 16",
         "he": "כריתות דף 16"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-02-08",
+      "cycle": 14,
+      "day_in_cycle": 2592,
+      "tractate_id": "keritot",
+      "tractate": {
+        "en": "Keritot",
+        "he": "כריתות"
+      },
+      "daf": 17,
+      "label": {
+        "en": "Keritot 17",
+        "he": "כריתות דף 17"
+      },
+      "references": [
+        "Keritot 17a",
+        "Keritot 17b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Keritot_17a",
+        "https://www.sefaria.org/Keritot_17b"
+      ],
+      "id": "cycle-14-keritot-17",
+      "target_shabbat": "2027-02-08",
+      "hebrew_date": "א׳ אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Keritot 17",
+        "he": "כריתות דף 17"
+      },
+      "diaspora": {
+        "en": "Keritot 17",
+        "he": "כריתות דף 17"
       },
       "different_readings": false,
       "festival": null,
