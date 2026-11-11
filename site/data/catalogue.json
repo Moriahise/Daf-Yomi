@@ -16718,6 +16718,1176 @@
       },
       "target_shabbat": "2030-03-29",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-2",
+      "title": {
+        "en": "Nedarim 2 — Substitute Terms and Partial Declarations",
+        "he": "נדרים ב׳ — כינויי נדרים וידות"
+      },
+      "parashah": {
+        "en": "Nedarim 2",
+        "he": "נדרים דף 2"
+      },
+      "target_shabbat": "2030-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-3",
+      "title": {
+        "en": "Nedarim 3 — The Source for Partial Declarations",
+        "he": "נדרים ג׳ — מקור הידות"
+      },
+      "parashah": {
+        "en": "Nedarim 3",
+        "he": "נדרים דף 3"
+      },
+      "target_shabbat": "2030-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-4",
+      "title": {
+        "en": "Nedarim 4 — When a Nazir Delays, and Shmuel on “I Am Vowed from You”",
+        "he": "נדרים ד׳ — בל תאחר בנזיר, ושמואל במודרני ממך"
+      },
+      "parashah": {
+        "en": "Nedarim 4",
+        "he": "נדרים דף 4"
+      },
+      "target_shabbat": "2030-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-5",
+      "title": {
+        "en": "Nedarim 5 — “I Am Vowed from You” and Inconclusive Yados",
+        "he": "נדרים ה׳ — ״מודרני הימך״ וידים שאין מוכיחות"
+      },
+      "parashah": {
+        "en": "Nedarim 5",
+        "he": "נדרים דף 5"
+      },
+      "target_shabbat": "2030-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-6",
+      "title": {
+        "en": "Nedarim 6 — Yados in Offerings, Kiddushin and Pe'ah",
+        "he": "נדרים ו׳ — ידות בקרבן, בקידושין ובפאה"
+      },
+      "parashah": {
+        "en": "Nedarim 6",
+        "he": "נדרים דף 6"
+      },
+      "target_shabbat": "2030-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-7",
+      "title": {
+        "en": "Nedarim 7 — Yados for Charity, Hefker and a Privy, and the Language of Niduy",
+        "he": "נדרים ז׳ — יד לצדקה, להפקר ולבית הכסא, ולשון נידוי"
+      },
+      "parashah": {
+        "en": "Nedarim 7",
+        "he": "נדרים דף 7"
+      },
+      "target_shabbat": "2030-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-8",
+      "title": {
+        "en": "Nedarim 8 — Oaths to Fulfill Mitzvos, Dream Bans, and the Sun of Healing",
+        "he": "נדרים ח׳ — שבועה לקיים מצוה, נידוי בחלום, ושמש צדקה ומרפא"
+      },
+      "parashah": {
+        "en": "Nedarim 8",
+        "he": "נדרים דף 8"
+      },
+      "target_shabbat": "2030-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-9",
+      "title": {
+        "en": "Nedarim 9 — Vows of the Wicked, Gifts of the Upright, and the Nazir from the South",
+        "he": "נדרים ט׳ — נדרי רשעים, נדבות כשרים, והנזיר מן הדרום"
+      },
+      "parashah": {
+        "en": "Nedarim 9",
+        "he": "נדרים דף 9"
+      },
+      "target_shabbat": "2030-04-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-10",
+      "title": {
+        "en": "Nedarim 10 — The Nazir as Sinner, and Kinuyim",
+        "he": "נדרים י׳ — נזיר חוטא, וכינויים"
+      },
+      "parashah": {
+        "en": "Nedarim 10",
+        "he": "נדרים דף 10"
+      },
+      "target_shabbat": "2030-04-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-11",
+      "title": {
+        "en": "Nedarim 11 — “Le-ḥullin” and Associating with a Prohibited Item",
+        "he": "נדרים י״א — ״לחולין״ והתפסה"
+      },
+      "parashah": {
+        "en": "Nedarim 11",
+        "he": "נדרים דף 11"
+      },
+      "target_shabbat": "2030-04-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-12",
+      "title": {
+        "en": "Nedarim 12 — Original Status or Present State?",
+        "he": "נדרים י״ב — בעיקרו או בהיתרא?"
+      },
+      "parashah": {
+        "en": "Nedarim 12",
+        "he": "נדרים דף 12"
+      },
+      "target_shabbat": "2030-04-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-13",
+      "title": {
+        "en": "Nedarim 13 — “Ha-Korban”, “Konam My Mouth”, and the End of the First Chapter",
+        "he": "נדרים י״ג — ״הקרבן״, ״קונם פי מדבר עמך״, וסיום הפרק הראשון"
+      },
+      "parashah": {
+        "en": "Nedarim 13",
+        "he": "נדרים דף 13"
+      },
+      "target_shabbat": "2030-04-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-14",
+      "title": {
+        "en": "Nedarim 14 — A Vow Must Associate with a Vowed Item",
+        "he": "נדרים י״ד — עד שידור בדבר הנדור"
+      },
+      "parashah": {
+        "en": "Nedarim 14",
+        "he": "נדרים דף 14"
+      },
+      "target_shabbat": "2030-04-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-15",
+      "title": {
+        "en": "Nedarim 15 — Conditional Vows and Rav Yehudah's Concern",
+        "he": "נדרים ט״ו — נדרים בתנאי וחששו של רב יהודה"
+      },
+      "parashah": {
+        "en": "Nedarim 15",
+        "he": "נדרים דף 15"
+      },
+      "target_shabbat": "2030-04-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-16",
+      "title": {
+        "en": "Nedarim 16 — Stringencies of Oaths and of Vows",
+        "he": "נדרים ט״ז — חומר בשבועות וחומר בנדרים"
+      },
+      "parashah": {
+        "en": "Nedarim 16",
+        "he": "נדרים דף 16"
+      },
+      "target_shabbat": "2030-04-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-17",
+      "title": {
+        "en": "Nedarim 17 — A Vow Within a Vow",
+        "he": "נדרים י״ז — יש נדר בתוך נדר"
+      },
+      "parashah": {
+        "en": "Nedarim 17",
+        "he": "נדרים דף 17"
+      },
+      "target_shabbat": "2030-04-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-18",
+      "title": {
+        "en": "Nedarim 18 — Undefined Vows Are Stringent",
+        "he": "נדרים י״ח — סתם נדרים להחמיר"
+      },
+      "parashah": {
+        "en": "Nedarim 18",
+        "he": "נדרים דף 18"
+      },
+      "target_shabbat": "2030-04-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-19",
+      "title": {
+        "en": "Nedarim 19 — Placing Oneself into Doubt",
+        "he": "נדרים י״ט — מעייל איניש נפשיה לספיקא"
+      },
+      "parashah": {
+        "en": "Nedarim 19",
+        "he": "נדרים דף 19"
+      },
+      "target_shabbat": "2030-04-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-20",
+      "title": {
+        "en": "Nedarim 20 — Not Taking Vows Lightly",
+        "he": "נדרים כ׳ — שלא ינהגו קלות ראש בנדרים"
+      },
+      "parashah": {
+        "en": "Nedarim 20",
+        "he": "נדרים דף 20"
+      },
+      "target_shabbat": "2030-04-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-21",
+      "title": {
+        "en": "Nedarim 21 — Four Vows the Sages Permitted",
+        "he": "נדרים כ״א — ארבעה נדרים התירו חכמים"
+      },
+      "parashah": {
+        "en": "Nedarim 21",
+        "he": "נדרים דף 21"
+      },
+      "target_shabbat": "2030-04-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-22",
+      "title": {
+        "en": "Nedarim 22 — The Opened Ledger and the Angry Heart",
+        "he": "נדרים כ״ב — פנקס פתוח ולב רגז"
+      },
+      "parashah": {
+        "en": "Nedarim 22",
+        "he": "נדרים דף 22"
+      },
+      "target_shabbat": "2030-04-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-23",
+      "title": {
+        "en": "Nedarim 23 — Annulling Vows in Advance",
+        "he": "נדרים כ״ג — כל נדר שאני עתיד לידור"
+      },
+      "parashah": {
+        "en": "Nedarim 23",
+        "he": "נדרים דף 23"
+      },
+      "target_shabbat": "2030-04-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-24",
+      "title": {
+        "en": "Nedarim 24 — “This Is My Honor”",
+        "he": "נדרים כ״ד — ״זה הוא כבודי״"
+      },
+      "parashah": {
+        "en": "Nedarim 24",
+        "he": "נדרים דף 24"
+      },
+      "target_shabbat": "2030-04-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-25",
+      "title": {
+        "en": "Nedarim 25 — An Oath on Our Understanding",
+        "he": "נדרים כ״ה — על דעתנו ועל דעת המקום"
+      },
+      "parashah": {
+        "en": "Nedarim 25",
+        "he": "נדרים דף 25"
+      },
+      "target_shabbat": "2030-04-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-26",
+      "title": {
+        "en": "Nedarim 26 — A Vow Partly Annulled",
+        "he": "נדרים כ״ו — נדר שהותר מקצתו"
+      },
+      "parashah": {
+        "en": "Nedarim 26",
+        "he": "נדרים דף 26"
+      },
+      "target_shabbat": "2030-04-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-27",
+      "title": {
+        "en": "Nedarim 27 — Duress and the Unfulfilled Condition",
+        "he": "נדרים כ״ז — אונס ואסמכתא"
+      },
+      "parashah": {
+        "en": "Nedarim 27",
+        "he": "נדרים דף 27"
+      },
+      "target_shabbat": "2030-04-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-28",
+      "title": {
+        "en": "Nedarim 28 — Vowing to Murderers and Tax Collectors",
+        "he": "נדרים כ״ח — נודרין להרגין ולמוכסין"
+      },
+      "parashah": {
+        "en": "Nedarim 28",
+        "he": "נדרים דף 28"
+      },
+      "target_shabbat": "2030-04-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-29",
+      "title": {
+        "en": "Nedarim 29 — Sanctity That Lapses on Its Own",
+        "he": "נדרים כ״ט — קדושה שפוקעת בכדי"
+      },
+      "parashah": {
+        "en": "Nedarim 29",
+        "he": "נדרים דף 29"
+      },
+      "target_shabbat": "2030-04-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-30",
+      "title": {
+        "en": "Nedarim 30 — Seafarers, Sun-Seers and the Black-Haired",
+        "he": "נדרים ל׳ — יורדי הים, רואי החמה ושחורי הראש"
+      },
+      "parashah": {
+        "en": "Nedarim 30",
+        "he": "נדרים דף 30"
+      },
+      "target_shabbat": "2030-04-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-31",
+      "title": {
+        "en": "Nedarim 31 — Great Is Circumcision",
+        "he": "נדרים ל״א — גדולה מילה"
+      },
+      "parashah": {
+        "en": "Nedarim 31",
+        "he": "נדרים דף 31"
+      },
+      "target_shabbat": "2030-04-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-32",
+      "title": {
+        "en": "Nedarim 32 — Walk Before Me and Be Whole",
+        "he": "נדרים ל״ב — התהלך לפני והיה תמים"
+      },
+      "parashah": {
+        "en": "Nedarim 32",
+        "he": "נדרים דף 32"
+      },
+      "target_shabbat": "2030-04-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-33",
+      "title": {
+        "en": "Nedarim 33 — Chasing Away a Lion",
+        "he": "נדרים ל״ג — אברוחי ארי בעלמא"
+      },
+      "parashah": {
+        "en": "Nedarim 33",
+        "he": "נדרים דף 33"
+      },
+      "target_shabbat": "2030-04-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-34",
+      "title": {
+        "en": "Nedarim 34 — “My Loaf Is Forbidden to You”",
+        "he": "נדרים ל״ד — ״ככרי עליך״"
+      },
+      "parashah": {
+        "en": "Nedarim 34",
+        "he": "נדרים דף 34"
+      },
+      "target_shabbat": "2030-05-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-35",
+      "title": {
+        "en": "Nedarim 35 — Agents of Heaven or Agents of Ours?",
+        "he": "נדרים ל״ה — שלוחי דידן או שלוחי דשמיא?"
+      },
+      "parashah": {
+        "en": "Nedarim 35",
+        "he": "נדרים דף 35"
+      },
+      "target_shabbat": "2030-05-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-36",
+      "title": {
+        "en": "Nedarim 36 — Separating Terumah for Another",
+        "he": "נדרים ל״ו — התורם משלו על של חבירו"
+      },
+      "parashah": {
+        "en": "Nedarim 36",
+        "he": "נדרים דף 36"
+      },
+      "target_shabbat": "2030-05-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-37",
+      "title": {
+        "en": "Nedarim 37 — Payment for Teaching Torah",
+        "he": "נדרים ל״ז — שכר לימוד תורה"
+      },
+      "parashah": {
+        "en": "Nedarim 37",
+        "he": "נדרים דף 37"
+      },
+      "target_shabbat": "2030-05-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-38",
+      "title": {
+        "en": "Nedarim 38 — Strong, Wealthy, Wise and Humble",
+        "he": "נדרים ל״ח — גבור, עשיר, חכם ועניו"
+      },
+      "parashah": {
+        "en": "Nedarim 38",
+        "he": "נדרים דף 38"
+      },
+      "target_shabbat": "2030-05-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-39",
+      "title": {
+        "en": "Nedarim 39 — Visiting the Sick",
+        "he": "נדרים ל״ט — ביקור חולים"
+      },
+      "parashah": {
+        "en": "Nedarim 39",
+        "he": "נדרים דף 39"
+      },
+      "target_shabbat": "2030-05-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-40",
+      "title": {
+        "en": "Nedarim 40 — Whoever Visits the Sick Gives Him Life",
+        "he": "נדרים מ׳ — המבקר את החולה גורם לו שיחיה"
+      },
+      "parashah": {
+        "en": "Nedarim 40",
+        "he": "נדרים דף 40"
+      },
+      "target_shabbat": "2030-05-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-41",
+      "title": {
+        "en": "Nedarim 41 — Healing and the Forgotten Learning",
+        "he": "נדרים מ״א — רפואה ותלמוד שנשכח"
+      },
+      "parashah": {
+        "en": "Nedarim 41",
+        "he": "נדרים דף 41"
+      },
+      "target_shabbat": "2030-05-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-42",
+      "title": {
+        "en": "Nedarim 42 — Vows and the Sabbatical Year",
+        "he": "נדרים מ״ב — נדרים ושביעית"
+      },
+      "parashah": {
+        "en": "Nedarim 42",
+        "he": "נדרים דף 42"
+      },
+      "target_shabbat": "2030-05-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-43",
+      "title": {
+        "en": "Nedarim 43 — The Shopkeeper and the Ownerless Food",
+        "he": "נדרים מ״ג — החנווני וההפקר"
+      },
+      "parashah": {
+        "en": "Nedarim 43",
+        "he": "נדרים דף 43"
+      },
+      "target_shabbat": "2030-05-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-44",
+      "title": {
+        "en": "Nedarim 44 — Ownerless for a Day",
+        "he": "נדרים מ״ד — מופקרת ליום אחד"
+      },
+      "parashah": {
+        "en": "Nedarim 44",
+        "he": "נדרים דף 44"
+      },
+      "target_shabbat": "2030-05-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-45",
+      "title": {
+        "en": "Nedarim 45 — Partners Who Vowed",
+        "he": "נדרים מ״ה — השותפין שנדרו"
+      },
+      "parashah": {
+        "en": "Nedarim 45",
+        "he": "נדרים דף 45"
+      },
+      "target_shabbat": "2030-05-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-46",
+      "title": {
+        "en": "Nedarim 46 — Compelling the Vower to Sell",
+        "he": "נדרים מ״ו — כופין את הנודר למכור"
+      },
+      "parashah": {
+        "en": "Nedarim 46",
+        "he": "נדרים דף 46"
+      },
+      "target_shabbat": "2030-05-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-47",
+      "title": {
+        "en": "Nedarim 47 — Exchanges and Growths",
+        "he": "נדרים מ״ז — חילופיהן וגידוליהן"
+      },
+      "parashah": {
+        "en": "Nedarim 47",
+        "he": "נדרים דף 47"
+      },
+      "target_shabbat": "2030-05-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-48",
+      "title": {
+        "en": "Nedarim 48 — The Gift of Beis Choron",
+        "he": "נדרים מ״ח — מתנת בית חורון"
+      },
+      "parashah": {
+        "en": "Nedarim 48",
+        "he": "נדרים דף 48"
+      },
+      "target_shabbat": "2030-05-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-49",
+      "title": {
+        "en": "Nedarim 49 — “Cooked” and the Shining Face",
+        "he": "נדרים מ״ט — המבושל וחכמת אדם תאיר פניו"
+      },
+      "parashah": {
+        "en": "Nedarim 49",
+        "he": "נדרים דף 49"
+      },
+      "target_shabbat": "2030-05-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-50",
+      "title": {
+        "en": "Nedarim 50 — Rabbi Akiva and Kalba Savua's Daughter",
+        "he": "נדרים נ׳ — רבי עקיבא ובת כלבא שבוע"
+      },
+      "parashah": {
+        "en": "Nedarim 50",
+        "he": "נדרים דף 50"
+      },
+      "target_shabbat": "2030-05-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-51",
+      "title": {
+        "en": "Nedarim 51 — Pickled, Roasted and Fish",
+        "he": "נדרים נ״א — כבוש, צלי ודגים"
+      },
+      "parashah": {
+        "en": "Nedarim 51",
+        "he": "נדרים דף 51"
+      },
+      "target_shabbat": "2030-05-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-52",
+      "title": {
+        "en": "Nedarim 52 — Milk, Curds and What Comes From Them",
+        "he": "נדרים נ״ב — חלב וקום והיוצא מהם"
+      },
+      "parashah": {
+        "en": "Nedarim 52",
+        "he": "נדרים דף 52"
+      },
+      "target_shabbat": "2030-05-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-53",
+      "title": {
+        "en": "Nedarim 53 — Products That Carry the Name",
+        "he": "נדרים נ״ג — כל ששם תולדתו קרויה עליו"
+      },
+      "parashah": {
+        "en": "Nedarim 53",
+        "he": "נדרים דף 53"
+      },
+      "target_shabbat": "2030-05-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-54",
+      "title": {
+        "en": "Nedarim 54 — Would the Agent Ask?",
+        "he": "נדרים נ״ד — דמימליך עליה שליחא"
+      },
+      "parashah": {
+        "en": "Nedarim 54",
+        "he": "נדרים דף 54"
+      },
+      "target_shabbat": "2030-05-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-55",
+      "title": {
+        "en": "Nedarim 55 — From the Wilderness, a Gift",
+        "he": "נדרים נ״ה — וממדבר מתנה"
+      },
+      "parashah": {
+        "en": "Nedarim 55",
+        "he": "נדרים דף 55"
+      },
+      "target_shabbat": "2030-05-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-56",
+      "title": {
+        "en": "Nedarim 56 — House, Attic, Bed and Town",
+        "he": "נדרים נ״ו — בית, עלייה, מטה ועיר"
+      },
+      "parashah": {
+        "en": "Nedarim 56",
+        "he": "נדרים דף 56"
+      },
+      "target_shabbat": "2030-05-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-57",
+      "title": {
+        "en": "Nedarim 57 — Growths That Outweigh the Root",
+        "he": "נדרים נ״ז — רבו גידוליו על עיקרו"
+      },
+      "parashah": {
+        "en": "Nedarim 57",
+        "he": "נדרים דף 57"
+      },
+      "target_shabbat": "2030-05-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-58",
+      "title": {
+        "en": "Nedarim 58 — Shemittah Is Different",
+        "he": "נדרים נ״ח — שאני שביעית"
+      },
+      "parashah": {
+        "en": "Nedarim 58",
+        "he": "נדרים דף 58"
+      },
+      "target_shabbat": "2030-05-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-59",
+      "title": {
+        "en": "Nedarim 59 — Konamos Have a Remedy",
+        "he": "נדרים נ״ט — קונמות יש להם מתירין"
+      },
+      "parashah": {
+        "en": "Nedarim 59",
+        "he": "נדרים דף 59"
+      },
+      "target_shabbat": "2030-05-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-60",
+      "title": {
+        "en": "Nedarim 60 — Vows for a Set Time",
+        "he": "נדרים ס׳ — נדרים לזמן"
+      },
+      "parashah": {
+        "en": "Nedarim 60",
+        "he": "נדרים דף 60"
+      },
+      "target_shabbat": "2030-05-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-61",
+      "title": {
+        "en": "Nedarim 61 — Until the Summer",
+        "he": "נדרים ס״א — עד הקיץ"
+      },
+      "parashah": {
+        "en": "Nedarim 61",
+        "he": "נדרים דף 61"
+      },
+      "target_shabbat": "2030-05-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-62",
+      "title": {
+        "en": "Nedarim 62 — The Crown of Torah",
+        "he": "נדרים ס״ב — כתרה של תורה"
+      },
+      "parashah": {
+        "en": "Nedarim 62",
+        "he": "נדרים דף 62"
+      },
+      "target_shabbat": "2030-05-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-63",
+      "title": {
+        "en": "Nedarim 63 — Until Adar, Until Pesach",
+        "he": "נדרים ס״ג — עד אדר, עד שיהא הפסח"
+      },
+      "parashah": {
+        "en": "Nedarim 63",
+        "he": "נדרים דף 63"
+      },
+      "target_shabbat": "2030-05-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-64",
+      "title": {
+        "en": "Nedarim 64 — The Honor of Parents and New Developments",
+        "he": "נדרים ס״ד — כבוד אביו ואמו והנולד"
+      },
+      "parashah": {
+        "en": "Nedarim 64",
+        "he": "נדרים דף 64"
+      },
+      "target_shabbat": "2030-05-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-65",
+      "title": {
+        "en": "Nedarim 65 — Annulment in His Presence",
+        "he": "נדרים ס״ה — אין מתירין לו אלא בפניו"
+      },
+      "parashah": {
+        "en": "Nedarim 65",
+        "he": "נדרים דף 65"
+      },
+      "target_shabbat": "2030-06-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-66",
+      "title": {
+        "en": "Nedarim 66 — Daughters of Israel Are Beautiful",
+        "he": "נדרים ס״ו — בנות ישראל נאות הן"
+      },
+      "parashah": {
+        "en": "Nedarim 66",
+        "he": "נדרים דף 66"
+      },
+      "target_shabbat": "2030-06-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-67",
+      "title": {
+        "en": "Nedarim 67 — Father and Betrothed Together",
+        "he": "נדרים ס״ז — אביה ובעלה מפירין"
+      },
+      "parashah": {
+        "en": "Nedarim 67",
+        "he": "נדרים דף 67"
+      },
+      "target_shabbat": "2030-06-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-68",
+      "title": {
+        "en": "Nedarim 68 — Does the Husband Cut or Weaken?",
+        "he": "נדרים ס״ח — מיגז גייז או מיקלש קליש"
+      },
+      "parashah": {
+        "en": "Nedarim 68",
+        "he": "נדרים דף 68"
+      },
+      "target_shabbat": "2030-06-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-69",
+      "title": {
+        "en": "Nedarim 69 — Annulling an Upholding",
+        "he": "נדרים ס״ט — יש שאלה בהקם"
+      },
+      "parashah": {
+        "en": "Nedarim 69",
+        "he": "נדרים דף 69"
+      },
+      "target_shabbat": "2030-06-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-70",
+      "title": {
+        "en": "Nedarim 70 — The Father's Power and the Husband's",
+        "he": "נדרים ע׳ — יפה כח האב, יפה כח הבעל"
+      },
+      "parashah": {
+        "en": "Nedarim 70",
+        "he": "נדרים דף 70"
+      },
+      "target_shabbat": "2030-06-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-71",
+      "title": {
+        "en": "Nedarim 71 — Even a Hundred Times",
+        "he": "נדרים ע״א — אפילו למאה"
+      },
+      "parashah": {
+        "en": "Nedarim 71",
+        "he": "נדרים דף 71"
+      },
+      "target_shabbat": "2030-06-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-72",
+      "title": {
+        "en": "Nedarim 72 — The Way of Torah Scholars",
+        "he": "נדרים ע״ב — דרך תלמידי חכמים"
+      },
+      "parashah": {
+        "en": "Nedarim 72",
+        "he": "נדרים דף 72"
+      },
+      "target_shabbat": "2030-06-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-73",
+      "title": {
+        "en": "Nedarim 73 — A Deaf Husband and Two Wives",
+        "he": "נדרים ע״ג — חרש ושתי נשים"
+      },
+      "parashah": {
+        "en": "Nedarim 73",
+        "he": "נדרים דף 73"
+      },
+      "target_shabbat": "2030-06-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-74",
+      "title": {
+        "en": "Nedarim 74 — The Yevamah's Vows",
+        "he": "נדרים ע״ד — שומרת יבם"
+      },
+      "parashah": {
+        "en": "Nedarim 74",
+        "he": "נדרים דף 74"
+      },
+      "target_shabbat": "2030-06-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-75",
+      "title": {
+        "en": "Nedarim 75 — Annulment in Advance",
+        "he": "נדרים ע״ה — הפרה מראש"
+      },
+      "parashah": {
+        "en": "Nedarim 75",
+        "he": "נדרים דף 75"
+      },
+      "target_shabbat": "2030-06-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-76",
+      "title": {
+        "en": "Nedarim 76 — Annulment Throughout the Day",
+        "he": "נדרים ע״ו — הפרת נדרים כל היום"
+      },
+      "parashah": {
+        "en": "Nedarim 76",
+        "he": "נדרים דף 76"
+      },
+      "target_shabbat": "2030-06-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-77",
+      "title": {
+        "en": "Nedarim 77 — Vows on Shabbos and at Night",
+        "he": "נדרים ע״ז — נדרים בשבת ובלילה"
+      },
+      "parashah": {
+        "en": "Nedarim 77",
+        "he": "נדרים דף 77"
+      },
+      "target_shabbat": "2030-06-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-78",
+      "title": {
+        "en": "Nedarim 78 — “This Is the Matter”",
+        "he": "נדרים ע״ח — ״זה הדבר״"
+      },
+      "parashah": {
+        "en": "Nedarim 78",
+        "he": "נדרים דף 78"
+      },
+      "target_shabbat": "2030-06-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-79",
+      "title": {
+        "en": "Nedarim 79 — Vows of Affliction",
+        "he": "נדרים ע״ט — נדרי עינוי נפש"
+      },
+      "parashah": {
+        "en": "Nedarim 79",
+        "he": "נדרים דף 79"
+      },
+      "target_shabbat": "2030-06-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-80",
+      "title": {
+        "en": "Nedarim 80 — Bathing, Adornment and Laundry",
+        "he": "נדרים פ׳ — רחיצה, קישוט וכביסה"
+      },
+      "parashah": {
+        "en": "Nedarim 80",
+        "he": "נדרים דף 80"
+      },
+      "target_shabbat": "2030-06-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-81",
+      "title": {
+        "en": "Nedarim 81 — Laundry, the Children of the Poor and the Blessing over Torah",
+        "he": "נדרים פ״א — כביסה, בני עניים וברכת התורה"
+      },
+      "parashah": {
+        "en": "Nedarim 81",
+        "he": "נדרים דף 81"
+      },
+      "target_shabbat": "2030-06-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-82",
+      "title": {
+        "en": "Nedarim 82 — Benefit from a Specific Person",
+        "he": "נדרים פ״ב — הנאתי על פלוני"
+      },
+      "parashah": {
+        "en": "Nedarim 82",
+        "he": "נדרים דף 82"
+      },
+      "target_shabbat": "2030-06-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-83",
+      "title": {
+        "en": "Nedarim 83 — No Half Nezirus",
+        "he": "נדרים פ״ג — אין נזירות לחצאין"
+      },
+      "parashah": {
+        "en": "Nedarim 83",
+        "he": "נדרים דף 83"
+      },
+      "target_shabbat": "2030-06-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-84",
+      "title": {
+        "en": "Nedarim 84 — The Poor Man's Tithe and the Benefit of Gratitude",
+        "he": "נדרים פ״ד — מעשר עני וטובת הנאה"
+      },
+      "parashah": {
+        "en": "Nedarim 84",
+        "he": "נדרים דף 84"
+      },
+      "target_shabbat": "2030-06-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-85",
+      "title": {
+        "en": "Nedarim 85 — A Vow Not to Work for Him",
+        "he": "נדרים פ״ה — שאיני עושה על פיך"
+      },
+      "parashah": {
+        "en": "Nedarim 85",
+        "he": "נדרים דף 85"
+      },
+      "target_shabbat": "2030-06-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-86",
+      "title": {
+        "en": "Nedarim 86 — Konamos Like Bodily Sanctity",
+        "he": "נדרים פ״ו — קונמות כקדושת הגוף"
+      },
+      "parashah": {
+        "en": "Nedarim 86",
+        "he": "נדרים דף 86"
+      },
+      "target_shabbat": "2030-06-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-87",
+      "title": {
+        "en": "Nedarim 87 — Within the Time of Speech",
+        "he": "נדרים פ״ז — תוך כדי דבור"
+      },
+      "parashah": {
+        "en": "Nedarim 87",
+        "he": "נדרים דף 87"
+      },
+      "target_shabbat": "2030-06-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-88",
+      "title": {
+        "en": "Nedarim 88 — A Gift to the Daughter",
+        "he": "נדרים פ״ח — מתנה לבתו"
+      },
+      "parashah": {
+        "en": "Nedarim 88",
+        "he": "נדרים דף 88"
+      },
+      "target_shabbat": "2030-06-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-89",
+      "title": {
+        "en": "Nedarim 89 — Vows That Stand",
+        "he": "נדרים פ״ט — נדרים שקיימים"
+      },
+      "parashah": {
+        "en": "Nedarim 89",
+        "he": "נדרים דף 89"
+      },
+      "target_shabbat": "2030-06-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-90",
+      "title": {
+        "en": "Nedarim 90 — Release Before the Vow Takes Effect",
+        "he": "נדרים צ׳ — שאלה קודם שחל הנדר"
+      },
+      "parashah": {
+        "en": "Nedarim 90",
+        "he": "נדרים דף 90"
+      },
+      "target_shabbat": "2030-06-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nedarim-91",
+      "title": {
+        "en": "Nedarim 91 — Stolen Waters",
+        "he": "נדרים צ״א — מים גנובים"
+      },
+      "parashah": {
+        "en": "Nedarim 91",
+        "he": "נדרים דף 91"
+      },
+      "target_shabbat": "2030-06-27",
+      "category": "talmud"
     }
   ]
 }
