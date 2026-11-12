@@ -17888,6 +17888,851 @@
       },
       "target_shabbat": "2030-06-27",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-2",
+      "title": {
+        "en": "Nazir 2 — Substitute Terms and Partial Declarations",
+        "he": "נזיר ב׳ — כינויים וידות"
+      },
+      "parashah": {
+        "en": "Nazir 2",
+        "he": "נזיר דף 2"
+      },
+      "target_shabbat": "2030-06-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-3",
+      "title": {
+        "en": "Nazir 3 — Hair, Torah and Birds",
+        "he": "נזיר ג׳ — שער, תורה וציפורים"
+      },
+      "parashah": {
+        "en": "Nazir 3",
+        "he": "נזיר דף 3"
+      },
+      "target_shabbat": "2030-06-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-4",
+      "title": {
+        "en": "Nazir 4 — Nazir Shimshon and Nazir Olam",
+        "he": "נזיר ד׳ — נזיר שמשון ונזיר עולם"
+      },
+      "parashah": {
+        "en": "Nazir 4",
+        "he": "נזיר דף 4"
+      },
+      "target_shabbat": "2030-06-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-5",
+      "title": {
+        "en": "Nazir 5 — Thirty Days",
+        "he": "נזיר ה׳ — סתם נזירות שלשים יום"
+      },
+      "parashah": {
+        "en": "Nazir 5",
+        "he": "נזיר דף 5"
+      },
+      "target_shabbat": "2030-07-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-6",
+      "title": {
+        "en": "Nazir 6 — Part of the Day Like the Whole",
+        "he": "נזיר ו׳ — מקצת היום ככולו"
+      },
+      "parashah": {
+        "en": "Nazir 6",
+        "he": "נזיר דף 6"
+      },
+      "target_shabbat": "2030-07-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-7",
+      "title": {
+        "en": "Nazir 7 — One Long Nezirus",
+        "he": "נזיר ז׳ — נזיר אחת גדולה"
+      },
+      "parashah": {
+        "en": "Nazir 7",
+        "he": "נזיר דף 7"
+      },
+      "target_shabbat": "2030-07-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-8",
+      "title": {
+        "en": "Nazir 8 — Like the Hairs of My Head",
+        "he": "נזיר ח׳ — כשער ראשי"
+      },
+      "parashah": {
+        "en": "Nazir 8",
+        "he": "נזיר דף 8"
+      },
+      "target_shabbat": "2030-07-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-9",
+      "title": {
+        "en": "Nazir 9 — A Nazir from Dried Figs",
+        "he": "נזיר ט׳ — נזיר מן הגרוגרות"
+      },
+      "parashah": {
+        "en": "Nazir 9",
+        "he": "נזיר דף 9"
+      },
+      "target_shabbat": "2030-07-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-10",
+      "title": {
+        "en": "Nazir 10 — The Cow and the Door",
+        "he": "נזיר י׳ — הפרה והדלת"
+      },
+      "parashah": {
+        "en": "Nazir 10",
+        "he": "נזיר דף 10"
+      },
+      "target_shabbat": "2030-07-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-11",
+      "title": {
+        "en": "Nazir 11 — Conditions and Mistakes",
+        "he": "נזיר י״א — תנאים וטעויות"
+      },
+      "parashah": {
+        "en": "Nazir 11",
+        "he": "נזיר דף 11"
+      },
+      "target_shabbat": "2030-07-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-12",
+      "title": {
+        "en": "Nazir 12 — The Agent Who Betroths",
+        "he": "נזיר י״ב — שליח שקידש"
+      },
+      "parashah": {
+        "en": "Nazir 12",
+        "he": "נזיר דף 12"
+      },
+      "target_shabbat": "2030-07-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-13",
+      "title": {
+        "en": "Nazir 13 — When a Son Is Born",
+        "he": "נזיר י״ג — לכשיהיה לי בן"
+      },
+      "parashah": {
+        "en": "Nazir 13",
+        "he": "נזיר דף 13"
+      },
+      "target_shabbat": "2030-07-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-14",
+      "title": {
+        "en": "Nazir 14 — Impurity Between Nezirus Periods",
+        "he": "נזיר י״ד — טומאה בין נזירויות"
+      },
+      "parashah": {
+        "en": "Nazir 14",
+        "he": "נזיר דף 14"
+      },
+      "target_shabbat": "2030-07-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-15",
+      "title": {
+        "en": "Nazir 15 — The Seventieth Day",
+        "he": "נזיר ט״ו — יום שבעים"
+      },
+      "parashah": {
+        "en": "Nazir 15",
+        "he": "נזיר דף 15"
+      },
+      "target_shabbat": "2030-07-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-16",
+      "title": {
+        "en": "Nazir 16 — A Vow in a Cemetery",
+        "he": "נזיר ט״ז — נזר והוא בבית הקברות"
+      },
+      "parashah": {
+        "en": "Nazir 16",
+        "he": "נזיר דף 16"
+      },
+      "target_shabbat": "2030-07-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-17",
+      "title": {
+        "en": "Nazir 17 — Impure When He Vowed",
+        "he": "נזיר י״ז — טמא שנזר"
+      },
+      "parashah": {
+        "en": "Nazir 17",
+        "he": "נזיר דף 17"
+      },
+      "target_shabbat": "2030-07-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-18",
+      "title": {
+        "en": "Nazir 18 — When Pure Nezirus Resumes",
+        "he": "נזיר י״ח — מתי חלה נזירות טהרה"
+      },
+      "parashah": {
+        "en": "Nazir 18",
+        "he": "נזיר דף 18"
+      },
+      "target_shabbat": "2030-07-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-19",
+      "title": {
+        "en": "Nazir 19 — He Pained Himself from Wine",
+        "he": "נזיר י״ט — שציער עצמו מן היין"
+      },
+      "parashah": {
+        "en": "Nazir 19",
+        "he": "נזיר דף 19"
+      },
+      "target_shabbat": "2030-07-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-20",
+      "title": {
+        "en": "Nazir 20 — Two or Five",
+        "he": "נזיר כ׳ — שתים או חמש"
+      },
+      "parashah": {
+        "en": "Nazir 20",
+        "he": "נזיר דף 20"
+      },
+      "target_shabbat": "2030-07-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-21",
+      "title": {
+        "en": "Nazir 21 — Uprooting or Cutting Off",
+        "he": "נזיר כ״א — מיעקר עקר או מיגז גייז"
+      },
+      "parashah": {
+        "en": "Nazir 21",
+        "he": "נזיר דף 21"
+      },
+      "target_shabbat": "2030-07-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-22",
+      "title": {
+        "en": "Nazir 22 — In Your Footsteps",
+        "he": "נזיר כ״ב — הריני בעיקביך"
+      },
+      "parashah": {
+        "en": "Nazir 22",
+        "he": "נזיר דף 22"
+      },
+      "target_shabbat": "2030-07-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-23",
+      "title": {
+        "en": "Nazir 23 — Intention and Deed",
+        "he": "נזיר כ״ג — כוונה ומעשה"
+      },
+      "parashah": {
+        "en": "Nazir 23",
+        "he": "נזיר דף 23"
+      },
+      "target_shabbat": "2030-07-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-24",
+      "title": {
+        "en": "Nazir 24 — Her Animal After Annulment",
+        "he": "נזיר כ״ד — בהמתה לאחר הפרה"
+      },
+      "parashah": {
+        "en": "Nazir 24",
+        "he": "נזיר דף 24"
+      },
+      "target_shabbat": "2030-07-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-25",
+      "title": {
+        "en": "Nazir 25 — Unspecified Money",
+        "he": "נזיר כ״ה — מעות סתומין"
+      },
+      "parashah": {
+        "en": "Nazir 25",
+        "he": "נזיר דף 25"
+      },
+      "target_shabbat": "2030-07-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-26",
+      "title": {
+        "en": "Nazir 26 — What Counts as Specified",
+        "he": "נזיר כ״ו — מה נחשב מפורש"
+      },
+      "parashah": {
+        "en": "Nazir 26",
+        "he": "נזיר דף 26"
+      },
+      "target_shabbat": "2030-07-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-27",
+      "title": {
+        "en": "Nazir 27 — His Father's Money",
+        "he": "נזיר כ״ז — מעות אביו"
+      },
+      "parashah": {
+        "en": "Nazir 27",
+        "he": "נזיר דף 27"
+      },
+      "target_shabbat": "2030-07-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-28",
+      "title": {
+        "en": "Nazir 28 — Annulment After the Blood",
+        "he": "נזיר כ״ח — הפרה לאחר זריקת הדם"
+      },
+      "parashah": {
+        "en": "Nazir 28",
+        "he": "נזיר דף 28"
+      },
+      "target_shabbat": "2030-07-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-29",
+      "title": {
+        "en": "Nazir 29 — Educating a Son in Nezirus",
+        "he": "נזיר כ״ט — לחנכו במצוות"
+      },
+      "parashah": {
+        "en": "Nazir 29",
+        "he": "נזיר דף 29"
+      },
+      "target_shabbat": "2030-07-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-30",
+      "title": {
+        "en": "Nazir 30 — Shaving on His Father's Nezirus",
+        "he": "נזיר ל׳ — מגלח על נזירות אביו"
+      },
+      "parashah": {
+        "en": "Nazir 30",
+        "he": "נזיר דף 30"
+      },
+      "target_shabbat": "2030-07-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-31",
+      "title": {
+        "en": "Nazir 31 — Consecration in Error",
+        "he": "נזיר ל״א — הקדש טעות"
+      },
+      "parashah": {
+        "en": "Nazir 31",
+        "he": "נזיר דף 31"
+      },
+      "target_shabbat": "2030-07-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-32",
+      "title": {
+        "en": "Nazir 32 — Nachum the Mede's Mistake",
+        "he": "נזיר ל״ב — טעות נחום המדי"
+      },
+      "parashah": {
+        "en": "Nazir 32",
+        "he": "נזיר דף 32"
+      },
+      "target_shabbat": "2030-07-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-33",
+      "title": {
+        "en": "Nazir 33 — Whose Words Were Not Fulfilled",
+        "he": "נזיר ל״ג — מי שלא נתקיימו דבריו"
+      },
+      "parashah": {
+        "en": "Nazir 33",
+        "he": "נזיר דף 33"
+      },
+      "target_shabbat": "2030-07-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-34",
+      "title": {
+        "en": "Nazir 34 — Three Prohibitions of the Nazir",
+        "he": "נזיר ל״ד — שלשה מינין אסורין בנזיר"
+      },
+      "parashah": {
+        "en": "Nazir 34",
+        "he": "נזיר דף 34"
+      },
+      "target_shabbat": "2030-07-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-35",
+      "title": {
+        "en": "Nazir 35 — Particular and General",
+        "he": "נזיר ל״ה — פרט וכלל"
+      },
+      "parashah": {
+        "en": "Nazir 35",
+        "he": "נזיר דף 35"
+      },
+      "target_shabbat": "2030-07-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-36",
+      "title": {
+        "en": "Nazir 36 — Within the Time of Eating a Half-Loaf",
+        "he": "נזיר ל״ו — כזית בכדי אכילת פרס"
+      },
+      "parashah": {
+        "en": "Nazir 36",
+        "he": "נזיר דף 36"
+      },
+      "target_shabbat": "2030-08-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-37",
+      "title": {
+        "en": "Nazir 37 — Taste Like Substance",
+        "he": "נזיר ל״ז — טעם כעיקר"
+      },
+      "parashah": {
+        "en": "Nazir 37",
+        "he": "נזיר דף 37"
+      },
+      "target_shabbat": "2030-08-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-38",
+      "title": {
+        "en": "Nazir 38 — Ten Revi'iyos",
+        "he": "נזיר ל״ח — עשר רביעיות"
+      },
+      "parashah": {
+        "en": "Nazir 38",
+        "he": "נזיר דף 38"
+      },
+      "target_shabbat": "2030-08-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-39",
+      "title": {
+        "en": "Nazir 39 — Does Hair Grow from Below?",
+        "he": "נזיר ל״ט — מזיא מלתחת רבי"
+      },
+      "parashah": {
+        "en": "Nazir 39",
+        "he": "נזיר דף 39"
+      },
+      "target_shabbat": "2030-08-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-40",
+      "title": {
+        "en": "Nazir 40 — Shaving with a Razor",
+        "he": "נזיר מ׳ — תגלחת בתער"
+      },
+      "parashah": {
+        "en": "Nazir 40",
+        "he": "נזיר דף 40"
+      },
+      "target_shabbat": "2030-08-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-41",
+      "title": {
+        "en": "Nazir 41 — A Positive Command Overrides a Prohibition",
+        "he": "נזיר מ״א — יבא עשה וידחה לא תעשה"
+      },
+      "parashah": {
+        "en": "Nazir 41",
+        "he": "נזיר דף 41"
+      },
+      "target_shabbat": "2030-08-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-42",
+      "title": {
+        "en": "Nazir 42 — The Majority Is Like the Whole",
+        "he": "נזיר מ״ב — רובו ככולו"
+      },
+      "parashah": {
+        "en": "Nazir 42",
+        "he": "נזיר דף 42"
+      },
+      "target_shabbat": "2030-08-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-43",
+      "title": {
+        "en": "Nazir 43 — When Does a Person Transmit Impurity?",
+        "he": "נזיר מ״ג — מאימתי אדם מטמא"
+      },
+      "parashah": {
+        "en": "Nazir 43",
+        "he": "נזיר דף 43"
+      },
+      "target_shabbat": "2030-08-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-44",
+      "title": {
+        "en": "Nazir 44 — Stringencies Among the Three",
+        "he": "נזיר מ״ד — חומרות בין שלושת האיסורים"
+      },
+      "parashah": {
+        "en": "Nazir 44",
+        "he": "נזיר דף 44"
+      },
+      "target_shabbat": "2030-08-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-45",
+      "title": {
+        "en": "Nazir 45 — The Shaving of Purity",
+        "he": "נזיר מ״ה — תגלחת הטהרה"
+      },
+      "parashah": {
+        "en": "Nazir 45",
+        "he": "נזיר דף 45"
+      },
+      "target_shabbat": "2030-08-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-46",
+      "title": {
+        "en": "Nazir 46 — Waving and the End of Nezirus",
+        "he": "נזיר מ״ו — תנופה וסוף הנזירות"
+      },
+      "parashah": {
+        "en": "Nazir 46",
+        "he": "נזיר דף 46"
+      },
+      "target_shabbat": "2030-08-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-47",
+      "title": {
+        "en": "Nazir 47 — Who Should Become Impure?",
+        "he": "נזיר מ״ז — מי יטמא"
+      },
+      "parashah": {
+        "en": "Nazir 47",
+        "he": "נזיר דף 47"
+      },
+      "target_shabbat": "2030-08-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-48",
+      "title": {
+        "en": "Nazir 48 — For His Father, His Mother, His Brother, His Sister",
+        "he": "נזיר מ״ח — לאביו ולאמו לאחיו ולאחותו"
+      },
+      "parashah": {
+        "en": "Nazir 48",
+        "he": "נזיר דף 48"
+      },
+      "target_shabbat": "2030-08-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-49",
+      "title": {
+        "en": "Nazir 49 — Impurities That Require Shaving",
+        "he": "נזיר מ״ט — על אלו טומאות הנזיר מגלח"
+      },
+      "parashah": {
+        "en": "Nazir 49",
+        "he": "נזיר דף 49"
+      },
+      "target_shabbat": "2030-08-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-50",
+      "title": {
+        "en": "Nazir 50 — Meir Lies, Yehudah Is Angry, Yosei Is Silent",
+        "he": "נזיר נ׳ — מאיר שכב, יהודה כעס, יוסי שתק"
+      },
+      "parashah": {
+        "en": "Nazir 50",
+        "he": "נזיר דף 50"
+      },
+      "target_shabbat": "2030-08-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-51",
+      "title": {
+        "en": "Nazir 51 — Which Corpse Produces Grave Dust",
+        "he": "נזיר נ״א — איזהו מת שיש לו רקב"
+      },
+      "parashah": {
+        "en": "Nazir 51",
+        "he": "נזיר דף 51"
+      },
+      "target_shabbat": "2030-08-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-52",
+      "title": {
+        "en": "Nazir 52 — The Spine and the Skull",
+        "he": "נזיר נ״ב — השדרה והגולגולת"
+      },
+      "parashah": {
+        "en": "Nazir 52",
+        "he": "נזיר דף 52"
+      },
+      "target_shabbat": "2030-08-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-53",
+      "title": {
+        "en": "Nazir 53 — Haggai, Zechariah and Malachi",
+        "he": "נזיר נ״ג — מפי חגי זכריה ומלאכי"
+      },
+      "parashah": {
+        "en": "Nazir 53",
+        "he": "נזיר דף 53"
+      },
+      "target_shabbat": "2030-08-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-54",
+      "title": {
+        "en": "Nazir 54 — Impurities for Which the Nazir Does Not Shave",
+        "he": "נזיר נ״ד — על אלו אין הנזיר מגלח"
+      },
+      "parashah": {
+        "en": "Nazir 54",
+        "he": "נזיר דף 54"
+      },
+      "target_shabbat": "2030-08-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-55",
+      "title": {
+        "en": "Nazir 55 — Entering the Land of the Nations in a Box",
+        "he": "נזיר נ״ה — הנכנס לארץ העמים בשידה תיבה ומגדל"
+      },
+      "parashah": {
+        "en": "Nazir 55",
+        "he": "נזיר דף 55"
+      },
+      "target_shabbat": "2030-08-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-56",
+      "title": {
+        "en": "Nazir 56 — The First and the Last of a Tradition",
+        "he": "נזיר נ״ו — קמאי ובתראי אמרינן"
+      },
+      "parashah": {
+        "en": "Nazir 56",
+        "he": "נזיר דף 56"
+      },
+      "target_shabbat": "2030-08-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-57",
+      "title": {
+        "en": "Nazir 57 — Two Nezirim and One Witness",
+        "he": "נזיר נ״ז — שני נזירים שאמר להן אחד"
+      },
+      "parashah": {
+        "en": "Nazir 57",
+        "he": "נזיר דף 57"
+      },
+      "target_shabbat": "2030-08-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-58",
+      "title": {
+        "en": "Nazir 58 — A Positive Command Overrides a Prohibition",
+        "he": "נזיר נ״ח — יבוא עשה וידחה לא תעשה"
+      },
+      "parashah": {
+        "en": "Nazir 58",
+        "he": "נזיר דף 58"
+      },
+      "target_shabbat": "2030-08-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-59",
+      "title": {
+        "en": "Nazir 59 — Rabbi Yehoshua Sharpens the Students",
+        "he": "נזיר נ״ט — לחדד בה את התלמידים"
+      },
+      "parashah": {
+        "en": "Nazir 59",
+        "he": "נזיר דף 59"
+      },
+      "target_shabbat": "2030-08-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-60",
+      "title": {
+        "en": "Nazir 60 — Four Shavings in Doubt",
+        "he": "נזיר ס׳ — ארבע תגלחות בספק"
+      },
+      "parashah": {
+        "en": "Nazir 60",
+        "he": "נזיר דף 60"
+      },
+      "target_shabbat": "2030-08-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-61",
+      "title": {
+        "en": "Nazir 61 — Gentiles Have No Nezirus",
+        "he": "נזיר ס״א — הגוים אין להם נזירות"
+      },
+      "parashah": {
+        "en": "Nazir 61",
+        "he": "נזיר דף 61"
+      },
+      "target_shabbat": "2030-08-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-62",
+      "title": {
+        "en": "Nazir 62 — Why a Master Compels His Slave",
+        "he": "נזיר ס״ב — למה רבו כופו"
+      },
+      "parashah": {
+        "en": "Nazir 62",
+        "he": "נזיר דף 62"
+      },
+      "target_shabbat": "2030-08-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-63",
+      "title": {
+        "en": "Nazir 63 — Impurity of the Deep",
+        "he": "נזיר ס״ג — טומאת התהום"
+      },
+      "parashah": {
+        "en": "Nazir 63",
+        "he": "נזיר דף 63"
+      },
+      "target_shabbat": "2030-08-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-64",
+      "title": {
+        "en": "Nazir 64 — The Sun Sets by Itself",
+        "he": "נזיר ס״ד — שמשא ממילא ערבא"
+      },
+      "parashah": {
+        "en": "Nazir 64",
+        "he": "נזיר דף 64"
+      },
+      "target_shabbat": "2030-08-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-65",
+      "title": {
+        "en": "Nazir 65 — Carry Me Out of Egypt",
+        "he": "נזיר ס״ה — ונשאתני ממצרים"
+      },
+      "parashah": {
+        "en": "Nazir 65",
+        "he": "נזיר דף 65"
+      },
+      "target_shabbat": "2030-08-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-nazir-66",
+      "title": {
+        "en": "Nazir 66 — Torah Scholars Increase Peace in the World",
+        "he": "נזיר ס״ו — תלמידי חכמים מרבים שלום בעולם"
+      },
+      "parashah": {
+        "en": "Nazir 66",
+        "he": "נזיר דף 66"
+      },
+      "target_shabbat": "2030-08-31",
+      "category": "talmud"
     }
   ]
 }
