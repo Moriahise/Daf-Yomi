@@ -18733,6 +18733,630 @@
       },
       "target_shabbat": "2030-08-31",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-2",
+      "title": {
+        "en": "Sotah 2 — Matched According to One's Deeds",
+        "he": "סוטה ב׳ — לפי מעשיו"
+      },
+      "parashah": {
+        "en": "Sotah 2",
+        "he": "סוטה דף 2"
+      },
+      "target_shabbat": "2030-09-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-3",
+      "title": {
+        "en": "Sotah 3 — A Spirit of Folly",
+        "he": "סוטה ג׳ — רוח שטות"
+      },
+      "parashah": {
+        "en": "Sotah 3",
+        "he": "סוטה דף 3"
+      },
+      "target_shabbat": "2030-09-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-4",
+      "title": {
+        "en": "Sotah 4 — Around a Palm Tree, Pouring a Cup",
+        "he": "סוטה ד׳ — כדי הקפת דקל, כדי מזיגת הכוס"
+      },
+      "parashah": {
+        "en": "Sotah 4",
+        "he": "סוטה דף 4"
+      },
+      "target_shabbat": "2030-09-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-5",
+      "title": {
+        "en": "Sotah 5 — The Shechinah Rested on Sinai",
+        "he": "סוטה ה׳ — הניח כל ההרים והשרה שכינתו על הר סיני"
+      },
+      "parashah": {
+        "en": "Sotah 5",
+        "he": "סוטה דף 5"
+      },
+      "target_shabbat": "2030-09-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-6",
+      "title": {
+        "en": "Sotah 6 — Witnesses Overseas",
+        "he": "סוטה ו׳ — יש לה עדים במדינת הים"
+      },
+      "parashah": {
+        "en": "Sotah 6",
+        "he": "סוטה דף 6"
+      },
+      "target_shabbat": "2030-09-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-7",
+      "title": {
+        "en": "Sotah 7 — Yehudah Confessed and Was Not Ashamed",
+        "he": "סוטה ז׳ — יהודה הודה ולא בוש"
+      },
+      "parashah": {
+        "en": "Sotah 7",
+        "he": "סוטה דף 7"
+      },
+      "target_shabbat": "2030-09-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-8",
+      "title": {
+        "en": "Sotah 8 — Measure for Measure",
+        "he": "סוטה ח׳ — במדה שאדם מודד בה מודדין לו"
+      },
+      "parashah": {
+        "en": "Sotah 8",
+        "he": "סוטה דף 8"
+      },
+      "target_shabbat": "2030-09-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-9",
+      "title": {
+        "en": "Sotah 9 — Whoever Sets His Eyes on What Is Not His",
+        "he": "סוטה ט׳ — הנותן עיניו במה שאינו שלו"
+      },
+      "parashah": {
+        "en": "Sotah 9",
+        "he": "סוטה דף 9"
+      },
+      "target_shabbat": "2030-09-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-10",
+      "title": {
+        "en": "Sotah 10 — Better to Be Cast into a Furnace",
+        "he": "סוטה י׳ — נוח לו לאדם שיפיל עצמו לכבשן האש"
+      },
+      "parashah": {
+        "en": "Sotah 10",
+        "he": "סוטה דף 10"
+      },
+      "target_shabbat": "2030-09-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-11",
+      "title": {
+        "en": "Sotah 11 — In the Merit of Righteous Women",
+        "he": "סוטה י״א — בשכר נשים צדקניות"
+      },
+      "parashah": {
+        "en": "Sotah 11",
+        "he": "סוטה דף 11"
+      },
+      "target_shabbat": "2030-09-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-12",
+      "title": {
+        "en": "Sotah 12 — Amram Followed His Daughter's Counsel",
+        "he": "סוטה י״ב — שהלך בעצת בתו"
+      },
+      "parashah": {
+        "en": "Sotah 12",
+        "he": "סוטה דף 12"
+      },
+      "target_shabbat": "2030-09-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-13",
+      "title": {
+        "en": "Sotah 13 — How Beloved Were the Mitzvos to Moshe",
+        "he": "סוטה י״ג — כמה חביבות מצות על משה רבינו"
+      },
+      "parashah": {
+        "en": "Sotah 13",
+        "he": "סוטה דף 13"
+      },
+      "target_shabbat": "2030-09-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-14",
+      "title": {
+        "en": "Sotah 14 — Walk After the Attributes of the Holy One",
+        "he": "סוטה י״ד — להלך אחר מדותיו של הקדוש ברוך הוא"
+      },
+      "parashah": {
+        "en": "Sotah 14",
+        "he": "סוטה דף 14"
+      },
+      "target_shabbat": "2030-09-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-15",
+      "title": {
+        "en": "Sotah 15 — Expounding Like a Chomer",
+        "he": "סוטה ט״ו — אדרשנה כמין חומר"
+      },
+      "parashah": {
+        "en": "Sotah 15",
+        "he": "סוטה דף 15"
+      },
+      "target_shabbat": "2030-09-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-16",
+      "title": {
+        "en": "Sotah 16 — Three Things That Must Be Visible",
+        "he": "סוטה ט״ז — שלשה צריכין שיראו"
+      },
+      "parashah": {
+        "en": "Sotah 16",
+        "he": "סוטה דף 16"
+      },
+      "target_shabbat": "2030-09-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-17",
+      "title": {
+        "en": "Sotah 17 — Dust and Ash, Thread and Strap",
+        "he": "סוטה י״ז — עפר ואפר, חוט ורצועה"
+      },
+      "parashah": {
+        "en": "Sotah 17",
+        "he": "סוטה דף 17"
+      },
+      "target_shabbat": "2030-09-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-18",
+      "title": {
+        "en": "Sotah 18 — Amen, Amen",
+        "he": "סוטה י״ח — אמן אמן"
+      },
+      "parashah": {
+        "en": "Sotah 18",
+        "he": "סוטה דף 18"
+      },
+      "target_shabbat": "2030-09-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-19",
+      "title": {
+        "en": "Sotah 19 — Do Not Sit Until You Explain",
+        "he": "סוטה י״ט — לא תיתיב אכרעך"
+      },
+      "parashah": {
+        "en": "Sotah 19",
+        "he": "סוטה דף 19"
+      },
+      "target_shabbat": "2030-09-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-20",
+      "title": {
+        "en": "Sotah 20 — Merit That Suspends",
+        "he": "סוטה כ׳ — זכות תולה"
+      },
+      "parashah": {
+        "en": "Sotah 20",
+        "he": "סוטה דף 20"
+      },
+      "target_shabbat": "2030-09-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-21",
+      "title": {
+        "en": "Sotah 21 — A Transgression Does Not Extinguish Torah",
+        "he": "סוטה כ״א — אין עבירה מכבה תורה"
+      },
+      "parashah": {
+        "en": "Sotah 21",
+        "he": "סוטה דף 21"
+      },
+      "target_shabbat": "2030-09-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-22",
+      "title": {
+        "en": "Sotah 22 — Fear of Sin From a Maiden",
+        "he": "סוטה כ״ב — יראת חטא מבתולה"
+      },
+      "parashah": {
+        "en": "Sotah 22",
+        "he": "סוטה דף 22"
+      },
+      "target_shabbat": "2030-09-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-23",
+      "title": {
+        "en": "Sotah 23 — Between Kohen and Kohenes, Man and Woman",
+        "he": "סוטה כ״ג — מה בין כהן לכהנת, מה בין איש לאשה"
+      },
+      "parashah": {
+        "en": "Sotah 23",
+        "he": "סוטה דף 23"
+      },
+      "target_shabbat": "2030-09-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-24",
+      "title": {
+        "en": "Sotah 24 — Who Drinks and Who Collects a Kesubah",
+        "he": "סוטה כ״ד — שותות ונוטלות כתובה"
+      },
+      "parashah": {
+        "en": "Sotah 24",
+        "he": "סוטה דף 24"
+      },
+      "target_shabbat": "2030-09-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-25",
+      "title": {
+        "en": "Sotah 25 — A Husband Who Forgives His Warning",
+        "he": "סוטה כ״ה — בעל שמחל על קינויו"
+      },
+      "parashah": {
+        "en": "Sotah 25",
+        "he": "סוטה דף 25"
+      },
+      "target_shabbat": "2030-09-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-26",
+      "title": {
+        "en": "Sotah 26 — And She Shall Be Cleared and Bear Seed",
+        "he": "סוטה כ״ו — ונקתה ונזרעה זרע"
+      },
+      "parashah": {
+        "en": "Sotah 26",
+        "he": "סוטה דף 26"
+      },
+      "target_shabbat": "2030-09-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-27",
+      "title": {
+        "en": "Sotah 27 — On That Day",
+        "he": "סוטה כ״ז — בו ביום"
+      },
+      "parashah": {
+        "en": "Sotah 27",
+        "he": "סוטה דף 27"
+      },
+      "target_shabbat": "2030-09-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-28",
+      "title": {
+        "en": "Sotah 28 — Doubtful Impurity Learned From Sotah",
+        "he": "סוטה כ״ח — מכאן אתה דן לשרץ"
+      },
+      "parashah": {
+        "en": "Sotah 28",
+        "he": "סוטה דף 28"
+      },
+      "target_shabbat": "2030-09-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-29",
+      "title": {
+        "en": "Sotah 29 — The Common Factor",
+        "he": "סוטה כ״ט — הצד השוה"
+      },
+      "parashah": {
+        "en": "Sotah 29",
+        "he": "סוטה דף 29"
+      },
+      "target_shabbat": "2030-09-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-30",
+      "title": {
+        "en": "Sotah 30 — Then Moshe and Israel Sang",
+        "he": "סוטה ל׳ — אז ישיר משה ובני ישראל"
+      },
+      "parashah": {
+        "en": "Sotah 30",
+        "he": "סוטה דף 30"
+      },
+      "target_shabbat": "2030-09-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-31",
+      "title": {
+        "en": "Sotah 31 — Serving From Love",
+        "he": "סוטה ל״א — עובד מאהבה"
+      },
+      "parashah": {
+        "en": "Sotah 31",
+        "he": "סוטה דף 31"
+      },
+      "target_shabbat": "2030-09-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-32",
+      "title": {
+        "en": "Sotah 32 — Praise Softly, Shame Aloud",
+        "he": "סוטה ל״ב — שבחו בקול נמוך וגנותו בקול רם"
+      },
+      "parashah": {
+        "en": "Sotah 32",
+        "he": "סוטה דף 32"
+      },
+      "target_shabbat": "2030-10-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-33",
+      "title": {
+        "en": "Sotah 33 — Angels and the Aramaic Language",
+        "he": "סוטה ל״ג — מלאכי השרת ולשון ארמית"
+      },
+      "parashah": {
+        "en": "Sotah 33",
+        "he": "סוטה דף 33"
+      },
+      "target_shabbat": "2030-10-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-34",
+      "title": {
+        "en": "Sotah 34 — Send for Yourself",
+        "he": "סוטה ל״ד — שלח לך"
+      },
+      "parashah": {
+        "en": "Sotah 34",
+        "he": "סוטה דף 34"
+      },
+      "target_shabbat": "2030-10-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-35",
+      "title": {
+        "en": "Sotah 35 — The Ark Carried Its Carriers",
+        "he": "סוטה ל״ה — נשא ארון את נושאיו"
+      },
+      "parashah": {
+        "en": "Sotah 35",
+        "he": "סוטה דף 35"
+      },
+      "target_shabbat": "2030-10-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-36",
+      "title": {
+        "en": "Sotah 36 — A Letter From the Name of the Holy One",
+        "he": "סוטה ל״ו — אות אחת משמו של הקדוש ברוך הוא"
+      },
+      "parashah": {
+        "en": "Sotah 36",
+        "he": "סוטה דף 36"
+      },
+      "target_shabbat": "2030-10-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-37",
+      "title": {
+        "en": "Sotah 37 — Forty-Eight Covenants",
+        "he": "סוטה ל״ז — ארבעים ושמונה בריתות"
+      },
+      "parashah": {
+        "en": "Sotah 37",
+        "he": "סוטה דף 37"
+      },
+      "target_shabbat": "2030-10-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-38",
+      "title": {
+        "en": "Sotah 38 — The Holy One Desires the Priestly Blessing",
+        "he": "סוטה ל״ח — הקדוש ברוך הוא מתאוה לברכת כהנים"
+      },
+      "parashah": {
+        "en": "Sotah 38",
+        "he": "סוטה דף 38"
+      },
+      "target_shabbat": "2030-10-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-39",
+      "title": {
+        "en": "Sotah 39 — An Open Mouth, a Closed Mouth",
+        "he": "סוטה ל״ט — פה פתוחה ופה סתומה"
+      },
+      "parashah": {
+        "en": "Sotah 39",
+        "he": "סוטה דף 39"
+      },
+      "target_shabbat": "2030-10-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-40",
+      "title": {
+        "en": "Sotah 40 — Rabbi Abahu's Humility",
+        "he": "סוטה מ׳ — ענוותנותו של רבי אבהו"
+      },
+      "parashah": {
+        "en": "Sotah 40",
+        "he": "סוטה דף 40"
+      },
+      "target_shabbat": "2030-10-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-41",
+      "title": {
+        "en": "Sotah 41 — The Strength of Flattery",
+        "he": "סוטה מ״א — אגרופה של חנופה"
+      },
+      "parashah": {
+        "en": "Sotah 41",
+        "he": "סוטה דף 41"
+      },
+      "target_shabbat": "2030-10-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-42",
+      "title": {
+        "en": "Sotah 42 — Hear, O Israel",
+        "he": "סוטה מ״ב — שמע ישראל"
+      },
+      "parashah": {
+        "en": "Sotah 42",
+        "he": "סוטה דף 42"
+      },
+      "target_shabbat": "2030-10-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-43",
+      "title": {
+        "en": "Sotah 43 — Who Is the Man Who Built a New House",
+        "he": "סוטה מ״ג — מי האיש אשר בנה בית חדש"
+      },
+      "parashah": {
+        "en": "Sotah 43",
+        "he": "סוטה דף 43"
+      },
+      "target_shabbat": "2030-10-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-44",
+      "title": {
+        "en": "Sotah 44 — The Fearful and Faint-Hearted",
+        "he": "סוטה מ״ד — הירא ורך הלבב"
+      },
+      "parashah": {
+        "en": "Sotah 44",
+        "he": "סוטה דף 44"
+      },
+      "target_shabbat": "2030-10-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-45",
+      "title": {
+        "en": "Sotah 45 — And Your Elders and Judges Shall Go Out",
+        "he": "סוטה מ״ה — ויצאו זקניך ושופטיך"
+      },
+      "parashah": {
+        "en": "Sotah 45",
+        "he": "סוטה דף 45"
+      },
+      "target_shabbat": "2030-10-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-46",
+      "title": {
+        "en": "Sotah 46 — Our Hands Did Not Spill This Blood",
+        "he": "סוטה מ״ו — ידינו לא שפכה את הדם הזה"
+      },
+      "parashah": {
+        "en": "Sotah 46",
+        "he": "סוטה דף 46"
+      },
+      "target_shabbat": "2030-10-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-47",
+      "title": {
+        "en": "Sotah 47 — The Left Hand Pushes Away, the Right Draws Near",
+        "he": "סוטה מ״ז — שמאל דוחה וימין מקרבת"
+      },
+      "parashah": {
+        "en": "Sotah 47",
+        "he": "סוטה דף 47"
+      },
+      "target_shabbat": "2030-10-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-48",
+      "title": {
+        "en": "Sotah 48 — Bread in His Basket",
+        "he": "סוטה מ״ח — פת בסלו"
+      },
+      "parashah": {
+        "en": "Sotah 48",
+        "he": "סוטה דף 48"
+      },
+      "target_shabbat": "2030-10-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-sotah-49",
+      "title": {
+        "en": "Sotah 49 — Upon Whom Can We Rely? Upon Our Father in Heaven",
+        "he": "סוטה מ״ט — על מי יש לנו להשען — על אבינו שבשמים"
+      },
+      "parashah": {
+        "en": "Sotah 49",
+        "he": "סוטה דף 49"
+      },
+      "target_shabbat": "2030-10-18",
+      "category": "talmud"
     }
   ]
 }
