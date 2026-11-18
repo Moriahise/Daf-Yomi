@@ -10,6 +10,7 @@ from pyluach import dates
 sys.path.insert(0,str(Path(__file__).resolve().parent))
 import daf_calendar as calendar
 from portraits import Document
+from chavruta import add_links, published_sheets
 from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]
 READER_BYTE_LIMIT=150_000_000  # Bound the growing export while retaining complete tractate collections.
@@ -72,7 +73,7 @@ def refresh_tractates(index, today):
     return index
 
 
-def build(source,output,now=None):
+def build(source,output,now=None, *, sheets=()):
     check_input(source)
     if output.exists():raise ValueError('Output already exists')
     shutil.copytree(source,output)
@@ -108,6 +109,7 @@ def build(source,output,now=None):
     # The tractate overview must advance even while no new study guide is published.
     index_path=output/'tractates/index.html'
     index_path.write_text(refresh_tractates(index_path.read_text(), today))
+    add_links(output, json.loads((output/"data/catalogue.json").read_text())["editions"], sheets)
     validate(output)
     return {'date':today.isoformat(),'daf':row['label']['en'],'cycle':row['cycle'],'portraits':len(profiles),'public_files':sum(p.is_file() for p in output.rglob('*'))}
 
@@ -124,4 +126,4 @@ def validate(output):
                 if not path.is_file() and not (path/'index.html').is_file():raise ValueError('Missing reader asset: '+str(path))
     if sum(p.stat().st_size for p in output.rglob('*') if p.is_file())>READER_BYTE_LIMIT:raise ValueError('Reader size exceeds limit')
 
-if __name__=='__main__':print(json.dumps(build(ROOT/'site',ROOT/'_site'),ensure_ascii=False))
+if __name__=='__main__':print(json.dumps(build(ROOT/'site',ROOT/'_site',sheets=published_sheets()),ensure_ascii=False))
