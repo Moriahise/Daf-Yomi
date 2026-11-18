@@ -2,23 +2,29 @@
 import hashlib
 import json
 import re
+import time
 from html import escape
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 
 BASE = "https://shekhina.org/learn/"
 SLUG = re.compile(r"cycle-\d+-[a-z0-9-]+-\d+")
 
 
 def published_sheets():
-    try:
-        with urlopen(BASE + "daf-sheets.json", timeout=12) as response:
-            data = json.loads(response.read(1_000_001))
-        if not isinstance(data, list) or not all(isinstance(s, str) and SLUG.fullmatch(s) for s in data):
-            raise ValueError("Invalid sheet list")
-        return set(data)
-    except (OSError, ValueError) as error:
-        print("Using dated chavruta links until the next build:", type(error).__name__)
-        return set()
+    request = Request(BASE+"daf-sheets.json", headers={"Cache-Control":"no-cache"})
+    for attempt in range(3):
+        try:
+            with urlopen(request, timeout=12) as response:
+                data = json.loads(response.read(1_000_001))
+            if not isinstance(data, list) or not all(isinstance(s, str) and SLUG.fullmatch(s) for s in data):
+                raise ValueError("Invalid sheet list")
+            print("Confirmed permanent Shekhina editions:", len(data))
+            return set(data)
+        except (OSError, ValueError) as error:
+            if attempt == 2:
+                print("Using dated chavruta links until the next build:", type(error).__name__)
+                return set()
+            time.sleep(2 ** (attempt+1))
 
 
 def add_links(output, editions, published):

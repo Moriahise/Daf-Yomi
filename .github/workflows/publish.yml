@@ -58,3 +58,16 @@ jobs:
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e
         with:
           artifact_name: website-${{ github.run_id }}-${{ github.run_attempt }}
+  check-chavruta:
+    needs: publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+          sparse-checkout: reader
+      - name: Verify the two public language editions, sources and answered library records
+        run: python3 reader/check_chavruta.py
