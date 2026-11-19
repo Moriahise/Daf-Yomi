@@ -20514,6 +20514,1059 @@
       },
       "target_shabbat": "2031-01-15",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-2",
+      "title": {
+        "en": "Kiddushin 2 — How a Woman Is Acquired, and Why the Mishnah Says So",
+        "he": "קידושין ב׳ — כיצד האישה נקנית, ומדוע המשנה מנסחת כך"
+      },
+      "parashah": {
+        "en": "Kiddushin 2",
+        "he": "קידושין דף 2"
+      },
+      "target_shabbat": "2031-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-3",
+      "title": {
+        "en": "Kiddushin 3 — Ways, Matters, and the Father's Money",
+        "he": "קידושין ג׳ — דרכים, דברים וכסף האב"
+      },
+      "parashah": {
+        "en": "Kiddushin 3",
+        "he": "קידושין דף 3"
+      },
+      "target_shabbat": "2031-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-4",
+      "title": {
+        "en": "Kiddushin 4 — Leaving Without Money, and Testing Every Inference",
+        "he": "קידושין ד׳ — יציאה בלא כסף, ובחינת כל היקש"
+      },
+      "parashah": {
+        "en": "Kiddushin 4",
+        "he": "קידושין דף 4"
+      },
+      "target_shabbat": "2031-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-5",
+      "title": {
+        "en": "Kiddushin 5 — Document, Chuppah, and the Words That Betroth",
+        "he": "קידושין ה׳ — שטר, חופה והמילים המקדשות"
+      },
+      "parashah": {
+        "en": "Kiddushin 5",
+        "he": "קידושין דף 5"
+      },
+      "target_shabbat": "2031-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-6",
+      "title": {
+        "en": "Kiddushin 6 — Formulas, Context, and Money That Comes Back",
+        "he": "קידושין ו׳ — לשונות, הקשר וכסף החוזר"
+      },
+      "parashah": {
+        "en": "Kiddushin 6",
+        "he": "קידושין דף 6"
+      },
+      "target_shabbat": "2031-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-7",
+      "title": {
+        "en": "Kiddushin 7 — Guarantors, Slaves, and Half a Betrothal",
+        "he": "קידושין ז׳ — ערב, עבד, וחצי קידושין"
+      },
+      "parashah": {
+        "en": "Kiddushin 7",
+        "he": "קידושין דף 7"
+      },
+      "target_shabbat": "2031-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-8",
+      "title": {
+        "en": "Kiddushin 8 — Fixed Value, Partial Payment, and Where the Money Goes",
+        "he": "קידושין ח׳ — שווי קצוב, תשלום חסר, ולאן הולך הכסף"
+      },
+      "parashah": {
+        "en": "Kiddushin 8",
+        "he": "קידושין דף 8"
+      },
+      "target_shabbat": "2031-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-9",
+      "title": {
+        "en": "Kiddushin 9 — \"Give, Give,\" the Document, and the Verse for Intercourse",
+        "he": "קידושין ט׳ — \"הב, הב\", השטר והפסוק לביאה"
+      },
+      "parashah": {
+        "en": "Kiddushin 9",
+        "he": "קידושין דף 9"
+      },
+      "target_shabbat": "2031-01-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-10",
+      "title": {
+        "en": "Kiddushin 10 — When Intercourse Acquires, and What It Creates",
+        "he": "קידושין י׳ — מתי הביאה קונה, ומה היא יוצרת"
+      },
+      "parashah": {
+        "en": "Kiddushin 10",
+        "he": "קידושין דף 10"
+      },
+      "target_shabbat": "2031-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-11",
+      "title": {
+        "en": "Kiddushin 11 — Hidden Defects and the Dinar of Beit Shammai",
+        "he": "קידושין י״א — מומים נסתרים ודינר של בית שמאי"
+      },
+      "parashah": {
+        "en": "Kiddushin 11",
+        "he": "קידושין דף 11"
+      },
+      "target_shabbat": "2031-01-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-12",
+      "title": {
+        "en": "Kiddushin 12 — The Value of a Peruta and the Weight of Doubt",
+        "he": "קידושין י״ב — שוויה של פרוטה ומשקלו של ספק"
+      },
+      "parashah": {
+        "en": "Kiddushin 12",
+        "he": "קידושין דף 12"
+      },
+      "target_shabbat": "2031-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-13",
+      "title": {
+        "en": "Kiddushin 13 — Silence, Expertise, and the End of a Marriage",
+        "he": "קידושין י״ג — שתיקה, בקיאות וסיום הנישואין"
+      },
+      "parashah": {
+        "en": "Kiddushin 13",
+        "he": "קידושין דף 13"
+      },
+      "target_shabbat": "2031-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-14",
+      "title": {
+        "en": "Kiddushin 14 — The Yevama's Release and the Hebrew Slave's Acquisition",
+        "he": "קידושין י״ד — יציאת היבמה וקניין העבד העברי"
+      },
+      "parashah": {
+        "en": "Kiddushin 14",
+        "he": "קידושין דף 14"
+      },
+      "target_shabbat": "2031-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-15",
+      "title": {
+        "en": "Kiddushin 15 — One Who Sells Himself, the Pierced Slave, and Redemption",
+        "he": "קידושין ט״ו — המוכר עצמו, הנרצע והגאולה"
+      },
+      "parashah": {
+        "en": "Kiddushin 15",
+        "he": "קידושין דף 15"
+      },
+      "target_shabbat": "2031-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-16",
+      "title": {
+        "en": "Kiddushin 16 — The Document, the Ways Out, and Reish Lakish Refuted",
+        "he": "קידושין ט״ז — השטר, דרכי היציאה ופירכת ריש לקיש"
+      },
+      "parashah": {
+        "en": "Kiddushin 16",
+        "he": "קידושין דף 16"
+      },
+      "target_shabbat": "2031-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-17",
+      "title": {
+        "en": "Kiddushin 17 — The Size of the Gift and Who Inherits a Slave's Service",
+        "he": "קידושין י״ז — שיעור ההענקה ומי יורש את עבודת העבד"
+      },
+      "parashah": {
+        "en": "Kiddushin 17",
+        "he": "קידושין דף 17"
+      },
+      "target_shabbat": "2031-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-18",
+      "title": {
+        "en": "Kiddushin 18 — Sold for His Theft, and the Maidservant's Protections",
+        "he": "קידושין י״ח — נמכר בגניבתו, והגנות האמה העבריה"
+      },
+      "parashah": {
+        "en": "Kiddushin 18",
+        "he": "קידושין דף 18"
+      },
+      "target_shabbat": "2031-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-19",
+      "title": {
+        "en": "Kiddushin 19 — Designation: Who, How, and Against What Conditions",
+        "he": "קידושין י״ט — יעוד: מי, כיצד ונגד אילו תנאים"
+      },
+      "parashah": {
+        "en": "Kiddushin 19",
+        "he": "קידושין דף 19"
+      },
+      "target_shabbat": "2031-02-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-20",
+      "title": {
+        "en": "Kiddushin 20 — Leniency in Redemption and the Dust of the Sabbatical Year",
+        "he": "קידושין כ׳ — קולא בפדיון ואבקה של שביעית"
+      },
+      "parashah": {
+        "en": "Kiddushin 20",
+        "he": "קידושין דף 20"
+      },
+      "target_shabbat": "2031-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-21",
+      "title": {
+        "en": "Kiddushin 21 — Who Redeems, the Pierced Ear, and the Captive Woman",
+        "he": "קידושין כ״א — מי גואל, האוזן הנרצעת והאשת יפת תואר"
+      },
+      "parashah": {
+        "en": "Kiddushin 21",
+        "he": "קידושין דף 21"
+      },
+      "target_shabbat": "2031-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-22",
+      "title": {
+        "en": "Kiddushin 22 — The Ear That Heard at Sinai",
+        "he": "קידושין כ״ב — האוזן ששמעה בסיני"
+      },
+      "parashah": {
+        "en": "Kiddushin 22",
+        "he": "קידושין דף 22"
+      },
+      "target_shabbat": "2031-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-23",
+      "title": {
+        "en": "Kiddushin 23 — How a Canaanite Slave Goes Free",
+        "he": "קידושין כ״ג — כיצד עבד כנעני יוצא לחירות"
+      },
+      "parashah": {
+        "en": "Kiddushin 23",
+        "he": "קידושין דף 23"
+      },
+      "target_shabbat": "2031-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-24",
+      "title": {
+        "en": "Kiddushin 24 — Tooth, Eye, and the Limbs That Free a Slave",
+        "he": "קידושין כ״ד — שן, עין וראשי איברים המוציאים עבד"
+      },
+      "parashah": {
+        "en": "Kiddushin 24",
+        "he": "קידושין דף 24"
+      },
+      "target_shabbat": "2031-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-25",
+      "title": {
+        "en": "Kiddushin 25 — The Tongue, the Elders of Nezonya, and Acquiring an Animal",
+        "he": "קידושין כ״ה — הלשון, זקני נזוניא וקניין בהמה"
+      },
+      "parashah": {
+        "en": "Kiddushin 25",
+        "he": "קידושין דף 25"
+      },
+      "target_shabbat": "2031-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-26",
+      "title": {
+        "en": "Kiddushin 26 — Land, Movables, and Acquisition Together with Land",
+        "he": "קידושין כ״ו — קרקע, מטלטלין וקניין אגב"
+      },
+      "parashah": {
+        "en": "Kiddushin 26",
+        "he": "קידושין דף 26"
+      },
+      "target_shabbat": "2031-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-27",
+      "title": {
+        "en": "Kiddushin 27 — Along with Land, and the Extension of an Oath",
+        "he": "קידושין כ״ז — אגב קרקע וגלגול שבועה"
+      },
+      "parashah": {
+        "en": "Kiddushin 27",
+        "he": "קידושין דף 27"
+      },
+      "target_shabbat": "2031-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-28",
+      "title": {
+        "en": "Kiddushin 28 — How Far an Oath Extends, Exchange, and the Temple's Acquisition",
+        "he": "קידושין כ״ח — עד היכן גלגול שבועה, חליפין וקניין הקדש"
+      },
+      "parashah": {
+        "en": "Kiddushin 28",
+        "he": "קידושין דף 28"
+      },
+      "target_shabbat": "2031-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-29",
+      "title": {
+        "en": "Kiddushin 29 — What a Father Owes His Son",
+        "he": "קידושין כ״ט — מה חייב האב לבנו"
+      },
+      "parashah": {
+        "en": "Kiddushin 29",
+        "he": "קידושין דף 29"
+      },
+      "target_shabbat": "2031-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-30",
+      "title": {
+        "en": "Kiddushin 30 — Teaching Torah, Facing the Evil Inclination, and Honoring Parents",
+        "he": "קידושין ל׳ — לימוד תורה, מול היצר הרע וכיבוד הורים"
+      },
+      "parashah": {
+        "en": "Kiddushin 30",
+        "he": "קידושין דף 30"
+      },
+      "target_shabbat": "2031-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-31",
+      "title": {
+        "en": "Kiddushin 31 — How Far Honoring Parents Reaches",
+        "he": "קידושין ל״א — עד היכן כיבוד אב ואם"
+      },
+      "parashah": {
+        "en": "Kiddushin 31",
+        "he": "קידושין דף 31"
+      },
+      "target_shabbat": "2031-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-32",
+      "title": {
+        "en": "Kiddushin 32 — Who Pays, How to Correct, and Who May Waive Honor",
+        "he": "קידושין ל״ב — משל מי, כיצד מעירים, ומי רשאי למחול על כבודו"
+      },
+      "parashah": {
+        "en": "Kiddushin 32",
+        "he": "קידושין דף 32"
+      },
+      "target_shabbat": "2031-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-33",
+      "title": {
+        "en": "Kiddushin 33 — Rising Before Sages, Elders, and a Torah Scroll",
+        "he": "קידושין ל״ג — קימה מפני חכמים, זקנים וספר תורה"
+      },
+      "parashah": {
+        "en": "Kiddushin 33",
+        "he": "קידושין דף 33"
+      },
+      "target_shabbat": "2031-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-34",
+      "title": {
+        "en": "Kiddushin 34 — Time-Bound Mitzvot and the Search for a Model",
+        "he": "קידושין ל״ד — מצוות עשה שהזמן גרמא והחיפוש אחר דגם"
+      },
+      "parashah": {
+        "en": "Kiddushin 34",
+        "he": "קידושין דף 34"
+      },
+      "target_shabbat": "2031-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-35",
+      "title": {
+        "en": "Kiddushin 35 — Women, Prohibitions, and the Beard",
+        "he": "קידושין ל״ה — נשים, לאווין והזקן"
+      },
+      "parashah": {
+        "en": "Kiddushin 35",
+        "he": "קידושין דף 35"
+      },
+      "target_shabbat": "2031-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-36",
+      "title": {
+        "en": "Kiddushin 36 — Sons of God, and What Only Men Do in the Temple",
+        "he": "קידושין ל״ו — בנים למקום, ומה שרק אנשים עושים במקדש"
+      },
+      "parashah": {
+        "en": "Kiddushin 36",
+        "he": "קידושין דף 36"
+      },
+      "target_shabbat": "2031-02-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-37",
+      "title": {
+        "en": "Kiddushin 37 — Mitzvot of the Body and Mitzvot of the Land",
+        "he": "קידושין ל״ז — חובת הגוף וחובת קרקע"
+      },
+      "parashah": {
+        "en": "Kiddushin 37",
+        "he": "קידושין דף 37"
+      },
+      "target_shabbat": "2031-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-38",
+      "title": {
+        "en": "Kiddushin 38 — Manna, Moses' Day, and Mitzvot Outside the Land",
+        "he": "קידושין ל״ח — המן, יום משה, ומצוות בחוצה לארץ"
+      },
+      "parashah": {
+        "en": "Kiddushin 38",
+        "he": "קידושין דף 38"
+      },
+      "target_shabbat": "2031-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-39",
+      "title": {
+        "en": "Kiddushin 39 — Orla Abroad, Mixed Seeds, and the Reward for a Mitzva",
+        "he": "קידושין ל״ט — ערלה בחוצה לארץ, כלאים ושכר מצווה"
+      },
+      "parashah": {
+        "en": "Kiddushin 39",
+        "he": "קידושין דף 39"
+      },
+      "target_shabbat": "2031-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-40",
+      "title": {
+        "en": "Kiddushin 40 — Resisting Temptation, Fruits of Merit, and Study That Leads to Action",
+        "he": "קידושין מ׳ — עמידה בניסיון, פירות הזכות ותלמוד המביא לידי מעשה"
+      },
+      "parashah": {
+        "en": "Kiddushin 40",
+        "he": "קידושין דף 40"
+      },
+      "target_shabbat": "2031-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-41",
+      "title": {
+        "en": "Kiddushin 41 — Agency in Betrothal and the Sources of the Law of Agents",
+        "he": "קידושין מ״א — שליחות בקידושין ומקורות דין השליח"
+      },
+      "parashah": {
+        "en": "Kiddushin 41",
+        "he": "קידושין דף 41"
+      },
+      "target_shabbat": "2031-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-42",
+      "title": {
+        "en": "Kiddushin 42 — Agency for Offerings, Guardians for Orphans, and No Agent for a Transgression",
+        "he": "קידושין מ״ב — שליחות בקדשים, אפוטרופוס ליתומים ואין שליח לדבר עבירה"
+      },
+      "parashah": {
+        "en": "Kiddushin 42",
+        "he": "קידושין דף 42"
+      },
+      "target_shabbat": "2031-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-43",
+      "title": {
+        "en": "Kiddushin 43 — The Source for \"No Agent for a Transgression,\" the Agent as Witness, and the Betrothed Young Woman",
+        "he": "קידושין מ״ג — מקור \"אין שליח לדבר עבירה\", שליח נעשה עד ונערה המאורסה"
+      },
+      "parashah": {
+        "en": "Kiddushin 43",
+        "he": "קידושין דף 43"
+      },
+      "target_shabbat": "2031-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-44",
+      "title": {
+        "en": "Kiddushin 44 — Who Receives a Young Woman's Betrothal and Divorce, and the Minor Betrothed Without Her Father",
+        "he": "קידושין מ״ד — מי מקבל קידושי נערה וגיטה, וקטנה שנתקדשה שלא לדעת אביה"
+      },
+      "parashah": {
+        "en": "Kiddushin 44",
+        "he": "קידושין דף 44"
+      },
+      "target_shabbat": "2031-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-45",
+      "title": {
+        "en": "Kiddushin 45 — The Father's Consent, Betrothals Under the Poplars, and Teruma for the Married Daughter",
+        "he": "קידושין מ״ה — רצון האב, קידושין תותי ציפי ותרומה לבת הנשואה"
+      },
+      "parashah": {
+        "en": "Kiddushin 45",
+        "he": "קידושין דף 45"
+      },
+      "target_shabbat": "2031-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-46",
+      "title": {
+        "en": "Kiddushin 46 — Who May Block a Minor's Betrothal, Betrothal with Dates, and One Who Betroths His Sister",
+        "he": "קידושין מ״ו — מי מעכב קידושי קטנה, קידושין בתמרות והמקדש אחותו"
+      },
+      "parashah": {
+        "en": "Kiddushin 46",
+        "he": "קידושין דף 46"
+      },
+      "target_shabbat": "2031-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-47",
+      "title": {
+        "en": "Kiddushin 47 — \"With These,\" Betrothal with a Loan, and the Loan as a Deposit",
+        "he": "קידושין מ״ז — ״באלו״, המקדש במלוה ומלוה כפקדון"
+      },
+      "parashah": {
+        "en": "Kiddushin 47",
+        "he": "קידושין דף 47"
+      },
+      "target_shabbat": "2031-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-48",
+      "title": {
+        "en": "Kiddushin 48 — Betrothal with a Document, with a Wage, and with a Mistaken Object",
+        "he": "קידושין מ״ח — קידושין בשטר, בשכר ובטעות בחפץ"
+      },
+      "parashah": {
+        "en": "Kiddushin 48",
+        "he": "קידושין דף 48"
+      },
+      "target_shabbat": "2031-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-49",
+      "title": {
+        "en": "Kiddushin 49 — Conditions of Status and Learning, the Ten Measures, and Matters of the Heart",
+        "he": "קידושין מ״ט — תנאי יוחסין ולימוד, עשרה קבים ודברים שבלב"
+      },
+      "parashah": {
+        "en": "Kiddushin 49",
+        "he": "קידושין דף 49"
+      },
+      "target_shabbat": "2031-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-50",
+      "title": {
+        "en": "Kiddushin 50 — The Source of \"Matters in the Heart,\" Conditions in Betrothal, and Betrothal Gifts",
+        "he": "קידושין נ׳ — מקור \"דברים שבלב\", תנאים בקידושין וסבלונות"
+      },
+      "parashah": {
+        "en": "Kiddushin 50",
+        "he": "קידושין דף 50"
+      },
+      "target_shabbat": "2031-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-51",
+      "title": {
+        "en": "Kiddushin 51 — What Cannot Take Effect in Sequence, and Betrothal Not Fit for Consummation",
+        "he": "קידושין נ״א — כל שאינו בזה אחר זה, וקידושין שאין מסורין לביאה"
+      },
+      "parashah": {
+        "en": "Kiddushin 51",
+        "he": "קידושין דף 51"
+      },
+      "target_shabbat": "2031-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-52",
+      "title": {
+        "en": "Kiddushin 52 — The Halakha Follows Abaye, Betrothal with Stolen Property, and the Priest's Portion",
+        "he": "קידושין נ״ב — הלכה כאביי, קידושין בגזל וחלק הכהן"
+      },
+      "parashah": {
+        "en": "Kiddushin 52",
+        "he": "קידושין דף 52"
+      },
+      "target_shabbat": "2031-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-53",
+      "title": {
+        "en": "Kiddushin 53 — The Priests' Shares, Second Tithe, and Unwitting Use of Consecrated Property",
+        "he": "קידושין נ״ג — חלוקת הכהנים, מעשר שני ושגגת הקדש"
+      },
+      "parashah": {
+        "en": "Kiddushin 53",
+        "he": "קידושין דף 53"
+      },
+      "target_shabbat": "2031-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-54",
+      "title": {
+        "en": "Kiddushin 54 — Rabbi Meir on Consecrated Property and the Ruling on Tithe and Consecration",
+        "he": "קידושין נ״ד — שיטת רבי מאיר בהקדש והפסק במעשר ובהקדש"
+      },
+      "parashah": {
+        "en": "Kiddushin 54",
+        "he": "קידושין דף 54"
+      },
+      "target_shabbat": "2031-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-55",
+      "title": {
+        "en": "Kiddushin 55 — An Animal Found Near Jerusalem and Rabbi Meir's Desacralization",
+        "he": "קידושין נ״ה — בהמה שנמצאה בסביבות ירושלים וחילול ההקדש לרבי מאיר"
+      },
+      "parashah": {
+        "en": "Kiddushin 55",
+        "he": "קידושין דף 55"
+      },
+      "target_shabbat": "2031-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-56",
+      "title": {
+        "en": "Kiddushin 56 — Animals Bought with Tithe Money and Betrothal with Forbidden Benefit",
+        "he": "קידושין נ״ו — בהמה במעות מעשר וקידושין באיסורי הנאה"
+      },
+      "parashah": {
+        "en": "Kiddushin 56",
+        "he": "קידושין דף 56"
+      },
+      "target_shabbat": "2031-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-57",
+      "title": {
+        "en": "Kiddushin 57 — The Expositions of \"Et,\" the Leper's Birds, and Items Forbidden for Benefit",
+        "he": "קידושין נ״ז — דרשת ״את״, ציפורי מצורע ואיסורי הנאה"
+      },
+      "parashah": {
+        "en": "Kiddushin 57",
+        "he": "קידושין דף 57"
+      },
+      "target_shabbat": "2031-03-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-58",
+      "title": {
+        "en": "Kiddushin 58 — Proceeds of Forbidden Items, the Benefit of Discretion, and the Deceitful Agent",
+        "he": "קידושין נ״ח — דמי איסורי הנאה, טובת הנאה והשליח הרמאי"
+      },
+      "parashah": {
+        "en": "Kiddushin 58",
+        "he": "קידושין דף 58"
+      },
+      "target_shabbat": "2031-03-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-59",
+      "title": {
+        "en": "Kiddushin 59 — The Deceitful Agent, the Poor Man and the Cake, and Retracting a Betrothal",
+        "he": "קידושין נ״ט — השליח הרמאי, עני המהפך בחררה וחזרה מקידושין"
+      },
+      "parashah": {
+        "en": "Kiddushin 59",
+        "he": "קידושין דף 59"
+      },
+      "target_shabbat": "2031-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-60",
+      "title": {
+        "en": "Kiddushin 60 — Successive Conditional Betrothals and \"On Condition That I Give You Two Hundred Zuz\"",
+        "he": "קידושין ס׳ — קידושין מותנים זה אחר זה ו״על מנת שאתן לך מאתים זוז״"
+      },
+      "parashah": {
+        "en": "Kiddushin 60",
+        "he": "קידושין דף 60"
+      },
+      "target_shabbat": "2031-03-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-61",
+      "title": {
+        "en": "Kiddushin 61 — Crevices in a Field and the Double Condition of the Children of Gad and Reuben",
+        "he": "קידושין ס״א — נקעים בשדה ותנאי כפול של בני גד ובני ראובן"
+      },
+      "parashah": {
+        "en": "Kiddushin 61",
+        "he": "קידושין דף 61"
+      },
+      "target_shabbat": "2031-03-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-62",
+      "title": {
+        "en": "Kiddushin 62 — Doubled Verses, Betrothal After a Future Event, and \"Whatever Is in His Power\"",
+        "he": "קידושין ס״ב — פסוקים כפולים, קידושין לאחר מאורע עתידי ו״כל שבידו״"
+      },
+      "parashah": {
+        "en": "Kiddushin 62",
+        "he": "קידושין דף 62"
+      },
+      "target_shabbat": "2031-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-63",
+      "title": {
+        "en": "Kiddushin 63 — Transferring What Does Not Yet Exist, Conditions of Service, and the Father's Credibility",
+        "he": "קידושין ס״ג — הקנאת דבר שלא בא לעולם, תנאי שירות ונאמנות האב"
+      },
+      "parashah": {
+        "en": "Kiddushin 63",
+        "he": "קידושין דף 63"
+      },
+      "target_shabbat": "2031-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-64",
+      "title": {
+        "en": "Kiddushin 64 — The Father's Credibility, \"I Have Children,\" and the Eldest and Youngest Daughter",
+        "he": "קידושין ס״ד — נאמנות האב, ״יש לי בנים״ והבת הגדולה והקטנה"
+      },
+      "parashah": {
+        "en": "Kiddushin 64",
+        "he": "קידושין דף 64"
+      },
+      "target_shabbat": "2031-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-65",
+      "title": {
+        "en": "Kiddushin 65 — Disputed Betrothal Claims and Betrothal Before One Witness",
+        "he": "קידושין ס״ה — טענות קידושין סותרות וקידושין בעד אחד"
+      },
+      "parashah": {
+        "en": "Kiddushin 65",
+        "he": "קידושין דף 65"
+      },
+      "target_shabbat": "2031-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-66",
+      "title": {
+        "en": "Kiddushin 66 — One Witness, King Yannai and the Sages, and the Lineage of Offspring",
+        "he": "קידושין ס״ו — עד אחד, ינאי המלך וחכמי ישראל, ויחוס הולד"
+      },
+      "parashah": {
+        "en": "Kiddushin 66",
+        "he": "קידושין דף 66"
+      },
+      "target_shabbat": "2031-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-67",
+      "title": {
+        "en": "Kiddushin 67 — The Scope of \"Any Case,\" Lineage Among the Nations, and the Source That Betrothal Fails With Forbidden Relatives",
+        "he": "קידושין ס״ז — היקף ״כל מקום״, יחוס באומות ומקור שאין קידושין תופסין בעריות"
+      },
+      "parashah": {
+        "en": "Kiddushin 67",
+        "he": "קידושין דף 67"
+      },
+      "target_shabbat": "2031-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-68",
+      "title": {
+        "en": "Kiddushin 68 — Betrothal With Those Forbidden by Negative Commandments, and the Children of a Maidservant and a Gentile Woman",
+        "he": "קידושין ס״ח — קידושין בחייבי לאוין, וולד שפחה ונכרית"
+      },
+      "parashah": {
+        "en": "Kiddushin 68",
+        "he": "קידושין דף 68"
+      },
+      "target_shabbat": "2031-03-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-69",
+      "title": {
+        "en": "Kiddushin 69 — Purifying Mamzerim and the Ten Lineages That Came Up From Babylonia",
+        "he": "קידושין ס״ט — טהרת ממזרים ועשרה יוחסין שעלו מבבל"
+      },
+      "parashah": {
+        "en": "Kiddushin 69",
+        "he": "קידושין דף 69"
+      },
+      "target_shabbat": "2031-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-70",
+      "title": {
+        "en": "Kiddushin 70 — Unfit Marriages and the Man From Neharde'a",
+        "he": "קידושין ע׳ — נישואין שאינם הוגנים והאיש מנהרדעא"
+      },
+      "parashah": {
+        "en": "Kiddushin 70",
+        "he": "קידושין דף 70"
+      },
+      "target_shabbat": "2031-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-71",
+      "title": {
+        "en": "Kiddushin 71 — Assimilated Families, the Divine Names, and the Lineage of Babylonia",
+        "he": "קידושין ע״א — משפחה שנטמעה, שמות ה׳ ויחוס בבל"
+      },
+      "parashah": {
+        "en": "Kiddushin 71",
+        "he": "קידושין דף 71"
+      },
+      "target_shabbat": "2031-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-72",
+      "title": {
+        "en": "Kiddushin 72 — The Borders of Babylonia, Rabbi's Deathbed Words, and Mamzerim in the Future",
+        "he": "קידושין ע״ב — גבולות בבל, דברי רבי בשעת פטירתו וממזרים לעתיד לבוא"
+      },
+      "parashah": {
+        "en": "Kiddushin 72",
+        "he": "קידושין דף 72"
+      },
+      "target_shabbat": "2031-03-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-73",
+      "title": {
+        "en": "Kiddushin 73 — Converts and Mamzerim, the Shetuki and the Foundling",
+        "he": "קידושין ע״ג — גר וממזרת, שתוקי ואסופי"
+      },
+      "parashah": {
+        "en": "Kiddushin 73",
+        "he": "קידושין דף 73"
+      },
+      "target_shabbat": "2031-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-74",
+      "title": {
+        "en": "Kiddushin 74 — Credibility of Seller, Judge and Parents, Abba Shaul's \"Beduki,\" and Those Forbidden to Enter the Congregation",
+        "he": "קידושין ע״ד — נאמנות המוכר, הדיין וההורים, ״בדוקי״ של אבא שאול, ואסורי קהל"
+      },
+      "parashah": {
+        "en": "Kiddushin 74",
+        "he": "קידושין דף 74"
+      },
+      "target_shabbat": "2031-03-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-75",
+      "title": {
+        "en": "Kiddushin 75 — Who Disqualifies a Woman From the Priesthood, the Pregnant Betrothed Woman, and the Samaritans",
+        "he": "קידושין ע״ה — מי פוסל מן הכהונה, ארוסה שעיברה והכותים"
+      },
+      "parashah": {
+        "en": "Kiddushin 75",
+        "he": "קידושין דף 75"
+      },
+      "target_shabbat": "2031-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-76",
+      "title": {
+        "en": "Kiddushin 76 — The Samaritans' Flaw and Investigating the Four Mothers",
+        "he": "קידושין ע״ו — פסול הכותים ובדיקת ארבע אמהות"
+      },
+      "parashah": {
+        "en": "Kiddushin 76",
+        "he": "קידושין דף 76"
+      },
+      "target_shabbat": "2031-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-77",
+      "title": {
+        "en": "Kiddushin 77 — The Daughter of a Ḥalal and Multiple Prohibitions on a Priest",
+        "he": "קידושין ע״ז — בת חלל ואיסורים מרובים בכהן"
+      },
+      "parashah": {
+        "en": "Kiddushin 77",
+        "he": "קידושין דף 77"
+      },
+      "target_shabbat": "2031-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-78",
+      "title": {
+        "en": "Kiddushin 78 — Lashes for a High Priest, the Convert's Daughter, and \"This Son of Mine Is a Mamzer\"",
+        "he": "קידושין ע״ח — מלקות לכהן גדול, בת גר, ו״בני זה ממזר״"
+      },
+      "parashah": {
+        "en": "Kiddushin 78",
+        "he": "קידושין דף 78"
+      },
+      "target_shabbat": "2031-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-79",
+      "title": {
+        "en": "Kiddushin 79 — Competing Betrothals, the Woman Who Matured, and the Family From Overseas",
+        "he": "קידושין ע״ט — קידושין מתחרים, הבוגרת עכשיו, והמשפחה שבאה ממדינת הים"
+      },
+      "parashah": {
+        "en": "Kiddushin 79",
+        "he": "קידושין דף 79"
+      },
+      "target_shabbat": "2031-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-80",
+      "title": {
+        "en": "Kiddushin 80 — Presumptions of Family and Purity, and the Laws of Seclusion",
+        "he": "קידושין פ׳ — חזקות משפחה וטהרה ודיני ייחוד"
+      },
+      "parashah": {
+        "en": "Kiddushin 80",
+        "he": "קידושין דף 80"
+      },
+      "target_shabbat": "2031-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-81",
+      "title": {
+        "en": "Kiddushin 81 — Seclusion in Practice and the Sages Tested by the Inclination",
+        "he": "קידושין פ״א — ייחוד למעשה וחכמים שנתנסו ביצר"
+      },
+      "parashah": {
+        "en": "Kiddushin 81",
+        "he": "קידושין דף 81"
+      },
+      "target_shabbat": "2031-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-kiddushin-82",
+      "title": {
+        "en": "Kiddushin 82 — Teachers, Trades and Livelihood — the Close of the Tractate",
+        "he": "קידושין פ״ב — מלמדים, אומנויות ופרנסה — סיום המסכת"
+      },
+      "parashah": {
+        "en": "Kiddushin 82",
+        "he": "קידושין דף 82"
+      },
+      "target_shabbat": "2031-04-06",
+      "category": "talmud"
     }
   ]
 }
