@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-20T23:09:01.664759+02:00",
+  "calculated_at": "2026-11-21T04:20:27.157228+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-11-20",
-      "cycle": 14,
-      "day_in_cycle": 2512,
-      "tractate_id": "arakhin",
-      "tractate": {
-        "en": "Arakhin",
-        "he": "ערכין"
-      },
-      "daf": 3,
-      "label": {
-        "en": "Arakhin 3",
-        "he": "ערכין דף 3"
-      },
-      "references": [
-        "Arakhin 3a",
-        "Arakhin 3b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Arakhin_3a",
-        "https://www.sefaria.org/Arakhin_3b"
-      ],
-      "id": "cycle-14-arakhin-3",
-      "target_shabbat": "2026-11-20",
-      "hebrew_date": "י׳ כסלו תשפ״ז",
-      "israel": {
-        "en": "Arakhin 3",
-        "he": "ערכין דף 3"
-      },
-      "diaspora": {
-        "en": "Arakhin 3",
-        "he": "ערכין דף 3"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-11-21",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Keritot 26",
         "he": "כריתות דף 26"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-02-18",
+      "cycle": 14,
+      "day_in_cycle": 2602,
+      "tractate_id": "keritot",
+      "tractate": {
+        "en": "Keritot",
+        "he": "כריתות"
+      },
+      "daf": 27,
+      "label": {
+        "en": "Keritot 27",
+        "he": "כריתות דף 27"
+      },
+      "references": [
+        "Keritot 27a",
+        "Keritot 27b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Keritot_27a",
+        "https://www.sefaria.org/Keritot_27b"
+      ],
+      "id": "cycle-14-keritot-27",
+      "target_shabbat": "2027-02-18",
+      "hebrew_date": "י״א אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Keritot 27",
+        "he": "כריתות דף 27"
+      },
+      "diaspora": {
+        "en": "Keritot 27",
+        "he": "כריתות דף 27"
       },
       "different_readings": false,
       "festival": null,
