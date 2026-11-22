@@ -24635,6 +24635,760 @@
       },
       "target_shabbat": "2031-11-28",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-2",
+      "title": {
+        "en": "Bava Batra 2 — Partners, Partitions, and the Damage of Being Seen",
+        "he": "בבא בתרא ב׳ — שותפים, מחיצה, והיזק ראייה"
+      },
+      "parashah": {
+        "en": "Bava Batra 2",
+        "he": "בבא בתרא דף 2"
+      },
+      "target_shabbat": "2031-11-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-3",
+      "title": {
+        "en": "Bava Batra 3 — From Courtyard Walls to the Walls of the Temple",
+        "he": "בבא בתרא ג׳ — מכותלי החצר אל כותלי המקדש"
+      },
+      "parashah": {
+        "en": "Bava Batra 3",
+        "he": "בבא בתרא דף 3"
+      },
+      "target_shabbat": "2031-11-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-4",
+      "title": {
+        "en": "Bava Batra 4 — Herod's Temple and the Marks of Ownership",
+        "he": "בבא בתרא ד׳ — מקדש הורדוס וסימני הבעלות"
+      },
+      "parashah": {
+        "en": "Bava Batra 4",
+        "he": "בבא בתרא דף 4"
+      },
+      "target_shabbat": "2031-12-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-5",
+      "title": {
+        "en": "Bava Batra 5 — Ravina, Ronya, and the Presumption about Early Payment",
+        "he": "בבא בתרא ה׳ — רבינא, רוניא וחזקת הפירעון בתוך הזמן"
+      },
+      "parashah": {
+        "en": "Bava Batra 5",
+        "he": "בבא בתרא דף 5"
+      },
+      "target_shabbat": "2031-12-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-6",
+      "title": {
+        "en": "Bava Batra 6 — Presumptions, Acquired Rights, and Fences between Roofs",
+        "he": "בבא בתרא ו׳ — חזקות, זכויות שנקנו ומחיצות בין גגות"
+      },
+      "parashah": {
+        "en": "Bava Batra 6",
+        "he": "בבא בתרא דף 6"
+      },
+      "target_shabbat": "2031-12-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-7",
+      "title": {
+        "en": "Bava Batra 7 — Sinking Houses, Blocked Windows, and the City Wall",
+        "he": "בבא בתרא ז׳ — בתים שוקעים, חלונות שנחסמו וחומת העיר"
+      },
+      "parashah": {
+        "en": "Bava Batra 7",
+        "he": "בבא בתרא דף 7"
+      },
+      "target_shabbat": "2031-12-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-8",
+      "title": {
+        "en": "Bava Batra 8 — Who Bears the Public Burden: Taxes, Residency, and Charity",
+        "he": "בבא בתרא ח׳ — מי נושא בעול הציבור: מסים, תושבות וצדקה"
+      },
+      "parashah": {
+        "en": "Bava Batra 8",
+        "he": "בבא בתרא דף 8"
+      },
+      "target_shabbat": "2031-12-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-9",
+      "title": {
+        "en": "Bava Batra 9 — The Discipline and the Reward of Charity",
+        "he": "בבא בתרא ט׳ — משמעת הצדקה ושכרה"
+      },
+      "parashah": {
+        "en": "Bava Batra 9",
+        "he": "בבא בתרא דף 9"
+      },
+      "target_shabbat": "2031-12-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-10",
+      "title": {
+        "en": "Bava Batra 10 — Sons or Servants: The Theology of Charity",
+        "he": "בבא בתרא י׳ — בנים או עבדים: תורת הצדקה"
+      },
+      "parashah": {
+        "en": "Bava Batra 10",
+        "he": "בבא בתרא דף 10"
+      },
+      "target_shabbat": "2031-12-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-11",
+      "title": {
+        "en": "Bava Batra 11 — Treasures Above and the Division of Shared Property",
+        "he": "בבא בתרא י״א — אוצרות למעלה וחלוקת נכסים משותפים"
+      },
+      "parashah": {
+        "en": "Bava Batra 11",
+        "he": "בבא בתרא דף 11"
+      },
+      "target_shabbat": "2031-12-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-12",
+      "title": {
+        "en": "Bava Batra 12 — Public Paths, Divisible Fields, and Prophecy after the Temple",
+        "he": "בבא בתרא י״ב — דרכי הרבים, שדות הניתנים לחלוקה ונבואה אחר החורבן"
+      },
+      "parashah": {
+        "en": "Bava Batra 12",
+        "he": "בבא בתרא דף 12"
+      },
+      "target_shabbat": "2031-12-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-13",
+      "title": {
+        "en": "Bava Batra 13 — \"Either You Set a Price or I Will\": Ending a Partnership",
+        "he": "בבא בתרא י״ג — \"גוד או איגוד\": פירוק שותפות"
+      },
+      "parashah": {
+        "en": "Bava Batra 13",
+        "he": "בבא בתרא דף 13"
+      },
+      "target_shabbat": "2031-12-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-14",
+      "title": {
+        "en": "Bava Batra 14 — The Form of the Scroll and the Order of the Books",
+        "he": "בבא בתרא י״ד — צורת הספר וסדר הספרים"
+      },
+      "parashah": {
+        "en": "Bava Batra 14",
+        "he": "בבא בתרא דף 14"
+      },
+      "target_shabbat": "2031-12-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-15",
+      "title": {
+        "en": "Bava Batra 15 — Who Wrote the Books, and When Did Job Live?",
+        "he": "בבא בתרא ט״ו — מי כתב את הספרים, ומתי חי איוב?"
+      },
+      "parashah": {
+        "en": "Bava Batra 15",
+        "he": "בבא בתרא דף 15"
+      },
+      "target_shabbat": "2031-12-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-16",
+      "title": {
+        "en": "Bava Batra 16 — Job's Trial, Daughters, and the Day Abraham Died",
+        "he": "בבא בתרא ט״ז — ניסיון איוב, הבנות והיום שבו מת אברהם"
+      },
+      "parashah": {
+        "en": "Bava Batra 16",
+        "he": "בבא בתרא דף 16"
+      },
+      "target_shabbat": "2031-12-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-17",
+      "title": {
+        "en": "Bava Batra 17 — Those Untouched by Death, and the Distance from a Neighbor's Wall",
+        "he": "בבא בתרא י״ז — מי שלא שלט בהם המוות, וההרחקה מכותל השכן"
+      },
+      "parashah": {
+        "en": "Bava Batra 17",
+        "he": "בבא בתרא דף 17"
+      },
+      "target_shabbat": "2031-12-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-18",
+      "title": {
+        "en": "Bava Batra 18 — On Whom Lies the Duty to Distance Damage?",
+        "he": "בבא בתרא י״ח — על מי מוטלת חובת ההרחקה?"
+      },
+      "parashah": {
+        "en": "Bava Batra 18",
+        "he": "בבא בתרא דף 18"
+      },
+      "target_shabbat": "2031-12-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-19",
+      "title": {
+        "en": "Bava Batra 19 — Moisture, Heat, and What Counts as an Obstruction",
+        "he": "בבא בתרא י״ט — לחות, חום, ומה נחשב חציצה"
+      },
+      "parashah": {
+        "en": "Bava Batra 19",
+        "he": "בבא בתרא דף 19"
+      },
+      "target_shabbat": "2031-12-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-20",
+      "title": {
+        "en": "Bava Batra 20 — What Stays in Place, and What a Neighbor Must Tolerate",
+        "he": "בבא בתרא כ׳ — מה נשאר במקומו, ומה שכן חייב לסבול"
+      },
+      "parashah": {
+        "en": "Bava Batra 20",
+        "he": "בבא בתרא דף 20"
+      },
+      "target_shabbat": "2031-12-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-21",
+      "title": {
+        "en": "Bava Batra 21 — Schoolchildren in the Courtyard and Competition in the Alley",
+        "he": "בבא בתרא כ״א — תינוקות של בית רבן בחצר ותחרות במבוי"
+      },
+      "parashah": {
+        "en": "Bava Batra 21",
+        "he": "בבא בתרא דף 21"
+      },
+      "target_shabbat": "2031-12-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-22",
+      "title": {
+        "en": "Bava Batra 22 — Market Rights, a Scholar's Honor, and Walls by Windows",
+        "he": "בבא בתרא כ״ב — זכויות שוק, כבוד תלמיד חכם וכתלים מול חלונות"
+      },
+      "parashah": {
+        "en": "Bava Batra 22",
+        "he": "בבא בתרא דף 22"
+      },
+      "target_shabbat": "2031-12-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-23",
+      "title": {
+        "en": "Bava Batra 23 — Dovecotes, Acquired Rights, and Majority versus Proximity",
+        "he": "בבא בתרא כ״ג — שובכים, חזקות, ורוב מול קרוב"
+      },
+      "parashah": {
+        "en": "Bava Batra 23",
+        "he": "בבא בתרא דף 23"
+      },
+      "target_shabbat": "2031-12-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-24",
+      "title": {
+        "en": "Bava Batra 24 — Following the Majority, and Keeping Trees and Threshing Floors from the City",
+        "he": "בבא בתרא כ״ד — הליכה אחר הרוב, והרחקת אילנות וגרנות מן העיר"
+      },
+      "parashah": {
+        "en": "Bava Batra 24",
+        "he": "בבא בתרא דף 24"
+      },
+      "target_shabbat": "2031-12-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-25",
+      "title": {
+        "en": "Bava Batra 25 — Winds, the Direction of Prayer, and a Tree beside a Cistern",
+        "he": "בבא בתרא כ״ה — רוחות, כיוון התפילה ואילן בצד בור"
+      },
+      "parashah": {
+        "en": "Bava Batra 25",
+        "he": "בבא בתרא דף 25"
+      },
+      "target_shabbat": "2031-12-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-26",
+      "title": {
+        "en": "Bava Batra 26 — Direct Force, Neighboring Trees, and Whose Roots Are They?",
+        "he": "בבא בתרא כ״ו — כוחו הישיר, אילנות סמוכים, ושורשים של מי?"
+      },
+      "parashah": {
+        "en": "Bava Batra 26",
+        "he": "בבא בתרא דף 26"
+      },
+      "target_shabbat": "2031-12-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-27",
+      "title": {
+        "en": "Bava Batra 27 — Roots that Cross a Border, Branches that Overhang",
+        "he": "בבא בתרא כ״ז — שורשים החוצים גבול, ענפים הנוטים"
+      },
+      "parashah": {
+        "en": "Bava Batra 27",
+        "he": "בבא בתרא דף 27"
+      },
+      "target_shabbat": "2031-12-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-28",
+      "title": {
+        "en": "Bava Batra 28 — Three Years of Possession: The Source of Ḥazakah",
+        "he": "בבא בתרא כ״ח — שלוש שנים של חזקה: מקורה של חזקת קרקע"
+      },
+      "parashah": {
+        "en": "Bava Batra 28",
+        "he": "בבא בתרא דף 28"
+      },
+      "target_shabbat": "2031-12-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-29",
+      "title": {
+        "en": "Bava Batra 29 — Why Three Years? Consecutive Use and Who Must Prove",
+        "he": "בבא בתרא כ״ט — מדוע שלוש שנים? שימוש רצוף ועל מי הראיה"
+      },
+      "parashah": {
+        "en": "Bava Batra 29",
+        "he": "בבא בתרא דף 29"
+      },
+      "target_shabbat": "2031-12-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-30",
+      "title": {
+        "en": "Bava Batra 30 — Claims and Counterclaims in Land Disputes",
+        "he": "בבא בתרא ל׳ — טענות ושכנגד בסכסוכי קרקע"
+      },
+      "parashah": {
+        "en": "Bava Batra 30",
+        "he": "בבא בתרא דף 30"
+      },
+      "target_shabbat": "2031-12-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-31",
+      "title": {
+        "en": "Bava Batra 31 — Changing a Claim and Contradicted Witnesses",
+        "he": "בבא בתרא ל״א — חזרה מטענה ועדים שהוכחשו"
+      },
+      "parashah": {
+        "en": "Bava Batra 31",
+        "he": "בבא בתרא דף 31"
+      },
+      "target_shabbat": "2031-12-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-32",
+      "title": {
+        "en": "Bava Batra 32 — Contempt of Court and the Admitted Forgery",
+        "he": "בבא בתרא ל״ב — זילותא דבי דינא והשטר המזויף שהודו בו"
+      },
+      "parashah": {
+        "en": "Bava Batra 32",
+        "he": "בבא בתרא דף 32"
+      },
+      "target_shabbat": "2031-12-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-33",
+      "title": {
+        "en": "Bava Batra 33 — Orphans' Land, an Admitted Heir, and Partial Proof",
+        "he": "בבא בתרא ל״ג — קרקע יתומים, יורש שהודו בו, וראיה חלקית"
+      },
+      "parashah": {
+        "en": "Bava Batra 33",
+        "he": "בבא בתרא דף 33"
+      },
+      "target_shabbat": "2031-12-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-34",
+      "title": {
+        "en": "Bava Batra 34 — One Who Cannot Swear, and \"Whoever Is Stronger Prevails\"",
+        "he": "בבא בתרא ל״ד — מתוך שאינו יכול לישבע, ו\"כל דאלים גבר\""
+      },
+      "parashah": {
+        "en": "Bava Batra 34",
+        "he": "בבא בתרא דף 34"
+      },
+      "target_shabbat": "2031-12-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-35",
+      "title": {
+        "en": "Bava Batra 35 — Divide, Decide, or Let the Stronger Prevail",
+        "he": "בבא בתרא ל״ה — לחלוק, שודא דדייני, או כל דאלים גבר"
+      },
+      "parashah": {
+        "en": "Bava Batra 35",
+        "he": "בבא בתרא דף 35"
+      },
+      "target_shabbat": "2032-01-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-36",
+      "title": {
+        "en": "Bava Batra 36 — What Kind of Use Establishes Ḥazakah?",
+        "he": "בבא בתרא ל״ו — איזה שימוש יוצר חזקה?"
+      },
+      "parashah": {
+        "en": "Bava Batra 36",
+        "he": "בבא בתרא דף 36"
+      },
+      "target_shabbat": "2032-01-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-37",
+      "title": {
+        "en": "Bava Batra 37 — Trees, Land, and What a Sale Includes",
+        "he": "בבא בתרא ל״ז — אילנות, קרקע ומה המכירה כוללת"
+      },
+      "parashah": {
+        "en": "Bava Batra 37",
+        "he": "בבא בתרא דף 37"
+      },
+      "target_shabbat": "2032-01-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-38",
+      "title": {
+        "en": "Bava Batra 38 — Protest in Absence: Distance, Danger, and Flight",
+        "he": "בבא בתרא ל״ח — מחאה שלא בפניו: מרחק, סכנה ובריחה"
+      },
+      "parashah": {
+        "en": "Bava Batra 38",
+        "he": "בבא בתרא דף 38"
+      },
+      "target_shabbat": "2032-01-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-39",
+      "title": {
+        "en": "Bava Batra 39 — How a Protest Spreads",
+        "he": "בבא בתרא ל״ט — כיצד מחאה מתפשטת"
+      },
+      "parashah": {
+        "en": "Bava Batra 39",
+        "he": "בבא בתרא דף 39"
+      },
+      "target_shabbat": "2032-01-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-40",
+      "title": {
+        "en": "Bava Batra 40 — Protest, Preemptive Declaration, Admission, Acquisition",
+        "he": "בבא בתרא מ׳ — מחאה, מודעא, הודאה וקנין"
+      },
+      "parashah": {
+        "en": "Bava Batra 40",
+        "he": "בבא בתרא דף 40"
+      },
+      "target_shabbat": "2032-01-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-41",
+      "title": {
+        "en": "Bava Batra 41 — Ḥazakah Requires a Claim",
+        "he": "בבא בתרא מ״א — חזקה שאין עמה טענה"
+      },
+      "parashah": {
+        "en": "Bava Batra 41",
+        "he": "בבא בתרא דף 41"
+      },
+      "target_shabbat": "2032-01-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-42",
+      "title": {
+        "en": "Bava Batra 42 — Who Cannot Establish Ḥazakah?",
+        "he": "בבא בתרא מ״ב — מי אינו יכול להחזיק?"
+      },
+      "parashah": {
+        "en": "Bava Batra 42",
+        "he": "בבא בתרא דף 42"
+      },
+      "target_shabbat": "2032-01-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-43",
+      "title": {
+        "en": "Bava Batra 43 — Bias and the Interested Witness",
+        "he": "בבא בתרא מ״ג — נגיעה ועד הנוגע בדבר"
+      },
+      "parashah": {
+        "en": "Bava Batra 43",
+        "he": "בבא בתרא דף 43"
+      },
+      "target_shabbat": "2032-01-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-44",
+      "title": {
+        "en": "Bava Batra 44 — The Seller as Witness for His Buyer",
+        "he": "בבא בתרא מ״ד — המוכר כעד ללוקח"
+      },
+      "parashah": {
+        "en": "Bava Batra 44",
+        "he": "בבא בתרא דף 44"
+      },
+      "target_shabbat": "2032-01-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-45",
+      "title": {
+        "en": "Bava Batra 45 — The Seller's Conscience and the Craftsman's Claim",
+        "he": "בבא בתרא מ״ה — מצפון המוכר וטענת האומן"
+      },
+      "parashah": {
+        "en": "Bava Batra 45",
+        "he": "בבא בתרא דף 45"
+      },
+      "target_shabbat": "2032-01-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-46",
+      "title": {
+        "en": "Bava Batra 46 — Craftsmen, Exchanged Utensils and Sharecroppers",
+        "he": "בבא בתרא מ״ו — אומנים, כלים שהוחלפו ואריסים"
+      },
+      "parashah": {
+        "en": "Bava Batra 46",
+        "he": "בבא בתרא דף 46"
+      },
+      "target_shabbat": "2032-01-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-47",
+      "title": {
+        "en": "Bava Batra 47 — Who Cannot Hold a Presumption, and Their Heirs",
+        "he": "בבא בתרא מ״ז — מי שאין לו חזקה, ויורשיו"
+      },
+      "parashah": {
+        "en": "Bava Batra 47",
+        "he": "בבא בתרא דף 47"
+      },
+      "target_shabbat": "2032-01-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-48",
+      "title": {
+        "en": "Bava Batra 48 — Consent Under Duress",
+        "he": "בבא בתרא מ״ח — רצון מתוך כפייה"
+      },
+      "parashah": {
+        "en": "Bava Batra 48",
+        "he": "בבא בתרא דף 48"
+      },
+      "target_shabbat": "2032-01-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-49",
+      "title": {
+        "en": "Bava Batra 49 — Witnesses Against Their Own Signature, and the Husband's Use of His Wife's Field",
+        "he": "בבא בתרא מ״ט — עדים הסותרים חתימתם, ושימוש הבעל בשדה אשתו"
+      },
+      "parashah": {
+        "en": "Bava Batra 49",
+        "he": "בבא בתרא דף 49"
+      },
+      "target_shabbat": "2032-01-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-50",
+      "title": {
+        "en": "Bava Batra 50 — Usufruct Property and the Married Woman's Protest",
+        "he": "בבא בתרא נ׳ — נכסי מלוג ומחאת אשת איש"
+      },
+      "parashah": {
+        "en": "Bava Batra 50",
+        "he": "בבא בתרא דף 50"
+      },
+      "target_shabbat": "2032-01-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-51",
+      "title": {
+        "en": "Bava Batra 51 — Selling a Field to One's Wife",
+        "he": "בבא בתרא נ״א — המוכר שדה לאשתו"
+      },
+      "parashah": {
+        "en": "Bava Batra 51",
+        "he": "בבא בתרא דף 51"
+      },
+      "target_shabbat": "2032-01-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-52",
+      "title": {
+        "en": "Bava Batra 52 — The Family Business and Acts of Acquisition",
+        "he": "בבא בתרא נ״ב — העסק המשפחתי ומעשי קנין"
+      },
+      "parashah": {
+        "en": "Bava Batra 52",
+        "he": "בבא בתרא דף 52"
+      },
+      "target_shabbat": "2032-01-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-53",
+      "title": {
+        "en": "Bava Batra 53 — How Much Is \"A Bit\"? Acts of Possession",
+        "he": "בבא בתרא נ״ג — מהו \"כל שהוא\"? מעשי חזקה"
+      },
+      "parashah": {
+        "en": "Bava Batra 53",
+        "he": "בבא בתרא דף 53"
+      },
+      "target_shabbat": "2032-01-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-54",
+      "title": {
+        "en": "Bava Batra 54 — Intention in Acts of Possession, and Land Bought from a Gentile",
+        "he": "בבא בתרא נ״ד — כוונה במעשי חזקה, וקרקע שנקנתה מנכרי"
+      },
+      "parashah": {
+        "en": "Bava Batra 54",
+        "he": "בבא בתרא דף 54"
+      },
+      "target_shabbat": "2032-01-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-55",
+      "title": {
+        "en": "Bava Batra 55 — The Law of the Kingdom and the Boundaries of a Field",
+        "he": "בבא בתרא נ״ה — דינא דמלכותא וגבולות השדה"
+      },
+      "parashah": {
+        "en": "Bava Batra 55",
+        "he": "בבא בתרא דף 55"
+      },
+      "target_shabbat": "2032-01-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-56",
+      "title": {
+        "en": "Bava Batra 56 — Dividing Lines and Divided Testimony",
+        "he": "בבא בתרא נ״ו — קווי הפרדה ועדות מפוצלת"
+      },
+      "parashah": {
+        "en": "Bava Batra 56",
+        "he": "בבא בתרא דף 56"
+      },
+      "target_shabbat": "2032-01-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-57",
+      "title": {
+        "en": "Bava Batra 57 — The Shared Courtyard and the Scholar's Conduct",
+        "he": "בבא בתרא נ״ז — החצר המשותפת והנהגת תלמיד החכם"
+      },
+      "parashah": {
+        "en": "Bava Batra 57",
+        "he": "בבא בתרא דף 57"
+      },
+      "target_shabbat": "2032-01-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-58",
+      "title": {
+        "en": "Bava Batra 58 — The Wisdom of Rabbi Bena'a and the Rights of Drainage",
+        "he": "בבא בתרא נ״ח — חכמת רבי בנאה וזכויות הניקוז"
+      },
+      "parashah": {
+        "en": "Bava Batra 58",
+        "he": "בבא בתרא דף 58"
+      },
+      "target_shabbat": "2032-01-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-59",
+      "title": {
+        "en": "Bava Batra 59 — Windows, Projections and the Damage of Sight",
+        "he": "בבא בתרא נ״ט — חלונות, זיזים והיזק ראייה"
+      },
+      "parashah": {
+        "en": "Bava Batra 59",
+        "he": "בבא בתרא דף 59"
+      },
+      "target_shabbat": "2032-01-25",
+      "category": "talmud"
     }
   ]
 }
