@@ -16,14 +16,13 @@ def published_sheets():
         try:
             with urlopen(request, timeout=12) as response:
                 data = json.loads(response.read(1_000_001))
-            if not isinstance(data, list) or not all(isinstance(s, str) and SLUG.fullmatch(s) for s in data):
+            if not isinstance(data, list) or not data or not all(isinstance(s, str) and SLUG.fullmatch(s) for s in data):
                 raise ValueError("Invalid sheet list")
             print("Confirmed permanent Shekhina editions:", len(data))
             return set(data)
         except (OSError, ValueError) as error:
             if attempt == 2:
-                print("Using dated chavruta links until the next build:", type(error).__name__)
-                return set()
+                raise RuntimeError("Cannot verify the sheet manifest for this build") from error
             time.sleep(2 ** (attempt+1))
 
 
@@ -47,4 +46,6 @@ def add_links(output, editions, published):
         if markup.count("</main>") != 1:
             raise ValueError("Missing learning section in " + slug)
         lesson.write_text(markup.replace("</main>", '<p class="chavruta-links">' + " · ".join(links) + '</p></main>'))
+    linked = sorted(set(revisions).intersection(published))
+    (output / "data/chavruta-sheets.json").write_text(json.dumps(linked), encoding="utf-8")
     (output / "data/chavruta-revisions.json").write_text(json.dumps(revisions, sort_keys=True, separators=(",", ":")))

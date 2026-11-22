@@ -17,10 +17,11 @@ class ChavrutaLinks(unittest.TestCase):
             self.assertEqual(published_sheets(), {slug})
             self.assertEqual(fetch.call_count, 2)
 
-    def test_invalid_remote_identifier_uses_dated_links(self):
+    def test_invalid_remote_identifier_blocks_publication(self):
         with patch("chavruta.time.sleep"), patch("chavruta.urlopen", side_effect=lambda *a, **kw:
                 io.BytesIO(b'["../../wrong"]')):
-            self.assertEqual(published_sheets(), set())
+            with self.assertRaises(RuntimeError):
+                published_sheets()
 
     def test_confirmed_links_and_fallback_for_a_new_edition(self):
         first, second = ("cycle-15-berakhot-2", "cycle-15-berakhot-3")
@@ -38,5 +39,6 @@ class ChavrutaLinks(unittest.TestCase):
                 base = "https://shekhina.org/learn/"+lang+"/daf-yomi/"
                 self.assertIn(base+first+"/",(root/"shiur"/first/"index.html").read_text())
                 self.assertIn(base+"?date=2027-06-09",(root/"shiur"/second/"index.html").read_text())
+            self.assertEqual(json.loads((root/"data/chavruta-sheets.json").read_text()), [first])
             expected = hashlib.sha256(b"<main>Test</main>\0Sources").hexdigest()
             self.assertEqual(json.loads((root/"data/chavruta-revisions.json").read_text()),{first:expected,second:expected})

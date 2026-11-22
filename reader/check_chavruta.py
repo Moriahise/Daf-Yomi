@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 from functools import lru_cache
 from hashlib import sha256
 import json
+import os
 import time
 from urllib.parse import parse_qs, urljoin, urlsplit
 from urllib.request import Request, urlopen
@@ -34,10 +35,10 @@ def verify_primary(url):
     return True
 
 
-def check_slug(slug, release):
+def check_slug(slug, release, revision):
     shiur = DAF+"shiur/"+slug+"/"
-    outbound = links(get(shiur))
-    primary = set(links(get(shiur+"sources/")))
+    outbound = links(get(shiur+"?sheets="+revision))
+    primary = set(links(get(shiur+"sources/?sheets="+revision)))
     for lang, other in (("en","he"), ("he","en")):
         path = "learn/"+lang+"/daf-yomi/"+slug+"/"
         target = SITE+path
@@ -66,9 +67,16 @@ def check_slug(slug, release):
 
 
 def main():
-    for attempt in range(4):
+    revision = os.environ.get("SHEETS_SHA256", "")
+    for attempt in range(9):
         try:
-            ids = json.loads(get(SITE+"learn/daf-sheets.json"))
+            # Other publishers can add sheets while this deployment is running.
+            # Sample the links that this reader build actually published.
+            snapshot = get(DAF+"data/chavruta-sheets.json?revision="+revision)
+            digest = sha256(snapshot.encode("utf-8")).hexdigest()
+            if revision and digest != revision:
+                raise ValueError("Pages is still serving an earlier sheet manifest")
+            ids = json.loads(snapshot)
             if not set(PILOT).issubset(ids):
                 raise ValueError("Pilot sheets missing from the public manifest")
             release = urljoin(SITE,json.loads(get(SITE+"catalog/manifest.json"))["data_base"])
@@ -77,15 +85,15 @@ def main():
             if remaining:
                 sample.append(remaining[datetime.now(timezone.utc).date().toordinal()%len(remaining)])
             with ThreadPoolExecutor(max_workers=4) as pool:
-                list(pool.map(lambda s: check_slug(s,release),sample))
+                list(pool.map(lambda s: check_slug(s,release,digest),sample))
             print("Verified both directions, primary-source links and archive records for",len(sample),"dafim")
             return
         except (OSError,ValueError,AssertionError,KeyError,IndexError) as err:
-            if attempt == 3:
+            if attempt == 8:
                 raise
             print("Retrying publication check:",err,flush=True)
             get.cache_clear()
-            time.sleep(20)
+            time.sleep(min(15 * (attempt + 1), 60))
 
 
 if __name__ == "__main__":
