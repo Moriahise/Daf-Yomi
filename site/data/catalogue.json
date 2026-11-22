@@ -25389,6 +25389,760 @@
       },
       "target_shabbat": "2032-01-25",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-60",
+      "title": {
+        "en": "Bava Batra 60 — Privacy, the Public Domain and Remembering Jerusalem",
+        "he": "בבא בתרא ס׳ — צניעות, רשות הרבים וזכר לירושלים"
+      },
+      "parashah": {
+        "en": "Bava Batra 60",
+        "he": "בבא בתרא דף 60"
+      },
+      "target_shabbat": "2032-01-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-61",
+      "title": {
+        "en": "Bava Batra 61 — What Is Sold with a House?",
+        "he": "בבא בתרא ס״א — מה נמכר עם הבית?"
+      },
+      "parashah": {
+        "en": "Bava Batra 61",
+        "he": "בבא בתרא דף 61"
+      },
+      "target_shabbat": "2032-01-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-62",
+      "title": {
+        "en": "Bava Batra 62 — Drawing the Boundaries of a Sale",
+        "he": "בבא בתרא ס״ב — שרטוט מצרי המכר"
+      },
+      "parashah": {
+        "en": "Bava Batra 62",
+        "he": "בבא בתרא דף 62"
+      },
+      "target_shabbat": "2032-01-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-63",
+      "title": {
+        "en": "Bava Batra 63 — What a Seller Withholds",
+        "he": "בבא בתרא ס״ג — מה המוכר משייר"
+      },
+      "parashah": {
+        "en": "Bava Batra 63",
+        "he": "בבא בתרא דף 63"
+      },
+      "target_shabbat": "2032-01-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-64",
+      "title": {
+        "en": "Bava Batra 64 — Does a Seller Sell Generously or Sparingly?",
+        "he": "בבא בתרא ס״ד — מוכר בעין יפה מוכר או בעין רעה?"
+      },
+      "parashah": {
+        "en": "Bava Batra 64",
+        "he": "בבא בתרא דף 64"
+      },
+      "target_shabbat": "2032-01-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-65",
+      "title": {
+        "en": "Bava Batra 65 — Brothers' Division, Gifts, and Fixtures of a House",
+        "he": "בבא בתרא ס״ה — חלוקת אחים, מתנות וקבועי הבית"
+      },
+      "parashah": {
+        "en": "Bava Batra 65",
+        "he": "בבא בתרא דף 65"
+      },
+      "target_shabbat": "2032-01-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-66",
+      "title": {
+        "en": "Bava Batra 66 — When Does an Attached Vessel Become Land?",
+        "he": "בבא בתרא ס״ו — מתי כלי שחובר נעשה קרקע?"
+      },
+      "parashah": {
+        "en": "Bava Batra 66",
+        "he": "בבא בתרא דף 66"
+      },
+      "target_shabbat": "2032-02-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-67",
+      "title": {
+        "en": "Bava Batra 67 — Selling a Courtyard, an Olive Press and a Bathhouse",
+        "he": "בבא בתרא ס״ז — מכירת חצר, בית הבד ומרחץ"
+      },
+      "parashah": {
+        "en": "Bava Batra 67",
+        "he": "בבא בתרא דף 67"
+      },
+      "target_shabbat": "2032-02-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-68",
+      "title": {
+        "en": "Bava Batra 68 — Selling a City and Selling a Field",
+        "he": "בבא בתרא ס״ח — מכירת עיר ומכירת שדה"
+      },
+      "parashah": {
+        "en": "Bava Batra 68",
+        "he": "בבא בתרא דף 68"
+      },
+      "target_shabbat": "2032-02-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-69",
+      "title": {
+        "en": "Bava Batra 69 — Readiness, Attachment and the Trees of a Field",
+        "he": "בבא בתרא ס״ט — מוכנות, חיבור ואילנות השדה"
+      },
+      "parashah": {
+        "en": "Bava Batra 69",
+        "he": "בבא בתרא דף 69"
+      },
+      "target_shabbat": "2032-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-70",
+      "title": {
+        "en": "Bava Batra 70 — Exceptions in a Sale and the Bailee's Document",
+        "he": "בבא בתרא ע׳ — חריגים במכר ושטר הפיקדון"
+      },
+      "parashah": {
+        "en": "Bava Batra 70",
+        "he": "בבא בתרא דף 70"
+      },
+      "target_shabbat": "2032-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-71",
+      "title": {
+        "en": "Bava Batra 71 — Sale, Gift and Consecration",
+        "he": "בבא בתרא ע״א — מכר, מתנה והקדש"
+      },
+      "parashah": {
+        "en": "Bava Batra 71",
+        "he": "בבא בתרא דף 71"
+      },
+      "target_shabbat": "2032-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-72",
+      "title": {
+        "en": "Bava Batra 72 — Consecrating Trees and Land",
+        "he": "בבא בתרא ע״ב — הקדשת אילנות וקרקע"
+      },
+      "parashah": {
+        "en": "Bava Batra 72",
+        "he": "בבא בתרא דף 72"
+      },
+      "target_shabbat": "2032-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-73",
+      "title": {
+        "en": "Bava Batra 73 — The Ship and the Tales of the Sea",
+        "he": "בבא בתרא ע״ג — הספינה ואגדות הים"
+      },
+      "parashah": {
+        "en": "Bava Batra 73",
+        "he": "בבא בתרא דף 73"
+      },
+      "target_shabbat": "2032-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-74",
+      "title": {
+        "en": "Bava Batra 74 — The Dead of the Wilderness and the Leviathan",
+        "he": "בבא בתרא ע״ד — מתי מדבר והלויתן"
+      },
+      "parashah": {
+        "en": "Bava Batra 74",
+        "he": "בבא בתרא דף 74"
+      },
+      "target_shabbat": "2032-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-75",
+      "title": {
+        "en": "Bava Batra 75 — The Leviathan, Future Jerusalem and Acquiring a Ship",
+        "he": "בבא בתרא ע״ה — הלויתן, ירושלים העתידה וקניית ספינה"
+      },
+      "parashah": {
+        "en": "Bava Batra 75",
+        "he": "בבא בתרא דף 75"
+      },
+      "target_shabbat": "2032-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-76",
+      "title": {
+        "en": "Bava Batra 76 — How Ships and Promissory Notes Are Acquired",
+        "he": "בבא בתרא ע״ו — כיצד קונים ספינה ושטרות"
+      },
+      "parashah": {
+        "en": "Bava Batra 76",
+        "he": "בבא בתרא דף 76"
+      },
+      "target_shabbat": "2032-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-77",
+      "title": {
+        "en": "Bava Batra 77 — Words, Documents and the Price as Evidence",
+        "he": "בבא בתרא ע״ז — דברים, שטרות והמחיר כראיה"
+      },
+      "parashah": {
+        "en": "Bava Batra 77",
+        "he": "בבא בתרא דף 77"
+      },
+      "target_shabbat": "2032-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-78",
+      "title": {
+        "en": "Bava Batra 78 — The Donkey, Its Gear, and the Accounting of the World",
+        "he": "בבא בתרא ע״ח — החמור, כליו וחשבונו של עולם"
+      },
+      "parashah": {
+        "en": "Bava Batra 78",
+        "he": "בבא בתרא דף 78"
+      },
+      "target_shabbat": "2032-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-79",
+      "title": {
+        "en": "Bava Batra 79 — The Fire of Torah and the Contents of Consecrated Property",
+        "he": "בבא בתרא ע״ט — אש התורה ותוכן נכסי הקדש"
+      },
+      "parashah": {
+        "en": "Bava Batra 79",
+        "he": "בבא בתרא דף 79"
+      },
+      "target_shabbat": "2032-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-80",
+      "title": {
+        "en": "Bava Batra 80 — Buying the Yield and Leaving the Source",
+        "he": "בבא בתרא פ׳ — קניית התנובה והשארת המקור"
+      },
+      "parashah": {
+        "en": "Bava Batra 80",
+        "he": "בבא בתרא דף 80"
+      },
+      "target_shabbat": "2032-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-81",
+      "title": {
+        "en": "Bava Batra 81 — Two Trees, Three Trees and First Fruits",
+        "he": "בבא בתרא פ״א — שני אילנות, שלושה אילנות וביכורים"
+      },
+      "parashah": {
+        "en": "Bava Batra 81",
+        "he": "בבא בתרא דף 81"
+      },
+      "target_shabbat": "2032-02-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-82",
+      "title": {
+        "en": "Bava Batra 82 — Trunk and Root, Path and Distance",
+        "he": "בבא בתרא פ״ב — גזע ושורש, דרך ומרחק"
+      },
+      "parashah": {
+        "en": "Bava Batra 82",
+        "he": "בבא בתרא דף 82"
+      },
+      "target_shabbat": "2032-02-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-83",
+      "title": {
+        "en": "Bava Batra 83 — When Three Trees Form a Unit, and When a Sale Fails",
+        "he": "בבא בתרא פ״ג — מתי שלושה אילנות הם יחידה, ומתי מקח בטל"
+      },
+      "parashah": {
+        "en": "Bava Batra 83",
+        "he": "בבא בתרא דף 83"
+      },
+      "target_shabbat": "2032-02-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-84",
+      "title": {
+        "en": "Bava Batra 84 — Who Was Exploited, the Color of the Sun, and Acquiring Produce",
+        "he": "בבא בתרא פ״ד — מי נתאנה, צבע השמש וקניית פירות"
+      },
+      "parashah": {
+        "en": "Bava Batra 84",
+        "he": "בבא בתרא דף 84"
+      },
+      "target_shabbat": "2032-02-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-85",
+      "title": {
+        "en": "Bava Batra 85 — When a Buyer's Vessel Acquires for Him",
+        "he": "בבא בתרא פ״ה — מתי כליו של לוקח קונים לו"
+      },
+      "parashah": {
+        "en": "Bava Batra 85",
+        "he": "בבא בתרא דף 85"
+      },
+      "target_shabbat": "2032-02-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-86",
+      "title": {
+        "en": "Bava Batra 86 — Lifting, Pulling and the Unit of Sale",
+        "he": "בבא בתרא פ״ו — הגבהה, משיכה ויחידת המכר"
+      },
+      "parashah": {
+        "en": "Bava Batra 86",
+        "he": "בבא בתרא דף 86"
+      },
+      "target_shabbat": "2032-02-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-87",
+      "title": {
+        "en": "Bava Batra 87 — Measuring, Dripping and the Child Sent to the Shop",
+        "he": "בבא בתרא פ״ז — מדידה, הטפה והתינוק שנשלח לחנות"
+      },
+      "parashah": {
+        "en": "Bava Batra 87",
+        "he": "בבא בתרא דף 87"
+      },
+      "target_shabbat": "2032-02-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-88",
+      "title": {
+        "en": "Bava Batra 88 — Honest Weights and Measures",
+        "he": "בבא בתרא פ״ח — מאזני צדק ומידות"
+      },
+      "parashah": {
+        "en": "Bava Batra 88",
+        "he": "בבא בתרא דף 88"
+      },
+      "target_shabbat": "2032-02-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-89",
+      "title": {
+        "en": "Bava Batra 89 — Local Custom, Market Inspectors and the Instruments of Weighing",
+        "he": "בבא בתרא פ״ט — מנהג המקום, אגרדמין וכלי המשקל"
+      },
+      "parashah": {
+        "en": "Bava Batra 89",
+        "he": "בבא בתרא דף 89"
+      },
+      "target_shabbat": "2032-02-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-90",
+      "title": {
+        "en": "Bava Batra 90 — Standard Measures and the Ethics of the Market",
+        "he": "בבא בתרא צ׳ — מידות קבועות ומוסר השוק"
+      },
+      "parashah": {
+        "en": "Bava Batra 90",
+        "he": "בבא בתרא דף 90"
+      },
+      "target_shabbat": "2032-02-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-91",
+      "title": {
+        "en": "Bava Batra 91 — Leaving the Land in Hard Times, and the House of Elimelech",
+        "he": "בבא בתרא צ״א — יציאה מן הארץ בשעת דוחק, ובית אלימלך"
+      },
+      "parashah": {
+        "en": "Bava Batra 91",
+        "he": "בבא בתרא דף 91"
+      },
+      "target_shabbat": "2032-02-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-92",
+      "title": {
+        "en": "Bava Batra 92 — Seeds That Did Not Sprout and the Goring Ox",
+        "he": "בבא בתרא צ״ב — זרעים שלא צמחו והשור הנגחן"
+      },
+      "parashah": {
+        "en": "Bava Batra 92",
+        "he": "בבא בתרא דף 92"
+      },
+      "target_shabbat": "2032-02-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-93",
+      "title": {
+        "en": "Bava Batra 93 — Majority, Presumption and Acceptable Defects",
+        "he": "בבא בתרא צ״ג — רוב, חזקה ופגמים מקובלים"
+      },
+      "parashah": {
+        "en": "Bava Batra 93",
+        "he": "בבא בתרא דף 93"
+      },
+      "target_shabbat": "2032-02-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-94",
+      "title": {
+        "en": "Bava Batra 94 — Too Much Dirt in the Grain: Law or Penalty?",
+        "he": "בבא בתרא צ״ד — יותר מדי עפר בתבואה: דין או קנס?"
+      },
+      "parashah": {
+        "en": "Bava Batra 94",
+        "he": "בבא בתרא דף 94"
+      },
+      "target_shabbat": "2032-02-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-95",
+      "title": {
+        "en": "Bava Batra 95 — Excess Beyond the Limit and the Souring Wine Cellar",
+        "he": "בבא בתרא צ״ה — עודף מעבר לשיעור והמרתף של יין קוסס"
+      },
+      "parashah": {
+        "en": "Bava Batra 95",
+        "he": "בבא בתרא דף 95"
+      },
+      "target_shabbat": "2032-03-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-96",
+      "title": {
+        "en": "Bava Batra 96 — When Did the Wine Turn?",
+        "he": "בבא בתרא צ״ו — מתי החמיץ היין?"
+      },
+      "parashah": {
+        "en": "Bava Batra 96",
+        "he": "בבא בתרא דף 96"
+      },
+      "target_shabbat": "2032-03-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-97",
+      "title": {
+        "en": "Bava Batra 97 — Tamad, Kiddush Wine and Inferior Jugs",
+        "he": "בבא בתרא צ״ז — תמד, יין לקידוש וקנקנים פחותים"
+      },
+      "parashah": {
+        "en": "Bava Batra 97",
+        "he": "בבא בתרא דף 97"
+      },
+      "target_shabbat": "2032-03-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-98",
+      "title": {
+        "en": "Bava Batra 98 — Wine That Soured, the Haughty Man, and the Size of a House",
+        "he": "בבא בתרא צ״ח — יין שהחמיץ, האיש היהיר, ומידות הבית"
+      },
+      "parashah": {
+        "en": "Bava Batra 98",
+        "he": "בבא בתרא דף 98"
+      },
+      "target_shabbat": "2032-03-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-99",
+      "title": {
+        "en": "Bava Batra 99 — The Cherubs, and Access Through Another's Property",
+        "he": "בבא בתרא צ״ט — הכרובים, וזכות מעבר ברשות חברו"
+      },
+      "parashah": {
+        "en": "Bava Batra 99",
+        "he": "בבא בתרא דף 99"
+      },
+      "target_shabbat": "2032-03-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-100",
+      "title": {
+        "en": "Bava Batra 100 — Paths, Walking the Land, and Honoring the Dead",
+        "he": "בבא בתרא ק׳ — דרכים, הילוך בארץ, וכבוד המת"
+      },
+      "parashah": {
+        "en": "Bava Batra 100",
+        "he": "בבא בתרא דף 100"
+      },
+      "target_shabbat": "2032-03-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-101",
+      "title": {
+        "en": "Bava Batra 101 — Designing a Catacomb with Dignity",
+        "he": "בבא בתרא ק״א — תכנון מערת קבורה בכבוד"
+      },
+      "parashah": {
+        "en": "Bava Batra 101",
+        "he": "בבא בתרא דף 101"
+      },
+      "target_shabbat": "2032-03-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-102",
+      "title": {
+        "en": "Bava Batra 102 — Three Corpses, a Hidden Cemetery, and Land That Cannot Be Sown",
+        "he": "בבא בתרא ק״ב — שלושה מתים, בית קברות נסתר, וקרקע שאינה ראויה לזריעה"
+      },
+      "parashah": {
+        "en": "Bava Batra 102",
+        "he": "בבא בתרא דף 102"
+      },
+      "target_shabbat": "2032-03-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-103",
+      "title": {
+        "en": "Bava Batra 103 — Rocks, Crevices and the Precision of a Measured Sale",
+        "he": "בבא בתרא ק״ג — סלעים, נקעים ודיוק המכר במידה"
+      },
+      "parashah": {
+        "en": "Bava Batra 103",
+        "he": "בבא בתרא דף 103"
+      },
+      "target_shabbat": "2032-03-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-104",
+      "title": {
+        "en": "Bava Batra 104 — Surplus Land and Contradictory Terms",
+        "he": "בבא בתרא ק״ד — קרקע עודפת ותנאים סותרים"
+      },
+      "parashah": {
+        "en": "Bava Batra 104",
+        "he": "בבא בתרא דף 104"
+      },
+      "target_shabbat": "2032-03-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-105",
+      "title": {
+        "en": "Bava Batra 105 — The First Word or the Last?",
+        "he": "בבא בתרא ק״ה — הלשון הראשונה או האחרונה?"
+      },
+      "parashah": {
+        "en": "Bava Batra 105",
+        "he": "בבא בתרא דף 105"
+      },
+      "target_shabbat": "2032-03-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-106",
+      "title": {
+        "en": "Bava Batra 106 — Boundaries, Lots and the Brother from Overseas",
+        "he": "בבא בתרא ק״ו — מצרים, גורלות והאח שבא ממדינת הים"
+      },
+      "parashah": {
+        "en": "Bava Batra 106",
+        "he": "בבא בתרא דף 106"
+      },
+      "target_shabbat": "2032-03-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-107",
+      "title": {
+        "en": "Bava Batra 107 — Creditors, Appraisers and Half a Field",
+        "he": "בבא בתרא ק״ז — בעלי חוב, שמאים וחצי שדה"
+      },
+      "parashah": {
+        "en": "Bava Batra 107",
+        "he": "בבא בתרא דף 107"
+      },
+      "target_shabbat": "2032-03-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-108",
+      "title": {
+        "en": "Bava Batra 108 — Who Inherits from Whom",
+        "he": "בבא בתרא ק״ח — מי יורש את מי"
+      },
+      "parashah": {
+        "en": "Bava Batra 108",
+        "he": "בבא בתרא דף 108"
+      },
+      "target_shabbat": "2032-03-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-109",
+      "title": {
+        "en": "Bava Batra 109 — The Order of Heirs and the Grandson of Moses",
+        "he": "בבא בתרא ק״ט — סדר היורשים ונכדו של משה"
+      },
+      "parashah": {
+        "en": "Bava Batra 109",
+        "he": "בבא בתרא דף 109"
+      },
+      "target_shabbat": "2032-03-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-110",
+      "title": {
+        "en": "Bava Batra 110 — Good Families, Jonathan's Return, and the Son Before the Daughter",
+        "he": "בבא בתרא ק״י — משפחות טובות, תשובת יהונתן, והבן לפני הבת"
+      },
+      "parashah": {
+        "en": "Bava Batra 110",
+        "he": "בבא בתרא דף 110"
+      },
+      "target_shabbat": "2032-03-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-111",
+      "title": {
+        "en": "Bava Batra 111 — Inheriting from a Mother and the Firstborn's Portion",
+        "he": "בבא בתרא קי״א — ירושת האם וחלק הבכור"
+      },
+      "parashah": {
+        "en": "Bava Batra 111",
+        "he": "בבא בתרא דף 111"
+      },
+      "target_shabbat": "2032-03-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-112",
+      "title": {
+        "en": "Bava Batra 112 — Inheritance That Must Not Pass Between Tribes",
+        "he": "בבא בתרא קי״ב — נחלה שאסור שתעבור משבט לשבט"
+      },
+      "parashah": {
+        "en": "Bava Batra 112",
+        "he": "בבא בתרא דף 112"
+      },
+      "target_shabbat": "2032-03-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-113",
+      "title": {
+        "en": "Bava Batra 113 — Prospective Inheritance and Judging Estates by Day",
+        "he": "בבא בתרא קי״ג — ראוי וחלוקת נחלות ביום"
+      },
+      "parashah": {
+        "en": "Bava Batra 113",
+        "he": "בבא בתרא דף 113"
+      },
+      "target_shabbat": "2032-03-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-114",
+      "title": {
+        "en": "Bava Batra 114 — A Witness Cannot Be a Judge, and Retracting a Transaction",
+        "he": "בבא בתרא קי״ד — אין עד נעשה דיין, וחזרה ממקח"
+      },
+      "parashah": {
+        "en": "Bava Batra 114",
+        "he": "בבא בתרא דף 114"
+      },
+      "target_shabbat": "2032-03-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-115",
+      "title": {
+        "en": "Bava Batra 115 — The Order of Inheritance and the Sadducees' Claim",
+        "he": "בבא בתרא קט״ו — סדר הנחלות וטענת הצדוקים"
+      },
+      "parashah": {
+        "en": "Bava Batra 115",
+        "he": "בבא בתרא דף 115"
+      },
+      "target_shabbat": "2032-03-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-116",
+      "title": {
+        "en": "Bava Batra 116 — Victory over the Sadducees and Those Who Leave No Successor",
+        "he": "בבא בתרא קט״ז — הניצחון על הצדוקים ומי שאינו מניח ממלא מקום"
+      },
+      "parashah": {
+        "en": "Bava Batra 116",
+        "he": "בבא בתרא דף 116"
+      },
+      "target_shabbat": "2032-03-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-117",
+      "title": {
+        "en": "Bava Batra 117 — How the Land Was Divided",
+        "he": "בבא בתרא קי״ז — כיצד נתחלקה הארץ"
+      },
+      "parashah": {
+        "en": "Bava Batra 117",
+        "he": "בבא בתרא דף 117"
+      },
+      "target_shabbat": "2032-03-23",
+      "category": "talmud"
     }
   ]
 }
