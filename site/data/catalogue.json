@@ -26143,6 +26143,773 @@
       },
       "target_shabbat": "2032-03-23",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-118",
+      "title": {
+        "en": "Bava Batra 118 — Rav Pappa's Questions and the Evil Eye",
+        "he": "בבא בתרא קי״ח — שאלות רב פפא ועין הרע"
+      },
+      "parashah": {
+        "en": "Bava Batra 118",
+        "he": "בבא בתרא דף 118"
+      },
+      "target_shabbat": "2032-03-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-119",
+      "title": {
+        "en": "Bava Batra 119 — The Daughters of Zelophehad: Wise, Interpreters and Righteous",
+        "he": "בבא בתרא קי״ט — בנות צלפחד: חכמניות, דרשניות, צדקניות"
+      },
+      "parashah": {
+        "en": "Bava Batra 119",
+        "he": "בבא בתרא דף 119"
+      },
+      "target_shabbat": "2032-03-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-120",
+      "title": {
+        "en": "Bava Batra 120 — Jochebed's Renewed Youth and \"This Is the Matter\"",
+        "he": "בבא בתרא ק״כ — נערות יוכבד ו\"זה הדבר\""
+      },
+      "parashah": {
+        "en": "Bava Batra 120",
+        "he": "בבא בתרא דף 120"
+      },
+      "target_shabbat": "2032-03-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-121",
+      "title": {
+        "en": "Bava Batra 121 — The Fifteenth of Av and the Seven Who Spanned History",
+        "he": "בבא בתרא קכ״א — חמשה עשר באב ושבעה שקפלו את העולם"
+      },
+      "parashah": {
+        "en": "Bava Batra 121",
+        "he": "בבא בתרא דף 121"
+      },
+      "target_shabbat": "2032-03-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-122",
+      "title": {
+        "en": "Bava Batra 122 — Dividing the Land by Lot and the Inheritance of Son and Daughter",
+        "he": "בבא בתרא קכ״ב — חלוקת הארץ בגורל וירושת בן ובת"
+      },
+      "parashah": {
+        "en": "Bava Batra 122",
+        "he": "בבא בתרא דף 122"
+      },
+      "target_shabbat": "2032-03-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-123",
+      "title": {
+        "en": "Bava Batra 123 — Joseph's Birthright: Leah's Tears and Rachel's Modesty",
+        "he": "בבא בתרא קכ״ג — בכורת יוסף: דמעות לאה וצניעות רחל"
+      },
+      "parashah": {
+        "en": "Bava Batra 123",
+        "he": "בבא בתרא דף 123"
+      },
+      "target_shabbat": "2032-03-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-124",
+      "title": {
+        "en": "Bava Batra 124 — The Firstborn and Growth of the Estate",
+        "he": "בבא בתרא קכ״ד — הבכור ושבח הנכסים"
+      },
+      "parashah": {
+        "en": "Bava Batra 124",
+        "he": "בבא בתרא דף 124"
+      },
+      "target_shabbat": "2032-03-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-125",
+      "title": {
+        "en": "Bava Batra 125 — Property Due and Property Possessed",
+        "he": "בבא בתרא קכ״ה — ראוי ומוחזק"
+      },
+      "parashah": {
+        "en": "Bava Batra 125",
+        "he": "בבא בתרא דף 125"
+      },
+      "target_shabbat": "2032-03-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-126",
+      "title": {
+        "en": "Bava Batra 126 — Waiving the Double Portion and Identifying the Firstborn",
+        "he": "בבא בתרא קכ״ו — מחילת פי שניים וזיהוי הבכור"
+      },
+      "parashah": {
+        "en": "Bava Batra 126",
+        "he": "בבא בתרא דף 126"
+      },
+      "target_shabbat": "2032-04-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-127",
+      "title": {
+        "en": "Bava Batra 127 — \"He Shall Acknowledge\": The Father's Word on His Firstborn",
+        "he": "בבא בתרא קכ״ז — \"יכיר\": נאמנות האב על בכורו"
+      },
+      "parashah": {
+        "en": "Bava Batra 127",
+        "he": "בבא בתרא דף 127"
+      },
+      "target_shabbat": "2032-04-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-128",
+      "title": {
+        "en": "Bava Batra 128 — Rabbi Abba's Rulings to Rav Yosef bar Ḥama",
+        "he": "בבא בתרא קכ״ח — שאלות רבי אבא לרב יוסף בר חמא"
+      },
+      "parashah": {
+        "en": "Bava Batra 128",
+        "he": "בבא בתרא דף 128"
+      },
+      "target_shabbat": "2032-04-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-129",
+      "title": {
+        "en": "Bava Batra 129 — Gift and Inheritance in One Bequest",
+        "he": "בבא בתרא קכ״ט — לשון מתנה ולשון ירושה"
+      },
+      "parashah": {
+        "en": "Bava Batra 129",
+        "he": "בבא בתרא דף 129"
+      },
+      "target_shabbat": "2032-04-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-130",
+      "title": {
+        "en": "Bava Batra 130 — Rabbi Yoḥanan ben Beroka and Learning Halakha from a Ruling",
+        "he": "בבא בתרא ק״ל — רבי יוחנן בן ברוקה ולמידת הלכה ממעשה"
+      },
+      "parashah": {
+        "en": "Bava Batra 130",
+        "he": "בבא בתרא דף 130"
+      },
+      "target_shabbat": "2032-04-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-131",
+      "title": {
+        "en": "Bava Batra 131 — A Healthy Man's Bequest and the Wife as Steward",
+        "he": "בבא בתרא קל״א — הנחלת בריא והאשה כאפוטרופא"
+      },
+      "parashah": {
+        "en": "Bava Batra 131",
+        "he": "בבא בתרא דף 131"
+      },
+      "target_shabbat": "2032-04-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-132",
+      "title": {
+        "en": "Bava Batra 132 — When a Wife Loses Her Marriage Contract",
+        "he": "בבא בתרא קל״ב — מתי מפסידה האשה את כתובתה"
+      },
+      "parashah": {
+        "en": "Bava Batra 132",
+        "he": "בבא בתרא דף 132"
+      },
+      "target_shabbat": "2032-04-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-133",
+      "title": {
+        "en": "Bava Batra 133 — Disinheriting One's Children",
+        "he": "בבא בתרא קל״ג — המעביר נחלה מבניו"
+      },
+      "parashah": {
+        "en": "Bava Batra 133",
+        "he": "בבא בתרא דף 133"
+      },
+      "target_shabbat": "2032-04-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-134",
+      "title": {
+        "en": "Bava Batra 134 — Hillel's Students and \"This Is My Son\"",
+        "he": "בבא בתרא קל״ד — תלמידי הלל ו\"זה בני\""
+      },
+      "parashah": {
+        "en": "Bava Batra 134",
+        "he": "בבא בתרא דף 134"
+      },
+      "target_shabbat": "2032-04-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-135",
+      "title": {
+        "en": "Bava Batra 135 — Doubtful Brothers and the Deathbed Will",
+        "he": "בבא בתרא קל״ה — ספק אחים וצוואת שכיב מרע"
+      },
+      "parashah": {
+        "en": "Bava Batra 135",
+        "he": "בבא בתרא דף 135"
+      },
+      "target_shabbat": "2032-04-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-136",
+      "title": {
+        "en": "Bava Batra 136 — \"From Today and After My Death\"",
+        "he": "בבא בתרא קל״ו — \"מהיום ולאחר מיתה\""
+      },
+      "parashah": {
+        "en": "Bava Batra 136",
+        "he": "בבא בתרא דף 136"
+      },
+      "target_shabbat": "2032-04-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-137",
+      "title": {
+        "en": "Bava Batra 137 — \"To You and After You to So-and-So\" and the Borrowed Etrog",
+        "he": "בבא בתרא קל״ז — \"לך ואחריך לפלוני\" והאתרוג שניתן במתנה"
+      },
+      "parashah": {
+        "en": "Bava Batra 137",
+        "he": "בבא בתרא דף 137"
+      },
+      "target_shabbat": "2032-04-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-138",
+      "title": {
+        "en": "Bava Batra 138 — Refusing a Gift and the Wording of Deathbed Gifts",
+        "he": "בבא בתרא קל״ח — דחיית מתנה ולשון מתנת שכיב מרע"
+      },
+      "parashah": {
+        "en": "Bava Batra 138",
+        "he": "בבא בתרא דף 138"
+      },
+      "target_shabbat": "2032-04-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-139",
+      "title": {
+        "en": "Bava Batra 139 — Adult and Minor Heirs, and the Husband as Heir or Buyer",
+        "he": "בבא בתרא קל״ט — גדולים וקטנים, והבעל כיורש או כלוקח"
+      },
+      "parashah": {
+        "en": "Bava Batra 139",
+        "he": "בבא בתרא דף 139"
+      },
+      "target_shabbat": "2032-04-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-140",
+      "title": {
+        "en": "Bava Batra 140 — A Small Estate and the Tumtum",
+        "he": "בבא בתרא ק״מ — נכסים מועטים והטומטום"
+      },
+      "parashah": {
+        "en": "Bava Batra 140",
+        "he": "בבא בתרא דף 140"
+      },
+      "target_shabbat": "2032-04-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-141",
+      "title": {
+        "en": "Bava Batra 141 — Son or Daughter, and a Gift to a Fetus",
+        "he": "בבא בתרא קמ״א — בן או בת, ומתנה לעובר"
+      },
+      "parashah": {
+        "en": "Bava Batra 141",
+        "he": "בבא בתרא דף 141"
+      },
+      "target_shabbat": "2032-04-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-142",
+      "title": {
+        "en": "Bava Batra 142 — Can a Fetus Acquire?",
+        "he": "בבא בתרא קמ״ב — האם עובר קונה?"
+      },
+      "parashah": {
+        "en": "Bava Batra 142",
+        "he": "בבא בתרא דף 142"
+      },
+      "target_shabbat": "2032-04-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-143",
+      "title": {
+        "en": "Bava Batra 143 — \"You and a Donkey\" and Unspecified Divisions",
+        "he": "בבא בתרא קמ״ג — \"קני אתה וחמור\" וחלוקה סתמית"
+      },
+      "parashah": {
+        "en": "Bava Batra 143",
+        "he": "בבא בתרא דף 143"
+      },
+      "target_shabbat": "2032-04-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-144",
+      "title": {
+        "en": "Bava Batra 144 — Brothers in Partnership: Profit, Service, Illness and Groomsmen's Gifts",
+        "he": "בבא בתרא קמ״ד — אחים שותפים: רווח, מלך, חולי ושושבינות"
+      },
+      "parashah": {
+        "en": "Bava Batra 144",
+        "he": "בבא בתרא דף 144"
+      },
+      "target_shabbat": "2032-04-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-145",
+      "title": {
+        "en": "Bava Batra 145 — Betrothal Money, Groomsmen's Rules and Kinds of Scholars",
+        "he": "בבא בתרא קמ״ה — כסף קידושין, דיני שושבינות וסוגי תלמידי חכמים"
+      },
+      "parashah": {
+        "en": "Bava Batra 145",
+        "he": "בבא בתרא דף 145"
+      },
+      "target_shabbat": "2032-04-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-146",
+      "title": {
+        "en": "Bava Batra 146 — Betrothal Presents and the Deathbed Gift That Kept Nothing",
+        "he": "בבא בתרא קמ״ו — סבלונות ומתנת שכיב מרע שלא שייר"
+      },
+      "parashah": {
+        "en": "Bava Batra 146",
+        "he": "בבא בתרא דף 146"
+      },
+      "target_shabbat": "2032-04-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-147",
+      "title": {
+        "en": "Bava Batra 147 — The Deathbed Gift: Torah Law and Ahithophel's Counsel",
+        "he": "בבא בתרא קמ״ז — מתנת שכיב מרע: דין תורה ועצת אחיתופל"
+      },
+      "parashah": {
+        "en": "Bava Batra 147",
+        "he": "בבא בתרא דף 147"
+      },
+      "target_shabbat": "2032-04-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-148",
+      "title": {
+        "en": "Bava Batra 148 — Reserving, Retracting and the Dying Man's Gifts",
+        "he": "בבא בתרא קמ״ח — שיור, חזרה ומתנות שכיב מרע"
+      },
+      "parashah": {
+        "en": "Bava Batra 148",
+        "he": "בבא בתרא דף 148"
+      },
+      "target_shabbat": "2032-04-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-149",
+      "title": {
+        "en": "Bava Batra 149 — Issur the Convert's Deposit and \"Any Amount\" of Land",
+        "he": "בבא בתרא קמ״ט — פקדון איסור הגיורא ו\"קרקע כל שהוא\""
+      },
+      "parashah": {
+        "en": "Bava Batra 149",
+        "he": "בבא בתרא דף 149"
+      },
+      "target_shabbat": "2032-04-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-150",
+      "title": {
+        "en": "Bava Batra 150 — Five Gifts of \"All One's Property\" and What Counts as Property",
+        "he": "בבא בתרא ק״נ — חמש מתנות של \"כל נכסיו\" ומה נקרא נכסים"
+      },
+      "parashah": {
+        "en": "Bava Batra 150",
+        "he": "בבא בתרא דף 150"
+      },
+      "target_shabbat": "2032-04-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-151",
+      "title": {
+        "en": "Bava Batra 151 — Family Cases of Deathbed Gifts",
+        "he": "בבא בתרא קנ״א — מעשים במתנות שכיב מרע במשפחה"
+      },
+      "parashah": {
+        "en": "Bava Batra 151",
+        "he": "בבא בתרא דף 151"
+      },
+      "target_shabbat": "2032-04-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-152",
+      "title": {
+        "en": "Bava Batra 152 — \"Two Steeds\": A Deathbed Gift with an Act of Acquisition",
+        "he": "בבא בתרא קנ״ב — \"שני סוסים\": מתנת שכיב מרע שיש בה קניין"
+      },
+      "parashah": {
+        "en": "Bava Batra 152",
+        "he": "בבא בתרא דף 152"
+      },
+      "target_shabbat": "2032-04-27",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-153",
+      "title": {
+        "en": "Bava Batra 153 — \"In Life and in Death\" and the Burden of Proof",
+        "he": "בבא בתרא קנ״ג — \"בחיים ובמות\" ונטל הראיה"
+      },
+      "parashah": {
+        "en": "Bava Batra 153",
+        "he": "בבא בתרא דף 153"
+      },
+      "target_shabbat": "2032-04-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-154",
+      "title": {
+        "en": "Bava Batra 154 — Witnesses or Ratification: How the Recipient Proves His Gift",
+        "he": "בבא בתרא קנ״ד — עדים או קיום השטר: כיצד מוכיח המקבל את מתנתו"
+      },
+      "parashah": {
+        "en": "Bava Batra 154",
+        "he": "בבא בתרא דף 154"
+      },
+      "target_shabbat": "2032-04-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-155",
+      "title": {
+        "en": "Bava Batra 155 — At What Age May an Heir Sell His Father's Land?",
+        "he": "בבא בתרא קנ״ה — מאימתי יכול יורש למכור בנכסי אביו?"
+      },
+      "parashah": {
+        "en": "Bava Batra 155",
+        "he": "בבא בתרא דף 155"
+      },
+      "target_shabbat": "2032-04-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-156",
+      "title": {
+        "en": "Bava Batra 156 — An Orphan's Gift and the Dying Man's Word on Shabbat",
+        "he": "בבא בתרא קנ״ו — מתנת יתום ודברי שכיב מרע בשבת"
+      },
+      "parashah": {
+        "en": "Bava Batra 156",
+        "he": "בבא בתרא דף 156"
+      },
+      "target_shabbat": "2032-05-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-157",
+      "title": {
+        "en": "Bava Batra 157 — The Collapsed House and Liens on Future Property",
+        "he": "בבא בתרא קנ״ז — הבית שנפל ושעבוד נכסים שעתיד לקנות"
+      },
+      "parashah": {
+        "en": "Bava Batra 157",
+        "he": "בבא בתרא דף 157"
+      },
+      "target_shabbat": "2032-05-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-158",
+      "title": {
+        "en": "Bava Batra 158 — The House That Fell on Husband and Wife, Mother and Son",
+        "he": "בבא בתרא קנ״ח — הבית שנפל על האיש ואשתו, על הבן ואמו"
+      },
+      "parashah": {
+        "en": "Bava Batra 158",
+        "he": "בבא בתרא דף 158"
+      },
+      "target_shabbat": "2032-05-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-159",
+      "title": {
+        "en": "Bava Batra 159 — The Hardest Ruling and Inheriting in the Grave",
+        "he": "בבא בתרא קנ״ט — הקשה שבדיני ממונות וירושה בקבר"
+      },
+      "parashah": {
+        "en": "Bava Batra 159",
+        "he": "בבא בתרא דף 159"
+      },
+      "target_shabbat": "2032-05-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-160",
+      "title": {
+        "en": "Bava Batra 160 — The Ordinary and the Tied Document",
+        "he": "בבא בתרא ק״ס — גט פשוט וגט מקושר"
+      },
+      "parashah": {
+        "en": "Bava Batra 160",
+        "he": "בבא בתרא דף 160"
+      },
+      "target_shabbat": "2032-05-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-161",
+      "title": {
+        "en": "Bava Batra 161 — Safeguarding Signatures on a Tied Document",
+        "he": "בבא בתרא קס״א — שמירת החתימות בגט מקושר"
+      },
+      "parashah": {
+        "en": "Bava Batra 161",
+        "he": "בבא בתרא דף 161"
+      },
+      "target_shabbat": "2032-05-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-162",
+      "title": {
+        "en": "Bava Batra 162 — The Final Line and the Gap Before the Signatures",
+        "he": "בבא בתרא קס״ב — השיטה האחרונה והרווח שלפני החתימות"
+      },
+      "parashah": {
+        "en": "Bava Batra 162",
+        "he": "בבא בתרא דף 162"
+      },
+      "target_shabbat": "2032-05-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-163",
+      "title": {
+        "en": "Bava Batra 163 — Measuring the Gap and the Court's Ratification",
+        "he": "בבא בתרא קס״ג — שיעור הרווח וקיום בית הדין"
+      },
+      "parashah": {
+        "en": "Bava Batra 163",
+        "he": "בבא בתרא דף 163"
+      },
+      "target_shabbat": "2032-05-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-164",
+      "title": {
+        "en": "Bava Batra 164 — Double Erasures, Royal Dates and Malicious Speech",
+        "he": "בבא בתרא קס״ד — מחק על גבי מחק, מניין המלכים ולשון הרע"
+      },
+      "parashah": {
+        "en": "Bava Batra 164",
+        "he": "בבא בתרא דף 164"
+      },
+      "target_shabbat": "2032-05-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-165",
+      "title": {
+        "en": "Bava Batra 165 — Regional Custom, Combining Witnesses and Rabbi Yirmeya's Answer",
+        "he": "בבא בתרא קס״ה — מנהג המדינה, צירוף עדים ותשובת רבי ירמיה"
+      },
+      "parashah": {
+        "en": "Bava Batra 165",
+        "he": "בבא בתרא דף 165"
+      },
+      "target_shabbat": "2032-05-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-166",
+      "title": {
+        "en": "Bava Batra 166 — Vague Sums and Missing Letters",
+        "he": "בבא בתרא קס״ו — סכומים סתומים ואותיות חסרות"
+      },
+      "parashah": {
+        "en": "Bava Batra 166",
+        "he": "בבא בתרא דף 166"
+      },
+      "target_shabbat": "2032-05-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-167",
+      "title": {
+        "en": "Bava Batra 167 — Guarding Against Forgery and Who May Request a Document",
+        "he": "בבא בתרא קס״ז — שמירה מזיוף ומי רשאי לבקש שטר"
+      },
+      "parashah": {
+        "en": "Bava Batra 167",
+        "he": "בבא בתרא דף 167"
+      },
+      "target_shabbat": "2032-05-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-168",
+      "title": {
+        "en": "Bava Batra 168 — Asmakhta, Erased Documents and Abaye's Invalid Deed",
+        "he": "בבא בתרא קס״ח — אסמכתא, שטר שנמחק והשטר הפסול של אביי"
+      },
+      "parashah": {
+        "en": "Bava Batra 168",
+        "he": "בבא בתרא דף 168"
+      },
+      "target_shabbat": "2032-05-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-169",
+      "title": {
+        "en": "Bava Batra 169 — A Replacement Deed Without Guarantee and Returning a Deed of Gift",
+        "he": "בבא בתרא קס״ט — שטר חליפי בלא אחריות והחזרת שטר מתנה"
+      },
+      "parashah": {
+        "en": "Bava Batra 169",
+        "he": "בבא בתרא דף 169"
+      },
+      "target_shabbat": "2032-05-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-170",
+      "title": {
+        "en": "Bava Batra 170 — Deed or Presumption, and a Partly Repaid Loan",
+        "he": "בבא בתרא ק״ע — שטר או חזקה, והלוואה שנפרעה מקצתה"
+      },
+      "parashah": {
+        "en": "Bava Batra 170",
+        "he": "בבא בתרא דף 170"
+      },
+      "target_shabbat": "2032-05-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-171",
+      "title": {
+        "en": "Bava Batra 171 — Receipts, Postdated Notes and \"The Borrower Is a Servant to the Lender\"",
+        "he": "בבא בתרא קע״א — שוברים, שטרות מאוחרים ו\"עבד לוה לאיש מלוה\""
+      },
+      "parashah": {
+        "en": "Bava Batra 171",
+        "he": "בבא בתרא דף 171"
+      },
+      "target_shabbat": "2032-05-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-172",
+      "title": {
+        "en": "Bava Batra 172 — Truthful Dates, Splitting Notes and Two Men Named Yosef ben Shimon",
+        "he": "בבא בתרא קע״ב — תאריך אמת, פיצול שטרות ושני יוסף בן שמעון"
+      },
+      "parashah": {
+        "en": "Bava Batra 172",
+        "he": "בבא בתרא דף 172"
+      },
+      "target_shabbat": "2032-05-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-173",
+      "title": {
+        "en": "Bava Batra 173 — Namesakes, Ambiguous Receipts and the Guarantor",
+        "he": "בבא בתרא קע״ג — שמות זהים, שוברים סתומים והערב"
+      },
+      "parashah": {
+        "en": "Bava Batra 173",
+        "he": "בבא בתרא דף 173"
+      },
+      "target_shabbat": "2032-05-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-174",
+      "title": {
+        "en": "Bava Batra 174 — Guarantor and Unconditional Guarantor, Orphans and the Marriage Contract",
+        "he": "בבא בתרא קע״ד — ערב וקבלן, יתומים וכתובה"
+      },
+      "parashah": {
+        "en": "Bava Batra 174",
+        "he": "בבא בתרא דף 174"
+      },
+      "target_shabbat": "2032-05-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-175",
+      "title": {
+        "en": "Bava Batra 175 — A Dying Man Does Not Jest, and the Lien of Oral Loans",
+        "he": "בבא בתרא קע״ה — אין אדם משטה בשעת מיתה, ושעבוד מלוה על פה"
+      },
+      "parashah": {
+        "en": "Bava Batra 175",
+        "he": "בבא בתרא דף 175"
+      },
+      "target_shabbat": "2032-05-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-bava-batra-176",
+      "title": {
+        "en": "Bava Batra 176 — The Guarantor's Commitment and the Close of the Tractate",
+        "he": "בבא בתרא קע״ו — שעבוד הערב וסיום המסכת"
+      },
+      "parashah": {
+        "en": "Bava Batra 176",
+        "he": "בבא בתרא דף 176"
+      },
+      "target_shabbat": "2032-05-21",
+      "category": "talmud"
     }
   ]
 }
