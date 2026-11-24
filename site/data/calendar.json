@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-23T14:52:14.515592+02:00",
+  "calculated_at": "2026-11-24T02:56:10.528561+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-11-23",
-      "cycle": 14,
-      "day_in_cycle": 2515,
-      "tractate_id": "arakhin",
-      "tractate": {
-        "en": "Arakhin",
-        "he": "ערכין"
-      },
-      "daf": 6,
-      "label": {
-        "en": "Arakhin 6",
-        "he": "ערכין דף 6"
-      },
-      "references": [
-        "Arakhin 6a",
-        "Arakhin 6b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Arakhin_6a",
-        "https://www.sefaria.org/Arakhin_6b"
-      ],
-      "id": "cycle-14-arakhin-6",
-      "target_shabbat": "2026-11-23",
-      "hebrew_date": "י״ג כסלו תשפ״ז",
-      "israel": {
-        "en": "Arakhin 6",
-        "he": "ערכין דף 6"
-      },
-      "diaspora": {
-        "en": "Arakhin 6",
-        "he": "ערכין דף 6"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-11-24",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Meilah 2",
         "he": "מעילה דף 2"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-02-21",
+      "cycle": 14,
+      "day_in_cycle": 2605,
+      "tractate_id": "meilah",
+      "tractate": {
+        "en": "Meilah",
+        "he": "מעילה"
+      },
+      "daf": 3,
+      "label": {
+        "en": "Meilah 3",
+        "he": "מעילה דף 3"
+      },
+      "references": [
+        "Meilah 3a",
+        "Meilah 3b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Meilah_3a",
+        "https://www.sefaria.org/Meilah_3b"
+      ],
+      "id": "cycle-14-meilah-3",
+      "target_shabbat": "2027-02-21",
+      "hebrew_date": "י״ד אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Meilah 3",
+        "he": "מעילה דף 3"
+      },
+      "diaspora": {
+        "en": "Meilah 3",
+        "he": "מעילה דף 3"
       },
       "different_readings": false,
       "festival": null,
