@@ -28665,6 +28665,318 @@
       },
       "target_shabbat": "2032-10-03",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-2",
+      "title": {
+        "en": "Shevuot 2 — Two That Are Four and the Map of Atonement",
+        "he": "שבועות ב׳ — שתיים שהן ארבע ומפת הכפרה"
+      },
+      "parashah": {
+        "en": "Shevuot 2",
+        "he": "שבועות דף 2"
+      },
+      "target_shabbat": "2032-10-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-3",
+      "title": {
+        "en": "Shevuot 3 — Whose Mishnah Is It?",
+        "he": "שבועות ג׳ — משנה זו כמאן?"
+      },
+      "parashah": {
+        "en": "Shevuot 3",
+        "he": "שבועות דף 3"
+      },
+      "target_shabbat": "2032-10-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-4",
+      "title": {
+        "en": "Shevuot 4 — Rebbi's Mishnah and His Method of Exegesis",
+        "he": "שבועות ד׳ — משנת רבי ושיטת דרשתו"
+      },
+      "parashah": {
+        "en": "Shevuot 4",
+        "he": "שבועות דף 4"
+      },
+      "target_shabbat": "2032-10-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-5",
+      "title": {
+        "en": "Shevuot 5 — Concealment, Domains, and Shades of White",
+        "he": "שבועות ה׳ — העלם, רשויות ומראות לבן"
+      },
+      "parashah": {
+        "en": "Shevuot 5",
+        "he": "שבועות דף 5"
+      },
+      "target_shabbat": "2032-10-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-6",
+      "title": {
+        "en": "Shevuot 6 — Kings, Governors, and the Order of Leprous Shades",
+        "he": "שבועות ו׳ — מלכים ואפרכים וסדר מראות הנגעים"
+      },
+      "parashah": {
+        "en": "Shevuot 6",
+        "he": "שבועות דף 6"
+      },
+      "target_shabbat": "2032-10-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-7",
+      "title": {
+        "en": "Shevuot 7 — Drawing Water from Deep Wells",
+        "he": "שבועות ז׳ — מים עמוקים עצה בלב איש"
+      },
+      "parashah": {
+        "en": "Shevuot 7",
+        "he": "שבועות דף 7"
+      },
+      "target_shabbat": "2032-10-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-8",
+      "title": {
+        "en": "Shevuot 8 — What the Inner Goat Does and Does Not Atone",
+        "he": "שבועות ח׳ — על מה השעיר הפנימי מכפר ועל מה לא"
+      },
+      "parashah": {
+        "en": "Shevuot 8",
+        "he": "שבועות דף 8"
+      },
+      "target_shabbat": "2032-10-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-9",
+      "title": {
+        "en": "Shevuot 9 — A Sin Known Only to God and the Diminished Moon",
+        "he": "שבועות ט׳ — חטא שאין מכיר בו אלא ה׳ ומיעוט הירח"
+      },
+      "parashah": {
+        "en": "Shevuot 9",
+        "he": "שבועות דף 9"
+      },
+      "target_shabbat": "2032-10-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-10",
+      "title": {
+        "en": "Shevuot 10 — \"And a Goat,\" the New Moon as Festival, and the Surplus Daily Lambs",
+        "he": "שבועות י׳ — \"ושעיר\", ראש חודש כמועד, ותמידין שלא הוצרכו"
+      },
+      "parashah": {
+        "en": "Shevuot 10",
+        "he": "שבועות דף 10"
+      },
+      "target_shabbat": "2032-10-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-11",
+      "title": {
+        "en": "Shevuot 11 — The Court's Tacit Stipulation",
+        "he": "שבועות י״א — לב בית דין מתנה עליהן"
+      },
+      "parashah": {
+        "en": "Shevuot 11",
+        "he": "שבועות דף 11"
+      },
+      "target_shabbat": "2032-10-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-12",
+      "title": {
+        "en": "Shevuot 12 — Supplementing the Altar and the Reach of the Scapegoat",
+        "he": "שבועות י״ב — קיץ המזבח והיקפו של שעיר המשתלח"
+      },
+      "parashah": {
+        "en": "Shevuot 12",
+        "he": "שבועות דף 12"
+      },
+      "target_shabbat": "2032-10-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-13",
+      "title": {
+        "en": "Shevuot 13 — Does Yom Kippur Atone Without Repentance?",
+        "he": "שבועות י״ג — האם יום הכיפורים מכפר בלא תשובה?"
+      },
+      "parashah": {
+        "en": "Shevuot 13",
+        "he": "שבועות דף 13"
+      },
+      "target_shabbat": "2032-10-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-14",
+      "title": {
+        "en": "Shevuot 14 — Awareness of Impurity and the Expansion of the Temple",
+        "he": "שבועות י״ד — ידיעות הטומאה והוספה על העזרות"
+      },
+      "parashah": {
+        "en": "Shevuot 14",
+        "he": "שבועות דף 14"
+      },
+      "target_shabbat": "2032-10-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-15",
+      "title": {
+        "en": "Shevuot 15 — Consecrating New Ground: Loaves, Song, and Procession",
+        "he": "שבועות ט״ו — קידוש מקום חדש: לחמים, שיר ותהלוכה"
+      },
+      "parashah": {
+        "en": "Shevuot 15",
+        "he": "שבועות דף 15"
+      },
+      "target_shabbat": "2032-10-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-16",
+      "title": {
+        "en": "Shevuot 16 — First Sanctity: For Its Time or Forever?",
+        "he": "שבועות ט״ז — קדושה ראשונה: לשעתה או לעתיד לבוא?"
+      },
+      "parashah": {
+        "en": "Shevuot 16",
+        "he": "שבועות דף 16"
+      },
+      "target_shabbat": "2032-10-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-17",
+      "title": {
+        "en": "Shevuot 17 — Tarrying, the Shorter Way, and the Normal Manner of Entering",
+        "he": "שבועות י״ז — שהייה, דרך קצרה ודרך ביאה"
+      },
+      "parashah": {
+        "en": "Shevuot 17",
+        "he": "שבועות דף 17"
+      },
+      "target_shabbat": "2032-10-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-18",
+      "title": {
+        "en": "Shevuot 18 — Entry and Withdrawal: The Menstruant and the Two Sin-Offerings",
+        "he": "שבועות י״ח — ביאה ופרישה: נידה ושתי חטאות"
+      },
+      "parashah": {
+        "en": "Shevuot 18",
+        "he": "שבועות דף 18"
+      },
+      "target_shabbat": "2032-10-20",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-19",
+      "title": {
+        "en": "Shevuot 19 — Two Paths, Uncertain Impurity, and the Oath \"I Will Eat\"",
+        "he": "שבועות י״ט — שני שבילים, ידיעת ספק ושבועה \"שאוכל\""
+      },
+      "parashah": {
+        "en": "Shevuot 19",
+        "he": "שבועות דף 19"
+      },
+      "target_shabbat": "2032-10-21",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-20",
+      "title": {
+        "en": "Shevuot 20 — Utterance, Bond, and the Oath Spoken in One Word",
+        "he": "שבועות כ׳ — ביטוי, איסר, ושבועה שנאמרה בדיבור אחד"
+      },
+      "parashah": {
+        "en": "Shevuot 20",
+        "he": "שבועות דף 20"
+      },
+      "target_shabbat": "2032-10-22",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-21",
+      "title": {
+        "en": "Shevuot 21 — Lashes for Oaths and the Measure of \"Any Amount\"",
+        "he": "שבועות כ״א — מלקות על שבועה ושיעור \"כל שהוא\""
+      },
+      "parashah": {
+        "en": "Shevuot 21",
+        "he": "שבועות דף 21"
+      },
+      "target_shabbat": "2032-10-23",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-22",
+      "title": {
+        "en": "Shevuot 22 — Speech That Forbids: Konamot, Dirt, and Drinking as Eating",
+        "he": "שבועות כ״ב — דיבור שאוסר: קונמות, עפר ושתייה בכלל אכילה"
+      },
+      "parashah": {
+        "en": "Shevuot 22",
+        "he": "שבועות דף 22"
+      },
+      "target_shabbat": "2032-10-24",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-23",
+      "title": {
+        "en": "Shevuot 23 — One Oath or Many: Bread, Drinks, and Forbidden Foods",
+        "he": "שבועות כ״ג — שבועה אחת או רבות: פת, משקין ומאכלות אסורות"
+      },
+      "parashah": {
+        "en": "Shevuot 23",
+        "he": "שבועות דף 23"
+      },
+      "target_shabbat": "2032-10-25",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-24",
+      "title": {
+        "en": "Shevuot 24 — When an Oath Takes Hold on What Is Already Forbidden",
+        "he": "שבועות כ״ד — כאשר שבועה חלה על דבר שכבר אסור"
+      },
+      "parashah": {
+        "en": "Shevuot 24",
+        "he": "שבועות דף 24"
+      },
+      "target_shabbat": "2032-10-26",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-25",
+      "title": {
+        "en": "Shevuot 25 — Oaths About Others, About Nothing, and About the Past",
+        "he": "שבועות כ״ה — שבועות על אחרים, על דבר שאין בו ממש ועל העבר"
+      },
+      "parashah": {
+        "en": "Shevuot 25",
+        "he": "שבועות דף 25"
+      },
+      "target_shabbat": "2032-10-27",
+      "category": "talmud"
     }
   ]
 }
