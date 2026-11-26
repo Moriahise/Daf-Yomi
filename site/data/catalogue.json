@@ -28977,6 +28977,318 @@
       },
       "target_shabbat": "2032-10-27",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-26",
+      "title": {
+        "en": "Shevuot 26 — Schools of Exegesis and the Unwitting Oath",
+        "he": "שבועות כ״ו — בתי מדרש של דרשה ושבועה בשגגה"
+      },
+      "parashah": {
+        "en": "Shevuot 26",
+        "he": "שבועות דף 26"
+      },
+      "target_shabbat": "2032-10-28",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-27",
+      "title": {
+        "en": "Shevuot 27 — Oaths About Mitzvot and Repeated Oaths",
+        "he": "שבועות כ״ז — שבועה על המצווה ושבועה כפולה"
+      },
+      "parashah": {
+        "en": "Shevuot 27",
+        "he": "שבועות דף 27"
+      },
+      "target_shabbat": "2032-10-29",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-28",
+      "title": {
+        "en": "Shevuot 28 — Dissolving an Oath and Conditional Oaths",
+        "he": "שבועות כ״ח — התרת שבועה ושבועה על תנאי"
+      },
+      "parashah": {
+        "en": "Shevuot 28",
+        "he": "שבועות דף 28"
+      },
+      "target_shabbat": "2032-10-30",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-29",
+      "title": {
+        "en": "Shevuot 29 — Vain Oaths, Private Meanings, and Saying Amen",
+        "he": "שבועות כ״ט — שבועת שוא, כוונה פרטית ועניית אמן"
+      },
+      "parashah": {
+        "en": "Shevuot 29",
+        "he": "שבועות דף 29"
+      },
+      "target_shabbat": "2032-10-31",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-30",
+      "title": {
+        "en": "Shevuot 30 — The Oath of Testimony and Fairness in Court",
+        "he": "שבועות ל׳ — שבועת העדות ושוויון בבית הדין"
+      },
+      "parashah": {
+        "en": "Shevuot 30",
+        "he": "שבועות דף 30"
+      },
+      "target_shabbat": "2032-11-01",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-31",
+      "title": {
+        "en": "Shevuot 31 — Keeping Far from Falsehood and Denying Testimony",
+        "he": "שבועות ל״א — להתרחק מדבר שקר ולכפור בעדות"
+      },
+      "parashah": {
+        "en": "Shevuot 31",
+        "he": "שבועות דף 31"
+      },
+      "target_shabbat": "2032-11-02",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-32",
+      "title": {
+        "en": "Shevuot 32 — When a Witness's Denial Costs Money",
+        "he": "שבועות ל״ב — מתי כפירת עד גורמת להפסד ממון"
+      },
+      "parashah": {
+        "en": "Shevuot 32",
+        "he": "שבועות דף 32"
+      },
+      "target_shabbat": "2032-11-03",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-33",
+      "title": {
+        "en": "Shevuot 33 — Monetary Claims, Fines, and Matters Beyond Money",
+        "he": "שבועות ל״ג — תביעת ממון, קנס ודברים שאינם ממון"
+      },
+      "parashah": {
+        "en": "Shevuot 33",
+        "he": "שבועות דף 33"
+      },
+      "target_shabbat": "2032-11-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-34",
+      "title": {
+        "en": "Shevuot 34 — Seeing, Knowing, and the Mockery in the West",
+        "he": "שבועות ל״ד — ראייה, ידיעה והליגלוג במערבא"
+      },
+      "parashah": {
+        "en": "Shevuot 34",
+        "he": "שבועות דף 34"
+      },
+      "target_shabbat": "2032-11-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-35",
+      "title": {
+        "en": "Shevuot 35 — Names of God, Sacred and Ordinary",
+        "he": "שבועות ל״ה — שמות קודש ושמות חול"
+      },
+      "parashah": {
+        "en": "Shevuot 35",
+        "he": "שבועות דף 35"
+      },
+      "target_shabbat": "2032-11-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-36",
+      "title": {
+        "en": "Shevuot 36 — Words That Bind: Ala, Arur, Amen, and the Deposit Oath",
+        "he": "שבועות ל״ו — מילים מחייבות: אלה, ארור, אמן ושבועת הפיקדון"
+      },
+      "parashah": {
+        "en": "Shevuot 36",
+        "he": "שבועות דף 36"
+      },
+      "target_shabbat": "2032-11-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-37",
+      "title": {
+        "en": "Shevuot 37 — Forewarning, Witnesses, and Land in the Deposit Oath",
+        "he": "שבועות ל״ז — התראה, עדים וקרקעות בשבועת הפיקדון"
+      },
+      "parashah": {
+        "en": "Shevuot 37",
+        "he": "שבועות דף 37"
+      },
+      "target_shabbat": "2032-11-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-38",
+      "title": {
+        "en": "Shevuot 38 — General and Specific Denials and the Oath of the Judges",
+        "he": "שבועות ל״ח — כפירה כללית ופרטית ושבועת הדיינים"
+      },
+      "parashah": {
+        "en": "Shevuot 38",
+        "he": "שבועות דף 38"
+      },
+      "target_shabbat": "2032-11-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-39",
+      "title": {
+        "en": "Shevuot 39 — The Warning Before the Oath",
+        "he": "שבועות ל״ט — אזהרת השבועה"
+      },
+      "parashah": {
+        "en": "Shevuot 39",
+        "he": "שבועות דף 39"
+      },
+      "target_shabbat": "2032-11-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-40",
+      "title": {
+        "en": "Shevuot 40 — Value or Coin, Wheat and Barley, and the Oath of Inducement",
+        "he": "שבועות מ׳ — שווי או מטבע, חטים ושעורים ושבועת היסת"
+      },
+      "parashah": {
+        "en": "Shevuot 40",
+        "he": "שבועות דף 40"
+      },
+      "target_shabbat": "2032-11-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-41",
+      "title": {
+        "en": "Shevuot 41 — Torah Oath and Rabbinic Oath, and Repayment Before Witnesses",
+        "he": "שבועות מ״א — שבועה דאורייתא ושבועה דרבנן ופירעון בפני עדים"
+      },
+      "parashah": {
+        "en": "Shevuot 41",
+        "he": "שבועות דף 41"
+      },
+      "target_shabbat": "2032-11-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-42",
+      "title": {
+        "en": "Shevuot 42 — Trust, the Heir's Claim, and Property Exempt from Oaths",
+        "he": "שבועות מ״ב — נאמנות, טענת היורש ונכסים שאין נשבעים עליהם"
+      },
+      "parashah": {
+        "en": "Shevuot 42",
+        "he": "שבועות דף 42"
+      },
+      "target_shabbat": "2032-11-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-43",
+      "title": {
+        "en": "Shevuot 43 — Measured Claims and the Lost Collateral",
+        "he": "שבועות מ״ג — תביעה במידה ומשכון שאבד"
+      },
+      "parashah": {
+        "en": "Shevuot 43",
+        "he": "שבועות דף 43"
+      },
+      "target_shabbat": "2032-11-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-44",
+      "title": {
+        "en": "Shevuot 44 — The Creditor's Hold on Collateral and Those Who Swear and Collect",
+        "he": "שבועות מ״ד — קניין המלווה במשכון והנשבעים ונוטלים"
+      },
+      "parashah": {
+        "en": "Shevuot 44",
+        "he": "שבועות דף 44"
+      },
+      "target_shabbat": "2032-11-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-45",
+      "title": {
+        "en": "Shevuot 45 — The Worker's Oath and Its Rationale",
+        "he": "שבועות מ״ה — שבועת השכיר וטעמה"
+      },
+      "parashah": {
+        "en": "Shevuot 45",
+        "he": "שבועות דף 45"
+      },
+      "target_shabbat": "2032-11-16",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-46",
+      "title": {
+        "en": "Shevuot 46 — Fixed Wages, the Intruder, and the Bitten Back",
+        "he": "שבועות מ״ו — קציצת שכר, הנכנס למשכן והנשוך בגבו"
+      },
+      "parashah": {
+        "en": "Shevuot 46",
+        "he": "שבועות דף 46"
+      },
+      "target_shabbat": "2032-11-17",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-47",
+      "title": {
+        "en": "Shevuot 47 — When Both Are Suspect: Where Does the Oath Return?",
+        "he": "שבועות מ״ז — כששניהם חשודים: לאן חוזרת השבועה?"
+      },
+      "parashah": {
+        "en": "Shevuot 47",
+        "he": "שבועות דף 47"
+      },
+      "target_shabbat": "2032-11-18",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-48",
+      "title": {
+        "en": "Shevuot 48 — An Oath One Cannot Bequeath",
+        "he": "שבועות מ״ח — אין אדם מוריש שבועה לבניו"
+      },
+      "parashah": {
+        "en": "Shevuot 48",
+        "he": "שבועות דף 48"
+      },
+      "target_shabbat": "2032-11-19",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-shevuot-49",
+      "title": {
+        "en": "Shevuot 49 — The Four Bailees and the Close of the Tractate",
+        "he": "שבועות מ״ט — ארבעה שומרים וסיום המסכת"
+      },
+      "parashah": {
+        "en": "Shevuot 49",
+        "he": "שבועות דף 49"
+      },
+      "target_shabbat": "2032-11-20",
+      "category": "talmud"
     }
   ]
 }
