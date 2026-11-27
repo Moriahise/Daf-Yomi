@@ -30264,6 +30264,175 @@
       },
       "target_shabbat": "2033-02-03",
       "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-2",
+      "title": {
+        "en": "Horayot 2 — Who Carries the Error? The Court, the Individual, and the Shape of a Ruling",
+        "he": "הוריות ב׳ — מי נושא בטעות? בית הדין, היחיד וצורתה של הוראה"
+      },
+      "parashah": {
+        "en": "Horayot 2",
+        "he": "הוריות דף 2"
+      },
+      "target_shabbat": "2033-02-04",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-3",
+      "title": {
+        "en": "Horayot 3 — Majorities, Unanimity, and Shared Responsibility",
+        "he": "הוריות ג׳ — רוב, הסכמת כולם ואחריות משותפת"
+      },
+      "parashah": {
+        "en": "Horayot 3",
+        "he": "הוריות דף 3"
+      },
+      "target_shabbat": "2033-02-05",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-4",
+      "title": {
+        "en": "Horayot 4 — Whole or Part? The Limits of an Erroneous Ruling",
+        "he": "הוריות ד׳ — כולו או מקצתו? גבולותיה של הוראה מוטעית"
+      },
+      "parashah": {
+        "en": "Horayot 4",
+        "he": "הוריות דף 4"
+      },
+      "target_shabbat": "2033-02-06",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-5",
+      "title": {
+        "en": "Horayot 5 — Tribes, Population, and the Meaning of “Congregation”",
+        "he": "הוריות ה׳ — שבטים, מניין העם ומשמעות \"קהל\""
+      },
+      "parashah": {
+        "en": "Horayot 5",
+        "he": "הוריות דף 5"
+      },
+      "target_shabbat": "2033-02-07",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-6",
+      "title": {
+        "en": "Horayot 6 — A Congregation That Does Not Die",
+        "he": "הוריות ו׳ — צבור שאינו מת"
+      },
+      "parashah": {
+        "en": "Horayot 6",
+        "he": "הוריות דף 6"
+      },
+      "target_shabbat": "2033-02-08",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-7",
+      "title": {
+        "en": "Horayot 7 — The High Priest: An Individual or a Community?",
+        "he": "הוריות ז׳ — כהן משיח: יחיד או צבור?"
+      },
+      "parashah": {
+        "en": "Horayot 7",
+        "he": "הוריות דף 7"
+      },
+      "target_shabbat": "2033-02-09",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-8",
+      "title": {
+        "en": "Horayot 8 — Karet, Idolatry, and the Offerings No Court Can Owe",
+        "he": "הוריות ח׳ — כרת, עבודה זרה והקרבנות שאין בית דין חייב בהם"
+      },
+      "parashah": {
+        "en": "Horayot 8",
+        "he": "הוריות דף 8"
+      },
+      "target_shabbat": "2033-02-10",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-9",
+      "title": {
+        "en": "Horayot 9 — Wealth, Poverty, and the Sliding-Scale Offering",
+        "he": "הוריות ט׳ — עשירות, עניות וקרבן עולה ויורד"
+      },
+      "parashah": {
+        "en": "Horayot 9",
+        "he": "הוריות דף 9"
+      },
+      "target_shabbat": "2033-02-11",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-10",
+      "title": {
+        "en": "Horayot 10 — The Sinning Ruler: Status, Humility, and Intention",
+        "he": "הוריות י׳ — הנשיא החוטא: מעמד, ענווה וכוונה"
+      },
+      "parashah": {
+        "en": "Horayot 10",
+        "he": "הוריות דף 10"
+      },
+      "target_shabbat": "2033-02-12",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-11",
+      "title": {
+        "en": "Horayot 11 — Who Is Excluded, Who Is Sovereign, Who Is Anointed",
+        "he": "הוריות י״א — מי מוצא, מי ריבון, מי נמשח"
+      },
+      "parashah": {
+        "en": "Horayot 11",
+        "he": "הוריות דף 11"
+      },
+      "target_shabbat": "2033-02-13",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-12",
+      "title": {
+        "en": "Horayot 12 — Oil, Omens, and the Hierarchy of Holiness",
+        "he": "הוריות י״ב — שמן, סימנים וסולם הקדושה"
+      },
+      "parashah": {
+        "en": "Horayot 12",
+        "he": "הוריות דף 12"
+      },
+      "target_shabbat": "2033-02-14",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-13",
+      "title": {
+        "en": "Horayot 13 — The Order of Precedence and the Honor of Torah",
+        "he": "הוריות י״ג — סדר הקדימה וכבוד התורה"
+      },
+      "parashah": {
+        "en": "Horayot 13",
+        "he": "הוריות דף 13"
+      },
+      "target_shabbat": "2033-02-15",
+      "category": "talmud"
+    },
+    {
+      "id": "cycle-15-horayot-14",
+      "title": {
+        "en": "Horayot 14 — Sinai or Uprooter of Mountains? Who Should Lead",
+        "he": "הוריות י״ד — סיני או עוקר הרים? מי ראוי להנהיג"
+      },
+      "parashah": {
+        "en": "Horayot 14",
+        "he": "הוריות דף 14"
+      },
+      "target_shabbat": "2033-02-16",
+      "category": "talmud"
     }
   ]
 }
