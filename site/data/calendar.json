@@ -1,46 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-11-27T22:00:38.989104+02:00",
+  "calculated_at": "2026-11-28T04:45:08.807180+02:00",
   "timezone": "Asia/Jerusalem",
   "days": [
-    {
-      "date": "2026-11-27",
-      "cycle": 14,
-      "day_in_cycle": 2519,
-      "tractate_id": "arakhin",
-      "tractate": {
-        "en": "Arakhin",
-        "he": "ערכין"
-      },
-      "daf": 10,
-      "label": {
-        "en": "Arakhin 10",
-        "he": "ערכין דף 10"
-      },
-      "references": [
-        "Arakhin 10a",
-        "Arakhin 10b"
-      ],
-      "source_links": [
-        "https://www.sefaria.org/Arakhin_10a",
-        "https://www.sefaria.org/Arakhin_10b"
-      ],
-      "id": "cycle-14-arakhin-10",
-      "target_shabbat": "2026-11-27",
-      "hebrew_date": "י״ז כסלו תשפ״ז",
-      "israel": {
-        "en": "Arakhin 10",
-        "he": "ערכין דף 10"
-      },
-      "diaspora": {
-        "en": "Arakhin 10",
-        "he": "ערכין דף 10"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": false
-    },
     {
       "date": "2026-11-28",
       "cycle": 14,
@@ -3417,6 +3379,44 @@
       "diaspora": {
         "en": "Meilah 6",
         "he": "מעילה דף 6"
+      },
+      "different_readings": false,
+      "festival": null,
+      "festival_he": null,
+      "has_weekly_parashah": false
+    },
+    {
+      "date": "2027-02-25",
+      "cycle": 14,
+      "day_in_cycle": 2609,
+      "tractate_id": "meilah",
+      "tractate": {
+        "en": "Meilah",
+        "he": "מעילה"
+      },
+      "daf": 7,
+      "label": {
+        "en": "Meilah 7",
+        "he": "מעילה דף 7"
+      },
+      "references": [
+        "Meilah 7a",
+        "Meilah 7b"
+      ],
+      "source_links": [
+        "https://www.sefaria.org/Meilah_7a",
+        "https://www.sefaria.org/Meilah_7b"
+      ],
+      "id": "cycle-14-meilah-7",
+      "target_shabbat": "2027-02-25",
+      "hebrew_date": "י״ח אדר א׳ תשפ״ז",
+      "israel": {
+        "en": "Meilah 7",
+        "he": "מעילה דף 7"
+      },
+      "diaspora": {
+        "en": "Meilah 7",
+        "he": "מעילה דף 7"
       },
       "different_readings": false,
       "festival": null,
